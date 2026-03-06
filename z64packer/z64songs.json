@@ -677,5 +677,29 @@
     "usesFormmask": true,
     "file": "Banjo-Kazooie/Freezeezy Peak.mmrs",
     "preview": "Banjo-Kazooie/Freezeezy Peak.mp3"
+  },
+  {
+    "uuid": "e6f2aabd-9e85-46b2-8bdc-2a620a7f2d79",
+    "creationDate": "2026-03-06T17:34:22.501Z",
+    "game": "Banjo-Kazooie",
+    "song": "Gobi's Valley",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "ZoeyZolotova"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": true,
+    "file": "Banjo-Kazooie/Gobi's Valley.mmrs",
+    "preview": "Banjo-Kazooie/Gobi's Valley.mp3"
   }
 ]

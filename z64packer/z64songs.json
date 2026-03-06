@@ -772,5 +772,29 @@
     "usesFormmask": true,
     "file": "Banjo-Kazooie/Spiral Mountain.mmrs",
     "preview": "Banjo-Kazooie/Spiral Mountain.mp3"
+  },
+  {
+    "uuid": "5df25d06-a1ab-488f-89d2-92a9976eab0a",
+    "creationDate": "2026-03-06T17:37:42.853Z",
+    "game": "Banjo-Kazooie",
+    "song": "Treasure Trove Cove",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "ZoeyZolotova"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": true,
+    "file": "Banjo-Kazooie/Treasure Trove Cove.mmrs",
+    "preview": "Banjo-Kazooie/Treasure Trove Cove.mp3"
   }
 ]

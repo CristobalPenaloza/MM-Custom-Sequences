@@ -652,5 +652,30 @@
     "usesFormmask": true,
     "file": "Banjo-Kazooie/Clanker's Cavern.mmrs",
     "preview": "Banjo-Kazooie/Clanker's Cavern.mp3"
+  },
+  {
+    "uuid": "6931b2b1-a391-42f9-8794-f6a920d97ceb",
+    "creationDate": "2026-03-06T17:33:32.467Z",
+    "game": "Banjo-Kazooie",
+    "song": "Freezeezy Peak",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "ZoeyZolotova"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": true,
+    "file": "Banjo-Kazooie/Freezeezy Peak.mmrs",
+    "preview": "Banjo-Kazooie/Freezeezy Peak.mp3"
   }
 ]

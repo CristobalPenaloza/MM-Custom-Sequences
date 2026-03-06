@@ -413,5 +413,31 @@
     "usesFormmask": false,
     "file": "Doom II/Running from Evil.mmrs",
     "preview": "Doom II/Running from Evil.mp3"
+  },
+  {
+    "uuid": "7958538f-007a-4e78-9407-95b9f2ef6202",
+    "creationDate": "2026-03-06T03:51:58.752Z",
+    "game": "Super Mario Sunshine",
+    "song": "Shadow Mario",
+    "composers": [
+      "Koji Kondo",
+      "Shinobu Tanaka"
+    ],
+    "converters": [
+      "ZoeyZolotova"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "2",
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario Sunshine/Shadow Mario.mmrs",
+    "preview": "Super Mario Sunshine/Shadow Mario.mp3"
   }
 ]

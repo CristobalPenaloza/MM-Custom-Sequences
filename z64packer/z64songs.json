@@ -1548,5 +1548,31 @@
     "usesFormmask": false,
     "file": "Ultimate Trial/Reward Room.mmrs",
     "preview": "https://www.youtube.com/watch?v=BGV_T3Qt2d8"
+  },
+  {
+    "uuid": "d6f2f86a-5e07-408a-a6b2-8b85c1ae55e5",
+    "creationDate": "2026-03-07T03:00:47.402Z",
+    "game": "Ultimate Trial",
+    "song": "Shiba's Stronghold",
+    "composers": [
+      "Zeraphyr"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Ultimate Trial/Shiba's Stronghold.mmrs",
+    "preview": "https://www.youtube.com/watch?v=Bq1Jv-GABW4"
   }
 ]

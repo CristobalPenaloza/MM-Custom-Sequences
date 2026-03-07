@@ -2326,23 +2326,23 @@
   },
   {
     "game": "Wario: Master of Disguise",
-    "series": "Wario Series",
+    "series": "Wario Land Series",
     "logo": "https://i.imgur.com/r3mk8w7.png"
   },
   {
     "game": "Wario Land 4",
-    "series": "Wario Series",
+    "series": "Wario Land Series",
     "logo": "https://i.imgur.com/dhvF1RZ.png"
   },
   {
     "game": "WarioWare, Inc.: Mega Microgame$!",
-    "series": "Wario Series",
+    "series": "WarioWare Series",
     "logo": "https://i.imgur.com/gPyR1Tx.png",
     "short_name": "WarioWare: Mega Microgame"
   },
   {
     "game": "WarioWare: Twisted!",
-    "series": "Wario Series",
+    "series": "WarioWare Series",
     "logo": "https://i.imgur.com/dEnrAzt.png"
   },
   {
@@ -2452,7 +2452,7 @@
   },
   {
     "game": "WarioWare: Touched!",
-    "series": "Wario Series",
+    "series": "WarioWare Series",
     "logo": "https://media.vgm.io/products/20/8202/8202-1595293986.png"
   },
   {
@@ -2480,12 +2480,12 @@
     "logo": "https://www.vhv.rs/dpng/d/435-4350512_nier-automata-logo-png-calligraphy-transparent-png.png"
   },
   {
-    "game": "Ultimate Trial"
+    "game": "Ultimate Trial",
+    "series": "The Legend of Zelda Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/163e6dcb584a22121d0a7740ba2f27b8.png"
   },
   {
-    "game": "Monster Hunter 4 Ultimate"
-  },
-  {
-    "game": "Nier Automata"
+    "game": "Monster Hunter 4 Ultimate",
+    "series": "Monster Hunter Series"
   }
 ]

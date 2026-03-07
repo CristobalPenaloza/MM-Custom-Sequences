@@ -1755,5 +1755,29 @@
     "usesFormmask": false,
     "file": "Mario and Luigi Superstar Saga/Chucklehuck Woods.mmrs",
     "preview": "Mario and Luigi Superstar Saga/Chucklehuck Woods.ogg"
+  },
+  {
+    "uuid": "35c94da2-4dfd-458e-b8c4-0d4879e49797",
+    "creationDate": "2026-03-07T16:16:03.612Z",
+    "game": "Mario and Luigi Superstar Saga",
+    "song": "Boss Theme",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "BigBomba88"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mario and Luigi Superstar Saga/Boss Theme.mmrs",
+    "preview": "Mario and Luigi Superstar Saga/Boss Theme.ogg"
   }
 ]

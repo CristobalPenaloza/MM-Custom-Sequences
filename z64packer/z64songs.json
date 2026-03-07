@@ -1706,5 +1706,30 @@
     "usesFormmask": false,
     "file": "Dragon Quest 9/Overworld.mmrs",
     "preview": "Dragon Quest 9/Overworld.ogg"
+  },
+  {
+    "uuid": "295d65c9-f32f-4b59-8ca7-ebb952d65f8d",
+    "creationDate": "2026-03-07T16:13:03.426Z",
+    "game": "Mario and Luigi Superstar Saga",
+    "song": "Popple Battle Theme",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "BigBomba88"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mario and Luigi Superstar Saga/Popple Battle Theme.mmrs",
+    "preview": "Mario and Luigi Superstar Saga/Popple Battle Theme.ogg"
   }
 ]

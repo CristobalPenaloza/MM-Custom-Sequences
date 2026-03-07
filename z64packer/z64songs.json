@@ -1660,5 +1660,27 @@
     "usesFormmask": false,
     "file": "Dragon Quest 9/Alchemy Pot.mmrs",
     "preview": "Dragon Quest 9/Alchemy Pot.ogg"
+  },
+  {
+    "uuid": "57048261-fc39-4125-9570-6eb73c15e3cb",
+    "creationDate": "2026-03-07T16:02:16.483Z",
+    "game": "Dragon Quest 9",
+    "song": "Title Screen",
+    "composers": [
+      "Koichi Sugiyama"
+    ],
+    "converters": [
+      "BigBomba88"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "118"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Dragon Quest 9/Title Screen.mmrs",
+    "preview": "Dragon Quest 9/Title Screen.ogg"
   }
 ]

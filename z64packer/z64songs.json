@@ -1682,5 +1682,29 @@
     "usesFormmask": false,
     "file": "Dragon Quest 9/Title Screen.mmrs",
     "preview": "Dragon Quest 9/Title Screen.ogg"
+  },
+  {
+    "uuid": "9f7815dd-7ac8-4172-a656-8c0ddb32d516",
+    "creationDate": "2026-03-07T16:03:04.576Z",
+    "game": "Dragon Quest 9",
+    "song": "Overworld",
+    "composers": [
+      "Koichi Sugiyama"
+    ],
+    "converters": [
+      "BigBomba88"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Dragon Quest 9/Overworld.mmrs",
+    "preview": "Dragon Quest 9/Overworld.ogg"
   }
 ]

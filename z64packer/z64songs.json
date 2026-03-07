@@ -1433,5 +1433,28 @@
     "usesFormmask": false,
     "file": "Ultimate Trial/Grimstalker.mmrs",
     "preview": "https://www.youtube.com/watch?v=oT89nOdi9i4"
+  },
+  {
+    "uuid": "eefe9b7f-f22e-4e1a-8f41-05112f6f92cb",
+    "creationDate": "2026-03-07T02:56:37.699Z",
+    "game": "Ultimate Trial",
+    "song": "Hero Trial",
+    "composers": [
+      "Zeraphyr"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Ultimate Trial/Hero Trial.mmrs",
+    "preview": "https://www.youtube.com/watch?v=SvBR2jyDDoo"
   }
 ]

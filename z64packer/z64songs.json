@@ -1546,7 +1546,8 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "1b0d2439-90bd-4560-a14a-16dab6498b66",
-    "file": "Nier Automata/Copied City.mmrs"
+    "file": "Nier Automata/Copied City.mmrs",
+    "preview": "https://www.youtube.com/watch?v=onsOGyGrE78"
   },
   {
     "game": "NieR: Automata",
@@ -1567,6 +1568,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "ede2b508-b8eb-4654-b964-c0b2c45961fb",
-    "file": "Nier Automata/Sound of the End - Quiet.mmrs"
+    "file": "Nier Automata/Sound of the End - Quiet.mmrs",
+    "preview": "Nier Automata/Sound of the End - Quiet.mp3"
   }
 ]

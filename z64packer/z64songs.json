@@ -1021,7 +1021,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Hollow Knight/Dirtmouth.mmrs",
-    "preview": "Hollow Knight/Dirtmouth.ogg"
+    "preview": "https://www.youtube.com/watch?v=s5SFfQHy5II"
   },
   {
     "uuid": "38b1dd61-7e77-4351-9049-185533e216b9",
@@ -1045,7 +1045,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Hollow Knight/Hornet.mmrs",
-    "preview": "Hollow Knight/Hornet.ogg"
+    "preview": "https://www.youtube.com/watch?v=W0-FBmNUBSA"
   },
   {
     "uuid": "d1f32738-5e51-41a7-bbb2-00ad41b94555",
@@ -1071,7 +1071,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Hollow Knight/Reflection.mmrs",
-    "preview": "Hollow Knight/Reflection.ogg"
+    "preview": "https://www.youtube.com/watch?v=m36GgIAa8QM"
   },
   {
     "uuid": "75259b5f-45c6-462f-bb76-525f295e2d5f",
@@ -1100,7 +1100,7 @@
   {
     "uuid": "5ac444b9-c6e5-4639-8c18-c0c079909caf",
     "creationDate": "2026-03-07T02:16:40.331Z",
-    "game": "Nier: Automata",
+    "game": "NieR: Automata",
     "song": "Copied City",
     "composers": [
       "Keiichi Okabe"
@@ -1122,13 +1122,13 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Nier Automata/Copied City.mmrs",
+    "file": "NieR Automata/Copied City.mmrs",
     "preview": "https://www.youtube.com/watch?v=onsOGyGrE78"
   },
   {
     "uuid": "a7b317aa-a568-43b0-a053-dd9975b08165",
     "creationDate": "2026-03-07T02:17:43.732Z",
-    "game": "Nier: Automata",
+    "game": "NieR: Automata",
     "song": "Emil's Shop",
     "composers": [
       "Keiichi Okabe",
@@ -1151,7 +1151,7 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Nier Automata/Emil's Shop.mmrs",
+    "file": "NieR Automata/Emil's Shop.mmrs",
     "preview": "https://www.youtube.com/watch?v=aNWEJH5woNU"
   },
   {
@@ -1214,7 +1214,7 @@
   {
     "uuid": "376f1eae-72ce-447b-995e-272bd2485cd6",
     "creationDate": "2026-03-07T02:24:54.031Z",
-    "game": "Nier: Automata",
+    "game": "NieR: Automata",
     "song": "Sound of the End - Quiet",
     "composers": [
       "Keigo Hoashi"
@@ -1232,8 +1232,8 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Nier Automata/Sound of the End - Quiet.mmrs",
-    "preview": "Nier Automata/Sound of the End - Quiet.mp3"
+    "file": "NieR Automata/Sound of the End - Quiet.mmrs",
+    "preview": "NieR Automata/Sound of the End - Quiet.mp3"
   },
   {
     "uuid": "122ccc18-ef79-4abc-9668-87f454b2b920",

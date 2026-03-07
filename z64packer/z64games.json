@@ -1174,6 +1174,7 @@
   },
   {
     "game": "Nier",
+    "series": "Nier Series",
     "logo": "https://i.imgur.com/Eoh2nQa.png"
   },
   {
@@ -2455,18 +2456,27 @@
     "logo": "https://media.vgm.io/products/20/8202/8202-1595293986.png"
   },
   {
-    "game": "Hollow Knight"
+    "game": "Hollow Knight",
+    "logo": "https://www.pngplay.com/wp-content/uploads/11/Hollow-Knight-Logo-PNG-HD-Quality.png"
   },
   {
-    "game": "Suikoden II"
+    "game": "Suikoden II",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/Suikoden_II_Logo.svg/960px-Suikoden_II_Logo.svg.png"
   },
   {
-    "game": "The Legend of Zelda: Link's Awakening (2019)"
+    "game": "The Legend of Zelda: Link's Awakening (2019)",
+    "series": "The Legend of Zelda Series",
+    "logo": "https://zelda.nintendo.com/links-awakening/assets/img/home/hero-logo.png",
+    "short_name": "Zelda: Link's Awakening 2019"
   },
   {
-    "game": "NieR Replicant"
+    "game": "NieR Replicant",
+    "series": "Nier Series",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/e/e1/Nier_Replicant_ver.1.22474487139...png"
   },
   {
-    "game": "Nier: Automata"
+    "game": "NieR: Automata",
+    "series": "Nier Series",
+    "logo": "https://www.vhv.rs/dpng/d/435-4350512_nier-automata-logo-png-calligraphy-transparent-png.png"
   }
 ]

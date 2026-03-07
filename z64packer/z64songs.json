@@ -1706,5 +1706,78 @@
     "usesFormmask": false,
     "file": "Dragon Quest 9/Overworld.mmrs",
     "preview": "Dragon Quest 9/Overworld.ogg"
+  },
+  {
+    "uuid": "295d65c9-f32f-4b59-8ca7-ebb952d65f8d",
+    "creationDate": "2026-03-07T16:13:03.426Z",
+    "game": "Mario and Luigi Superstar Saga",
+    "song": "Popple Battle Theme",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "BigBomba88"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mario and Luigi Superstar Saga/Popple Battle Theme.mmrs",
+    "preview": "Mario and Luigi Superstar Saga/Popple Battle Theme.ogg"
+  },
+  {
+    "uuid": "b1a176f7-e2ef-4ddf-aa2d-1a3ef0b824e9",
+    "creationDate": "2026-03-07T16:15:04.142Z",
+    "game": "Mario and Luigi Superstar Saga",
+    "song": "Chucklehuck Woods",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "BigBomba88"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "2",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mario and Luigi Superstar Saga/Chucklehuck Woods.mmrs",
+    "preview": "Mario and Luigi Superstar Saga/Chucklehuck Woods.ogg"
+  },
+  {
+    "uuid": "35c94da2-4dfd-458e-b8c4-0d4879e49797",
+    "creationDate": "2026-03-07T16:16:03.612Z",
+    "game": "Mario and Luigi Superstar Saga",
+    "song": "Boss Theme",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "BigBomba88"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mario and Luigi Superstar Saga/Boss Theme.mmrs",
+    "preview": "Mario and Luigi Superstar Saga/Boss Theme.ogg"
   }
 ]

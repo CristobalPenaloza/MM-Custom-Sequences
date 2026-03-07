@@ -1098,34 +1098,6 @@
     "preview": "https://www.youtube.com/watch?v=wQhrJA0uUpw"
   },
   {
-    "uuid": "5ac444b9-c6e5-4639-8c18-c0c079909caf",
-    "creationDate": "2026-03-07T02:16:40.331Z",
-    "game": "NieR: Automata",
-    "song": "Copied City",
-    "composers": [
-      "Keiichi Okabe"
-    ],
-    "converters": [
-      "Zeraphyr"
-    ],
-    "isDMCACritical": false,
-    "type": "bgm",
-    "categories": [
-      "0",
-      "1",
-      "2",
-      "3",
-      "5",
-      "7",
-      "157"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "file": "NieR Automata/Copied City.mmrs",
-    "preview": "https://www.youtube.com/watch?v=onsOGyGrE78"
-  },
-  {
     "uuid": "a7b317aa-a568-43b0-a053-dd9975b08165",
     "creationDate": "2026-03-07T02:17:43.732Z",
     "game": "NieR: Automata",
@@ -1210,30 +1182,6 @@
     "usesFormmask": false,
     "file": "NieR Replicant/Song of the Ancients - Devola.mmrs",
     "preview": "https://www.youtube.com/watch?v=58hel-U09QI"
-  },
-  {
-    "uuid": "376f1eae-72ce-447b-995e-272bd2485cd6",
-    "creationDate": "2026-03-07T02:24:54.031Z",
-    "game": "NieR: Automata",
-    "song": "Sound of the End - Quiet",
-    "composers": [
-      "Keigo Hoashi"
-    ],
-    "converters": [
-      "Zeraphyr"
-    ],
-    "isDMCACritical": false,
-    "type": "bgm",
-    "categories": [
-      "2",
-      "6",
-      "16"
-    ],
-    "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "file": "NieR Automata/Sound of the End - Quiet.mmrs",
-    "preview": "NieR Automata/Sound of the End - Quiet.mp3"
   },
   {
     "uuid": "122ccc18-ef79-4abc-9668-87f454b2b920",
@@ -1325,7 +1273,7 @@
       "Zeraphyr"
     ],
     "isDMCACritical": false,
-    "type": "",
+    "type": "bgm",
     "categories": [
       "11B",
       "169"
@@ -1348,7 +1296,7 @@
       "Zeraphyr"
     ],
     "isDMCACritical": false,
-    "type": "",
+    "type": "bgm",
     "categories": [
       "0",
       "1",
@@ -1374,7 +1322,7 @@
       "Zeraphyr"
     ],
     "isDMCACritical": false,
-    "type": "",
+    "type": "bgm",
     "categories": [
       "0",
       "2"
@@ -1397,7 +1345,7 @@
       "Zeraphyr"
     ],
     "isDMCACritical": false,
-    "type": "",
+    "type": "bgm",
     "categories": [
       "1",
       "3",
@@ -1424,7 +1372,7 @@
       "Zeraphyr"
     ],
     "isDMCACritical": false,
-    "type": "",
+    "type": "bgm",
     "categories": [
       "7"
     ],
@@ -1446,7 +1394,7 @@
       "Zeraphyr"
     ],
     "isDMCACritical": false,
-    "type": "",
+    "type": "bgm",
     "categories": [
       "0",
       "2"
@@ -1469,7 +1417,7 @@
       "Zeraphyr"
     ],
     "isDMCACritical": false,
-    "type": "",
+    "type": "bgm",
     "categories": [
       "7"
     ],
@@ -1491,7 +1439,7 @@
       "Zeraphyr"
     ],
     "isDMCACritical": false,
-    "type": "",
+    "type": "bgm",
     "categories": [
       "7"
     ],
@@ -1513,7 +1461,7 @@
       "Zeraphyr"
     ],
     "isDMCACritical": false,
-    "type": "",
+    "type": "bgm",
     "categories": [
       "1",
       "3",
@@ -1537,7 +1485,7 @@
       "Zeraphyr"
     ],
     "isDMCACritical": false,
-    "type": "",
+    "type": "bgm",
     "categories": [
       "1",
       "3",
@@ -1561,7 +1509,7 @@
       "Zeraphyr"
     ],
     "isDMCACritical": false,
-    "type": "",
+    "type": "bgm",
     "categories": [
       "0",
       "1",
@@ -1574,5 +1522,56 @@
     "usesFormmask": false,
     "file": "Ultimate Trial/Shiba's Stronghold.mmrs",
     "preview": "https://www.youtube.com/watch?v=Bq1Jv-GABW4"
+  },
+  {
+    "game": "Nier Automata",
+    "song": "Emil's Shop",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "4",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "4757f4b3-dc4b-410b-9d8f-c9d90c735356",
+    "file": "Nier Automata/Emil's Shop.mmrs"
+  },
+  {
+    "game": "Nier Automata",
+    "song": "Copied City",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "5",
+      "7",
+      "157"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "1b0d2439-90bd-4560-a14a-16dab6498b66",
+    "file": "Nier Automata/Copied City.mmrs"
+  },
+  {
+    "game": "Nier Automata",
+    "song": "Sound of the End - Quiet",
+    "type": "bgm",
+    "categories": [
+      "2",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "ede2b508-b8eb-4654-b964-c0b2c45961fb",
+    "file": "Nier Automata/Sound of the End - Quiet.mmrs"
   }
 ]

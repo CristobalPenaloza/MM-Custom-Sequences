@@ -1696,7 +1696,7 @@
   {
     "uuid": "b4bb7b60-28ba-4540-a645-54f33163ff9a",
     "creationDate": "2026-03-07T16:58:32.470Z",
-    "game": "Pokémon Diamond, Pearl & Platinum",
+    "game": "PokÃ©mon Diamond, Pearl & Platinum",
     "song": "Old Chateau",
     "composers": [
       "Go Ichinose"
@@ -1715,8 +1715,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Pokémon Diamond, Pearl & Platinum/Old Chateau.mmrs",
-    "preview": "Pokémon Diamond, Pearl & Platinum/Old Chateau.ogg"
+    "file": "PokÃ©mon Diamond, Pearl & Platinum/Old Chateau.mmrs",
+    "preview": "PokÃ©mon Diamond, Pearl & Platinum/Old Chateau.ogg"
   },
   {
     "uuid": "f9ada52c-d71e-4fa9-8ccd-38180c291b0e",
@@ -1794,7 +1794,7 @@
   {
     "uuid": "3891183f-72aa-411f-86a4-8649b95c89d4",
     "creationDate": "2026-03-06T04:02:53.113Z",
-    "game": "Pokémon Red, Blue & Yellow",
+    "game": "PokÃ©mon Red, Blue & Yellow",
     "song": "Battle! Vs Gym Leader",
     "composers": [
       "Junichi Masuda"
@@ -1811,12 +1811,12 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Pokémon Red, Blue & Yellow/Battle! Vs Gym Leader.mmrs",
-    "preview": "Pokémon Red, Blue & Yellow/Battle! Vs Gym Leader.mp3"
+    "file": "PokÃ©mon Red, Blue & Yellow/Battle! Vs Gym Leader.mmrs",
+    "preview": "PokÃ©mon Red, Blue & Yellow/Battle! Vs Gym Leader.mp3"
   },
   {
-    "game": "Pokémon Red, Blue & Yellow",
-    "song": "Battle! Wild Pokémon",
+    "game": "PokÃ©mon Red, Blue & Yellow",
+    "song": "Battle! Wild PokÃ©mon",
     "composers": [
       "Junichi Masuda"
     ],
@@ -1832,13 +1832,13 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "0494c0f1-616d-4177-aa94-7bbc0d7845dd",
-    "file": "Pokémon Red, Blue & Yellow/Battle! Wild Pokémon.mmrs",
-    "preview": "Pokémon Red, Blue & Yellow/Battle! Wild Pokémon.mp3"
+    "file": "PokÃ©mon Red, Blue & Yellow/Battle! Wild PokÃ©mon.mmrs",
+    "preview": "PokÃ©mon Red, Blue & Yellow/Battle! Wild PokÃ©mon.mp3"
   },
   {
     "uuid": "411aebac-754b-43e3-8d9b-9c1f0ff8370f",
     "creationDate": "2026-03-06T04:06:36.242Z",
-    "game": "Pokémon Red, Blue & Yellow",
+    "game": "PokÃ©mon Red, Blue & Yellow",
     "song": "A Trainer Appears! (Girl)",
     "composers": [
       "Junichi Masuda"
@@ -1854,13 +1854,13 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Pokémon Red, Blue & Yellow/A Trainer Appears! (Girl).mmrs",
-    "preview": "Pokémon Red, Blue & Yellow/A Trainer Appears! (Girl).mp3"
+    "file": "PokÃ©mon Red, Blue & Yellow/A Trainer Appears! (Girl).mmrs",
+    "preview": "PokÃ©mon Red, Blue & Yellow/A Trainer Appears! (Girl).mp3"
   },
   {
     "uuid": "5d319efc-5b18-47bd-9881-161d668d7c9b",
     "creationDate": "2026-03-06T04:08:59.944Z",
-    "game": "Pokémon Red, Blue & Yellow",
+    "game": "PokÃ©mon Red, Blue & Yellow",
     "song": "Team Rocket Hideout",
     "composers": [
       "Junichi Masuda"
@@ -1876,13 +1876,13 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Pokémon Red, Blue & Yellow/Team Rocket Hideout.mmrs",
-    "preview": "Pokémon Red, Blue & Yellow/Team Rocket Hideout.mp3"
+    "file": "PokÃ©mon Red, Blue & Yellow/Team Rocket Hideout.mmrs",
+    "preview": "PokÃ©mon Red, Blue & Yellow/Team Rocket Hideout.mp3"
   },
   {
     "uuid": "0adb2d1b-2349-41ff-80d8-d330409639be",
     "creationDate": "2026-03-06T04:09:59.311Z",
-    "game": "Pokémon Red, Blue & Yellow",
+    "game": "PokÃ©mon Red, Blue & Yellow",
     "song": "Route 1",
     "composers": [
       "Junichi Masuda"
@@ -1898,11 +1898,11 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Pokémon Red, Blue & Yellow/Route 1.mmrs",
-    "preview": "Pokémon Red, Blue & Yellow/Route 1.mp3"
+    "file": "PokÃ©mon Red, Blue & Yellow/Route 1.mmrs",
+    "preview": "PokÃ©mon Red, Blue & Yellow/Route 1.mp3"
   },
   {
-    "game": "Pokémon Red, Blue & Yellow",
+    "game": "PokÃ©mon Red, Blue & Yellow",
     "song": "Battle! Vs Trainer",
     "composers": [
       "Junichi Masuda"
@@ -1919,11 +1919,11 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "beb91ab3-d064-4ae0-9497-7a106cdc746d",
-    "file": "Pokémon Red, Blue & Yellow/Battle! Vs Trainer.mmrs",
-    "preview": "Pokémon Red, Blue & Yellow/Battle! Vs Trainer.mp3"
+    "file": "PokÃ©mon Red, Blue & Yellow/Battle! Vs Trainer.mmrs",
+    "preview": "PokÃ©mon Red, Blue & Yellow/Battle! Vs Trainer.mp3"
   },
   {
-    "game": "Pokémon Red, Blue & Yellow",
+    "game": "PokÃ©mon Red, Blue & Yellow",
     "song": "A Trainer Appears! (Tough Guy)",
     "composers": [
       "Junichi Masuda"
@@ -1939,11 +1939,11 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "be458c64-6c49-42ba-848e-8beaea98bdef",
-    "file": "Pokémon Red, Blue & Yellow/A Trainer Appears! (Tough Guy).mmrs",
-    "preview": "Pokémon Red, Blue & Yellow/A Trainer Appears! (Tough Guy).mp3"
+    "file": "PokÃ©mon Red, Blue & Yellow/A Trainer Appears! (Tough Guy).mmrs",
+    "preview": "PokÃ©mon Red, Blue & Yellow/A Trainer Appears! (Tough Guy).mp3"
   },
   {
-    "game": "Pokémon Red, Blue & Yellow",
+    "game": "PokÃ©mon Red, Blue & Yellow",
     "song": "A Trainer Appears! (Boy)",
     "composers": [
       "Junichi Masuda"
@@ -1959,13 +1959,13 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "dcfb1296-1053-43cb-9ecd-d0a6ce4e20a4",
-    "file": "Pokémon Red, Blue & Yellow/A Trainer Appears! (Boy).mmrs",
-    "preview": "Pokémon Red, Blue & Yellow/A Trainer Appears! (Boy).mp3"
+    "file": "PokÃ©mon Red, Blue & Yellow/A Trainer Appears! (Boy).mmrs",
+    "preview": "PokÃ©mon Red, Blue & Yellow/A Trainer Appears! (Boy).mp3"
   },
   {
     "uuid": "1fdc955c-6e45-47ec-93d3-1b066f3ca0dd",
     "creationDate": "2026-03-08T03:12:46.360Z",
-    "game": "Pokémon Snap",
+    "game": "PokÃ©mon Snap",
     "song": "Beach",
     "composers": [
       "Ikuko Mimori"
@@ -1982,8 +1982,8 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Pokémon Snap/Beach.mmrs",
-    "preview": "Pokémon Snap/Beach.mp3"
+    "file": "PokÃ©mon Snap/Beach.mmrs",
+    "preview": "PokÃ©mon Snap/Beach.mp3"
   },
   {
     "game": "Nier Automata",
@@ -2001,5 +2001,30 @@
     "usesFormmask": false,
     "uuid": "31b0eb34-6fa7-48b1-b081-939f2b4008fc",
     "file": "Nier Automata/Emil's Shop.mmrs"
+  },
+  {
+    "uuid": "b15479db-9837-4480-853b-4355813e77bc",
+    "creationDate": "2026-03-08T04:06:38.967Z",
+    "game": "Touhou Kanjuden ~ Legacy of Lunatic Kingdom",
+    "song": "Pure Furies ~ Whereabouts of the Heart",
+    "composers": [
+      "ZUN (Jun'ya Ōta)"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "4",
+      "5",
+      "7",
+      "157"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Touhou Kanjuden ~ Legacy of Lunatic Kingdom/Pure Furies ~ Whereabouts of the Heart.mmrs",
+    "preview": "Touhou Kanjuden ~ Legacy of Lunatic Kingdom/Pure Furies ~ Whereabouts of the Heart.mp3"
   }
 ]

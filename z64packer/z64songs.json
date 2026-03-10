@@ -2852,5 +2852,31 @@
     "usesFormmask": false,
     "file": "Xenoblade Chronicles 2 Torna ~ The Golden Country/Lasaria Woodland.mmrs",
     "preview": "Xenoblade Chronicles 2 Torna ~ The Golden Country/Lasaria Woodland.mp3"
+  },
+  {
+    "uuid": "a8af8e4c-b7d1-44f9-a70c-8c3404d11b6d",
+    "creationDate": "2026-03-10T01:22:45.638Z",
+    "game": "Xenoblade Chronicles 2: Torna ~ The Golden Country",
+    "song": "Auresco, Royal Capital (Night)",
+    "composers": [
+      "Manami Kiyota"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Xenoblade Chronicles 2 Torna ~ The Golden Country/Auresco, Royal Capital (Night).mmrs",
+    "preview": "https://www.youtube.com/watch?v=GZgYdNxB4Wc"
   }
 ]

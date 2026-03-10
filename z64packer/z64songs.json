@@ -2705,5 +2705,33 @@
     "usesFormmask": false,
     "file": "The Legend of Zelda Skyward Sword/Ghirahim's Theme.mmrs",
     "preview": "The Legend of Zelda Skyward Sword/Ghirahim's Theme.ogg"
+  },
+  {
+    "uuid": "d562896b-24f1-44ef-b1bd-7fc4d7a1f5ee",
+    "creationDate": "2026-03-10T00:53:53.894Z",
+    "game": "The Legend of Zelda: Skyward Sword",
+    "song": "Koloktos",
+    "composers": [
+      "Hajime Wakai",
+      "Takeshi Hama",
+      "Shiho Fujii",
+      "Mahito Yokota",
+      "Masato Mizuta",
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Skyward Sword/Koloktos.mmrs",
+    "preview": "https://www.youtube.com/watch?v=Kxc49O-BZBw"
   }
 ]

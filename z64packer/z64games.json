@@ -2059,12 +2059,6 @@
     "short_name": "Zelda: Ocarina of Time"
   },
   {
-    "game": "The Legend of Zelda: Oracle of Seasons and Ages",
-    "series": "The Legend of Zelda Series",
-    "logo": "https://i.imgur.com/J13vseH.png",
-    "short_name": "Zelda: Oracle Series"
-  },
-  {
     "game": "The Legend of Zelda: Phantom Hourglass",
     "series": "The Legend of Zelda Series",
     "logo": "https://i.imgur.com/sJwD9UK.png",
@@ -2363,6 +2357,7 @@
   },
   {
     "game": "Xenoblade Chronicles",
+    "series": "Xeno Series",
     "logo": "https://i.imgur.com/6tgHaQV.png"
   },
   {
@@ -2506,27 +2501,49 @@
   {
     "game": "Touhou Kishinjō ~ Double Dealing Character",
     "series": "Touhou Series",
-    "short_name": "Touhou 14"
+    "short_name": "Touhou 14",
+    "logo": "https://media.vgm.io/products/84/1948/1948-1628362382.png"
   },
   {
-    "game": "Zeraphyr"
+    "game": "Zeraphyr",
+    "series": "Original Compositions"
   },
   {
-    "game": "Xenogears"
+    "game": "Xenogears",
+    "series": "Xeno Series",
+    "logo": "https://cdn2.steamgriddb.com/logo/97fa70856aa8095cb1a6c7343a84bd85.png"
   },
   {
-    "game": "The Legend of Zelda: Tears of the Kingdom"
+    "game": "The Legend of Zelda: Tears of the Kingdom",
+    "series": "The Legend of Zelda Series",
+    "short_name": "Zelda: Tears of the Kingdom",
+    "logo": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/4/4c/TotK_English_Logo.png"
   },
   {
-    "game": "Xenoblade Chronicles 2: Torna ~ The Golden Country"
+    "game": "Xenoblade Chronicles 2: Torna ~ The Golden Country",
+    "series": "Xeno Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/00e9f6e53d787c147c5b3c95f803287e.png"
   },
   {
-    "game": "The Legend of Zelda: Oracle of Ages"
+    "game": "The Legend of Zelda: Oracle of Ages",
+    "series": "The Legend of Zelda Series",
+    "short_name": "Zelda: Oracle of Ages",
+    "logo": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/e/eb/OoA_English_Logo.png"
   },
   {
-    "game": "Xenoblade Chronicles 3"
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "series": "The Legend of Zelda Series",
+    "short_name": "Zelda: Oracle of Seasons",
+    "logo": "https://i.imgur.com/J13vseH.png"
   },
   {
-    "game": "Wario Land 2"
+    "game": "Xenoblade Chronicles 3",
+    "series": "Xeno Series",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/5/52/Xenoblade_Chronicles_3_HQ_Logo.png"
+  },
+  {
+    "game": "Wario Land 2",
+    "series": "Wario Land Series",
+    "logo": "https://mario.wiki.gallery/images/thumb/5/52/WarioLand2Logo.png/1200px-WarioLand2Logo.png"
   }
 ]

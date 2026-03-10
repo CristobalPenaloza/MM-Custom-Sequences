@@ -2806,5 +2806,28 @@
     "usesFormmask": false,
     "file": "Wario Land 2/The Really Final Chapter.mmrs",
     "preview": "Wario Land 2/The Really Final Chapter.ogg"
+  },
+  {
+    "uuid": "d301d643-d6ad-4da4-af2e-bdc587b1ef39",
+    "creationDate": "2026-03-10T01:17:49.864Z",
+    "game": "Xenoblade Chronicles",
+    "song": "Agniratha (Night)",
+    "composers": [
+      "ACE+"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Xenoblade Chronicles/Agniratha (Night).mmrs",
+    "preview": "Xenoblade Chronicles/Agniratha (Night).mp3"
   }
 ]

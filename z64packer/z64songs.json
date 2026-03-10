@@ -3086,5 +3086,28 @@
     "usesFormmask": false,
     "file": "Xenogears/The One Who is Torn Apart.mmrs",
     "preview": "Xenogears/The One Who is Torn Apart.mp3"
+  },
+  {
+    "uuid": "58961077-b678-4817-9c55-59cc5ba74ca5",
+    "creationDate": "2026-03-10T01:41:56.262Z",
+    "game": "Zeraphyr",
+    "song": "Spritely Woods",
+    "composers": [
+      "Zeraphyr"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Zeraphyr/Spritely Woods.mmrs",
+    "preview": "https://www.youtube.com/watch?v=HKCKtDI5Tmg"
   }
 ]

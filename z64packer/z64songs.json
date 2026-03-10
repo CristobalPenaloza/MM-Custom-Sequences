@@ -2931,5 +2931,32 @@
     "usesFormmask": false,
     "file": "Xenoblade Chronicles/Alcamoth, Imperial Capital.mmrs",
     "preview": "Xenoblade Chronicles/Alcamoth, Imperial Capital.ogg"
+  },
+  {
+    "uuid": "2b9e66ed-c478-4fba-a0e7-f061a62f65a1",
+    "creationDate": "2026-03-10T01:32:50.872Z",
+    "game": "Xenoblade Chronicles",
+    "song": "Satorl Marsh (Night)",
+    "composers": [
+      "Manami Kiyota"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Xenoblade Chronicles/Satorl Marsh (Night).mmrs",
+    "preview": "Xenoblade Chronicles/Satorl Marsh (Night).ogg"
   }
 ]

@@ -3203,5 +3203,27 @@
     "usesFormmask": false,
     "file": "Deltarune/My Castle Town.mmrs",
     "preview": "Deltarune/My Castle Town.mp3"
+  },
+  {
+    "uuid": "72037cb8-fb99-4c4d-81cd-a8774aab9ad2",
+    "creationDate": "2026-03-10T02:21:51.541Z",
+    "game": "Drakengard",
+    "song": "Thirteenth Chapter - Closing",
+    "composers": [
+      "Nobuyoshi Sano"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "157"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Drakengard/Thirteenth Chapter - Closing.mmrs",
+    "preview": "Drakengard/Thirteenth Chapter - Closing.mp3"
   }
 ]

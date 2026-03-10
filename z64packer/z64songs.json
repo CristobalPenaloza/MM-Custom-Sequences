@@ -2602,5 +2602,32 @@
     "usesFormmask": false,
     "file": "Octopath Traveler/Orewell, Beneath the Crags.mmrs",
     "preview": "Octopath Traveler/Orewell, Beneath the Crags.mp3"
+  },
+  {
+    "uuid": "da3e06db-dfc3-4b68-8050-859fe31db761",
+    "creationDate": "2026-03-10T00:47:51.159Z",
+    "game": "Octopath Traveler",
+    "song": "River of Life",
+    "composers": [
+      "Yasunori Nishiki"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "4",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Octopath Traveler/River of Life.mmrs",
+    "preview": "Octopath Traveler/River of Life.mp3"
   }
 ]

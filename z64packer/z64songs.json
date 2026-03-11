@@ -3249,5 +3249,29 @@
     "usesFormmask": false,
     "file": "Super Spamton 64/Slider.mmrs",
     "preview": "Super Spamton 64/Slider.ogg"
+  },
+  {
+    "uuid": "91fb641a-1296-480e-8417-6b256b42452d",
+    "creationDate": "2026-03-11T22:59:18.081Z",
+    "game": "Pokémon Scarlet & Violet",
+    "song": "East Province",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "5"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Scarlet & Violet/East Province.mmrs",
+    "preview": "Pokémon Scarlet & Violet/East Province.mp3"
   }
 ]

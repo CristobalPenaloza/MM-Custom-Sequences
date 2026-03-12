@@ -3786,5 +3786,28 @@
     "usesFormmask": false,
     "file": "Melty Blood Actress Again/SAKURA-KOI-UTA.mmrs",
     "preview": "Melty Blood Actress Again/SAKURA-KOI-UTA.mp3"
+  },
+  {
+    "uuid": "8a98964d-dd97-468f-993b-f1f2a2d2a878",
+    "creationDate": "2026-03-12T01:17:26.139Z",
+    "game": "Melty Blood: Actress Again",
+    "song": "Wonderful boy",
+    "composers": [
+      "Raito"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Melty Blood Actress Again/Wonderful boy.mmrs",
+    "preview": "Melty Blood Actress Again/Wonderful boy.mp3"
   }
 ]

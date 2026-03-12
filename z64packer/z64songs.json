@@ -3423,5 +3423,31 @@
     "usesFormmask": false,
     "file": "Omori/By Your Side.mmrs",
     "preview": "Omori/By Your Side.mp3"
+  },
+  {
+    "uuid": "89e7e4da-5982-41f3-b049-db31ca53dc6b",
+    "creationDate": "2026-03-12T00:52:04.957Z",
+    "game": "EarthBound",
+    "song": "Snowman (Wave)",
+    "composers": [
+      "Keiichi Suzuki",
+      "Hirokazu Tanaka"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "13a",
+      "118"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "EarthBound/Snowman (Wave).mmrs",
+    "preview": "EarthBound/Snowman (Wave).mp3"
   }
 ]

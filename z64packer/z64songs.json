@@ -3834,5 +3834,28 @@
     "usesFormmask": false,
     "file": "Consoles and BIOS/Windows Start Up.mmrs",
     "preview": "Consoles and BIOS/Windows Start Up.mp3"
+  },
+  {
+    "uuid": "2de9037e-0b8a-4f7c-907d-22f693b09f38",
+    "creationDate": "2026-03-12T04:29:15.366Z",
+    "game": "Consoles and BIOS",
+    "song": "Windows - Shut Down",
+    "composers": [
+      "Brian Eno"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Consoles and BIOS/Windows - Shut Down.mmrs",
+    "preview": "Consoles and BIOS/Windows - Shut Down.mp3"
   }
 ]

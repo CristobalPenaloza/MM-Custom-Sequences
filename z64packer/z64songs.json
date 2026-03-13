@@ -4769,5 +4769,27 @@
     "usesFormmask": false,
     "file": "The Legend of Zelda A Link to the Past/Sanctuary.mmrs",
     "preview": "The Legend of Zelda A Link to the Past/Sanctuary.mp3"
+  },
+  {
+    "uuid": "b107012d-a533-4aef-8d8c-e95419d1709b",
+    "creationDate": "2026-03-13T03:17:01.150Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Victory",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "10"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda A Link to the Past/Victory.mmrs",
+    "preview": "The Legend of Zelda A Link to the Past/Victory.mp3"
   }
 ]

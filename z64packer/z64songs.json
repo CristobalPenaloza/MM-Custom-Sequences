@@ -3955,5 +3955,27 @@
     "usesFormmask": false,
     "file": "Deltarune/Pandora Palace.mmrs",
     "preview": "Deltarune/Pandora Palace.mp3"
+  },
+  {
+    "uuid": "57a811f7-58bd-4fda-a779-3e5b85f5beb6",
+    "creationDate": "2026-03-13T01:50:00.276Z",
+    "game": "Deltarune",
+    "song": "Chaos King",
+    "composers": [
+      "Toby Fox"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Deltarune/Chaos King.mmrs",
+    "preview": "Deltarune/Chaos King.mp3"
   }
 ]

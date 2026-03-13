@@ -5497,5 +5497,29 @@
     "usesFormmask": false,
     "file": "Dark Cloud/A Sinking Ship.mmrs",
     "preview": "Dark Cloud/A Sinking Ship.ogg"
+  },
+  {
+    "uuid": "6be3168a-8b80-496b-aea1-5e78c163981f",
+    "creationDate": "2026-03-13T22:49:11.381Z",
+    "game": "Mega Man 3",
+    "song": "Dr. Wily Stage 2",
+    "composers": [
+      "Yasuaki Fujita"
+    ],
+    "converters": [
+      "Dark_Evan"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Mega Man 3/Dr. Wily Stage 2.mmrs",
+    "preview": "Mega Man 3/Dr. Wily Stage 2.ogg"
   }
 ]

@@ -4606,5 +4606,27 @@
     "usesFormmask": false,
     "file": "Pokémon Black 2 & White 2/Ghetsis Battle.mmrs",
     "preview": "Pokémon Black 2 & White 2/Ghetsis Battle.mp3"
+  },
+  {
+    "uuid": "370c2336-796b-44d7-9194-6e4bc071b091",
+    "creationDate": "2026-03-13T03:11:42.210Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Fortune Teller/Shop",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda A Link to the Past/Fortune TellerShop.mmrs",
+    "preview": "https://www.youtube.com/watch?v=g0sOJtPVQRU"
   }
 ]

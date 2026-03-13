@@ -4606,5 +4606,236 @@
     "usesFormmask": false,
     "file": "Pokémon Black 2 & White 2/Ghetsis Battle.mmrs",
     "preview": "Pokémon Black 2 & White 2/Ghetsis Battle.mp3"
+  },
+  {
+    "uuid": "370c2336-796b-44d7-9194-6e4bc071b091",
+    "creationDate": "2026-03-13T03:11:42.210Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Fortune Teller/Shop",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda A Link to the Past/Fortune TellerShop.mmrs",
+    "preview": "https://www.youtube.com/watch?v=g0sOJtPVQRU"
+  },
+  {
+    "uuid": "ed33fb14-cd7d-4e0a-9735-06eb05bca245",
+    "creationDate": "2026-03-13T03:12:46.706Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Boss Theme",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda A Link to the Past/Boss Theme.mmrs",
+    "preview": "https://www.youtube.com/watch?v=40JsCLuRdPg"
+  },
+  {
+    "uuid": "b825b5e8-efae-420f-b991-f7b25fd82243",
+    "creationDate": "2026-03-13T03:13:28.323Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Forest",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda A Link to the Past/Forest.mmrs",
+    "preview": "https://www.youtube.com/watch?v=_Br7rReOXGM"
+  },
+  {
+    "uuid": "ab38cdfb-e9fe-4705-9104-eaf75c844d44",
+    "creationDate": "2026-03-13T03:14:20.827Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Dark World (Variant B)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda A Link to the Past/Dark World (Variant B).mmrs",
+    "preview": "The Legend of Zelda A Link to the Past/Dark World (Variant B).mp3"
+  },
+  {
+    "uuid": "f30eef68-2fdc-4a71-b900-a3d03c2ef9a4",
+    "creationDate": "2026-03-13T03:15:03.001Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Death Mountain",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "5"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda A Link to the Past/Death Mountain.mmrs",
+    "preview": "The Legend of Zelda A Link to the Past/Death Mountain.mp3"
+  },
+  {
+    "uuid": "9c75635e-fff3-41ed-8076-3f00f3cee5c3",
+    "creationDate": "2026-03-13T03:15:44.168Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Ganon",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda A Link to the Past/Ganon.mmrs",
+    "preview": "The Legend of Zelda A Link to the Past/Ganon.mp3"
+  },
+  {
+    "uuid": "5ddaf10e-ea83-4657-b852-e2042213407c",
+    "creationDate": "2026-03-13T03:16:24.685Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Sanctuary",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda A Link to the Past/Sanctuary.mmrs",
+    "preview": "The Legend of Zelda A Link to the Past/Sanctuary.mp3"
+  },
+  {
+    "uuid": "b107012d-a533-4aef-8d8c-e95419d1709b",
+    "creationDate": "2026-03-13T03:17:01.150Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Victory",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "10"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda A Link to the Past/Victory.mmrs",
+    "preview": "The Legend of Zelda A Link to the Past/Victory.mp3"
+  },
+  {
+    "uuid": "b8f6874e-88f6-4081-ac8b-93f5fc67a221",
+    "creationDate": "2026-03-13T03:18:48.730Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Hyrule Castle",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda A Link to the Past/Hyrule Castle.mmrs",
+    "preview": "https://www.youtube.com/watch?v=ZcfdwfuxKHg"
+  },
+  {
+    "uuid": "cad1db12-c363-4c15-ae2f-181040bf50f1",
+    "creationDate": "2026-03-13T03:19:20.207Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Mini-game",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda A Link to the Past/Mini-game.mmrs",
+    "preview": "The Legend of Zelda A Link to the Past/Mini-game.mp3"
   }
 ]

@@ -4054,5 +4054,130 @@
     "usesFormmask": false,
     "file": "Uru Ages Beyond Myst/Convergence.mmrs",
     "preview": "Uru Ages Beyond Myst/Convergence.mp3"
+  },
+  {
+    "uuid": "03fb5739-b284-4805-8980-df259255fecc",
+    "creationDate": "2026-03-13T02:06:14.415Z",
+    "game": "StarTropics",
+    "song": "Dungeon",
+    "composers": [
+      "Yoshio Hirai"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "StarTropics/Dungeon.mmrs",
+    "preview": "StarTropics/Dungeon.mp3"
+  },
+  {
+    "uuid": "a142296c-41ff-43e3-802c-8e16ca54f322",
+    "creationDate": "2026-03-13T02:07:55.822Z",
+    "game": "StarTropics",
+    "song": "Memorial",
+    "composers": [
+      "Yoshio Hirai"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "StarTropics/Memorial.mmrs",
+    "preview": "StarTropics/Memorial.mp3"
+  },
+  {
+    "uuid": "fbbca7fe-364d-4314-ba9a-e80470b56d11",
+    "creationDate": "2026-03-13T02:08:30.009Z",
+    "game": "StarTropics",
+    "song": "Boss Theme",
+    "composers": [
+      "Yoshio Hirai"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "StarTropics/Boss Theme.mmrs",
+    "preview": "StarTropics/Boss Theme.mp3"
+  },
+  {
+    "uuid": "ee837fc3-f4d3-4a54-8caf-4c99d6a0619e",
+    "creationDate": "2026-03-13T02:09:56.557Z",
+    "game": "StarTropics",
+    "song": "Miracola",
+    "composers": [
+      "Yoshio Hirai"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "StarTropics/Miracola.mmrs",
+    "preview": "StarTropics/Miracola.mp3"
+  },
+  {
+    "uuid": "b6c1ccc2-577f-4027-9d11-5cd8ae6e6798",
+    "creationDate": "2026-03-13T02:10:31.330Z",
+    "game": "StarTropics",
+    "song": "Hallways",
+    "composers": [
+      "Yoshio Hirai"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "StarTropics/Hallways.mmrs",
+    "preview": "StarTropics/Hallways.mp3"
   }
 ]

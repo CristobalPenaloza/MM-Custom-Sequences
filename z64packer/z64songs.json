@@ -3906,5 +3906,29 @@
     "file": "Deltarune/Vs. Susie.mmrs",
     "preview": "Deltarune/Susie.ogg",
     "lastUpdateDate": "2026-03-13T01:45:16.995Z"
+  },
+  {
+    "uuid": "6d7d6283-c1e6-47cd-8fb2-44daf4c3f59b",
+    "creationDate": "2026-03-13T01:46:53.906Z",
+    "game": "Deltarune",
+    "song": "Lost Girl",
+    "composers": [
+      "Toby Fox"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Deltarune/Lost Girl.mmrs",
+    "preview": "Deltarune/Lost Girl.mp3"
   }
 ]

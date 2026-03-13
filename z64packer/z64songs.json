@@ -4791,5 +4791,28 @@
     "usesFormmask": false,
     "file": "The Legend of Zelda A Link to the Past/Victory.mmrs",
     "preview": "The Legend of Zelda A Link to the Past/Victory.mp3"
+  },
+  {
+    "uuid": "b8f6874e-88f6-4081-ac8b-93f5fc67a221",
+    "creationDate": "2026-03-13T03:18:48.730Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Hyrule Castle",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda A Link to the Past/Hyrule Castle.mmrs",
+    "preview": "https://www.youtube.com/watch?v=ZcfdwfuxKHg"
   }
 ]

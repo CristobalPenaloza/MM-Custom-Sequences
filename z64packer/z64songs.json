@@ -4861,5 +4861,27 @@
     "usesFormmask": false,
     "file": "The Legend of Zelda Feesh Mode/Eleventh Hour.mmrs",
     "preview": "The Legend of Zelda Feesh Mode/Eleventh Hour.mp3"
+  },
+  {
+    "uuid": "333dbc70-bba5-4c8c-b99f-c318a0dd8675",
+    "creationDate": "2026-03-13T03:30:14.191Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Ganon's Castle",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Ocarina of Time/Ganon's Castle.mmrs",
+    "preview": "The Legend of Zelda Ocarina of Time/Ganon's Castle.mp3"
   }
 ]

@@ -4001,5 +4001,32 @@
     "usesFormmask": false,
     "file": "Deltarune/World Revolving.mmrs",
     "preview": "Deltarune/World Revolving.mp3"
+  },
+  {
+    "uuid": "5e4d44f4-e8fc-4409-9bee-8e9b74188d8e",
+    "creationDate": "2026-03-13T02:01:04.435Z",
+    "game": "Super Mario 3D World",
+    "song": "Disaster",
+    "composers": [
+      "Mahito Yokota",
+      "Toru Minegishi",
+      "Yasuaki Iwata",
+      "and Koji Kondo"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario 3D World/Disaster.mmrs",
+    "preview": "Super Mario 3D World/Disaster.mp3"
   }
 ]

@@ -4699,5 +4699,29 @@
     "usesFormmask": false,
     "file": "The Legend of Zelda A Link to the Past/Dark World (Variant B).mmrs",
     "preview": "The Legend of Zelda A Link to the Past/Dark World (Variant B).mp3"
+  },
+  {
+    "uuid": "f30eef68-2fdc-4a71-b900-a3d03c2ef9a4",
+    "creationDate": "2026-03-13T03:15:03.001Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Death Mountain",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "5"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda A Link to the Past/Death Mountain.mmrs",
+    "preview": "The Legend of Zelda A Link to the Past/Death Mountain.mp3"
   }
 ]

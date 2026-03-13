@@ -3930,5 +3930,30 @@
     "usesFormmask": false,
     "file": "Deltarune/Lost Girl.mmrs",
     "preview": "Deltarune/Lost Girl.mp3"
+  },
+  {
+    "uuid": "b851120b-19b2-4297-9fbc-1d110134e8f1",
+    "creationDate": "2026-03-13T01:48:10.315Z",
+    "game": "Deltarune",
+    "song": "Pandora Palace",
+    "composers": [
+      "Toby Fox"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "4",
+      "5"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Deltarune/Pandora Palace.mmrs",
+    "preview": "Deltarune/Pandora Palace.mp3"
   }
 ]

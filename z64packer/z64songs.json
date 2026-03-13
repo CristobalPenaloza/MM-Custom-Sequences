@@ -4389,5 +4389,31 @@
     "usesFormmask": false,
     "file": "Metroid/Item Get.mmrs",
     "preview": "https://www.youtube.com/watch?v=VeEpJuq7MXE"
+  },
+  {
+    "uuid": "11bf0304-3091-4816-81b7-44e81b5c1c8d",
+    "creationDate": "2026-03-13T02:46:16.611Z",
+    "game": "Metroid",
+    "song": "Kraid's Lair",
+    "composers": [
+      "Kenji Yamamoto"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Metroid/Kraid's Lair.mmrs",
+    "preview": "Metroid/Kraid's Lair.mp3"
   }
 ]

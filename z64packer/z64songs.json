@@ -5215,5 +5215,30 @@
     "usesFormmask": false,
     "file": "Sonic & Knuckles/Flying Battery Zone (Variant A).mmrs",
     "preview": "Sonic & Knuckles/Flying Battery Zone (Variant A).mp3"
+  },
+  {
+    "uuid": "c0eba601-9fc5-4be2-82be-4bb4212cce25",
+    "creationDate": "2026-03-13T04:10:27.972Z",
+    "game": "Stardew Valley",
+    "song": "Overture",
+    "composers": [
+      "Eric Barone"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Stardew Valley/Overture.mmrs",
+    "preview": "Stardew Valley/Overture.mp3"
   }
 ]

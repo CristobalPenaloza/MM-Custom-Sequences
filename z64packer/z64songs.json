@@ -4345,5 +4345,27 @@
     "usesFormmask": false,
     "file": "The Legend of Zelda Feesh Mode/High Noon.mmrs",
     "preview": "The Legend of Zelda Feesh Mode/High Noon.mp3"
+  },
+  {
+    "uuid": "b36ac604-211f-4c71-aa67-7e9699516c3a",
+    "creationDate": "2026-03-13T02:40:25.644Z",
+    "game": "Metroid Prime 2: Echoes",
+    "song": "Emperor Ing",
+    "composers": [
+      "Kenji Yamamoto"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Metroid Prime 2 Echoes/Emperor Ing.mmrs",
+    "preview": "Metroid Prime 2 Echoes/Emperor Ing.ogg"
   }
 ]

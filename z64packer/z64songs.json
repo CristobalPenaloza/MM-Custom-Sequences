@@ -4562,5 +4562,27 @@
     "usesFormmask": false,
     "file": "Pokémon Black & White/Driftveil City.mmrs",
     "preview": "Pokémon Black & White/Driftveil City.mp3"
+  },
+  {
+    "uuid": "db3a776b-e206-4f44-92ad-4792e67b7bd7",
+    "creationDate": "2026-03-13T03:04:38.944Z",
+    "game": "Pokémon Black & White",
+    "song": "Ghetsis Battle",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Black & White/Ghetsis Battle.mmrs",
+    "preview": "Pokémon Black & White/Ghetsis Battle.mp3"
   }
 ]

@@ -4367,5 +4367,27 @@
     "usesFormmask": false,
     "file": "Metroid Prime 2 Echoes/Emperor Ing.mmrs",
     "preview": "Metroid Prime 2 Echoes/Emperor Ing.ogg"
+  },
+  {
+    "uuid": "fdc9b22b-45cb-4777-bb2b-93bbd4e1a04a",
+    "creationDate": "2026-03-13T02:45:41.131Z",
+    "game": "Metroid",
+    "song": "Item Get",
+    "composers": [
+      "Kenji Yamamoto"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Metroid/Item Get.mmrs",
+    "preview": "https://www.youtube.com/watch?v=VeEpJuq7MXE"
   }
 ]

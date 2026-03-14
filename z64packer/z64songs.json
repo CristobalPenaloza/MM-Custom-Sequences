@@ -7245,5 +7245,30 @@
     "file": "Snowboard Kids/Board Shop.mmrs",
     "preview": "https://www.youtube.com/watch?v=ZDefyMZBc_E"
   },
+  {
+    "uuid": "b6a34633-6487-4819-a5c6-769d84736377",
+    "creationDate": "2026-03-14T15:23:34.400Z",
+    "game": "Snowboard Kids",
+    "song": "Dizzy Land",
+    "composers": [
+      "Isao Kasai",
+      "Tomohiko Sato"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Snowboard Kids/Dizzy Land.mmrs",
+    "preview": "https://www.youtube.com/watch?v=PTZqCeJYmNA"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

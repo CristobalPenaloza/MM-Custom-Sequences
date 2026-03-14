@@ -7816,5 +7816,28 @@
     "file": "Xenoblade Chronicles/Frontier Village.mmrs",
     "preview": "https://www.youtube.com/watch?v=Hh0m7jYX03w"
   },
+  {
+    "uuid": "12730283-f27d-4f8c-9f56-2286ebaae23b",
+    "creationDate": "2026-03-14T16:03:54.850Z",
+    "game": "Xenoblade Chronicles",
+    "song": "Gaur Plain",
+    "composers": [
+      "ACE+"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Xenoblade Chronicles/Gaur Plain.mmrs",
+    "preview": "https://www.youtube.com/watch?v=RiAjuWf8b-o"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

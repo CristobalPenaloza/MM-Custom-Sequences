@@ -7171,5 +7171,28 @@
     "file": "Shin Megami Tensei V/World of Shadows.mmrs",
     "preview": "https://www.youtube.com/watch?v=aNcTGl3fCrU"
   },
+  {
+    "uuid": "5df0ba48-a253-4e3f-b55a-5c039d269832",
+    "creationDate": "2026-03-14T15:19:31.580Z",
+    "game": "Shin Megami Tensei V: Vengeance",
+    "song": "Battle -the adversary-",
+    "composers": [
+      "Ryota Kozuka"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Shin Megami Tensei V Vengeance/Battle -the adversary-.mmrs",
+    "preview": "https://www.youtube.com/watch?v=kSQ817Z4ZWA"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -6002,5 +6002,29 @@
     "usesFormmask": false,
     "file": "Resident Evil 4/Save Theme.mmrs",
     "preview": "Resident Evil 4/Save Theme.ogg"
+  },
+  {
+    "uuid": "ac6a30d5-d5fd-4623-a84a-10627f24beae",
+    "creationDate": "2026-03-14T01:20:36.974Z",
+    "game": "Donkey Kong 64",
+    "song": "Troff n Scoff",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Dark_Evan"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Donkey Kong 64/Troff n Scoff.mmrs",
+    "preview": "Donkey Kong 64/Troff n Scoff.ogg"
   }
 ]

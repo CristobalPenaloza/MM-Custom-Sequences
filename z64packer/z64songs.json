@@ -7322,5 +7322,29 @@
     "file": "Sonic the Hedgehog (2006)/Aquatic Base -Level 1-.mmrs",
     "preview": "https://www.youtube.com/watch?v=QuVMoTrmbEo"
   },
+  {
+    "uuid": "ff4df758-3915-46c9-b73d-9acabf54bf9d",
+    "creationDate": "2026-03-14T15:28:35.036Z",
+    "game": "Sonic the Hedgehog (2006)",
+    "song": "Kingdom Valley",
+    "composers": [
+      "Tomoya Ohtani"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic the Hedgehog (2006)/Kingdom Valley.mmrs",
+    "preview": "https://www.youtube.com/watch?v=Ts2fxhXTAd0"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

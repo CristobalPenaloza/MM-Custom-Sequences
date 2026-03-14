@@ -7346,5 +7346,29 @@
     "file": "Sonic the Hedgehog (2006)/Kingdom Valley.mmrs",
     "preview": "https://www.youtube.com/watch?v=Ts2fxhXTAd0"
   },
+  {
+    "uuid": "ce95c800-65b5-42ec-a69e-d644d6a90dc5",
+    "creationDate": "2026-03-14T15:29:50.760Z",
+    "game": "Sonic Adventure",
+    "song": "At Dawn ...for Speed Highway",
+    "composers": [
+      "Jun Senoue"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic Adventure/At Dawn ...for Speed Highway.mmrs",
+    "preview": "https://www.youtube.com/watch?v=Q6WgY-1X8aI"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

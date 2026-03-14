@@ -6026,5 +6026,27 @@
     "usesFormmask": false,
     "file": "Donkey Kong 64/Troff n Scoff.mmrs",
     "preview": "Donkey Kong 64/Troff n Scoff.ogg"
+  },
+  {
+    "uuid": "72e21938-9abe-4172-961f-4329e46bc49f",
+    "creationDate": "2026-03-14T01:22:15.001Z",
+    "game": "Donkey Kong 64",
+    "song": "Hideout Helm (Offline)",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Dark_Evan"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Donkey Kong 64/Hideout Helm (Offline).mmrs",
+    "preview": "Donkey Kong 64/Hideout Helm (Offline).ogg"
   }
 ]

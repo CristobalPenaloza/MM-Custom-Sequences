@@ -8037,5 +8037,28 @@
     "file": "Pokémon Black & White/Gate.mmrs",
     "preview": "Pokémon Black & White/Gate.ogg"
   },
+  {
+    "uuid": "cf2e6382-ecad-4fbb-8cc0-0935faf9c5dc",
+    "creationDate": "2026-03-14T17:55:43.683Z",
+    "game": "Pokémon Gold, Silver & Crystal",
+    "song": "National Park",
+    "composers": [
+      "Go Ichinose"
+    ],
+    "converters": [
+      "WEEMS"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Gold, Silver & Crystal/National Park.mmrs",
+    "preview": "Pokémon Gold, Silver & Crystal/National Park.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

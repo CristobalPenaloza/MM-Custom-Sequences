@@ -7652,5 +7652,28 @@
     "file": "The Legend of Zelda Skyward Sword/Skyloft.mmrs",
     "preview": "https://www.youtube.com/watch?v=7YW_6rU5GFg"
   },
+  {
+    "uuid": "706cb462-f2c6-4f7d-badf-1f4695a850dc",
+    "creationDate": "2026-03-14T15:52:29.330Z",
+    "game": "The Legend of Zelda: Skyward Sword",
+    "song": "Lumpy Pumpkin",
+    "composers": [
+      "Shiho Fujii"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Skyward Sword/Lumpy Pumpkin.mmrs",
+    "preview": "https://www.youtube.com/watch?v=I3VJ4TyGBKg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

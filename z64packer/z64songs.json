@@ -7562,5 +7562,27 @@
     "file": "Super Smash Bros. Brawl/Trophy Gallery.mmrs",
     "preview": "https://www.youtube.com/watch?v=0t4GhEDt-nk"
   },
+  {
+    "uuid": "25d4bcf5-be60-4067-ad2b-f3adab1810ae",
+    "creationDate": "2026-03-14T15:46:16.430Z",
+    "game": "Super Smash Bros. Melee",
+    "song": "Final Destination",
+    "composers": [
+      "Hirokazu Ando"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Smash Bros. Melee/Final Destination.mmrs",
+    "preview": "https://www.youtube.com/watch?v=fr7HrjoE-KE"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

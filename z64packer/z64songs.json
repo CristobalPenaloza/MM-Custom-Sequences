@@ -8013,5 +8013,29 @@
     "file": "Mother 3/Monkey's Delivery Service.mmrs",
     "preview": "Mother 3/Monkey's Delivery Service.ogg"
   },
+  {
+    "uuid": "2acc1714-0dfa-4b06-80d7-328c6a9330ee",
+    "creationDate": "2026-03-14T17:54:53.498Z",
+    "game": "Pokémon Black & White",
+    "song": "Gate",
+    "composers": [
+      "Hitomi Sato"
+    ],
+    "converters": [
+      "WEEMS"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Black & White/Gate.mmrs",
+    "preview": "Pokémon Black & White/Gate.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

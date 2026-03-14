@@ -6407,5 +6407,32 @@
     "file": "NieR Automata/City Ruins (8bit Version).mmrs",
     "preview": "https://www.youtube.com/watch?v=8YF_ZleUYIQ"
   },
+  {
+    "uuid": "5a0dbe05-ce70-40ad-9b88-3d01e13cd8a4",
+    "creationDate": "2026-03-14T02:08:29.259Z",
+    "game": "NieR: Automata",
+    "song": "Mourning",
+    "composers": [
+      "Keiichi Okabe"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6",
+      "16f",
+      "106",
+      "157"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "NieR Automata/Mourning.mmrs",
+    "preview": "https://www.youtube.com/watch?v=Lg6QSGpANPU"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

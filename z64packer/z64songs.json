@@ -6479,5 +6479,27 @@
     "file": "Persona 3/Iwatodai Dorm.mmrs",
     "preview": "https://www.youtube.com/watch?v=iIARUz3J_ew"
   },
+  {
+    "uuid": "38c3cc30-0899-4f79-a41d-128c51736edb",
+    "creationDate": "2026-03-14T02:13:22.805Z",
+    "game": "Persona 3",
+    "song": "The Battle for Everyone's Souls",
+    "composers": [
+      "Shoji Meguro"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Persona 3/The Battle for Everyone's Souls.mmrs",
+    "preview": "https://www.youtube.com/watch?v=WRgZ0tmrmqE"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

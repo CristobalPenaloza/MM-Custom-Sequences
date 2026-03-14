@@ -7297,5 +7297,30 @@
     "file": "Snowboard Kids 2/Haunted House.mmrs",
     "preview": "https://www.youtube.com/watch?v=5ccZI-XC9B8"
   },
+  {
+    "uuid": "77df6986-13a1-429b-bd8f-ef755c707f44",
+    "creationDate": "2026-03-14T15:27:04.260Z",
+    "game": "Sonic the Hedgehog (2006)",
+    "song": "Aquatic Base -Level 1-",
+    "composers": [
+      "Mariko Nanba"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic the Hedgehog (2006)/Aquatic Base -Level 1-.mmrs",
+    "preview": "https://www.youtube.com/watch?v=QuVMoTrmbEo"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

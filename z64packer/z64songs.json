@@ -7699,5 +7699,28 @@
     "file": "The Legend of Zelda Twilight Princess/Kakariko Village.mmrs",
     "preview": "https://www.youtube.com/watch?v=xWbcgIq9LJw"
   },
+  {
+    "uuid": "0523822f-1d14-47ed-b3bc-6d4cfbb4f3ec",
+    "creationDate": "2026-03-14T15:55:20.296Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Morpheel Battle, Second Half",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Twilight Princess/Morpheel Battle, Second Half.mmrs",
+    "preview": "https://www.youtube.com/watch?v=IlSpP7kNwZ0"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

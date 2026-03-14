@@ -7056,5 +7056,28 @@
     "file": "Shin Megami Tensei III Nocturne/Ginza.mmrs",
     "preview": "https://www.youtube.com/watch?v=I2762gyWvUU"
   },
+  {
+    "uuid": "44430d7d-ee97-4d55-b540-e25c0b28f583",
+    "creationDate": "2026-03-14T15:05:55.373Z",
+    "game": "Shin Megami Tensei III: Nocturne",
+    "song": "Metatron",
+    "composers": [
+      "Kenichi Tsuchiya"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Shin Megami Tensei III Nocturne/Metatron.mmrs",
+    "preview": "https://www.youtube.com/watch?v=BNV4r5RuKfk"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

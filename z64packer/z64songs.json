@@ -6002,5 +6002,74 @@
     "usesFormmask": false,
     "file": "Resident Evil 4/Save Theme.mmrs",
     "preview": "Resident Evil 4/Save Theme.ogg"
+  },
+  {
+    "uuid": "ac6a30d5-d5fd-4623-a84a-10627f24beae",
+    "creationDate": "2026-03-14T01:20:36.974Z",
+    "game": "Donkey Kong 64",
+    "song": "Troff n Scoff",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Dark_Evan"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Donkey Kong 64/Troff n Scoff.mmrs",
+    "preview": "Donkey Kong 64/Troff n Scoff.ogg"
+  },
+  {
+    "uuid": "72e21938-9abe-4172-961f-4329e46bc49f",
+    "creationDate": "2026-03-14T01:22:15.001Z",
+    "game": "Donkey Kong 64",
+    "song": "Hideout Helm (Offline)",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Dark_Evan"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Donkey Kong 64/Hideout Helm (Offline).mmrs",
+    "preview": "Donkey Kong 64/Hideout Helm (Offline).ogg"
+  },
+  {
+    "uuid": "d8a0ee45-0579-45cf-99dc-1b4bd3e1d482",
+    "creationDate": "2026-03-14T01:22:56.111Z",
+    "game": "Donkey Kong 64",
+    "song": "Gloomy Galleon Lobby",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Dark_Evan"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Donkey Kong 64/Gloomy Galleon Lobby.mmrs",
+    "preview": "Donkey Kong 64/Gloomy Galleon Lobby.ogg"
   }
 ]

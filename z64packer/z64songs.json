@@ -8250,5 +8250,29 @@
     "file": "Pokémon Pinball/Blue Field.mmrs",
     "preview": "Pokémon Pinball/Blue Field.mp3"
   },
+  {
+    "uuid": "9c4b1979-d1cb-466d-83a7-e0eb98c65cec",
+    "creationDate": "2026-03-14T18:18:03.916Z",
+    "game": "Outer Wilds",
+    "song": "Travelers",
+    "composers": [
+      "Andrew Prahlow"
+    ],
+    "converters": [
+      "WEEMS"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": true,
+    "file": "Outer Wilds/Travelers.mmrs",
+    "preview": "Outer Wilds/Travelers.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

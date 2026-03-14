@@ -7989,5 +7989,29 @@
     "file": "Chrono Cross/The Dead Sea -Tower of Geddon-.mmrs",
     "preview": "Chrono Cross/The Dead Sea -Tower of Geddon-.ogg"
   },
+  {
+    "uuid": "e9d6c389-0ddd-442e-93f6-4335250f3201",
+    "creationDate": "2026-03-14T16:42:30.790Z",
+    "game": "Mother 3",
+    "song": "Monkey's Delivery Service",
+    "composers": [
+      "Shogo Sakai"
+    ],
+    "converters": [
+      "WEEMS"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mother 3/Monkey's Delivery Service.mmrs",
+    "preview": "Mother 3/Monkey's Delivery Service.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -7539,5 +7539,28 @@
     "file": "Space Harrier/Main Theme.mmrs",
     "preview": "https://www.youtube.com/watch?v=SDjOnyslhOg"
   },
+  {
+    "uuid": "b8b5f57b-cd9e-4937-9a91-09f2b311ebf9",
+    "creationDate": "2026-03-14T15:45:32.128Z",
+    "game": "Super Smash Bros. Brawl",
+    "song": "Trophy Gallery",
+    "composers": [
+      "Hideki Sakamoto"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Smash Bros. Brawl/Trophy Gallery.mmrs",
+    "preview": "https://www.youtube.com/watch?v=0t4GhEDt-nk"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

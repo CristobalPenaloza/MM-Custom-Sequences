@@ -2718,5 +2718,14 @@
     "game": "The Elder Scrolls V: Skyrim",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/810dfbbebb17302018ae903e9cb7a483.png"
   },
+  {
+    "game": "Shin Megami Tensei V"
+  },
+  {
+    "game": "Shin Megami Tensei V: Vengeance"
+  },
+  {
+    "game": "Sonic the Hedgehog (2006)"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

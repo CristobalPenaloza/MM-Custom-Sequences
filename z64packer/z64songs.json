@@ -6871,5 +6871,27 @@
     "file": "Pokémon Stadium/P97+98 Cup (Battles 4-6).mmrs",
     "preview": "https://www.youtube.com/watch?v=ZNKLPp56Zoc"
   },
+  {
+    "uuid": "ab3623aa-57c7-40dd-9aac-626549694b3a",
+    "creationDate": "2026-03-14T02:42:05.849Z",
+    "game": "Pokémon Stadium 2",
+    "song": "Elite Four Battle",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Stadium 2/Elite Four Battle.mmrs",
+    "preview": "https://www.youtube.com/watch?v=xboKqGdUX50"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

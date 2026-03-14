@@ -7270,5 +7270,32 @@
     "file": "Snowboard Kids/Dizzy Land.mmrs",
     "preview": "https://www.youtube.com/watch?v=PTZqCeJYmNA"
   },
+  {
+    "uuid": "06530159-424f-4868-b6d2-9e525ba9e538",
+    "creationDate": "2026-03-14T15:24:55.603Z",
+    "game": "Snowboard Kids 2",
+    "song": "Haunted House",
+    "composers": [
+      "Isao Kasai",
+      "Tomohiko Sato",
+      "Sayuri Yamamoto"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Snowboard Kids 2/Haunted House.mmrs",
+    "preview": "https://www.youtube.com/watch?v=5ccZI-XC9B8"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

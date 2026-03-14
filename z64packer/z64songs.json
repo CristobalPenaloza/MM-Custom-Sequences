@@ -8085,5 +8085,28 @@
     "file": "Pokémon HeartGold & SoulSilver/Safari Zone Gate.mmrs",
     "preview": "Pokémon HeartGold & SoulSilver/Safari Zone Gate.ogg"
   },
+  {
+    "uuid": "796593d0-bed5-4ee0-9438-6274970ad025",
+    "creationDate": "2026-03-14T17:59:05.107Z",
+    "game": "Pokémon Ruby, Sapphire & Emerald",
+    "song": "Mt. Pyre Exterior",
+    "composers": [
+      "Go Ichinose"
+    ],
+    "converters": [
+      "WEEMS"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Ruby, Sapphire & Emerald/Mt. Pyre Exterior.mmrs",
+    "preview": "Pokémon Ruby, Sapphire & Emerald/Mt. Pyre Exterior.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

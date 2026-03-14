@@ -8131,5 +8131,29 @@
     "file": "Pokémon Ruby, Sapphire & Emerald/Shoal Cave.mmrs",
     "preview": "Pokémon Ruby, Sapphire & Emerald/Shoal Cave.ogg"
   },
+  {
+    "uuid": "625e5405-dd61-4d03-9f6b-f59969a15fa9",
+    "creationDate": "2026-03-14T18:03:01.234Z",
+    "game": "Pokémon Trading Card Game",
+    "song": "Normal Battle",
+    "composers": [
+      "Ichirō Shimakura"
+    ],
+    "converters": [
+      "WEEMS"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Trading Card Game/Normal Battle.mmrs",
+    "preview": "Pokémon Trading Card Game/Normal Battle.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

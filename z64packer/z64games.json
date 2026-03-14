@@ -2704,6 +2704,7 @@
   },
   {
     "game": "Mega Man & Bass",
+    "series": "Mega Man Series",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/9582a4486a56b2b30d8125d7c0701b8a.png"
   },
   {
@@ -2712,29 +2713,42 @@
   },
   {
     "game": "Persona 3 FES",
+    "series": "Persona Series",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/186a157b2992e7daed3677ce8e9fe40f.png"
   },
   {
     "game": "The Elder Scrolls V: Skyrim",
+    "series": "The Elder Scrolls Series",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/810dfbbebb17302018ae903e9cb7a483.png"
   },
   {
-    "game": "Shin Megami Tensei V"
+    "game": "Shin Megami Tensei V",
+    "series": "Shin Megami Tensei Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/46e8db5f3c47012f108a81f53d640c82.png"
   },
   {
-    "game": "Shin Megami Tensei V: Vengeance"
+    "game": "Shin Megami Tensei V: Vengeance",
+    "series": "Shin Megami Tensei Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/4f575fb7a099c70e6ada353f18b569f5.png"
   },
   {
-    "game": "Sonic the Hedgehog (2006)"
+    "game": "Sonic the Hedgehog (2006)",
+    "series": "Sonic the Hedgehog Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/f36d576ded86c313dce14fa4b8e6c0d4.png"
   },
   {
-    "game": "The Legend of Zelda: Four Swords Adventures"
+    "game": "The Legend of Zelda: Four Swords Adventures",
+    "series": "The Legend of Zelda Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/f2669241f7cca3f1306082b7a9f458ed.png"
   },
   {
-    "game": "Sonic R"
+    "game": "Sonic R",
+    "series": "Sonic the Hedgehog Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/41ab1b1d6bf108f388dfb5cd282fb76c.png"
   },
   {
-    "game": "Space Harrier"
+    "game": "Space Harrier",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/a20dca2e74f89e00176b027012317173.png"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -6337,5 +6337,29 @@
     "file": "NieR Replicant/Snow in Summer.mmrs",
     "preview": "https://www.youtube.com/watch?v=SIjV5tNldIU"
   },
+  {
+    "uuid": "7bbff1db-7076-4abb-bac5-3de51fe227ac",
+    "creationDate": "2026-03-14T02:03:34.119Z",
+    "game": "NieR: Automata",
+    "song": "Amusement Park",
+    "composers": [
+      "Keigo Hoashi"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "106"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "NieR Automata/Amusement Park.mmrs",
+    "preview": "https://www.youtube.com/watch?v=wCPC1ko8iR0"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

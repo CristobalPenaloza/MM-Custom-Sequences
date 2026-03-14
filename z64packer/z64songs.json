@@ -7149,5 +7149,27 @@
     "file": "Shin Megami Tensei V/Tokyo -Daybreak-.mmrs",
     "preview": "https://www.youtube.com/watch?v=U9jPp-LPmBg"
   },
+  {
+    "uuid": "ad9b868e-6df4-4ca4-8f27-014076e7cf95",
+    "creationDate": "2026-03-14T15:17:19.262Z",
+    "game": "Shin Megami Tensei V",
+    "song": "World of Shadows",
+    "composers": [
+      "Ryota Kozuka"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Shin Megami Tensei V/World of Shadows.mmrs",
+    "preview": "https://www.youtube.com/watch?v=aNcTGl3fCrU"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

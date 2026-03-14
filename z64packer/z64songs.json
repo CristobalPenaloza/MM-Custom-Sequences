@@ -6267,5 +6267,29 @@
     "file": "Castle Crashers/World Map.mmrs",
     "preview": "Castle Crashers/World Map.ogg"
   },
+  {
+    "uuid": "996c7fba-2eeb-440c-ac56-b01c17379a18",
+    "creationDate": "2026-03-14T01:57:53.429Z",
+    "game": "Mega Man & Bass",
+    "song": "Robot Museum",
+    "composers": [
+      "Naoshi Mizuta"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mega Man & Bass/Robot Museum.mmrs",
+    "preview": "https://www.youtube.com/watch?v=SZ8KmWnD49I"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

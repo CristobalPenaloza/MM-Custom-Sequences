@@ -2472,7 +2472,7 @@
   {
     "game": "NieR: Automata",
     "series": "Nier Series",
-    "logo": "https://www.pngmart.com/files/22/Nier-Automata-Logo-PNG.png"
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/751518950d7bb9a5e3064a4b2fd7bd90.png"
   },
   {
     "game": "Ultimate Trial",
@@ -2481,7 +2481,8 @@
   },
   {
     "game": "Monster Hunter 4 Ultimate",
-    "series": "Monster Hunter Series"
+    "series": "Monster Hunter Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/51f4efbfb3e18f4ea053c4d3d282c4e2.png"
   },
   {
     "game": "Dragon Quest IV: Chapters of the Chosen",
@@ -2578,7 +2579,7 @@
   {
     "game": "Katamari Damacy",
     "series": "Katamari Series",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Katamari_series_logo.svg/1280px-Katamari_series_logo.svg.png"
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/de4d0312514a1d471f10ea909a589a32.png"
   },
   {
     "game": "Mario's Super Picross",
@@ -2604,94 +2605,118 @@
     "logo": "https://static.wikia.nocookie.net/logopedia/images/8/82/HaloCombatEvolved.png"
   },
   {
-    "game": "OFF"
+    "game": "OFF",
+    "logo": "https://www.fangamer.com/cdn/shop/files/OFF-PromoCard2_360x360.png"
   },
   {
-    "game": "Uru: Ages Beyond Myst"
+    "game": "Uru: Ages Beyond Myst",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/2/20/Uru_logo.png"
   },
   {
     "game": "The Legend of Zelda: Master of Time",
-    "series": "The Legend of Zelda Series"
+    "series": "The Legend of Zelda Series",
+    "logo": "https://cdn2.steamgriddb.com/logo/9e93e6df252f2b251bb4d1559f04e190.png"
   },
   {
     "game": "Hyrule Warriors",
-    "series": "Hyrule Warriors Series"
+    "series": "Hyrule Warriors Series",
+    "logo": "https://cdn2.steamgriddb.com/logo/e63c5b75b29dda057ed43c4007d7756f.png"
   },
   {
     "game": "Hyrule Warriors: Age of Calamity",
-    "series": "Hyrule Warriors Series"
+    "series": "Hyrule Warriors Series",
+    "logo": "https://zelda.nintendo.com/hyrule-warriors/nav-logo-f2db3fa5ed7a5c5d1f5d50b1d7ab82e2.png"
   },
   {
     "game": "Metroid",
-    "series": "Metroid Series"
+    "series": "Metroid Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/440924c5948e05070663f88e69e8242b.png"
   },
   {
     "game": "Paper Mario: The Origami King",
-    "series": "Paper Mario Series"
+    "series": "Paper Mario Series",
+    "logo": "https://assets.nintendo.eu/image/upload/f_auto,q_auto,w_767/v1616771869/MNS/Content%20Pages%20Assets/Category-List%20Pages/Franchises/SuperMario/16.9_Switch_PaperMarioTheOrigamiKing_Logo_enNOE.png"
   },
   {
     "game": "Pokémon HeartGold & SoulSilver",
-    "series": "Pokémon Series"
+    "series": "Pokémon Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/bf25356fd2a6e038f1a3a59c26687e80.png"
   },
   {
-    "game": "A Hat in Time"
+    "game": "A Hat in Time",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/6928deac51a9dcc1f063ccec46d3c067.png"
   },
   {
     "game": "The Legend of Zelda: A Link Between Worlds",
-    "series": "The Legend of Zelda Series"
+    "series": "The Legend of Zelda Series",
+    "logo": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/c/ca/ALBW_English_Logo.png"
   },
   {
     "game": "New Super Mario Bros. Wii",
-    "series": "Super Mario Series"
+    "series": "Super Mario Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/16d4f2fb0bab503d96b78fcc0f8f822a.png"
   },
   {
     "game": "Pokémon Mystery Dungeon",
-    "series": "Pokémon Series"
+    "series": "Pokémon Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/65fd95b22c5680766c110f8d1ab21a4b.png"
   },
   {
     "game": "Tetris",
-    "series": "Tetris Series"
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/07b4498a303789d2829445c725dae35a.png"
   },
   {
-    "game": "TY the Tasmanian Tiger 2: Bush Rescue"
+    "game": "TY the Tasmanian Tiger 2: Bush Rescue",
+    "logo": "https://cdn2.steamgriddb.com/logo/2adee8815dd939548ee6b2772524b6f2.png"
   },
   {
-    "game": "Castle Crashers"
+    "game": "Castle Crashers",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/207437c32819716d0ecb62c7ffcee978.png"
   },
   {
     "game": "Mega Man 3",
-    "series": "Mega Man Series"
+    "series": "Mega Man Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/bcfa8a783aaf938cdef361634d5f9289.png"
   },
   {
     "game": "Mega Man 10",
-    "series": "Mega Man Series"
+    "series": "Mega Man Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/2f4d9e53439e9f7d77ad2bf33ee05a9b.png"
   },
   {
     "game": "Dark Souls III",
-    "series": "Dark Souls Series"
+    "series": "Dark Souls Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/1e8ca836c962598551882e689265c1c5.png"
   },
   {
     "game": "Wario Land: Super Mario Land 3",
-    "series": "Wario Land Series"
+    "series": "Wario Land Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/b91a76b0b2fa7ce160212f53f3d2edba.png"
   },
   {
     "game": "Resident Evil 4",
-    "series": "Resident Evil Series"
+    "series": "Resident Evil Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/5b658d2a925565f0755e035597f8d22f.png"
   },
   {
-    "game": "Demon's Souls"
+    "game": "Demon's Souls",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/a1bcb47486d5abaeabf8fc1d64abe62b.png"
   },
   {
-    "game": "Mega Man & Bass"
+    "game": "Mega Man & Bass",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/9582a4486a56b2b30d8125d7c0701b8a.png"
   },
   {
-    "game": "Silent Hill 2"
+    "game": "Silent Hill 2",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/1dc3a89d0d440ba31729b0ba74b93a33.png"
   },
   {
-    "game": "Persona 3 FES"
+    "game": "Persona 3 FES",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/186a157b2992e7daed3677ce8e9fe40f.png"
   },
   {
-    "game": "The Elder Scrolls V: Skyrim"
+    "game": "The Elder Scrolls V: Skyrim",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/810dfbbebb17302018ae903e9cb7a483.png"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

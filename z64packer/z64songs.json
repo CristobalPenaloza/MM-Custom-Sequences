@@ -6384,5 +6384,28 @@
     "file": "NieR Automata/City Ruins (Ray of Light).mmrs",
     "preview": "https://www.youtube.com/watch?v=GzAYD2fjQqI"
   },
+  {
+    "uuid": "9d4eb5b5-bd6f-48ee-b10d-2ff7db5c43cb",
+    "creationDate": "2026-03-14T02:07:34.542Z",
+    "game": "NieR: Automata",
+    "song": "City Ruins (8bit Version)",
+    "composers": [
+      "Keiichi Okabe"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "NieR Automata/City Ruins (8bit Version).mmrs",
+    "preview": "https://www.youtube.com/watch?v=8YF_ZleUYIQ"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

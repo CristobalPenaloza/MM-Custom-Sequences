@@ -7394,5 +7394,498 @@
     "file": "Sonic Adventure/Twinkle Cart ...for Twinkle Park.mmrs",
     "preview": "https://www.youtube.com/watch?v=m4QrqdSqd5M"
   },
+  {
+    "uuid": "f92d5ea5-8406-4042-b268-a6aeafb15452",
+    "creationDate": "2026-03-14T15:33:36.275Z",
+    "game": "Sonic Adventure 2",
+    "song": "Dive Into The Mellow... for Aquatic Mine",
+    "composers": [
+      "Tomoya Ohtani"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic Adventure 2/Dive Into The Mellow... for Aquatic Mine.mmrs",
+    "preview": "https://www.youtube.com/watch?v=BVCxFqIRZmc"
+  },
+  {
+    "uuid": "d81caf56-9e14-4abe-bffb-9d0159d7fc88",
+    "creationDate": "2026-03-14T15:35:41.962Z",
+    "game": "Sonic Adventure 2",
+    "song": "Deeper ...for Death Chamber",
+    "composers": [
+      "Tomoya Ohtani"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic Adventure 2/Deeper ...for Death Chamber.mmrs",
+    "preview": "https://www.youtube.com/watch?v=qNwN2xw7j2o"
+  },
+  {
+    "uuid": "6ba74017-b43f-426d-98ac-ccbef062d053",
+    "creationDate": "2026-03-14T15:37:04.449Z",
+    "game": "Sonic Adventure 2",
+    "song": "Space Trip Steps ...for Meteor Herd",
+    "composers": [
+      "Tomoya Ohtani"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic Adventure 2/Space Trip Steps ...for Meteor Herd.mmrs",
+    "preview": "https://www.youtube.com/watch?v=fn4vlNOpkfs"
+  },
+  {
+    "uuid": "ed11b324-263c-46fd-8037-e3f26d277bae",
+    "creationDate": "2026-03-14T15:38:37.697Z",
+    "game": "Sonic Colors",
+    "song": "Tropical Resort - Act 1",
+    "composers": [
+      "Tomoya Ohtani"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic Colors/Tropical Resort - Act 1.mmrs",
+    "preview": "https://www.youtube.com/watch?v=-sve5G6FRxs"
+  },
+  {
+    "uuid": "0bf2847b-f94e-4834-9b63-aef4505a22ad",
+    "creationDate": "2026-03-14T15:41:11.279Z",
+    "game": "Sonic R",
+    "song": "Can You Feel the Sunshine",
+    "composers": [
+      "Richard Jacques"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic R/Can You Feel the Sunshine.mmrs",
+    "preview": "https://www.youtube.com/watch?v=RiGVKi2cUx4"
+  },
+  {
+    "uuid": "2f238014-85b5-495c-a863-001f6b38b84b",
+    "creationDate": "2026-03-14T15:42:32.670Z",
+    "game": "Space Harrier",
+    "song": "Main Theme",
+    "composers": [
+      "Hiroshi Kawaguchi"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4",
+      "5"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Space Harrier/Main Theme.mmrs",
+    "preview": "https://www.youtube.com/watch?v=SDjOnyslhOg"
+  },
+  {
+    "uuid": "b8b5f57b-cd9e-4937-9a91-09f2b311ebf9",
+    "creationDate": "2026-03-14T15:45:32.128Z",
+    "game": "Super Smash Bros. Brawl",
+    "song": "Trophy Gallery",
+    "composers": [
+      "Hideki Sakamoto"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Smash Bros. Brawl/Trophy Gallery.mmrs",
+    "preview": "https://www.youtube.com/watch?v=0t4GhEDt-nk"
+  },
+  {
+    "uuid": "25d4bcf5-be60-4067-ad2b-f3adab1810ae",
+    "creationDate": "2026-03-14T15:46:16.430Z",
+    "game": "Super Smash Bros. Melee",
+    "song": "Final Destination",
+    "composers": [
+      "Hirokazu Ando"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Smash Bros. Melee/Final Destination.mmrs",
+    "preview": "https://www.youtube.com/watch?v=fr7HrjoE-KE"
+  },
+  {
+    "uuid": "8dfa46ff-734b-4efa-813b-4de0a2851445",
+    "creationDate": "2026-03-14T15:48:49.274Z",
+    "game": "Super Mario Galaxy",
+    "song": "Egg Planet",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario Galaxy/Egg Planet.mmrs",
+    "preview": "https://www.youtube.com/watch?v=xN54gBe-1qo"
+  },
+  {
+    "uuid": "081a9f03-7d96-48b3-9437-c4870b2e7ff7",
+    "creationDate": "2026-03-14T15:50:09.698Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Light World Dungeon",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda A Link to the Past/Light World Dungeon.mmrs",
+    "preview": "https://www.youtube.com/watch?v=T4BTq1maS3M"
+  },
+  {
+    "uuid": "3a961696-ebed-4190-a6d8-20b45bfd3208",
+    "creationDate": "2026-03-14T15:51:19.897Z",
+    "game": "The Legend of Zelda: Skyward Sword",
+    "song": "Skyloft",
+    "composers": [
+      "Shiho Fujii"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Skyward Sword/Skyloft.mmrs",
+    "preview": "https://www.youtube.com/watch?v=7YW_6rU5GFg"
+  },
+  {
+    "uuid": "706cb462-f2c6-4f7d-badf-1f4695a850dc",
+    "creationDate": "2026-03-14T15:52:29.330Z",
+    "game": "The Legend of Zelda: Skyward Sword",
+    "song": "Lumpy Pumpkin",
+    "composers": [
+      "Shiho Fujii"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Skyward Sword/Lumpy Pumpkin.mmrs",
+    "preview": "https://www.youtube.com/watch?v=I3VJ4TyGBKg"
+  },
+  {
+    "uuid": "44898cc8-2ce8-4440-9759-759a81716542",
+    "creationDate": "2026-03-14T15:53:26.008Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Kakariko Village",
+    "composers": [
+      "Toru Minegishi",
+      "Asuka Ohta"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Twilight Princess/Kakariko Village.mmrs",
+    "preview": "https://www.youtube.com/watch?v=xWbcgIq9LJw"
+  },
+  {
+    "uuid": "0523822f-1d14-47ed-b3bc-6d4cfbb4f3ec",
+    "creationDate": "2026-03-14T15:55:20.296Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Morpheel Battle, Second Half",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Twilight Princess/Morpheel Battle, Second Half.mmrs",
+    "preview": "https://www.youtube.com/watch?v=IlSpP7kNwZ0"
+  },
+  {
+    "uuid": "a2d8477c-05fd-4273-bcf5-b1e0ffb49cb2",
+    "creationDate": "2026-03-14T15:56:11.791Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Ordon Village",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Twilight Princess/Ordon Village.mmrs",
+    "preview": "https://www.youtube.com/watch?v=hDjQwRcKfQw"
+  },
+  {
+    "uuid": "969d3158-c32a-4bce-bf8e-50b8cd880c5f",
+    "creationDate": "2026-03-14T15:57:26.994Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Snowpeak Ruins",
+    "composers": [
+      "Toru Minegishi",
+      "Asuka Ohta"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Twilight Princess/Snowpeak Ruins.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Snowpeak Ruins.mp3"
+  },
+  {
+    "uuid": "9fa74d08-942e-4c80-a1d9-355bf72ec568",
+    "creationDate": "2026-03-14T16:01:36.052Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Temple of Time",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Twilight Princess/Temple of Time.mmrs",
+    "preview": "https://www.youtube.com/watch?v=-pzy0n_uAFs"
+  },
+  {
+    "uuid": "a160b386-bd0c-49ac-a110-e8dabd827ee7",
+    "creationDate": "2026-03-14T16:03:10.477Z",
+    "game": "Xenoblade Chronicles",
+    "song": "Frontier Village",
+    "composers": [
+      "Manami Kiyota"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Xenoblade Chronicles/Frontier Village.mmrs",
+    "preview": "https://www.youtube.com/watch?v=Hh0m7jYX03w"
+  },
+  {
+    "uuid": "12730283-f27d-4f8c-9f56-2286ebaae23b",
+    "creationDate": "2026-03-14T16:03:54.850Z",
+    "game": "Xenoblade Chronicles",
+    "song": "Gaur Plain",
+    "composers": [
+      "ACE+"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Xenoblade Chronicles/Gaur Plain.mmrs",
+    "preview": "https://www.youtube.com/watch?v=RiAjuWf8b-o"
+  },
+  {
+    "uuid": "000b0a80-c55e-4e4b-960b-96c1c023a7a4",
+    "creationDate": "2026-03-14T16:05:23.260Z",
+    "game": "Xenoblade Chronicles",
+    "song": "Hidden Machina Village",
+    "composers": [
+      "Manami Kiyota"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "114"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Xenoblade Chronicles/Hidden Machina Village.mmrs",
+    "preview": "https://www.youtube.com/watch?v=9sUSHDTZ7yw"
+  },
+  {
+    "uuid": "741b8135-338b-433e-9504-4a4380628b84",
+    "creationDate": "2026-03-14T16:06:45.153Z",
+    "game": "The Legend of Zelda: Four Swords Adventures",
+    "song": "Field Theme",
+    "composers": [
+      "Asuka Ohta",
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Four Swords Adventures/Field Theme.mmrs",
+    "preview": "https://www.youtube.com/watch?v=mQ7U1vbcwp4"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -8226,5 +8226,29 @@
     "file": "Old School RuneScape/Yesteryear.mmrs",
     "preview": "Old School RuneScape/Yesteryear.ogg"
   },
+  {
+    "uuid": "c440303e-0afb-485c-8e66-78c0e3cd0de0",
+    "creationDate": "2026-03-14T18:14:10.775Z",
+    "game": "Pokémon Pinball",
+    "song": "Blue Field",
+    "composers": [
+      "Go Ichinose"
+    ],
+    "converters": [
+      "WEEMS"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": true,
+    "file": "Pokémon Pinball/Blue Field.mmrs",
+    "preview": "Pokémon Pinball/Blue Field.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

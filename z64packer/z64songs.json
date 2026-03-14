@@ -6291,5 +6291,29 @@
     "file": "Mega Man & Bass/Robot Museum.mmrs",
     "preview": "https://www.youtube.com/watch?v=SZ8KmWnD49I"
   },
+  {
+    "uuid": "aa9fc57f-564c-4a34-8ee9-2ee69b3fe715",
+    "creationDate": "2026-03-14T01:59:24.049Z",
+    "game": "NieR Replicant",
+    "song": "Grandma",
+    "composers": [
+      "Keiichi Okabe"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "NieR Replicant/Grandma.mmrs",
+    "preview": "https://www.youtube.com/watch?v=eWLcDmDv3fk"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

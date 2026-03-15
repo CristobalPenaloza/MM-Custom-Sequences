@@ -8578,5 +8578,208 @@
     "file": "Super Smash Bros./Dream Land.mmrs",
     "preview": "Super Smash Bros./Dream Land.ogg"
   },
+  {
+    "uuid": "382151d4-a222-41f8-a90d-6b37d659e426",
+    "creationDate": "2026-03-15T02:18:02.225Z",
+    "game": "Sheriff Domestic",
+    "song": "Middle Dave",
+    "composers": [
+      "Davemension"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sheriff Domestic/Middle Dave.mmrs",
+    "preview": "Sheriff Domestic/Middle Dave.ogg"
+  },
+  {
+    "uuid": "925d827f-a067-4bb3-b3ef-e9d77ec90e91",
+    "creationDate": "2026-03-15T02:18:59.363Z",
+    "game": "Sheriff Domestic",
+    "song": "Boss",
+    "composers": [
+      "Davemension"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sheriff Domestic/Boss.mmrs",
+    "preview": "Sheriff Domestic/Boss.ogg"
+  },
+  {
+    "uuid": "e9cd3b00-9dfb-4b48-993b-1e0525eb821d",
+    "creationDate": "2026-03-15T02:19:34.025Z",
+    "game": "Sheriff Domestic",
+    "song": "Got Disk",
+    "composers": [
+      "Davemension"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sheriff Domestic/Got Disk.mmrs",
+    "preview": "Sheriff Domestic/Got Disk.ogg"
+  },
+  {
+    "uuid": "b8455ebe-d007-4a05-b131-0afd39ff9766",
+    "creationDate": "2026-03-15T02:21:00.937Z",
+    "game": "RoboCop",
+    "song": "Title Theme",
+    "composers": [
+      "Jonathan Dunn"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16",
+      "13C"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "RoboCop/Title Theme.mmrs",
+    "preview": "RoboCop/Title Theme.ogg"
+  },
+  {
+    "uuid": "ce81e1d5-52fd-4573-a984-4197a4e1d282",
+    "creationDate": "2026-03-15T02:24:24.566Z",
+    "game": "KinzokuMusic",
+    "song": "Warp A",
+    "composers": [
+      "KinzokuMusic"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "10"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "KinzokuMusic/Warp A.mmrs",
+    "preview": "KinzokuMusic/Warp A.ogg"
+  },
+  {
+    "uuid": "3f37b259-c109-46e1-859f-8670d466bce0",
+    "creationDate": "2026-03-15T02:28:14.077Z",
+    "game": "Old School RuneScape",
+    "song": "Ferox",
+    "composers": [
+      "Ian Taylor"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Old School RuneScape/Ferox.mmrs",
+    "preview": "Old School RuneScape/Ferox.ogg"
+  },
+  {
+    "uuid": "6d08a757-4622-4ae5-8247-b63336f1cc5b",
+    "creationDate": "2026-03-15T02:30:32.082Z",
+    "game": "Robotsonn",
+    "song": "Temple of the Gods",
+    "composers": [
+      "Robotsonn"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Robotsonn/Temple of the Gods.mmrs",
+    "preview": "Robotsonn/Temple of the Gods.ogg"
+  },
+  {
+    "uuid": "d4f9950d-4c6e-4749-91b8-7325075bb1b4",
+    "creationDate": "2026-03-15T02:32:01.960Z",
+    "game": "Sonic the Hedgehog Spinball",
+    "song": "Options Menu",
+    "composers": [
+      "Howard Drossin"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic the Hedgehog Spinball/Options Menu.mmrs",
+    "preview": "Sonic the Hedgehog Spinball/Options Menu.ogg"
+  },
+  {
+    "uuid": "284fb101-ba64-4d70-b5b7-ee0b70b35ad3",
+    "creationDate": "2026-03-15T02:33:24.475Z",
+    "game": "Robotsonn",
+    "song": "The Deep",
+    "composers": [
+      "Robotsonn"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Robotsonn/The Deep.mmrs",
+    "preview": "Robotsonn/The Deep.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

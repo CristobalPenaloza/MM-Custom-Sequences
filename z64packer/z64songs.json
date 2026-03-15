@@ -8578,5 +8578,29 @@
     "file": "Super Smash Bros./Dream Land.mmrs",
     "preview": "Super Smash Bros./Dream Land.ogg"
   },
+  {
+    "uuid": "382151d4-a222-41f8-a90d-6b37d659e426",
+    "creationDate": "2026-03-15T02:18:02.225Z",
+    "game": "Sheriff Domestic",
+    "song": "Middle Dave",
+    "composers": [
+      "Davemension"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sheriff Domestic/Middle Dave.mmrs",
+    "preview": "Sheriff Domestic/Middle Dave.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -8338,5 +8338,35 @@
     "file": "The Legend of Zelda Breath of the Wild/Dark Beast Ganon.mmrs",
     "preview": "The Legend of Zelda Breath of the Wild/Dark Beast Ganon.ogg"
   },
+  {
+    "uuid": "ca35a125-3ec3-43d5-8f92-b8425134468b",
+    "creationDate": "2026-03-15T00:53:36.733Z",
+    "game": "Donkey Kong 64",
+    "song": "Army Dillo 2",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Ultimario"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Donkey Kong 64/Army Dillo 2.mmrs",
+    "preview": "Donkey Kong 64/Army Dillo 2.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

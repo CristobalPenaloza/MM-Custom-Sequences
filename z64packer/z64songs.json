@@ -8548,5 +8548,35 @@
     "file": "Shadow the Hedgehog/I Am... All of Me.mmrs",
     "preview": "Shadow the Hedgehog/I Am... All of Me.ogg"
   },
+  {
+    "uuid": "c702fd9f-d94a-4f4b-a415-14b8153f160c",
+    "creationDate": "2026-03-15T01:03:28.118Z",
+    "game": "Super Smash Bros.",
+    "song": "Dream Land",
+    "composers": [
+      "Hirokazu Ando"
+    ],
+    "converters": [
+      "Ultimario"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Smash Bros./Dream Land.mmrs",
+    "preview": "Super Smash Bros./Dream Land.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

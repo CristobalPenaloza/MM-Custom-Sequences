@@ -8518,5 +8518,35 @@
     "file": "Kingdom Hearts/Dive into the Heart -Destati-.mmrs",
     "preview": "Kingdom Hearts/Dive into the Heart -Destati-.ogg"
   },
+  {
+    "uuid": "02e5799a-84a5-4c46-8f59-ac38e40eb4dc",
+    "creationDate": "2026-03-15T01:02:36.920Z",
+    "game": "Shadow the Hedgehog",
+    "song": "I Am... All of Me",
+    "composers": [
+      "Jun Senoue"
+    ],
+    "converters": [
+      "Ultimario"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Shadow the Hedgehog/I Am... All of Me.mmrs",
+    "preview": "Shadow the Hedgehog/I Am... All of Me.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

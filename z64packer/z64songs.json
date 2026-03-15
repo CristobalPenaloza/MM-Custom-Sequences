@@ -8737,5 +8737,27 @@
     "file": "Robotsonn/Temple of the Gods.mmrs",
     "preview": "Robotsonn/Temple of the Gods.ogg"
   },
+  {
+    "uuid": "d4f9950d-4c6e-4749-91b8-7325075bb1b4",
+    "creationDate": "2026-03-15T02:32:01.960Z",
+    "game": "Sonic the Hedgehog Spinball",
+    "song": "Options Menu",
+    "composers": [
+      "Howard Drossin"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic the Hedgehog Spinball/Options Menu.mmrs",
+    "preview": "Sonic the Hedgehog Spinball/Options Menu.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

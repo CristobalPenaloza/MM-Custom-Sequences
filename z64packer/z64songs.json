@@ -8670,5 +8670,27 @@
     "file": "RoboCop/Title Theme.mmrs",
     "preview": "RoboCop/Title Theme.ogg"
   },
+  {
+    "uuid": "ce81e1d5-52fd-4573-a984-4197a4e1d282",
+    "creationDate": "2026-03-15T02:24:24.566Z",
+    "game": "KinzokuMusic",
+    "song": "Warp A",
+    "composers": [
+      "KinzokuMusic"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "10"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "KinzokuMusic/Warp A.mmrs",
+    "preview": "KinzokuMusic/Warp A.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

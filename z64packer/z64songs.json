@@ -9554,5 +9554,28 @@
     "file": "Kirby Mass Attack/Clear Theme.mmrs",
     "preview": "Kirby Mass Attack/Clear Theme.ogg"
   },
+  {
+    "uuid": "f286b19a-0bce-4f17-8a5b-a80e21e10b6d",
+    "creationDate": "2026-03-16T22:57:11.246Z",
+    "game": "Kirby Mass Attack",
+    "song": "Ice",
+    "composers": [
+      "Shogo Sakai"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "7",
+      "126"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Kirby Mass Attack/Ice.mmrs",
+    "preview": "Kirby Mass Attack/Ice.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

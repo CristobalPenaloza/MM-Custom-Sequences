@@ -9648,5 +9648,27 @@
     "file": "Wario Land 4/Wildflower Fields.mmrs",
     "preview": "Wario Land 4/Wildflower Fields.ogg"
   },
+  {
+    "uuid": "667d22f9-ba5a-4722-a87d-d52cc961bb4d",
+    "creationDate": "2026-03-16T23:02:53.758Z",
+    "game": "Wario Land 4",
+    "song": "Hotel Horror",
+    "composers": [
+      "Ryoji Yoshitomi"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Wario Land 4/Hotel Horror.mmrs",
+    "preview": "Wario Land 4/Hotel Horror.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

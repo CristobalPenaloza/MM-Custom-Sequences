@@ -9484,5 +9484,28 @@
     "file": "Super Metroid/Escape.mmrs",
     "preview": "Super Metroid/Escape.ogg"
   },
+  {
+    "uuid": "800693a0-73c6-4db3-8574-4f2c75e9b207",
+    "creationDate": "2026-03-16T22:54:58.793Z",
+    "game": "Kirby Mass Attack",
+    "song": "Title Theme",
+    "composers": [
+      "Shogo Sakai"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Kirby Mass Attack/Title Theme.mmrs",
+    "preview": "Kirby Mass Attack/Title Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

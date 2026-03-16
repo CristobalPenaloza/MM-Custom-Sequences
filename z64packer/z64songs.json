@@ -9174,5 +9174,28 @@
     "file": "The Legend of Zelda/Temple Clear.mmrs",
     "preview": "The Legend of Zelda/Temple Clear.ogg"
   },
+  {
+    "uuid": "6267ccb8-3c26-4a5f-b2b4-b8b4b1d148fc",
+    "creationDate": "2026-03-16T22:32:38.673Z",
+    "game": "Zelda II: The Adventure of Link",
+    "song": "House",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Zelda II The Adventure of Link/House.mmrs",
+    "preview": "Zelda II The Adventure of Link/House.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

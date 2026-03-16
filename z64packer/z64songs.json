@@ -9925,5 +9925,30 @@
     "file": "Breath of Fire III/Do Your Best!.mmrs",
     "preview": "Breath of Fire III/Do Your Best!.ogg"
   },
+  {
+    "uuid": "a3d03a87-ef88-4349-a749-ed4d759676b6",
+    "creationDate": "2026-03-16T23:53:50.446Z",
+    "game": "Conker's Bad Fur Day",
+    "song": "Sloprano",
+    "composers": [
+      "Robin Beanland"
+    ],
+    "converters": [
+      "TheRealPixelShake"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4",
+      "7",
+      "130"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Conker's Bad Fur Day/Sloprano.mmrs",
+    "preview": "Conker's Bad Fur Day/Sloprano.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

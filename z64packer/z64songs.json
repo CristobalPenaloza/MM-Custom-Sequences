@@ -8852,5 +8852,29 @@
     "file": "Yoshi's Island DS/Wildlands.mmrs",
     "preview": "Yoshi's Island DS/Wildlands.ogg"
   },
+  {
+    "uuid": "f7f6b9a8-d596-4b17-895b-906c2469dc51",
+    "creationDate": "2026-03-16T00:03:18.922Z",
+    "game": "Mario Kart DS",
+    "song": "Waluigi Pinball",
+    "composers": [
+      "Shinobu Tanaka"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mario Kart DS/Waluigi Pinball.mmrs",
+    "preview": "Mario Kart DS/Waluigi Pinball.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

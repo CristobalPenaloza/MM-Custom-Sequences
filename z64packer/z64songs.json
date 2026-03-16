@@ -9130,5 +9130,27 @@
     "file": "The Legend of Zelda/Dungeon.mmrs",
     "preview": "The Legend of Zelda/Dungeon.ogg"
   },
+  {
+    "uuid": "5a79483e-7305-44db-9c83-612d08c75ac1",
+    "creationDate": "2026-03-16T00:25:01.994Z",
+    "game": "The Legend of Zelda",
+    "song": "Death Mountain",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda/Death Mountain.mmrs",
+    "preview": "The Legend of Zelda/Death Mountain.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

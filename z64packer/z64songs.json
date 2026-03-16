@@ -8804,5 +8804,29 @@
     "file": "Mega Man ZX/Area A.mmrs",
     "preview": "Mega Man ZX/Area A.ogg"
   },
+  {
+    "uuid": "7cdfb057-e3f0-4547-87d6-69ef421b313c",
+    "creationDate": "2026-03-16T00:00:29.128Z",
+    "game": "Nokia 1208",
+    "song": "Espionage",
+    "composers": [
+      "Mikko Tillander"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Nokia 1208/Espionage.mmrs",
+    "preview": "Nokia 1208/Espionage.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -8899,5 +8899,28 @@
     "file": "Super Mario World 2 Yoshi's Island/Athletic.mmrs",
     "preview": "Super Mario World 2 Yoshi's Island/Athletic.ogg"
   },
+  {
+    "uuid": "4a899fbd-4411-44ab-b4f5-7dfb245c910c",
+    "creationDate": "2026-03-16T00:05:35.563Z",
+    "game": "Super Mario World 2: Yoshi's Island",
+    "song": "Flower Garden",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario World 2 Yoshi's Island/Flower Garden.mmrs",
+    "preview": "Super Mario World 2 Yoshi's Island/Flower Garden.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

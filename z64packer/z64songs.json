@@ -9829,5 +9829,30 @@
     "file": "EarthBound Beginnings/Flippant.mmrs",
     "preview": "EarthBound Beginnings/Flippant.ogg"
   },
+  {
+    "uuid": "8c773d9c-fa74-4a8e-90e9-18eea13bd0cd",
+    "creationDate": "2026-03-16T23:17:40.636Z",
+    "game": "EarthBound Beginnings",
+    "song": "Friends",
+    "composers": [
+      "Keiichi Suzuki",
+      "Hirokazu Tanaka"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "EarthBound Beginnings/Friends.mmrs",
+    "preview": "EarthBound Beginnings/Friends.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

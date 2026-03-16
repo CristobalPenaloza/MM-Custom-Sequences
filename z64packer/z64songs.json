@@ -8828,5 +8828,29 @@
     "file": "Nokia 1208/Espionage.mmrs",
     "preview": "Nokia 1208/Espionage.ogg"
   },
+  {
+    "uuid": "39b1af16-46d3-4580-81ef-dd6905a7ee78",
+    "creationDate": "2026-03-16T00:02:00.879Z",
+    "game": "Yoshi's Island DS",
+    "song": "Wildlands",
+    "composers": [
+      "Chamy Ishi",
+      "Yutaka Minobe"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Yoshi's Island DS/Wildlands.mmrs",
+    "preview": "Yoshi's Island DS/Wildlands.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

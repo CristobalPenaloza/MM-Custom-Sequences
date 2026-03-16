@@ -9738,5 +9738,27 @@
     "file": "Zelda II The Adventure of Link/Encounter.mmrs",
     "preview": "Zelda II The Adventure of Link/Encounter.ogg"
   },
+  {
+    "uuid": "58e321b9-a385-45ac-9ade-b20c70cf5b74",
+    "creationDate": "2026-03-16T23:12:01.906Z",
+    "game": "Zelda II: The Adventure of Link",
+    "song": "Field",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Zelda II The Adventure of Link/Field.mmrs",
+    "preview": "Zelda II The Adventure of Link/Field.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

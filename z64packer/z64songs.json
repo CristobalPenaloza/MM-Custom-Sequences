@@ -9760,5 +9760,28 @@
     "file": "Zelda II The Adventure of Link/Field.mmrs",
     "preview": "Zelda II The Adventure of Link/Field.ogg"
   },
+  {
+    "uuid": "c2da51eb-c7ab-4960-a481-54e6a0f93649",
+    "creationDate": "2026-03-16T23:12:34.529Z",
+    "game": "Zelda II: The Adventure of Link",
+    "song": "Town",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Zelda II The Adventure of Link/Town.mmrs",
+    "preview": "Zelda II The Adventure of Link/Town.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -9950,5 +9950,28 @@
     "file": "Conker's Bad Fur Day/Sloprano.mmrs",
     "preview": "Conker's Bad Fur Day/Sloprano.mp3"
   },
+  {
+    "uuid": "f98abb28-c894-4d9d-a465-566a6826ddfe",
+    "creationDate": "2026-03-16T23:55:10.521Z",
+    "game": "Donkey Kong 64",
+    "song": "Angry Aztec",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "TheRealPixelShake"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Donkey Kong 64/Angry Aztec.mmrs",
+    "preview": "Donkey Kong 64/Angry Aztec.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

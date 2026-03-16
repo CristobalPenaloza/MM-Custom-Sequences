@@ -9783,5 +9783,27 @@
     "file": "Zelda II The Adventure of Link/Town.mmrs",
     "preview": "Zelda II The Adventure of Link/Town.ogg"
   },
+  {
+    "uuid": "d4fbe75e-db25-4d59-bd85-e89469357d2d",
+    "creationDate": "2026-03-16T23:13:16.736Z",
+    "game": "Zelda II: The Adventure of Link",
+    "song": "Temple (Variant A)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Zelda II The Adventure of Link/Temple (Variant A).mmrs",
+    "preview": "Zelda II The Adventure of Link/Temple (Variant A).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

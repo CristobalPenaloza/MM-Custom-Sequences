@@ -9268,5 +9268,31 @@
     "file": "Pokémon Mystery Dungeon Explorers of Sky/Dialga.mmrs",
     "preview": "Pokémon Mystery Dungeon Explorers of Sky/Dialga.ogg"
   },
+  {
+    "uuid": "42707c58-dbd6-4cbd-8a5b-8c178ceab200",
+    "creationDate": "2026-03-16T22:37:05.711Z",
+    "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "song": "Highland",
+    "composers": [
+      "Arata Iiyoshi",
+      "Keisuke Ito",
+      "and Hideki Sakamoto"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Mystery Dungeon Explorers of Sky/Highland.mmrs",
+    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Highland.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

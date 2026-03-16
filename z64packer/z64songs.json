@@ -8922,5 +8922,27 @@
     "file": "Super Mario World 2 Yoshi's Island/Flower Garden.mmrs",
     "preview": "Super Mario World 2 Yoshi's Island/Flower Garden.ogg"
   },
+  {
+    "uuid": "e8fd1bf1-edff-4d94-b59c-7a6174be46a2",
+    "creationDate": "2026-03-16T00:06:40.797Z",
+    "game": "Robotsonn",
+    "song": "Temple of Ages",
+    "composers": [
+      "Robotsonn"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Robotsonn/Temple of Ages.mmrs",
+    "preview": "Robotsonn/Temple of Ages.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

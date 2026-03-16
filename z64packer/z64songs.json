@@ -9461,5 +9461,28 @@
     "file": "Super Metroid/Item Acquisition.mmrs",
     "preview": "Super Metroid/Item Acquisition.ogg"
   },
+  {
+    "uuid": "3c0f217e-e10c-409d-8693-04e10094b9eb",
+    "creationDate": "2026-03-16T22:53:56.937Z",
+    "game": "Super Metroid",
+    "song": "Escape",
+    "composers": [
+      "Kenji Yamamoto"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "7",
+      "157"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Metroid/Escape.mmrs",
+    "preview": "Super Metroid/Escape.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

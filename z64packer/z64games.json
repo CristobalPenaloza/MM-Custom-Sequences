@@ -2786,5 +2786,11 @@
     "series": "Mega Man Series",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/5c6ef67e6079f0cdd640a5ad7c288e36.png"
   },
+  {
+    "game": "EarthBound Beginnings"
+  },
+  {
+    "game": "Nokia 1208"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

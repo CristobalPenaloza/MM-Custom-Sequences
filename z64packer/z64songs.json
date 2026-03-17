@@ -10955,5 +10955,27 @@
     "file": "Sonic the Hedgehog (2006)/Solaris Phase 2.mmrs",
     "preview": "Sonic the Hedgehog (2006)/Solaris Phase 2.ogg"
   },
+  {
+    "uuid": "899a221b-0bc2-4d54-a329-963ca773ff09",
+    "creationDate": "2026-03-17T16:42:05.677Z",
+    "game": "Sonic Chronicles: The Dark Brotherhood",
+    "song": "Central City",
+    "composers": [
+      "Steven Sim"
+    ],
+    "converters": [
+      "The Sound Defense"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic Chronicles The Dark Brotherhood/Central City.mmrs",
+    "preview": "Sonic Chronicles The Dark Brotherhood/Central City.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -9998,5 +9998,31 @@
     "file": "Donkey Kong 64/Creepy Castle.mmrs",
     "preview": "Donkey Kong 64/Creepy Castle.mp3"
   },
+  {
+    "uuid": "9a48b51e-167c-4d7e-8381-76c21724af00",
+    "creationDate": "2026-03-17T00:01:55.556Z",
+    "game": "Donkey Kong 64",
+    "song": "Funky's Armoury",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "TheRealPixelShake"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4",
+      "12E",
+      "130",
+      "144"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Donkey Kong 64/Funky's Armoury.mmrs",
+    "preview": "Donkey Kong 64/Funky's Armoury.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

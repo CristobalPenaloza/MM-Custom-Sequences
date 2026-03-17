@@ -3810,14 +3810,14 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Consoles and BIOS/Gamecube Intro.mmrs",
-    "preview": "Consoles and BIOS/Gamecube Intro.mp3"
+    "file": "Consoles and BIOS/Gamecube - Intro.mmrs",
+    "preview": "Consoles and BIOS/Gamecube - Intro.mp3"
   },
   {
     "uuid": "edac3861-160c-4488-b760-434780b93687",
     "creationDate": "2026-03-12T04:28:19.448Z",
     "game": "Consoles and BIOS",
-    "song": "Windows - Start Up",
+    "song": "Windows XP - Start Up",
     "composers": [
       "Brian Eno"
     ],
@@ -3833,14 +3833,14 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Consoles and BIOS/Windows Start Up.mmrs",
-    "preview": "Consoles and BIOS/Windows Start Up.mp3"
+    "file": "Consoles and BIOS/Windows XP - Start Up.mmrs",
+    "preview": "Consoles and BIOS/Windows XP - Start Up.mp3"
   },
   {
     "uuid": "2de9037e-0b8a-4f7c-907d-22f693b09f38",
     "creationDate": "2026-03-12T04:29:15.366Z",
     "game": "Consoles and BIOS",
-    "song": "Windows - Shut Down",
+    "song": "Windows XP - Shut Down",
     "composers": [
       "Brian Eno"
     ],
@@ -3856,8 +3856,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Consoles and BIOS/Windows - Shut Down.mmrs",
-    "preview": "Consoles and BIOS/Windows - Shut Down.mp3"
+    "file": "Consoles and BIOS/Windows XP - Shut Down.mmrs",
+    "preview": "Consoles and BIOS/Windows XP - Shut Down.mp3"
   },
   {
     "uuid": "2ee60c63-5b53-4249-8f5c-2fec54cabff1",
@@ -8807,8 +8807,8 @@
   {
     "uuid": "7cdfb057-e3f0-4547-87d6-69ef421b313c",
     "creationDate": "2026-03-16T00:00:29.128Z",
-    "game": "Nokia 1208",
-    "song": "Espionage",
+    "game": "Consoles and BIOS",
+    "song": "Nokia 1208 - Espionage",
     "composers": [
       "Mikko Tillander"
     ],
@@ -8825,8 +8825,8 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Nokia 1208/Espionage.mmrs",
-    "preview": "Nokia 1208/Espionage.ogg"
+    "file": "Consoles and BIOS/Nokia 1208 - Espionage.mmrs",
+    "preview": "Consoles and BIOS/Nokia 1208 - Espionage.ogg"
   },
   {
     "uuid": "39b1af16-46d3-4580-81ef-dd6905a7ee78",
@@ -10562,7 +10562,7 @@
   {
     "uuid": "2a362772-ab83-4c3d-b41d-3e1bd1bc22ac",
     "creationDate": "2026-03-17T00:48:24.832Z",
-    "game": "Wonder Boy: The Dragon's Trap",
+    "game": "Wonder Boy III: The Dragon's Trap",
     "song": "Last Dungeon",
     "composers": [
       "Shinichi Sakamoto"
@@ -10579,8 +10579,8 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Wonder Boy The Dragon's Trap/Last Dungeon.mmrs",
-    "preview": "Wonder Boy The Dragon's Trap/Last Dungeon.mp3"
+    "file": "Wonder Boy III The Dragon's Trap/Last Dungeon.mmrs",
+    "preview": "Wonder Boy III The Dragon's Trap/Last Dungeon.mp3"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -149,6 +149,7 @@
   },
   {
     "game": "Breath of Fire II",
+    "series": "Breath of Fire Series",
     "logo": "https://upload.wikimedia.org/wikipedia/en/c/c5/Breath_of_Fire_logo.png"
   },
   {
@@ -2550,7 +2551,7 @@
   {
     "game": "Dark Souls",
     "series": "Dark Souls Series",
-    "logo": "https://p325k7wa.twic.pics/high/dark-souls/dark-souls-1/00-page-setup/ds1_logo.png"
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/1f9a72a09b50fed7cde992033530b7c0.png"
   },
   {
     "game": "Super Spamton 64",
@@ -2560,7 +2561,7 @@
   {
     "game": "Pokémon Scarlet & Violet",
     "series": "Pokémon Series",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/2/23/Pok%C3%A9mon_Scarlet_%28US_Logo_2%29.png"
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/f4791973a5e61fb90ebb6944348dccd4.png"
   },
   {
     "game": "Fire Emblem: Three Houses",
@@ -2602,7 +2603,7 @@
   {
     "game": "Halo: Combat Evolved",
     "series": "Halo Series",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/8/82/HaloCombatEvolved.png"
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/d56b9fc4b0f1be8871f5e1c40c0067e7.png"
   },
   {
     "game": "OFF",
@@ -2625,7 +2626,7 @@
   {
     "game": "Hyrule Warriors: Age of Calamity",
     "series": "Hyrule Warriors Series",
-    "logo": "https://zelda.nintendo.com/hyrule-warriors/nav-logo-f2db3fa5ed7a5c5d1f5d50b1d7ab82e2.png"
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/7bb7e519af19c2507c2a9bce7cad6fab.png"
   },
   {
     "game": "Metroid",
@@ -2635,7 +2636,7 @@
   {
     "game": "Paper Mario: The Origami King",
     "series": "Paper Mario Series",
-    "logo": "https://assets.nintendo.eu/image/upload/f_auto,q_auto,w_767/v1616771869/MNS/Content%20Pages%20Assets/Category-List%20Pages/Franchises/SuperMario/16.9_Switch_PaperMarioTheOrigamiKing_Logo_enNOE.png"
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/9ae10fb573b7027df2bd5f4bfb02af75.png"
   },
   {
     "game": "Pokémon HeartGold & SoulSilver",
@@ -2649,7 +2650,7 @@
   {
     "game": "The Legend of Zelda: A Link Between Worlds",
     "series": "The Legend of Zelda Series",
-    "logo": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/c/ca/ALBW_English_Logo.png"
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/1ce5e897cda6aeb211dffe8d514f4365.png"
   },
   {
     "game": "New Super Mario Bros. Wii",
@@ -2787,34 +2788,43 @@
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/5c6ef67e6079f0cdd640a5ad7c288e36.png"
   },
   {
-    "game": "EarthBound Beginnings"
+    "game": "EarthBound Beginnings",
+    "series": "EarthBound Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/28906041af66e9058de9fde01d54540d.png"
   },
   {
-    "game": "Nokia 1208"
+    "game": "Chip's Challenege",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/66fb527fd84f0c26c5e7ad1b730d33b8.png"
   },
   {
-    "game": "Chip's Challenege"
+    "game": "Terranigma",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/1cfcf0911a356ff7dec8682d2c5cdbaa.png"
   },
   {
-    "game": "Terranigma"
+    "game": "Super Meat Boy",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/fccb60fb512d13df5083790d64c4d5dd.png"
   },
   {
-    "game": "Super Meat Boy"
+    "game": "Breath of Fire III",
+    "series": "Breath of Fire Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/4097387ff1509948b7ce62b34e2e3c5c.png"
   },
   {
-    "game": "Breath of Fire III"
+    "game": "Wonder Boy III: The Dragon's Trap",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/708985cc1d6977124e38b27ee7cba1f2.png"
   },
   {
-    "game": "Wonder Boy: The Dragon's Trap"
+    "game": "Illusion of Gaia",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/fb8e951171a961a823a8f4081a5d8c08.png"
   },
   {
-    "game": "Illusion of Gaia"
+    "game": "Mega Man X2",
+    "series": "Mega Man Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/e6fa05c07b144b6ff4d1fd1cd2bbb244.png"
   },
   {
-    "game": "Mega Man X2"
-  },
-  {
-    "game": "Bastion"
+    "game": "Bastion",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/b7f3b8bcd964f9e44b212cceabacf877.png"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

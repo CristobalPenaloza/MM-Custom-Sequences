@@ -11069,5 +11069,29 @@
     "file": "EarthBound Beginnings/Pollyanna.mmrs",
     "preview": "EarthBound Beginnings/Pollyanna.ogg"
   },
+  {
+    "uuid": "62764d1d-12b4-4a12-a50e-e69433ec7057",
+    "creationDate": "2026-03-17T23:43:41.627Z",
+    "game": "EarthBound Beginnings",
+    "song": "Hippy",
+    "composers": [
+      "Keiichi Suzuki",
+      "Hirokazu Tanaka"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "EarthBound Beginnings/Hippy.mmrs",
+    "preview": "EarthBound Beginnings/Hippy.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

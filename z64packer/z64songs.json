@@ -10909,5 +10909,29 @@
     "file": "Sonic the Hedgehog/Chaos Emerald.mmrs",
     "preview": "Sonic the Hedgehog/Chaos Emerald.ogg"
   },
+  {
+    "uuid": "792ce56e-5302-4629-8f87-ea1cd2d30cb2",
+    "creationDate": "2026-03-17T16:38:52.821Z",
+    "game": "Sonic the Hedgehog",
+    "song": "Star Light Zone",
+    "composers": [
+      "Masato Nakamura"
+    ],
+    "converters": [
+      "The Sound Defense"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic the Hedgehog/Star Light Zone.mmrs",
+    "preview": "Sonic the Hedgehog/Star Light Zone.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

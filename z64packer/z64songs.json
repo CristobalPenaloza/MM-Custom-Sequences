@@ -10255,5 +10255,28 @@
     "file": "Kingdom Hearts II/Waltz of the Damned.mmrs",
     "preview": "Kingdom Hearts II/Waltz of the Damned.mp3"
   },
+  {
+    "uuid": "ecbf7ec9-173a-49f4-a6c5-1671b0d00493",
+    "creationDate": "2026-03-17T00:19:07.974Z",
+    "game": "Mega Man Legends",
+    "song": "Apple Market",
+    "composers": [
+      "Makoto Tomozawa"
+    ],
+    "converters": [
+      "TheRealPixelShake"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mega Man Legends/Apple Market.mmrs",
+    "preview": "Mega Man Legends/Apple Market.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

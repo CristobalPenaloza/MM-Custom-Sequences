@@ -9877,5 +9877,710 @@
     "file": "Super Mario RPG Legend of the Seven Stars/And My Name's Booster.mmrs",
     "preview": "Super Mario RPG Legend of the Seven Stars/And My Name's Booster.ogg"
   },
+  {
+    "uuid": "7f4eff14-5945-4a55-984f-f75492e49e83",
+    "creationDate": "2026-03-16T23:48:22.833Z",
+    "game": "Bastion",
+    "song": "Mother, I'm Here (Zulf's Theme)",
+    "composers": [
+      "Darren Korb"
+    ],
+    "converters": [
+      "TheRealPixelShake"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "12E"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Bastion/Mother, I'm Here (Zulf's Theme).mmrs",
+    "preview": "Bastion/Mother, I'm Here (Zulf's Theme).ogg"
+  },
+  {
+    "uuid": "6a1ead7e-7401-44ea-943b-ee11477bbf74",
+    "creationDate": "2026-03-16T23:51:50.845Z",
+    "game": "Breath of Fire III",
+    "song": "Do Your Best!",
+    "composers": [
+      "Yoshino Aoki",
+      "Akari Kaida"
+    ],
+    "converters": [
+      "TheRealPixelShake"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "11A",
+      "138"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Breath of Fire III/Do Your Best!.mmrs",
+    "preview": "Breath of Fire III/Do Your Best!.ogg"
+  },
+  {
+    "uuid": "a3d03a87-ef88-4349-a749-ed4d759676b6",
+    "creationDate": "2026-03-16T23:53:50.446Z",
+    "game": "Conker's Bad Fur Day",
+    "song": "Sloprano",
+    "composers": [
+      "Robin Beanland"
+    ],
+    "converters": [
+      "TheRealPixelShake"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4",
+      "7",
+      "130"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Conker's Bad Fur Day/Sloprano.mmrs",
+    "preview": "Conker's Bad Fur Day/Sloprano.mp3"
+  },
+  {
+    "uuid": "f98abb28-c894-4d9d-a465-566a6826ddfe",
+    "creationDate": "2026-03-16T23:55:10.521Z",
+    "game": "Donkey Kong 64",
+    "song": "Angry Aztec",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "TheRealPixelShake"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Donkey Kong 64/Angry Aztec.mmrs",
+    "preview": "Donkey Kong 64/Angry Aztec.mp3"
+  },
+  {
+    "uuid": "79651545-7ee2-4c20-b884-cb86f85614cf",
+    "creationDate": "2026-03-17T00:00:23.669Z",
+    "game": "Donkey Kong 64",
+    "song": "Creepy Castle",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "TheRealPixelShake"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "16F"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": true,
+    "file": "Donkey Kong 64/Creepy Castle.mmrs",
+    "preview": "Donkey Kong 64/Creepy Castle.mp3"
+  },
+  {
+    "uuid": "9a48b51e-167c-4d7e-8381-76c21724af00",
+    "creationDate": "2026-03-17T00:01:55.556Z",
+    "game": "Donkey Kong 64",
+    "song": "Funky's Armoury",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "TheRealPixelShake"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4",
+      "12E",
+      "130",
+      "144"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Donkey Kong 64/Funky's Armoury.mmrs",
+    "preview": "Donkey Kong 64/Funky's Armoury.mp3"
+  },
+  {
+    "uuid": "492b9840-4eba-43ed-bcf1-d4386280fa93",
+    "creationDate": "2026-03-17T00:03:12.113Z",
+    "game": "Donkey Kong 64",
+    "song": "King Kut Out",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "TheRealPixelShake"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Donkey Kong 64/King Kut Out.mmrs",
+    "preview": "Donkey Kong 64/King Kut Out.mp3"
+  },
+  {
+    "uuid": "67b53566-74b0-4be1-92e3-ede27a95c4c5",
+    "creationDate": "2026-03-17T00:06:13.843Z",
+    "game": "Donkey Kong Country 2: Diddy's Kong Quest",
+    "song": "Token Tango",
+    "composers": [
+      "David Wise"
+    ],
+    "converters": [
+      "TheRealPixelShake"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Donkey Kong Country 2 Diddy's Kong Quest/Token Tango.mmrs",
+    "preview": "Donkey Kong Country 2 Diddy's Kong Quest/Token Tango.mp3"
+  },
+  {
+    "uuid": "24a1800a-1e98-43b6-8240-bca8b25df26f",
+    "creationDate": "2026-03-17T00:07:51.157Z",
+    "game": "Donkey Kong Country 2: Diddy's Kong Quest",
+    "song": "Krook's March",
+    "composers": [
+      "David Wise"
+    ],
+    "converters": [
+      "TheRealPixelShake"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "2",
+      "157"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Donkey Kong Country 2 Diddy's Kong Quest/Krook's March.mmrs",
+    "preview": "Donkey Kong Country 2 Diddy's Kong Quest/Krook's March.mp3"
+  },
+  {
+    "uuid": "bf36d3a4-b932-4445-9f2c-6b1c3669e82e",
+    "creationDate": "2026-03-17T00:09:14.833Z",
+    "game": "Donkey Kong Country 2: Diddy's Kong Quest",
+    "song": "Lockjaw's Saga",
+    "composers": [
+      "David Wise"
+    ],
+    "converters": [
+      "TheRealPixelShake"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Donkey Kong Country 2 Diddy's Kong Quest/Lockjaw's Saga.mmrs",
+    "preview": "Donkey Kong Country 2 Diddy's Kong Quest/Lockjaw's Saga.mp3"
+  },
+  {
+    "uuid": "7b1362df-5f3b-43f2-90d3-987371eff0da",
+    "creationDate": "2026-03-17T00:10:40.656Z",
+    "game": "Donkey Kong Country 2: Diddy's Kong Quest",
+    "song": "Welcome To Crocodile Isle",
+    "composers": [
+      "David Wise"
+    ],
+    "converters": [
+      "TheRealPixelShake"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Donkey Kong Country 2 Diddy's Kong Quest/Welcome To Crocodile Isle.mmrs",
+    "preview": "Donkey Kong Country 2 Diddy's Kong Quest/Welcome To Crocodile Isle.mp3"
+  },
+  {
+    "uuid": "016f7ea3-b8b6-4189-a1a7-31a1075d8133",
+    "creationDate": "2026-03-17T00:12:25.810Z",
+    "game": "Donkey Kong Country 2: Diddy's Kong Quest",
+    "song": "Snakey Chantey",
+    "composers": [
+      "David Wise"
+    ],
+    "converters": [
+      "TheRealPixelShake"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "13A"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Donkey Kong Country 2 Diddy's Kong Quest/Snakey Chantey.mmrs",
+    "preview": "Donkey Kong Country 2 Diddy's Kong Quest/Snakey Chantey.mp3"
+  },
+  {
+    "uuid": "68e1a425-b737-43ab-b3de-71e8a181188a",
+    "creationDate": "2026-03-17T00:13:33.500Z",
+    "game": "Dark Souls",
+    "song": "Gwyn, Lord of Cinder (TheRealPixelShake version)",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "TheRealPixelShake"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "157"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Dark Souls/Gwyn, Lord of Cinder (TheRealPixelShake version).mmrs",
+    "preview": "Dark Souls/Gwyn, Lord of Cinder (TheRealPixelShake version).mp3"
+  },
+  {
+    "uuid": "5d0ed42e-e01e-4f74-b058-fca4a9c0b000",
+    "creationDate": "2026-03-17T00:14:30.697Z",
+    "game": "Hollow Knight",
+    "song": "Mantis Lords",
+    "composers": [
+      "Christopher Larkin"
+    ],
+    "converters": [
+      "TheRealPixelShake"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "7",
+      "11B"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Hollow Knight/Mantis Lords.mmrs",
+    "preview": "Hollow Knight/Mantis Lords.mp3"
+  },
+  {
+    "uuid": "136f6f2c-337b-4134-9669-c2168e0c81ac",
+    "creationDate": "2026-03-17T00:16:37.097Z",
+    "game": "Illusion of Gaia",
+    "song": "Clash of Light and Shadow",
+    "composers": [
+      "Yasuhiro Kawasaki"
+    ],
+    "converters": [
+      "TheRealPixelShake"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "7",
+      "118"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Illusion of Gaia/Clash of Light and Shadow.mmrs",
+    "preview": "Illusion of Gaia/Clash of Light and Shadow.mp3"
+  },
+  {
+    "uuid": "8ab0cc84-5e3b-432f-b4d3-0dd9c635b7ca",
+    "creationDate": "2026-03-17T00:17:44.826Z",
+    "game": "Kingdom Hearts II",
+    "song": "Waltz of the Damned",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "TheRealPixelShake"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Kingdom Hearts II/Waltz of the Damned.mmrs",
+    "preview": "Kingdom Hearts II/Waltz of the Damned.mp3"
+  },
+  {
+    "uuid": "ecbf7ec9-173a-49f4-a6c5-1671b0d00493",
+    "creationDate": "2026-03-17T00:19:07.974Z",
+    "game": "Mega Man Legends",
+    "song": "Apple Market",
+    "composers": [
+      "Makoto Tomozawa"
+    ],
+    "converters": [
+      "TheRealPixelShake"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mega Man Legends/Apple Market.mmrs",
+    "preview": "Mega Man Legends/Apple Market.mp3"
+  },
+  {
+    "uuid": "c4f40289-fdc3-4527-932a-6ab0dcf19136",
+    "creationDate": "2026-03-17T00:23:05.728Z",
+    "game": "Mega Man X2",
+    "song": "Zero's Theme Intro",
+    "composers": [
+      "Yuki Iwai"
+    ],
+    "converters": [
+      "TheRealPixelShake"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "121",
+      "122",
+      "124",
+      "137",
+      "139",
+      "141"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mega Man X2/Zero's Theme Intro.mmrs",
+    "preview": "Mega Man X2/Zero's Theme Intro.mp3"
+  },
+  {
+    "uuid": "3e9e3331-2cab-4908-ac07-b9ced3705256",
+    "creationDate": "2026-03-17T00:24:10.087Z",
+    "game": "Mega Man Zero 4",
+    "song": "Falling Down",
+    "composers": [
+      "Shinichi Itakura"
+    ],
+    "converters": [
+      "TheRealPixelShake"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "157",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mega Man Zero 4/Falling Down.mmrs",
+    "preview": "Mega Man Zero 4/Falling Down.ogg"
+  },
+  {
+    "uuid": "8e8bda91-c47b-4d90-bd77-9292b4930c05",
+    "creationDate": "2026-03-17T00:26:20.116Z",
+    "game": "Mega Man Battle Network 3",
+    "song": "Farewell",
+    "composers": [
+      "Yoshino Aoki"
+    ],
+    "converters": [
+      "TheRealPixelShake"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "4",
+      "5",
+      "7",
+      "157"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mega Man Battle Network 3/Farewell.mmrs",
+    "preview": "Mega Man Battle Network 3/Farewell.mp3"
+  },
+  {
+    "uuid": "38e377a2-ae3c-4143-9e9a-4bf1d518eb42",
+    "creationDate": "2026-03-17T00:31:00.236Z",
+    "game": "Professor Layton and the Curious Village",
+    "song": "Professor Layton's Theme",
+    "composers": [
+      "Tomohito Nishiura"
+    ],
+    "converters": [
+      "TheRealPixelShake"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Professor Layton and the Curious Village/Professor Layton's Theme.mmrs",
+    "preview": "Professor Layton and the Curious Village/Professor Layton's Theme.mp3"
+  },
+  {
+    "uuid": "45df697e-0c71-469b-96a0-1d29133c090e",
+    "creationDate": "2026-03-17T00:31:59.410Z",
+    "game": "Professor Layton and the Curious Village",
+    "song": "Puzzles",
+    "composers": [
+      "Tomohito Nishiura"
+    ],
+    "converters": [
+      "TheRealPixelShake"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4",
+      "118"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Professor Layton and the Curious Village/Puzzles.mmrs",
+    "preview": "Professor Layton and the Curious Village/Puzzles.mp3"
+  },
+  {
+    "uuid": "db67b04d-3edb-4a54-ad2d-4a1c86895bc3",
+    "creationDate": "2026-03-17T00:34:57.102Z",
+    "game": "Professor Layton and the Curious Village",
+    "song": "The Village Awakens",
+    "composers": [
+      "Tomohito Nishiura"
+    ],
+    "converters": [
+      "TheRealPixelShake"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4",
+      "115",
+      "116",
+      "117",
+      "118"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Professor Layton and the Curious Village/The Village Awakens.mmrs",
+    "preview": "Professor Layton and the Curious Village/The Village Awakens.mp3"
+  },
+  {
+    "uuid": "b910a89b-10a5-4d7e-bff3-e512acb4d5b8",
+    "creationDate": "2026-03-17T00:36:59.408Z",
+    "game": "Professor Layton and the Last Specter",
+    "song": "Theme of the Last Battle",
+    "composers": [
+      "Tomohito Nishiura"
+    ],
+    "converters": [
+      "TheRealPixelShake"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "11B",
+      "16A",
+      "16B",
+      "138",
+      "169"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Professor Layton and the Last Specter/Theme of the Last Battle.mmrs",
+    "preview": "Professor Layton and the Last Specter/Theme of the Last Battle.mp3"
+  },
+  {
+    "uuid": "b723e6aa-0cde-4944-a39f-ecbe5f1a159b",
+    "creationDate": "2026-03-17T00:38:31.955Z",
+    "game": "Pokémon Scarlet & Violet",
+    "song": "Making a Sandwich",
+    "composers": [
+      "Hitomi Sato"
+    ],
+    "converters": [
+      "TheRealPixelShake"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4",
+      "10E"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Scarlet & Violet/Making a Sandwich.mmrs",
+    "preview": "Pokémon Scarlet & Violet/Making a Sandwich.mp3"
+  },
+  {
+    "uuid": "896d6ec3-d19b-418b-b8cd-fab38f3f9844",
+    "creationDate": "2026-03-17T00:41:18.434Z",
+    "game": "Super Mario World 2: Yoshi's Island",
+    "song": "Underground Theme",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "TheRealPixelShake"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "10C",
+      "102"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario World 2 Yoshi's Island/Underground Theme.mmrs",
+    "preview": "Super Mario World 2 Yoshi's Island/Underground Theme.mp3"
+  },
+  {
+    "uuid": "be191f3a-6394-45a9-9ba2-86ee402da303",
+    "creationDate": "2026-03-17T00:45:28.540Z",
+    "game": "Super Meat Boy",
+    "song": "McLarty Party People",
+    "composers": [
+      "Danny Baranowsky"
+    ],
+    "converters": [
+      "TheRealPixelShake"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "7",
+      "13B",
+      "138"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Meat Boy/McLarty Party People.mmrs",
+    "preview": "Super Meat Boy/McLarty Party People.ogg"
+  },
+  {
+    "uuid": "6d8422e1-82ae-49e5-8e08-61fc06cf439c",
+    "creationDate": "2026-03-17T00:47:08.119Z",
+    "game": "Terranigma",
+    "song": "Call at a Port",
+    "composers": [
+      "Miyoko Takaoka",
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "TheRealPixelShake"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6",
+      "157"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Terranigma/Call at a Port.mmrs",
+    "preview": "Terranigma/Call at a Port.mp3"
+  },
+  {
+    "uuid": "2a362772-ab83-4c3d-b41d-3e1bd1bc22ac",
+    "creationDate": "2026-03-17T00:48:24.832Z",
+    "game": "Wonder Boy: The Dragon's Trap",
+    "song": "Last Dungeon",
+    "composers": [
+      "Shinichi Sakamoto"
+    ],
+    "converters": [
+      "TheRealPixelShake"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Wonder Boy The Dragon's Trap/Last Dungeon.mmrs",
+    "preview": "Wonder Boy The Dragon's Trap/Last Dungeon.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -10773,5 +10773,27 @@
     "file": "Final Fantasy VI/Terra's Theme.mmrs",
     "preview": "Final Fantasy VI/Terra's Theme.ogg"
   },
+  {
+    "uuid": "1114dc2f-5966-432c-85dc-3713f82b2be7",
+    "creationDate": "2026-03-17T16:30:53.390Z",
+    "game": "The Legend of Zelda: Spirit Tracks",
+    "song": "Realm Overworld",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "The Sound Defense"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Spirit Tracks/Realm Overworld.mmrs",
+    "preview": "The Legend of Zelda Spirit Tracks/Realm Overworld.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

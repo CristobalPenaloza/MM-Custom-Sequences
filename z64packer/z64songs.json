@@ -10609,5 +10609,29 @@
     "file": "Banjo-Kazooie/Click Clock Wood (Spring).mmrs",
     "preview": "Banjo-Kazooie/Click Clock Wood (Spring).ogg"
   },
+  {
+    "uuid": "f61a9c6c-764f-43c2-bf01-0a7ba1ff1f26",
+    "creationDate": "2026-03-17T16:17:17.192Z",
+    "game": "Celeste",
+    "song": "Reach for the Summit",
+    "composers": [
+      "Lena Raine"
+    ],
+    "converters": [
+      "The Sound Defense"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Celeste/Reach for the Summit.mmrs",
+    "preview": "Celeste/Reach for the Summit.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

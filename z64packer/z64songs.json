@@ -10068,5 +10068,28 @@
     "file": "Donkey Kong Country 2 Diddy's Kong Quest/Token Tango.mmrs",
     "preview": "Donkey Kong Country 2 Diddy's Kong Quest/Token Tango.mp3"
   },
+  {
+    "uuid": "24a1800a-1e98-43b6-8240-bca8b25df26f",
+    "creationDate": "2026-03-17T00:07:51.157Z",
+    "game": "Donkey Kong Country 2: Diddy's Kong Quest",
+    "song": "Krook's March",
+    "composers": [
+      "David Wise"
+    ],
+    "converters": [
+      "TheRealPixelShake"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "2",
+      "157"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Donkey Kong Country 2 Diddy's Kong Quest/Krook's March.mmrs",
+    "preview": "Donkey Kong Country 2 Diddy's Kong Quest/Krook's March.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

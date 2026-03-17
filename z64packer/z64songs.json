@@ -10431,5 +10431,31 @@
     "file": "Professor Layton and the Curious Village/The Village Awakens.mmrs",
     "preview": "Professor Layton and the Curious Village/The Village Awakens.mp3"
   },
+  {
+    "uuid": "b910a89b-10a5-4d7e-bff3-e512acb4d5b8",
+    "creationDate": "2026-03-17T00:36:59.408Z",
+    "game": "Professor Layton and the Last Specter",
+    "song": "Theme of the Last Battle",
+    "composers": [
+      "Tomohito Nishiura"
+    ],
+    "converters": [
+      "TheRealPixelShake"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "11B",
+      "16A",
+      "16B",
+      "138",
+      "169"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Professor Layton and the Last Specter/Theme of the Last Battle.mmrs",
+    "preview": "Professor Layton and the Last Specter/Theme of the Last Battle.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

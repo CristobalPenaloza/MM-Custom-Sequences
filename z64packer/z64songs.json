@@ -10024,5 +10024,27 @@
     "file": "Donkey Kong 64/Funky's Armoury.mmrs",
     "preview": "Donkey Kong 64/Funky's Armoury.mp3"
   },
+  {
+    "uuid": "492b9840-4eba-43ed-bcf1-d4386280fa93",
+    "creationDate": "2026-03-17T00:03:12.113Z",
+    "game": "Donkey Kong 64",
+    "song": "King Kut Out",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "TheRealPixelShake"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Donkey Kong 64/King Kut Out.mmrs",
+    "preview": "Donkey Kong 64/King Kut Out.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

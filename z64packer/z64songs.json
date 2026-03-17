@@ -10046,5 +10046,27 @@
     "file": "Donkey Kong 64/King Kut Out.mmrs",
     "preview": "Donkey Kong 64/King Kut Out.mp3"
   },
+  {
+    "uuid": "67b53566-74b0-4be1-92e3-ede27a95c4c5",
+    "creationDate": "2026-03-17T00:06:13.843Z",
+    "game": "Donkey Kong Country 2: Diddy's Kong Quest",
+    "song": "Token Tango",
+    "composers": [
+      "David Wise"
+    ],
+    "converters": [
+      "TheRealPixelShake"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Donkey Kong Country 2 Diddy's Kong Quest/Token Tango.mmrs",
+    "preview": "Donkey Kong Country 2 Diddy's Kong Quest/Token Tango.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

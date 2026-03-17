@@ -261,10 +261,6 @@
     "logo": "https://i.imgur.com/d4D9oF3.png"
   },
   {
-    "game": "Consoles and BIOS",
-    "logo": "https://i.imgur.com/4Sa22o4.png"
-  },
-  {
     "game": "Corn Kidz 64",
     "logo": "https://i.imgur.com/7wQHT6n.png"
   },
@@ -2780,7 +2776,7 @@
   },
   {
     "game": "Sheriff Domestic",
-    "logo": "https://i.imgur.com/KCjFLzq.png"
+    "logo": "https://i.imgur.com/paVR3dK.png"
   },
   {
     "game": "Mega Man ZX",
@@ -2825,6 +2821,21 @@
   {
     "game": "Bastion",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/b7f3b8bcd964f9e44b212cceabacf877.png"
+  },
+  {
+    "game": "Nintendo GameCube",
+    "series": "Consoles and BIOS",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/8e40e4f493267328db7ee6769e6565c8.png"
+  },
+  {
+    "game": "Windows XP",
+    "series": "Consoles and BIOS",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/ab4981fb59db07f87db4b1a7a2e9efcf.png"
+  },
+  {
+    "game": "Nokia 1208",
+    "series": "Consoles and BIOS",
+    "logo": "https://i.imgur.com/Mj5hz5p.png"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

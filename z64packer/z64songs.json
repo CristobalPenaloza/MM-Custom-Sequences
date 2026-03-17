@@ -10457,5 +10457,29 @@
     "file": "Professor Layton and the Last Specter/Theme of the Last Battle.mmrs",
     "preview": "Professor Layton and the Last Specter/Theme of the Last Battle.mp3"
   },
+  {
+    "uuid": "b723e6aa-0cde-4944-a39f-ecbe5f1a159b",
+    "creationDate": "2026-03-17T00:38:31.955Z",
+    "game": "Pokémon Scarlet & Violet",
+    "song": "Making a Sandwich",
+    "composers": [
+      "Hitomi Sato"
+    ],
+    "converters": [
+      "TheRealPixelShake"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4",
+      "10E"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Scarlet & Violet/Making a Sandwich.mmrs",
+    "preview": "Pokémon Scarlet & Violet/Making a Sandwich.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

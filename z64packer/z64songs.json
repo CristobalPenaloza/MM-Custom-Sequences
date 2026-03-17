@@ -10841,5 +10841,28 @@
     "file": "Phoenix Wright Ace Attorney/Maya Fey ~ Turnabout Sisters.mmrs",
     "preview": "Phoenix Wright Ace Attorney/Maya Fey ~ Turnabout Sisters.ogg"
   },
+  {
+    "uuid": "87dac43e-bee8-4cec-99a0-42fab21fc99c",
+    "creationDate": "2026-03-17T16:35:40.227Z",
+    "game": "Phoenix Wright: Ace Attorney",
+    "song": "Turnabout Sisters' Ballad",
+    "composers": [
+      "Masakazu Sugimori"
+    ],
+    "converters": [
+      "The Sound Defense"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Phoenix Wright Ace Attorney/Turnabout Sisters' Ballad.mmrs",
+    "preview": "Phoenix Wright Ace Attorney/Turnabout Sisters' Ballad.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

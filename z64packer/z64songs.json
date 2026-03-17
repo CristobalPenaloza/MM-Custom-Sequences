@@ -10114,5 +10114,29 @@
     "file": "Donkey Kong Country 2 Diddy's Kong Quest/Lockjaw's Saga.mmrs",
     "preview": "Donkey Kong Country 2 Diddy's Kong Quest/Lockjaw's Saga.mp3"
   },
+  {
+    "uuid": "7b1362df-5f3b-43f2-90d3-987371eff0da",
+    "creationDate": "2026-03-17T00:10:40.656Z",
+    "game": "Donkey Kong Country 2: Diddy's Kong Quest",
+    "song": "Welcome To Crocodile Isle",
+    "composers": [
+      "David Wise"
+    ],
+    "converters": [
+      "TheRealPixelShake"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Donkey Kong Country 2 Diddy's Kong Quest/Welcome To Crocodile Isle.mmrs",
+    "preview": "Donkey Kong Country 2 Diddy's Kong Quest/Welcome To Crocodile Isle.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

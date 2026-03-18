@@ -11022,5 +11022,288 @@
     "file": "Sonic & Knuckles/Sky Sanctuary Zone.mmrs",
     "preview": "Sonic & Knuckles/Sky Sanctuary Zone.ogg"
   },
+  {
+    "uuid": "bc93cb2c-4a0e-4837-b6c2-12a238fd630e",
+    "creationDate": "2026-03-17T23:42:03.126Z",
+    "game": "EarthBound Beginnings",
+    "song": "Love",
+    "composers": [
+      "Keiichi Suzuki",
+      "Hirokazu Tanaka"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "EarthBound Beginnings/Love.mmrs",
+    "preview": "EarthBound Beginnings/Love.ogg"
+  },
+  {
+    "uuid": "c67718a8-01b4-4584-88b2-fd71b2bafa5a",
+    "creationDate": "2026-03-17T23:43:03.966Z",
+    "game": "EarthBound Beginnings",
+    "song": "Pollyanna",
+    "composers": [
+      "Keiichi Suzuki",
+      "Hirokazu Tanaka"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "EarthBound Beginnings/Pollyanna.mmrs",
+    "preview": "EarthBound Beginnings/Pollyanna.ogg"
+  },
+  {
+    "uuid": "62764d1d-12b4-4a12-a50e-e69433ec7057",
+    "creationDate": "2026-03-17T23:43:41.627Z",
+    "game": "EarthBound Beginnings",
+    "song": "Hippy",
+    "composers": [
+      "Keiichi Suzuki",
+      "Hirokazu Tanaka"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "EarthBound Beginnings/Hippy.mmrs",
+    "preview": "EarthBound Beginnings/Hippy.ogg"
+  },
+  {
+    "uuid": "00dde5fb-6cd0-4169-a74b-6daf3444f8fb",
+    "creationDate": "2026-03-17T23:44:22.310Z",
+    "game": "EarthBound Beginnings",
+    "song": "School",
+    "composers": [
+      "Keiichi Suzuki",
+      "Hirokazu Tanaka"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "EarthBound Beginnings/School.mmrs",
+    "preview": "EarthBound Beginnings/School.ogg"
+  },
+  {
+    "uuid": "6b1574e0-2fbd-4574-8110-40ca39eb90e8",
+    "creationDate": "2026-03-17T23:47:07.494Z",
+    "game": "Kirby's Adventure",
+    "song": "I'm Hit",
+    "composers": [
+      "Hirokazu Ando"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "9"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Kirby's Adventure/I'm Hit.mmrs",
+    "preview": "Kirby's Adventure/I'm Hit.ogg"
+  },
+  {
+    "uuid": "7ee353c8-3d46-4352-9f07-0eaf5e680e37",
+    "creationDate": "2026-03-17T23:50:42.086Z",
+    "game": "Kirby: Squeak Squad",
+    "song": "Here Come the Squeaks!",
+    "composers": [
+      "Hirokazu Ando",
+      "Jun Ishikawa",
+      "Tadashi Ikegami",
+      "Shogo Sakai"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Kirby Squeak Squad/Here Come the Squeaks!.mmrs",
+    "preview": "Kirby Squeak Squad/Here Come the Squeaks!.ogg"
+  },
+  {
+    "uuid": "36c288d8-a66d-4d05-9421-b793b752e841",
+    "creationDate": "2026-03-17T23:55:58.652Z",
+    "game": "Air Fortresss",
+    "song": "Level Clear",
+    "composers": [
+      "Hideki Kanazashi"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "10"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Air Fortresss/Level Clear.mmrs",
+    "preview": "Air Fortresss/Level Clear.ogg"
+  },
+  {
+    "uuid": "0ade4bdf-a362-470b-804a-7ffc5c1b6a6b",
+    "creationDate": "2026-03-17T23:56:39.240Z",
+    "game": "Air Fortresss",
+    "song": "Evacuation",
+    "composers": [
+      "Hideki Kanazashi"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "157"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Air Fortresss/Evacuation.mmrs",
+    "preview": "Air Fortresss/Evacuation.ogg"
+  },
+  {
+    "uuid": "3624807f-fd3a-465d-904a-c82e317db41b",
+    "creationDate": "2026-03-17T23:59:22.583Z",
+    "game": "Xexyz",
+    "song": "Inside",
+    "composers": [
+      "Hirohiko Takayama"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "13B",
+      "12C",
+      "131",
+      "16F"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Xexyz/Inside.mmrs",
+    "preview": "Xexyz/Inside.ogg"
+  },
+  {
+    "uuid": "15ed6bdc-0c26-4dab-892e-d89a54f84c67",
+    "creationDate": "2026-03-18T00:00:01.787Z",
+    "game": "Xexyz",
+    "song": "Outside",
+    "composers": [
+      "Hirohiko Takayama"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Xexyz/Outside.mmrs",
+    "preview": "Xexyz/Outside.ogg"
+  },
+  {
+    "uuid": "661340b7-ce23-494f-9d1f-86c9d283b795",
+    "creationDate": "2026-03-18T00:00:33.032Z",
+    "game": "Xexyz",
+    "song": "Shop",
+    "composers": [
+      "Hirohiko Takayama"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "144"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Xexyz/Shop.mmrs",
+    "preview": "Xexyz/Shop.ogg"
+  },
+  {
+    "uuid": "1e2abc88-ae85-4ddd-a768-9a9435fbb0dc",
+    "creationDate": "2026-03-18T00:01:07.872Z",
+    "game": "Xexyz",
+    "song": "Game Over",
+    "composers": [
+      "Hirohiko Takayama"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Xexyz/Game Over.mmrs",
+    "preview": "Xexyz/Game Over.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

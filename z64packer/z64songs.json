@@ -12036,5 +12036,27 @@
     "file": "Ace Attorney Investigations Miles Edgeworth/Sebastian Debeste ~ First-Class Farewell.mmrs",
     "preview": "Ace Attorney Investigations Miles Edgeworth/Sebastian Debeste ~ First-Class Farewell.ogg"
   },
+  {
+    "uuid": "47ac2906-6380-43c9-907d-551386b39310",
+    "creationDate": "2026-03-18T22:58:23.485Z",
+    "game": "Mario & Luigi: Bowser's Inside Story",
+    "song": "Castle Theme",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mario & Luigi Bowser's Inside Story/Castle Theme.mmrs",
+    "preview": "Mario & Luigi Bowser's Inside Story/Castle Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

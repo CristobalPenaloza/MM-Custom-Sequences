@@ -12133,5 +12133,29 @@
     "file": "Advance Wars 2 Black Hole Rising/Grit's Theme.mmrs",
     "preview": "Advance Wars 2 Black Hole Rising/Grit's Theme.ogg"
   },
+  {
+    "uuid": "ceb4d311-1c64-4c51-aa4b-0e30613617e0",
+    "creationDate": "2026-03-18T23:05:36.631Z",
+    "game": "Kirby 64: The Crystal Shards",
+    "song": "Factory Inspection",
+    "composers": [
+      "Jun Ishikawa",
+      "Hirokazu Ando"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Kirby 64 The Crystal Shards/Factory Inspection.mmrs",
+    "preview": "Kirby 64 The Crystal Shards/Factory Inspection.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

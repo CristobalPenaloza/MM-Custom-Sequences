@@ -11659,5 +11659,27 @@
     "file": "Pokémon Red, Blue & Yellow/Celadon City.mmrs",
     "preview": "Pokémon Red, Blue & Yellow/Celadon City.ogg"
   },
+  {
+    "uuid": "74796081-0922-48c1-821f-a632c78dd7b8",
+    "creationDate": "2026-03-18T02:54:02.263Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Mt. Moon",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "SerenadeOfWalters"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/Mt. Moon.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Mt. Moon.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

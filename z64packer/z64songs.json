@@ -11823,5 +11823,30 @@
     "file": "Ace Attorney Investigations Miles Edgeworth/Confrontation ~ Presto.mmrs",
     "preview": "Ace Attorney Investigations Miles Edgeworth/Confrontation ~ Presto.ogg"
   },
+  {
+    "uuid": "6039b530-76e4-4374-9301-cddf072cb83b",
+    "creationDate": "2026-03-18T22:38:38.040Z",
+    "game": "Action 52",
+    "song": "Cheetahmen",
+    "composers": [
+      "Mario González"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Action 52/Cheetahmen.mmrs",
+    "preview": "Action 52/Cheetahmen.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

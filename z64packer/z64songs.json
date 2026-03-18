@@ -11549,5 +11549,27 @@
     "file": "Pokémon Ruby, Sapphire & Emerald/IntroductionRoutes 122 & 123.mmrs",
     "preview": "Pokémon Ruby, Sapphire & Emerald/IntroductionRoutes 122 & 123.ogg"
   },
+  {
+    "uuid": "2d6cb3dd-e14a-4386-9921-e0bb6fbb5116",
+    "creationDate": "2026-03-18T02:47:39.854Z",
+    "game": "Pokémon Gold, Silver & Crystal",
+    "song": "Dragon's Den",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "SerenadeOfWalters"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Gold, Silver & Crystal/Dragon's Den.mmrs",
+    "preview": "Pokémon Gold, Silver & Crystal/Dragon's Den.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -3354,7 +3354,7 @@
     "uuid": "8bb4748a-eb06-4b6a-a7cf-2e777c4285d3",
     "creationDate": "2026-03-11T23:35:38.954Z",
     "game": "Ace Attorney Investigations: Miles Edgeworth",
-    "song": "Pursuit ~ Lying Coldly",
+    "song": "Pursuit ~ Lying Coldly (Variant A)",
     "composers": [
       "Noriyuki Iwadare",
       "Yasuko Yamada"
@@ -3372,8 +3372,9 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Ace Attorney Investigations Miles Edgeworth/Pursuit ~ Lying Coldly.mmrs",
-    "preview": "https://www.youtube.com/watch?v=ejOU2tWMMgM"
+    "file": "Ace Attorney Investigations Miles Edgeworth/Pursuit ~ Lying Coldly (Variant A).mmrs",
+    "preview": "https://www.youtube.com/watch?v=ejOU2tWMMgM",
+    "lastUpdateDate": "2026-03-18T22:50:57.822Z"
   },
   {
     "uuid": "f8c3103c-1fbc-47ff-8a7a-3cbaa0152edd",

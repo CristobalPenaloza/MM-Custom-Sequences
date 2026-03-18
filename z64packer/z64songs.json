@@ -11848,5 +11848,29 @@
     "file": "Action 52/Cheetahmen.mmrs",
     "preview": "Action 52/Cheetahmen.ogg"
   },
+  {
+    "uuid": "507f426b-973a-4e1a-8d3e-3b794d57e330",
+    "creationDate": "2026-03-18T22:43:16.297Z",
+    "game": "Mega Man Zero 2",
+    "song": "Intro",
+    "composers": [
+      "Masaki Suzuki"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mega Man Zero 2/Intro.mmrs",
+    "preview": "Mega Man Zero 2/Intro.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

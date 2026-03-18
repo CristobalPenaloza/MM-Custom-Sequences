@@ -11593,5 +11593,27 @@
     "file": "Pokémon Gold, Silver & Crystal/Received a TM!.mmrs",
     "preview": "Pokémon Gold, Silver & Crystal/Received a TM!.ogg"
   },
+  {
+    "uuid": "758793ea-0c5d-4e50-82d7-d479b9635486",
+    "creationDate": "2026-03-18T02:51:23.138Z",
+    "game": "Pokémon Gold, Silver & Crystal",
+    "song": "Ecruteak City/Cianwood City",
+    "composers": [
+      "Go Ichinose"
+    ],
+    "converters": [
+      "SerenadeOfWalters"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "110"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Gold, Silver & Crystal/Ecruteak CityCianwood City.mmrs",
+    "preview": "Pokémon Gold, Silver & Crystal/Ecruteak CityCianwood City.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -2844,10 +2844,11 @@
     "game": "Xexyz"
   },
   {
-    "game": "Kirby: Squeak Squad"
+    "game": "Kirby: Squeak Squad",
+    "series": "Kirby Series"
   },
   {
-    "game": "Air Fortresss"
+    "game": "Air Fortress"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

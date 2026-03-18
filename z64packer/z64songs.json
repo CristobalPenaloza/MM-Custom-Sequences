@@ -11656,5 +11656,29 @@
     "file": "Pokémon Red, Blue & Yellow/Pokémon Center.mmrs",
     "preview": "Pokémon Red, Blue & Yellow/Pokémon Center.ogg"
   },
+  {
+    "uuid": "fcb085bd-6aea-4a7c-9258-fd46fdf5412f",
+    "creationDate": "2026-03-18T22:16:41.897Z",
+    "game": "Kirby Super Star",
+    "song": "Rest Area",
+    "composers": [
+      "Jun Ishikawa"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Kirby Super Star/Rest Area.mmrs",
+    "preview": "Kirby Super Star/Rest Area.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -11305,5 +11305,27 @@
     "file": "Xexyz/Game Over.mmrs",
     "preview": "Xexyz/Game Over.ogg"
   },
+  {
+    "uuid": "6bbbd1da-1558-45c1-b74f-90d867bcc327",
+    "creationDate": "2026-03-18T02:32:29.855Z",
+    "game": "ActRaiser 2",
+    "song": "Death Field",
+    "composers": [
+      "Yuzo Koshiro"
+    ],
+    "converters": [
+      "SerenadeOfWalters"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "16F"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "ActRaiser 2/Death Field.mmrs",
+    "preview": "ActRaiser 2/Death Field.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

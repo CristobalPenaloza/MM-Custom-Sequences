@@ -11483,5 +11483,27 @@
     "file": "Pokémon Red, Blue & Yellow/Item Obtained.mmrs",
     "preview": "Pokémon Red, Blue & Yellow/Item Obtained.ogg"
   },
+  {
+    "uuid": "735d8483-111d-4a7f-9817-7841f0c23fe3",
+    "creationDate": "2026-03-18T02:42:38.832Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Level Up",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "SerenadeOfWalters"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/Level Up.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Level Up.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -11527,5 +11527,27 @@
     "file": "Pokémon Red, Blue & Yellow/Giovanni's Theme (Unused).mmrs",
     "preview": "Pokémon Red, Blue & Yellow/Giovanni's Theme (Unused).ogg"
   },
+  {
+    "uuid": "39625bd0-857e-4e0a-be2d-d430257d18a0",
+    "creationDate": "2026-03-18T02:46:57.059Z",
+    "game": "Pokémon Ruby, Sapphire & Emerald",
+    "song": "Introduction/Routes 122 & 123",
+    "composers": [
+      "Go Ichinose"
+    ],
+    "converters": [
+      "SerenadeOfWalters"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "102"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Ruby, Sapphire & Emerald/IntroductionRoutes 122 & 123.mmrs",
+    "preview": "Pokémon Ruby, Sapphire & Emerald/IntroductionRoutes 122 & 123.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

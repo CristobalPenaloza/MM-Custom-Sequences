@@ -11571,5 +11571,27 @@
     "file": "Pokémon Gold, Silver & Crystal/Dragon's Den.mmrs",
     "preview": "Pokémon Gold, Silver & Crystal/Dragon's Den.ogg"
   },
+  {
+    "uuid": "70190da4-15ff-4bd0-bbcd-61310470bc52",
+    "creationDate": "2026-03-18T02:49:56.681Z",
+    "game": "Pokémon Gold, Silver & Crystal",
+    "song": "Received a TM!",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "SerenadeOfWalters"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Gold, Silver & Crystal/Received a TM!.mmrs",
+    "preview": "Pokémon Gold, Silver & Crystal/Received a TM!.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

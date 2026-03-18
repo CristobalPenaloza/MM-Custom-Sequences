@@ -11895,5 +11895,29 @@
     "file": "Mario Tennis/Game Point.mmrs",
     "preview": "Mario Tennis/Game Point.ogg"
   },
+  {
+    "uuid": "b790cced-2e50-4300-888e-30329e39be09",
+    "creationDate": "2026-03-18T22:46:29.134Z",
+    "game": "Paper Mario",
+    "song": "Vs. Crystal King",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "2",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Paper Mario/Vs. Crystal King.mmrs",
+    "preview": "Paper Mario/Vs. Crystal King.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

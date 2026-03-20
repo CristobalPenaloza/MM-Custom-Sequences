@@ -12457,5 +12457,30 @@
     "file": "Pokémon Diamond, Pearl & Platinum/Encounter! Champion Cynthia Approaches!.mmrs",
     "preview": "Pokémon Diamond, Pearl & Platinum/Encounter! Champion Cynthia Approaches!.ogg"
   },
+  {
+    "uuid": "1da93717-7d42-4d0e-a50e-c7b2ec263fe1",
+    "creationDate": "2026-03-20T00:59:52.524Z",
+    "game": "Pokémon Diamond, Pearl & Platinum",
+    "song": "Battle! Wild Pokémon",
+    "composers": [
+      "Junichi Masuda",
+      "Go Ichinose"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7",
+      "11A"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Diamond, Pearl & Platinum/Battle! Wild Pokémon.mmrs",
+    "preview": "Pokémon Diamond, Pearl & Platinum/Battle! Wild Pokémon.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

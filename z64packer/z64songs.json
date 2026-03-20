@@ -13069,5 +13069,27 @@
     "file": "Pokémon Black & White/Lacunosa Town.mmrs",
     "preview": "Pokémon Black & White/Lacunosa Town.ogg"
   },
+  {
+    "uuid": "52227bbe-17e2-4975-ad89-ec9bcdfd0114",
+    "creationDate": "2026-03-20T03:05:05.582Z",
+    "game": "Pokémon Black & White",
+    "song": "Route 10",
+    "composers": [
+      "Shota Kageyama"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Black & White/Route 10.mmrs",
+    "preview": "Pokémon Black & White/Route 10.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

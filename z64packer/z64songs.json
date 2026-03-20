@@ -13851,5 +13851,29 @@
     "file": "Mario & Luigi Partners in Time/Gritzy Desert.mmrs",
     "preview": "Mario & Luigi Partners in Time/Gritzy Desert.ogg"
   },
+  {
+    "uuid": "c872ef45-d614-4ae3-800b-b1cd66678536",
+    "creationDate": "2026-03-20T22:15:53.497Z",
+    "game": "Mario & Luigi: Bowser's Inside Story",
+    "song": "Cavi Cape",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "13B",
+      "136"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mario & Luigi Bowser's Inside Story/Cavi Cape.mmrs",
+    "preview": "Mario & Luigi Bowser's Inside Story/Cavi Cape.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

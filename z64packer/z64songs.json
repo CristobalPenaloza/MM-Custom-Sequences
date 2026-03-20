@@ -12701,5 +12701,27 @@
     "file": "Pokémon Ranger Shadows of Almia/Mission Complete.mmrs",
     "preview": "Pokémon Ranger Shadows of Almia/Mission Complete.ogg"
   },
+  {
+    "uuid": "8c045e6d-7166-418e-bd1c-b5f95114e9ea",
+    "creationDate": "2026-03-20T02:17:34.464Z",
+    "game": "Pokémon Ruby, Sapphire & Emerald",
+    "song": "Obtained a Badge!",
+    "composers": [
+      "Go Ichinose"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Ruby, Sapphire & Emerald/Obtained a Badge!.mmrs",
+    "preview": "Pokémon Ruby, Sapphire & Emerald/Obtained a Badge!.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

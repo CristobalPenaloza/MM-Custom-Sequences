@@ -13689,5 +13689,27 @@
     "file": "Super Mario RPG Legend of the Seven Stars/Star Piece Obtained.mmrs",
     "preview": "Super Mario RPG Legend of the Seven Stars/Star Piece Obtained.ogg"
   },
+  {
+    "uuid": "8085e931-32cc-4c76-93e1-5409dca10ef4",
+    "creationDate": "2026-03-20T22:08:27.661Z",
+    "game": "Mario & Luigi: Bowser's Inside Story",
+    "song": "Koopa Paratroopa Trio Battle Theme",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "5"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mario & Luigi Bowser's Inside Story/Koopa Paratroopa Trio Battle Theme.mmrs",
+    "preview": "Mario & Luigi Bowser's Inside Story/Koopa Paratroopa Trio Battle Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

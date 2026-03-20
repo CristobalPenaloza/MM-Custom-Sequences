@@ -13254,5 +13254,28 @@
     "file": "An Untitled Story/Puzzle Box.mmrs",
     "preview": "An Untitled Story/Puzzle Box.ogg"
   },
+  {
+    "uuid": "de1e0a8a-9ac2-4b6e-91bc-1ccd56f1ace2",
+    "creationDate": "2026-03-20T21:29:44.067Z",
+    "game": "An Untitled Story",
+    "song": "Ninja",
+    "composers": [
+      "Maddy Thorson"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "An Untitled Story/Ninja.mmrs",
+    "preview": "An Untitled Story/Ninja.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

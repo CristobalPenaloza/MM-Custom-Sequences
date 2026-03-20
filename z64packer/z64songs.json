@@ -13424,5 +13424,31 @@
     "file": "Sonic the Hedgehog 3/Special Stage.mmrs",
     "preview": "Sonic the Hedgehog 3/Special Stage.ogg"
   },
+  {
+    "uuid": "55aa3444-d694-4c91-893a-0b638f62ddbc",
+    "creationDate": "2026-03-20T21:44:35.583Z",
+    "game": "Knuckles' Chaotix",
+    "song": "Botanic Base",
+    "composers": [
+      "Junko Shiratsu"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Knuckles' Chaotix/Botanic Base.mmrs",
+    "preview": "Knuckles' Chaotix/Botanic Base.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

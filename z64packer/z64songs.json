@@ -13517,5 +13517,30 @@
     "file": "Knuckles' Chaotix/Arena Off.mmrs",
     "preview": "Knuckles' Chaotix/Arena Off.ogg"
   },
+  {
+    "uuid": "6fcd4a4c-543b-4c59-a9d1-014fc105fe3e",
+    "creationDate": "2026-03-20T21:47:14.274Z",
+    "game": "Knuckles' Chaotix",
+    "song": "Island",
+    "composers": [
+      "Junko Shiratsu"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Knuckles' Chaotix/Island.mmrs",
+    "preview": "Knuckles' Chaotix/Island.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

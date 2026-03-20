@@ -12158,5 +12158,256 @@
     "file": "Kirby 64 The Crystal Shards/Factory Inspection.mmrs",
     "preview": "Kirby 64 The Crystal Shards/Factory Inspection.ogg"
   },
+  {
+    "uuid": "163be73c-4f2e-4ada-ad8a-2844771c1187",
+    "creationDate": "2026-03-20T00:31:26.917Z",
+    "game": "Fire Emblem: Three Houses",
+    "song": "The Edge of Dawn (Seasons of Warfare)",
+    "composers": [
+      "Takeru Kanazaki"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Three Houses/The Edge of Dawn (Seasons of Warfare).mmrs",
+    "preview": "Fire Emblem Three Houses/The Edge of Dawn (Seasons of Warfare).ogg"
+  },
+  {
+    "uuid": "e1525a04-671e-49f8-a057-d2779c3fe696",
+    "creationDate": "2026-03-20T00:34:39.640Z",
+    "game": "Fire Emblem: Three Houses",
+    "song": "Fódlan Winds (Piano)",
+    "composers": [
+      "Takeru Kanazaki"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "11A"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Three Houses/Fódlan Winds (Piano).mmrs",
+    "preview": "Fire Emblem Three Houses/Fódlan Winds (Piano).ogg"
+  },
+  {
+    "uuid": "164be58f-9992-4447-84aa-b55fdb8c93cb",
+    "creationDate": "2026-03-20T00:35:46.023Z",
+    "game": "Fire Emblem: Three Houses",
+    "song": "Tempest of Seasons (Piano)",
+    "composers": [
+      "Takeru Kanazaki",
+      "Hiroki Morishita",
+      "Rei Kondoh"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Three Houses/Tempest of Seasons (Piano).mmrs",
+    "preview": "Fire Emblem Three Houses/Tempest of Seasons (Piano).ogg"
+  },
+  {
+    "uuid": "bb8f0251-0129-4d26-85b6-ecafd11b0a8e",
+    "creationDate": "2026-03-20T00:38:26.274Z",
+    "game": "Fire Emblem: Awakening",
+    "song": "Conquest",
+    "composers": [
+      "Hiroki Morishita"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Awakening/Conquest.mmrs",
+    "preview": "Fire Emblem Awakening/Conquest.ogg"
+  },
+  {
+    "uuid": "6f9585e5-d9a8-4b4a-9eb9-71dedf988ba6",
+    "creationDate": "2026-03-20T00:40:07.138Z",
+    "game": "Metroid: Zero Mission",
+    "song": "Brinstar",
+    "composers": [
+      "Kenji Yamamoto",
+      "Minako Hamano"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Metroid Zero Mission/Brinstar.mmrs",
+    "preview": "Metroid Zero Mission/Brinstar.ogg"
+  },
+  {
+    "uuid": "c025e5b3-0632-4233-8354-7c15d916f955",
+    "creationDate": "2026-03-20T00:41:05.140Z",
+    "game": "Metroid: Zero Mission",
+    "song": "Escape",
+    "composers": [
+      "Kenji Yamamoto",
+      "Minako Hamano"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "157"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Metroid Zero Mission/Escape.mmrs",
+    "preview": "Metroid Zero Mission/Escape.ogg"
+  },
+  {
+    "uuid": "143a3dd7-0d1e-41a3-b739-7f63dcaad477",
+    "creationDate": "2026-03-20T00:43:24.921Z",
+    "game": "Metroid Prime 2: Echoes",
+    "song": "Menu Theme",
+    "composers": [
+      "Kenji Yamamoto"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "118"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Metroid Prime 2 Echoes/Menu Theme.mmrs",
+    "preview": "Metroid Prime 2 Echoes/Menu Theme.ogg"
+  },
+  {
+    "uuid": "cb6f703c-174a-4aa7-82f8-68f66a08cda9",
+    "creationDate": "2026-03-20T00:45:03.035Z",
+    "game": "Metroid Prime 2: Echoes",
+    "song": "Torvus Bog Subterranean",
+    "composers": [
+      "Kenji Yamamoto"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Metroid Prime 2 Echoes/Torvus Bog Subterranean.mmrs",
+    "preview": "Metroid Prime 2 Echoes/Torvus Bog Subterranean.ogg"
+  },
+  {
+    "uuid": "7a251f83-7373-4419-8ac8-5e841d4aac79",
+    "creationDate": "2026-03-20T00:46:51.785Z",
+    "game": "Metroid Prime 3: Corruption",
+    "song": "Title Theme",
+    "composers": [
+      "Kenji Yamamoto"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "16",
+      "118"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Metroid Prime 3 Corruption/Title Theme.mmrs",
+    "preview": "Metroid Prime 3 Corruption/Title Theme.ogg"
+  },
+  {
+    "uuid": "cffb137d-9af8-4812-aef7-545c9db1d148",
+    "creationDate": "2026-03-20T00:47:32.552Z",
+    "game": "Super Metroid",
+    "song": "Lower Norfair",
+    "composers": [
+      "Kenji Yamamoto"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Metroid/Lower Norfair.mmrs",
+    "preview": "Super Metroid/Lower Norfair.ogg"
+  },
+  {
+    "uuid": "b3bf10b9-7325-45f8-a9c8-8f1f54ab727b",
+    "creationDate": "2026-03-20T00:51:42.962Z",
+    "game": "Xenoblade Chronicles X",
+    "song": "Uncontrollable",
+    "composers": [
+      "Hiroyuki Sawano"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "7",
+      "11A"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Xenoblade Chronicles X/Uncontrollable.mmrs",
+    "preview": "Xenoblade Chronicles X/Uncontrollable.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

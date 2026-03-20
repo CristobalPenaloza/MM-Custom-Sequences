@@ -12882,5 +12882,29 @@
     "file": "Pokémon Ruby, Sapphire & Emerald/Fortree City.mmrs",
     "preview": "Pokémon Ruby, Sapphire & Emerald/Fortree City.ogg"
   },
+  {
+    "uuid": "05319da6-6354-4e77-a8cd-8b05a75ac010",
+    "creationDate": "2026-03-20T02:43:57.897Z",
+    "game": "Pokémon Ruby, Sapphire & Emerald",
+    "song": "Lilycove City",
+    "composers": [
+      "Go Ichinose"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Ruby, Sapphire & Emerald/Lilycove City.mmrs",
+    "preview": "Pokémon Ruby, Sapphire & Emerald/Lilycove City.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

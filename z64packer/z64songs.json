@@ -12723,5 +12723,28 @@
     "file": "Pokémon Ruby, Sapphire & Emerald/Obtained a Badge!.mmrs",
     "preview": "Pokémon Ruby, Sapphire & Emerald/Obtained a Badge!.ogg"
   },
+  {
+    "uuid": "e0eb7a9f-07c5-4c51-8f23-6ec46a3298b1",
+    "creationDate": "2026-03-20T02:18:28.152Z",
+    "game": "Pokémon Ruby, Sapphire & Emerald",
+    "song": "H-Help Me!",
+    "composers": [
+      "Go Ichinose"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Ruby, Sapphire & Emerald/H-Help Me!.mmrs",
+    "preview": "Pokémon Ruby, Sapphire & Emerald/H-Help Me!.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

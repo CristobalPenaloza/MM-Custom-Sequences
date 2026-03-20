@@ -13450,5 +13450,27 @@
     "file": "Knuckles' Chaotix/Botanic Base.mmrs",
     "preview": "Knuckles' Chaotix/Botanic Base.ogg"
   },
+  {
+    "uuid": "19cd2287-e441-44b7-9e45-60e69afc7c99",
+    "creationDate": "2026-03-20T21:45:13.388Z",
+    "game": "Knuckles' Chaotix",
+    "song": "Intro",
+    "composers": [
+      "Junko Shiratsu"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Knuckles' Chaotix/Intro.mmrs",
+    "preview": "Knuckles' Chaotix/Intro.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

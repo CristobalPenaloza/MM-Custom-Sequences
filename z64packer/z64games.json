@@ -2871,37 +2871,59 @@
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/03d43fdf92b0155912c46d8cea46a874.png"
   },
   {
-    "game": "Mega Man Zero 3"
+    "game": "Mega Man Zero 3",
+    "series": "Mega Man Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/1ba0846587744383fa518b7e642ff632.png"
   },
   {
-    "game": "Mario Tennis"
+    "game": "Mario Tennis",
+    "series": "Mario Sports Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/8aa2c95dc0a6833d2d0cb944555739cc.png"
   },
   {
-    "game": "Freshly-Picked Tingle's Rosy Rupeeland"
+    "game": "Freshly-Picked Tingle's Rosy Rupeeland",
+    "series": "The Legend of Zelda Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/ceed5d3072e690a2990b93dfe1e0110d.png"
   },
   {
-    "game": "Mega Man Zero 2"
+    "game": "Mega Man Zero 2",
+    "series": "Mega Man Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/653c579e3f9ba5c03f2f2f8cf4512b39.png"
   },
   {
-    "game": "Phoenix Wright: Ace Attorney – Trials and Tribulations"
+    "game": "Phoenix Wright: Ace Attorney - Trials and Tribulations",
+    "series": "Ace Attorney Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/9dd943b1d5882bf90d9eb60a277f0316.png"
   },
   {
-    "game": "Metroid Prime 3: Corruption"
+    "game": "Metroid Prime 3: Corruption",
+    "series": "Metroid Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/3fb451ca2e89b3a13095b059d8705b15.png"
   },
   {
-    "game": "Fire Emblem: Awakening"
+    "game": "Fire Emblem: Awakening",
+    "series": "Fire Emblem Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/0eec27c419d0fe24e53c90338cdc8bc6.png"
   },
   {
-    "game": "Xenoblade Chronicles X"
+    "game": "Xenoblade Chronicles X",
+    "series": "Xeno Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/6516c28727509c3db6280ae16254e916.png"
   },
   {
-    "game": "Pokémon Ranger: Shadows of Almia"
+    "game": "Pokémon Ranger: Shadows of Almia",
+    "series": "Pokémon Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/e3978ba7ecdecc63be5f5bf0281a0ed6.png"
   },
   {
-    "game": "Pokémon Ranger"
+    "game": "Pokémon Ranger",
+    "series": "Pokémon Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/8fa7814fed3b1ec42b1c7f857f2dd23f.png"
   },
   {
-    "game": "Pokémon Omega Ruby & Alpha Sapphire"
+    "game": "Pokémon Omega Ruby & Alpha Sapphire",
+    "series": "Pokémon Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/b37f6ff7029b365b5c6f15eb27fe7d6f.png"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

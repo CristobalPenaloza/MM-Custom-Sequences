@@ -13756,5 +13756,30 @@
     "file": "Mario & Luigi Bowser's Inside Story/Victory.mmrs",
     "preview": "Mario & Luigi Bowser's Inside Story/Victory.ogg"
   },
+  {
+    "uuid": "4cdce499-1847-4090-b4d3-30ec97cabc8c",
+    "creationDate": "2026-03-20T22:12:29.511Z",
+    "game": "Action 52",
+    "song": "Fuzz Power",
+    "composers": [
+      "Mario Gonzalez",
+      "Ed Bogas"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Action 52/Fuzz Power.mmrs",
+    "preview": "Action 52/Fuzz Power.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

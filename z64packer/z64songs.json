@@ -13829,5 +13829,27 @@
     "file": "Mario & Luigi Partners in Time/Thwomp Volcano.mmrs",
     "preview": "Mario & Luigi Partners in Time/Thwomp Volcano.ogg"
   },
+  {
+    "uuid": "8178ae2b-b99d-448b-9726-ba0d9afbc951",
+    "creationDate": "2026-03-20T22:15:21.186Z",
+    "game": "Mario & Luigi: Partners in Time",
+    "song": "Gritzy Desert",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mario & Luigi Partners in Time/Gritzy Desert.mmrs",
+    "preview": "Mario & Luigi Partners in Time/Gritzy Desert.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

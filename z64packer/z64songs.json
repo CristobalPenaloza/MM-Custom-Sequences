@@ -12906,5 +12906,28 @@
     "file": "Pokémon Ruby, Sapphire & Emerald/Lilycove City.mmrs",
     "preview": "Pokémon Ruby, Sapphire & Emerald/Lilycove City.ogg"
   },
+  {
+    "uuid": "1cef1858-2909-4873-97bc-5f62991e6dd3",
+    "creationDate": "2026-03-20T02:45:26.093Z",
+    "game": "Pokémon Ruby, Sapphire & Emerald",
+    "song": "Littleroot Town",
+    "composers": [
+      "Go Ichinose"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Ruby, Sapphire & Emerald/Littleroot Town.mmrs",
+    "preview": "Pokémon Ruby, Sapphire & Emerald/Littleroot Town.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

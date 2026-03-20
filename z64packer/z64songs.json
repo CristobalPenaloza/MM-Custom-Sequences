@@ -12295,5 +12295,27 @@
     "file": "Metroid Zero Mission/Escape.mmrs",
     "preview": "Metroid Zero Mission/Escape.ogg"
   },
+  {
+    "uuid": "143a3dd7-0d1e-41a3-b739-7f63dcaad477",
+    "creationDate": "2026-03-20T00:43:24.921Z",
+    "game": "Metroid Prime 2: Echoes",
+    "song": "Menu Theme",
+    "composers": [
+      "Kenji Yamamoto"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "118"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Metroid Prime 2 Echoes/Menu Theme.mmrs",
+    "preview": "Metroid Prime 2 Echoes/Menu Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

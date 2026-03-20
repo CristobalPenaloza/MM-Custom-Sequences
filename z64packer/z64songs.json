@@ -13301,5 +13301,31 @@
     "file": "An Untitled Story/Blackjack.mmrs",
     "preview": "An Untitled Story/Blackjack.ogg"
   },
+  {
+    "uuid": "36d5c5df-f297-4055-950e-8f5a649a2123",
+    "creationDate": "2026-03-20T21:31:08.576Z",
+    "game": "An Untitled Story",
+    "song": "Mountside",
+    "composers": [
+      "Maddy Thorson"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "106",
+      "107",
+      "165",
+      "11c"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "An Untitled Story/Mountside.mmrs",
+    "preview": "An Untitled Story/Mountside.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

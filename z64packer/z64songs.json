@@ -13327,5 +13327,30 @@
     "file": "An Untitled Story/Mountside.mmrs",
     "preview": "An Untitled Story/Mountside.ogg"
   },
+  {
+    "uuid": "88bf226d-e854-4090-86de-63d9b2f6fa88",
+    "creationDate": "2026-03-20T21:31:46.926Z",
+    "game": "An Untitled Story",
+    "song": "Skysand",
+    "composers": [
+      "Maddy Thorson"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "An Untitled Story/Skysand.mmrs",
+    "preview": "An Untitled Story/Skysand.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

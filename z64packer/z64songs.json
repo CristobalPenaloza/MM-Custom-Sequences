@@ -13208,5 +13208,27 @@
     "file": "An Untitled Story/Staircase.mmrs",
     "preview": "An Untitled Story/Staircase.ogg"
   },
+  {
+    "uuid": "4441d5dc-8687-411e-86ea-4b4861fe10d3",
+    "creationDate": "2026-03-20T21:28:13.938Z",
+    "game": "An Untitled Story",
+    "song": "Boss Theme",
+    "composers": [
+      "Maddy Thorson"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "An Untitled Story/Boss Theme.mmrs",
+    "preview": "An Untitled Story/Boss Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

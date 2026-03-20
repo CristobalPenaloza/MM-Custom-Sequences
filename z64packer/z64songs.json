@@ -12362,5 +12362,28 @@
     "file": "Metroid Prime 3 Corruption/Title Theme.mmrs",
     "preview": "Metroid Prime 3 Corruption/Title Theme.ogg"
   },
+  {
+    "uuid": "cffb137d-9af8-4812-aef7-545c9db1d148",
+    "creationDate": "2026-03-20T00:47:32.552Z",
+    "game": "Super Metroid",
+    "song": "Lower Norfair",
+    "composers": [
+      "Kenji Yamamoto"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Metroid/Lower Norfair.mmrs",
+    "preview": "Super Metroid/Lower Norfair.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

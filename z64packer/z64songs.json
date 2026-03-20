@@ -12158,5 +12158,27 @@
     "file": "Kirby 64 The Crystal Shards/Factory Inspection.mmrs",
     "preview": "Kirby 64 The Crystal Shards/Factory Inspection.ogg"
   },
+  {
+    "uuid": "163be73c-4f2e-4ada-ad8a-2844771c1187",
+    "creationDate": "2026-03-20T00:31:26.917Z",
+    "game": "Fire Emblem: Three Houses",
+    "song": "The Edge of Dawn (Seasons of Warfare)",
+    "composers": [
+      "Takeru Kanazaki"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Three Houses/The Edge of Dawn (Seasons of Warfare).mmrs",
+    "preview": "Fire Emblem Three Houses/The Edge of Dawn (Seasons of Warfare).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -12506,5 +12506,30 @@
     "file": "Pokémon Omega Ruby & Alpha Sapphire/Battle! Lorekeeper Zinnia.mmrs",
     "preview": "Pokémon Omega Ruby & Alpha Sapphire/Battle! Lorekeeper Zinnia.ogg"
   },
+  {
+    "uuid": "4ff7507d-a449-42b1-a1bb-58bd0f043d4b",
+    "creationDate": "2026-03-20T01:09:25.172Z",
+    "game": "Pokémon Ranger",
+    "song": "Groudon/Kyogre/Rayquaza/Deoxys Capture",
+    "composers": [
+      "Takuto Kitsuta",
+      "Kinta Sato"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7",
+      "11A"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Ranger/GroudonKyogreRayquazaDeoxys Capture.mmrs",
+    "preview": "Pokémon Ranger/GroudonKyogreRayquazaDeoxys Capture.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

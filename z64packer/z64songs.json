@@ -13472,5 +13472,27 @@
     "file": "Knuckles' Chaotix/Intro.mmrs",
     "preview": "Knuckles' Chaotix/Intro.ogg"
   },
+  {
+    "uuid": "9c94e1c2-cd79-4fb0-84a6-7df55342f77c",
+    "creationDate": "2026-03-20T21:45:57.174Z",
+    "game": "Knuckles' Chaotix",
+    "song": "Special Stage (Clear)",
+    "composers": [
+      "Junko Shiratsu"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Knuckles' Chaotix/Special Stage (Clear).mmrs",
+    "preview": "Knuckles' Chaotix/Special Stage (Clear).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -12385,5 +12385,29 @@
     "file": "Super Metroid/Lower Norfair.mmrs",
     "preview": "Super Metroid/Lower Norfair.ogg"
   },
+  {
+    "uuid": "b3bf10b9-7325-45f8-a9c8-8f1f54ab727b",
+    "creationDate": "2026-03-20T00:51:42.962Z",
+    "game": "Xenoblade Chronicles X",
+    "song": "Uncontrollable",
+    "composers": [
+      "Hiroyuki Sawano"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "7",
+      "11A"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Xenoblade Chronicles X/Uncontrollable.mmrs",
+    "preview": "Xenoblade Chronicles X/Uncontrollable.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

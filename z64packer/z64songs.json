@@ -12631,5 +12631,28 @@
     "file": "Pokémon Ruby, Sapphire & Emerald/Battle! RegirockRegiceRegisteel.mmrs",
     "preview": "Pokémon Ruby, Sapphire & Emerald/Battle! RegirockRegiceRegisteel.ogg"
   },
+  {
+    "uuid": "7ecf7299-4070-44bb-9a4c-b968648238a8",
+    "creationDate": "2026-03-20T01:20:07.442Z",
+    "game": "Pokémon Ruby, Sapphire & Emerald",
+    "song": "Battle! Rival",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "7",
+      "11A"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Ruby, Sapphire & Emerald/Battle! Rival.mmrs",
+    "preview": "Pokémon Ruby, Sapphire & Emerald/Battle! Rival.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -13023,5 +13023,28 @@
     "file": "Pokémon Black & White/Bianca's Theme.mmrs",
     "preview": "Pokémon Black & White/Bianca's Theme.ogg"
   },
+  {
+    "uuid": "79979e89-d109-41e5-9919-9e5b68761145",
+    "creationDate": "2026-03-20T03:02:06.231Z",
+    "game": "Pokémon Black & White",
+    "song": "Dragonspiral Tower",
+    "composers": [
+      "Shota Kageyama"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Black & White/Dragonspiral Tower.mmrs",
+    "preview": "Pokémon Black & White/Dragonspiral Tower.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

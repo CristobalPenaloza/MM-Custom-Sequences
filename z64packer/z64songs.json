@@ -12837,5 +12837,28 @@
     "file": "Pokémon Ruby, Sapphire & Emerald/Dive.mmrs",
     "preview": "Pokémon Ruby, Sapphire & Emerald/Dive.ogg"
   },
+  {
+    "uuid": "05dd953a-835f-4dbd-bfbe-c9adf6dbffb2",
+    "creationDate": "2026-03-20T02:41:18.765Z",
+    "game": "Pokémon Ruby, Sapphire & Emerald",
+    "song": "Ever Grande City",
+    "composers": [
+      "Go Ichinose"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Ruby, Sapphire & Emerald/Ever Grande City.mmrs",
+    "preview": "Pokémon Ruby, Sapphire & Emerald/Ever Grande City.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

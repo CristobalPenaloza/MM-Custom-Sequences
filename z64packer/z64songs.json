@@ -13875,5 +13875,27 @@
     "file": "Mario & Luigi Bowser's Inside Story/Cavi Cape.mmrs",
     "preview": "Mario & Luigi Bowser's Inside Story/Cavi Cape.ogg"
   },
+  {
+    "uuid": "d76c4fc7-beaf-46bb-9be6-4a9c833e5040",
+    "creationDate": "2026-03-20T22:16:28.369Z",
+    "game": "Mario & Luigi: Bowser's Inside Story",
+    "song": "Bumpsy Plains",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mario & Luigi Bowser's Inside Story/Bumpsy Plains.mmrs",
+    "preview": "Mario & Luigi Bowser's Inside Story/Bumpsy Plains.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -12768,5 +12768,27 @@
     "file": "Pokémon Ruby, Sapphire & Emerald/Obtained a TM!.mmrs",
     "preview": "Pokémon Ruby, Sapphire & Emerald/Obtained a TM!.ogg"
   },
+  {
+    "uuid": "dcb51d0e-0003-4456-9f81-1bed354df19b",
+    "creationDate": "2026-03-20T02:20:42.131Z",
+    "game": "Pokémon Ruby, Sapphire & Emerald",
+    "song": "Level Up!",
+    "composers": [
+      "Go Ichinose"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Ruby, Sapphire & Emerald/Level Up!.mmrs",
+    "preview": "Pokémon Ruby, Sapphire & Emerald/Level Up!.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

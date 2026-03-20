@@ -13091,5 +13091,27 @@
     "file": "Pokémon Black & White/Route 10.mmrs",
     "preview": "Pokémon Black & White/Route 10.ogg"
   },
+  {
+    "uuid": "4f934008-d379-4fcc-b64c-e112a4591f43",
+    "creationDate": "2026-03-20T21:13:29.063Z",
+    "game": "An Untitled Story",
+    "song": "Bonus Theme",
+    "composers": [
+      "Maddy Thorson"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "An Untitled Story/Bonus Theme.mmrs",
+    "preview": "An Untitled Story/Bonus Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

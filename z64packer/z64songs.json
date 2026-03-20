@@ -13377,5 +13377,29 @@
     "file": "Sonic the Hedgehog 3/Endless Mine.mmrs",
     "preview": "Sonic the Hedgehog 3/Endless Mine.ogg"
   },
+  {
+    "uuid": "31c7e500-4e7c-4190-9815-b40caef51fcf",
+    "creationDate": "2026-03-20T21:38:54.779Z",
+    "game": "Windows XP",
+    "song": "Town",
+    "composers": [
+      "Nathan Grigg"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Windows XP/Town.mmrs",
+    "preview": "Windows XP/Town.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

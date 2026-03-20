@@ -12180,5 +12180,28 @@
     "file": "Fire Emblem Three Houses/The Edge of Dawn (Seasons of Warfare).mmrs",
     "preview": "Fire Emblem Three Houses/The Edge of Dawn (Seasons of Warfare).ogg"
   },
+  {
+    "uuid": "e1525a04-671e-49f8-a057-d2779c3fe696",
+    "creationDate": "2026-03-20T00:34:39.640Z",
+    "game": "Fire Emblem: Three Houses",
+    "song": "Fódlan Winds (Piano)",
+    "composers": [
+      "Takeru Kanazaki"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "11A"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Three Houses/Fódlan Winds (Piano).mmrs",
+    "preview": "Fire Emblem Three Houses/Fódlan Winds (Piano).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

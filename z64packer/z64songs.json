@@ -12678,5 +12678,28 @@
     "file": "Pokémon Diamond, Pearl & Platinum/Giratina Appears!.mmrs",
     "preview": "Pokémon Diamond, Pearl & Platinum/Giratina Appears!.ogg"
   },
+  {
+    "uuid": "17a780e9-0e15-4bd1-9324-0dbded6b19ec",
+    "creationDate": "2026-03-20T02:14:44.801Z",
+    "game": "Pokémon Ranger: Shadows of Almia",
+    "song": "Mission Complete",
+    "composers": [
+      "Takuto Kitsuta"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "10"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Ranger Shadows of Almia/Mission Complete.mmrs",
+    "preview": "Pokémon Ranger Shadows of Almia/Mission Complete.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

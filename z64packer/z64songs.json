@@ -12654,5 +12654,29 @@
     "file": "Pokémon Ruby, Sapphire & Emerald/Battle! Rival.mmrs",
     "preview": "Pokémon Ruby, Sapphire & Emerald/Battle! Rival.ogg"
   },
+  {
+    "uuid": "04d01b1b-5fd1-44a6-82e0-62d2bebb1314",
+    "creationDate": "2026-03-20T02:11:09.898Z",
+    "game": "Pokémon Diamond, Pearl & Platinum",
+    "song": "Giratina Appears!",
+    "composers": [
+      "Junichi Masuda",
+      "Go Ichinose"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Diamond, Pearl & Platinum/Giratina Appears!.mmrs",
+    "preview": "Pokémon Diamond, Pearl & Platinum/Giratina Appears!.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

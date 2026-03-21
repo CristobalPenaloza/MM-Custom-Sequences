@@ -14266,5 +14266,26 @@
     "file": "Cave Story/Outerwall.mmrs",
     "preview": "Cave Story/Outerwall.ogg"
   },
+  {
+    "uuid": "4ca64e7e-a8d7-4c5a-8ed7-54330dc62106",
+    "creationDate": "2026-03-21T15:41:26.735Z",
+    "game": "Cave Story",
+    "song": "Get Item",
+    "composers": [
+      "Daisuke \"Pixel\" Amaya"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Cave Story/Get Item.mmrs",
+    "preview": "Cave Story/Get Item.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

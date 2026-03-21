@@ -13889,5 +13889,26 @@
     "file": "Old School RuneScape/Ardougne.mmrs",
     "preview": "Old School RuneScape/Ardougne.ogg"
   },
+  {
+    "uuid": "880bed86-ae9b-4a0e-81a0-c7edf9599840",
+    "creationDate": "2026-03-21T15:21:22.085Z",
+    "game": "Freshly-Picked Tingle's Rosy Rupeeland",
+    "song": "Bridge Bros.",
+    "composers": [
+      "Masanori Adachi"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Freshly-Picked Tingle's Rosy Rupeeland/Bridge Bros..mmrs",
+    "preview": "Freshly-Picked Tingle's Rosy Rupeeland/Bridge Bros..ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

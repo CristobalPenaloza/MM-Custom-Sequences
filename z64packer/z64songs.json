@@ -13910,5 +13910,28 @@
     "file": "Freshly-Picked Tingle's Rosy Rupeeland/Bridge Bros..mmrs",
     "preview": "Freshly-Picked Tingle's Rosy Rupeeland/Bridge Bros..ogg"
   },
+  {
+    "uuid": "260a0d5c-9ddf-4444-b90e-5b1b97c5fff8",
+    "creationDate": "2026-03-21T15:24:15.145Z",
+    "game": "Ripened Tingle's Balloon Trip of Love",
+    "song": "Cornfield",
+    "composers": [
+      "Masanori Adachi"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Ripened Tingle's Balloon Trip of Love/Cornfield.mmrs",
+    "preview": "Ripened Tingle's Balloon Trip of Love/Cornfield.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

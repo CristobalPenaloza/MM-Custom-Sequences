@@ -14470,5 +14470,28 @@
     "file": "Freshly-Picked Tingle's Rosy Rupeeland/Stealth Theme.mmrs",
     "preview": "Freshly-Picked Tingle's Rosy Rupeeland/Stealth Theme.ogg"
   },
+  {
+    "uuid": "988bc67d-c949-422f-86a3-cae12b6337bb",
+    "creationDate": "2026-03-21T16:15:22.996Z",
+    "game": "Freshly-Picked Tingle's Rosy Rupeeland",
+    "song": "Salon Theme",
+    "composers": [
+      "Masanori Adachi"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Freshly-Picked Tingle's Rosy Rupeeland/Salon Theme.mmrs",
+    "preview": "Freshly-Picked Tingle's Rosy Rupeeland/Salon Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

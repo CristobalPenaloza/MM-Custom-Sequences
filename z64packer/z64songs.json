@@ -13728,5 +13728,28 @@
     "file": "Pokémon Ranger Shadows of Almia/Vien Forest.mmrs",
     "preview": "Pokémon Ranger Shadows of Almia/Vien Forest.ogg"
   },
+  {
+    "uuid": "05914c0b-f7d4-4e68-a80b-3fe582873239",
+    "creationDate": "2026-03-21T14:55:01.701Z",
+    "game": "Super Mario RPG: Legend of the Seven Stars",
+    "song": "Welcome to Booster Tower",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "5",
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario RPG Legend of the Seven Stars/Welcome to Booster Tower.mmrs",
+    "preview": "Super Mario RPG Legend of the Seven Stars/Welcome to Booster Tower.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

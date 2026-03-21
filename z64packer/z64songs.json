@@ -14000,5 +14000,27 @@
     "file": "Super Mario RPG Legend of the Seven Stars/Ominous Theme.mmrs",
     "preview": "Super Mario RPG Legend of the Seven Stars/Ominous Theme.ogg"
   },
+  {
+    "uuid": "16c2f4a1-b6c3-4d9a-bf23-fd280983da6e",
+    "creationDate": "2026-03-21T15:27:45.320Z",
+    "game": "Super Mario RPG: Legend of the Seven Stars",
+    "song": "Nimbus Land",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario RPG Legend of the Seven Stars/Nimbus Land.mmrs",
+    "preview": "Super Mario RPG Legend of the Seven Stars/Nimbus Land.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

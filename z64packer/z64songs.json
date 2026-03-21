@@ -13978,5 +13978,27 @@
     "file": "Super Mario Maker 2/Super Mario World (Desert Theme).mmrs",
     "preview": "Super Mario Maker 2/Super Mario World (Desert Theme).ogg"
   },
+  {
+    "uuid": "b16dc176-93c3-409f-b69e-e8374970418d",
+    "creationDate": "2026-03-21T15:27:05.264Z",
+    "game": "Super Mario RPG: Legend of the Seven Stars",
+    "song": "Ominous Theme",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario RPG Legend of the Seven Stars/Ominous Theme.mmrs",
+    "preview": "Super Mario RPG Legend of the Seven Stars/Ominous Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

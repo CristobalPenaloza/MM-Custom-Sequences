@@ -13751,5 +13751,27 @@
     "file": "Super Mario RPG Legend of the Seven Stars/Welcome to Booster Tower.mmrs",
     "preview": "Super Mario RPG Legend of the Seven Stars/Welcome to Booster Tower.ogg"
   },
+  {
+    "uuid": "54d5be1b-b3a0-404a-94f8-dde9832ac145",
+    "creationDate": "2026-03-21T14:55:53.485Z",
+    "game": "Super Mario RPG: Legend of the Seven Stars",
+    "song": "Mushroom Kingdom",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario RPG Legend of the Seven Stars/Mushroom Kingdom.mmrs",
+    "preview": "Super Mario RPG Legend of the Seven Stars/Mushroom Kingdom.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

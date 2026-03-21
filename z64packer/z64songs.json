@@ -13819,5 +13819,28 @@
     "file": "Advance Wars 2 Black Hole Rising/Sensei's Theme.mmrs",
     "preview": "Advance Wars 2 Black Hole Rising/Sensei's Theme.ogg"
   },
+  {
+    "uuid": "16078d1a-a81b-48ff-abbc-470458c6f65a",
+    "creationDate": "2026-03-21T14:59:05.216Z",
+    "game": "McDonald's eCDP",
+    "song": "Challenge",
+    "composers": [
+      "Unknown"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "McDonald's eCDP/Challenge.mmrs",
+    "preview": "McDonald's eCDP/Challenge.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -14402,5 +14402,27 @@
     "file": "Castlevania Aria of Sorrow/Castle Corridor.mmrs",
     "preview": "Castlevania Aria of Sorrow/Castle Corridor.ogg"
   },
+  {
+    "uuid": "d12e7665-da5a-4f7f-be21-206901588fcb",
+    "creationDate": "2026-03-21T16:13:32.939Z",
+    "game": "Freshly-Picked Tingle's Rosy Rupeeland",
+    "song": "Town Theme",
+    "composers": [
+      "Masanori Adachi"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Freshly-Picked Tingle's Rosy Rupeeland/Town Theme.mmrs",
+    "preview": "Freshly-Picked Tingle's Rosy Rupeeland/Town Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

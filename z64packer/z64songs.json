@@ -14773,5 +14773,27 @@
     "file": "Freshly-Picked Tingle's Rosy Rupeeland/Mapping.mmrs",
     "preview": "Freshly-Picked Tingle's Rosy Rupeeland/Mapping.ogg"
   },
+  {
+    "uuid": "b9b2c9a5-6f4c-485a-962d-66675166023f",
+    "creationDate": "2026-03-21T16:27:36.012Z",
+    "game": "GilvaSunner",
+    "song": "Milk Bar",
+    "composers": [
+      "GilvaSunner"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "GilvaSunner/Milk Bar.mmrs",
+    "preview": "GilvaSunner/Milk Bar.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

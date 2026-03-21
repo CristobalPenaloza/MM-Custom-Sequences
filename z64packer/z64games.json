@@ -2929,5 +2929,17 @@
     "series": "Sonic the Hedgehog Series",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/2e7baa319a8e3960941801b16225ccfa.png"
   },
+  {
+    "game": "Earthworm Jim 2"
+  },
+  {
+    "game": "Super Mario Maker 2"
+  },
+  {
+    "game": "Ripened Tingle's Balloon Trip of Love"
+  },
+  {
+    "game": "McDonald's eCDP"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

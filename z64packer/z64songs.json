@@ -14212,5 +14212,27 @@
     "file": "Pokémon HeartGold & SoulSilver/Ruins of Alph.mmrs",
     "preview": "Pokémon HeartGold & SoulSilver/Ruins of Alph.ogg"
   },
+  {
+    "uuid": "647a7e44-43f0-44c0-8f82-45367d3fadec",
+    "creationDate": "2026-03-21T01:21:10.176Z",
+    "game": "Pokémon HeartGold & SoulSilver",
+    "song": "Viridian / Pewter / Saffron City",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon HeartGold & SoulSilver/Viridian  Pewter  Saffron City.mmrs",
+    "preview": "Pokémon HeartGold & SoulSilver/Viridian  Pewter  Saffron City.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

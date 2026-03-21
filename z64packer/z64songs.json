@@ -14154,5 +14154,27 @@
     "file": "Wario Land 4/Crescent Moon Village.mmrs",
     "preview": "Wario Land 4/Crescent Moon Village.ogg"
   },
+  {
+    "uuid": "bd2c14fa-f87b-4e70-8efb-f63e58b9f634",
+    "creationDate": "2026-03-21T15:38:44.757Z",
+    "game": "Ripened Tingle's Balloon Trip of Love",
+    "song": "Shoot Out",
+    "composers": [
+      "Masanori Adachi"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Ripened Tingle's Balloon Trip of Love/Shoot Out.mmrs",
+    "preview": "Ripened Tingle's Balloon Trip of Love/Shoot Out.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

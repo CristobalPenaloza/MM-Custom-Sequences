@@ -14243,5 +14243,28 @@
     "file": "Cave Story/Victory.mmrs",
     "preview": "Cave Story/Victory.ogg"
   },
+  {
+    "uuid": "32caeaab-b1f7-4d48-b70f-a9902057c557",
+    "creationDate": "2026-03-21T15:40:45.430Z",
+    "game": "Cave Story",
+    "song": "Outerwall",
+    "composers": [
+      "Daisuke \"Pixel\" Amaya"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Cave Story/Outerwall.mmrs",
+    "preview": "Cave Story/Outerwall.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

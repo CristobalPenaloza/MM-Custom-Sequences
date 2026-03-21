@@ -13947,5 +13947,29 @@
     "file": "Paper Mario/Toad Town (Variant B).mmrs",
     "preview": "Paper Mario/Toad Town (Variant B).ogg"
   },
+  {
+    "uuid": "63b40e0d-1ce6-472f-a7aa-a0f4f414a8ee",
+    "creationDate": "2026-03-21T01:04:09.161Z",
+    "game": "Pokémon Diamond, Pearl & Platinum",
+    "song": "Battle Hall",
+    "composers": [
+      "Hitomi Sato"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Diamond, Pearl & Platinum/Battle Hall.mmrs",
+    "preview": "Pokémon Diamond, Pearl & Platinum/Battle Hall.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

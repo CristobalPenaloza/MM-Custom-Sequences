@@ -14189,5 +14189,28 @@
     "file": "Pokémon HeartGold & SoulSilver/Route 47.mmrs",
     "preview": "Pokémon HeartGold & SoulSilver/Route 47.ogg"
   },
+  {
+    "uuid": "95d8e745-f9ad-4599-a210-2800c6f61cbb",
+    "creationDate": "2026-03-21T01:20:00.311Z",
+    "game": "Pokémon HeartGold & SoulSilver",
+    "song": "Ruins of Alph",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "3",
+      "13B"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon HeartGold & SoulSilver/Ruins of Alph.mmrs",
+    "preview": "Pokémon HeartGold & SoulSilver/Ruins of Alph.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

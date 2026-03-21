@@ -14103,5 +14103,27 @@
     "file": "Pokémon Diamond, Pearl & Platinum/Pokémon Center (Night).mmrs",
     "preview": "Pokémon Diamond, Pearl & Platinum/Pokémon Center (Night).ogg"
   },
+  {
+    "uuid": "d2190378-aa68-4d70-9cca-f7e17532bd15",
+    "creationDate": "2026-03-21T01:16:36.288Z",
+    "game": "Pokémon Diamond, Pearl & Platinum",
+    "song": "Nintendo Wi-Fi Connection",
+    "composers": [
+      "Go Ichinose"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Diamond, Pearl & Platinum/Nintendo Wi-Fi Connection.mmrs",
+    "preview": "Pokémon Diamond, Pearl & Platinum/Nintendo Wi-Fi Connection.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

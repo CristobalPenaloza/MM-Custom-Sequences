@@ -13992,5 +13992,27 @@
     "file": "Pokémon Diamond, Pearl & Platinum/Eterna Forest.mmrs",
     "preview": "Pokémon Diamond, Pearl & Platinum/Eterna Forest.ogg"
   },
+  {
+    "uuid": "8dbbc3a6-7367-46e8-a906-f6d4c18e09ce",
+    "creationDate": "2026-03-21T01:10:03.201Z",
+    "game": "Pokémon Diamond, Pearl & Platinum",
+    "song": "Global Terminal",
+    "composers": [
+      "Hitomi Sato"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Diamond, Pearl & Platinum/Global Terminal.mmrs",
+    "preview": "Pokémon Diamond, Pearl & Platinum/Global Terminal.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

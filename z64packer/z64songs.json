@@ -14351,5 +14351,471 @@
       "Darkychao"
     ]
   },
+  {
+    "uuid": "5e735868-a7cb-41dd-88fa-6a1661b4dfcb",
+    "creationDate": "2026-03-21T15:57:37.534Z",
+    "game": "Mega Man Zero 4",
+    "song": "Holy Land (Area Zero Camp)",
+    "composers": [
+      "Ippo Yamada",
+      "Masaki Suzuki",
+      "Luna Umegaki",
+      "Shinichi Itakura"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mega Man Zero 4/Holy Land (Area Zero Camp).mmrs",
+    "preview": "Mega Man Zero 4/Holy Land (Area Zero Camp).ogg"
+  },
+  {
+    "uuid": "66551c2b-e01c-49cd-bba9-80ef486f1fae",
+    "creationDate": "2026-03-21T16:04:49.870Z",
+    "game": "Castlevania: Aria of Sorrow",
+    "song": "Castle Corridor",
+    "composers": [
+      "Michiru Yamane"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "5",
+      "7",
+      "111",
+      "127"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Castlevania Aria of Sorrow/Castle Corridor.mmrs",
+    "preview": "Castlevania Aria of Sorrow/Castle Corridor.ogg"
+  },
+  {
+    "uuid": "d12e7665-da5a-4f7f-be21-206901588fcb",
+    "creationDate": "2026-03-21T16:13:32.939Z",
+    "game": "Freshly-Picked Tingle's Rosy Rupeeland",
+    "song": "Town Theme",
+    "composers": [
+      "Masanori Adachi"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Freshly-Picked Tingle's Rosy Rupeeland/Town Theme.mmrs",
+    "preview": "Freshly-Picked Tingle's Rosy Rupeeland/Town Theme.ogg"
+  },
+  {
+    "uuid": "0447cb73-247c-422c-b9b2-0310997d6cbc",
+    "creationDate": "2026-03-21T16:14:13.478Z",
+    "game": "Freshly-Picked Tingle's Rosy Rupeeland",
+    "song": "Stealth (Exterior)",
+    "composers": [
+      "Masanori Adachi"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Freshly-Picked Tingle's Rosy Rupeeland/Stealth (Exterior).mmrs",
+    "preview": "Freshly-Picked Tingle's Rosy Rupeeland/Stealth (Exterior).ogg"
+  },
+  {
+    "uuid": "6d277d41-fbbd-4e65-8027-2cdb33ce7c8d",
+    "creationDate": "2026-03-21T16:14:48.424Z",
+    "game": "Freshly-Picked Tingle's Rosy Rupeeland",
+    "song": "Stealth Theme",
+    "composers": [
+      "Masanori Adachi"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Freshly-Picked Tingle's Rosy Rupeeland/Stealth Theme.mmrs",
+    "preview": "Freshly-Picked Tingle's Rosy Rupeeland/Stealth Theme.ogg"
+  },
+  {
+    "uuid": "988bc67d-c949-422f-86a3-cae12b6337bb",
+    "creationDate": "2026-03-21T16:15:22.996Z",
+    "game": "Freshly-Picked Tingle's Rosy Rupeeland",
+    "song": "Salon Theme",
+    "composers": [
+      "Masanori Adachi"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Freshly-Picked Tingle's Rosy Rupeeland/Salon Theme.mmrs",
+    "preview": "Freshly-Picked Tingle's Rosy Rupeeland/Salon Theme.ogg"
+  },
+  {
+    "uuid": "73c67112-1221-4c5e-bc6a-264a2759dbec",
+    "creationDate": "2026-03-21T16:16:36.303Z",
+    "game": "Freshly-Picked Tingle's Rosy Rupeeland",
+    "song": "Mount Desma (Clear)",
+    "composers": [
+      "Masanori Adachi"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "10"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Freshly-Picked Tingle's Rosy Rupeeland/Mount Desma (Clear).mmrs",
+    "preview": "Freshly-Picked Tingle's Rosy Rupeeland/Mount Desma (Clear).ogg"
+  },
+  {
+    "uuid": "3cd82c1c-ac02-4f95-ab72-6b31b3a69281",
+    "creationDate": "2026-03-21T16:17:16.535Z",
+    "game": "Freshly-Picked Tingle's Rosy Rupeeland",
+    "song": "Chiko",
+    "composers": [
+      "Masanori Adachi"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "10"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Freshly-Picked Tingle's Rosy Rupeeland/Chiko.mmrs",
+    "preview": "Freshly-Picked Tingle's Rosy Rupeeland/Chiko.ogg"
+  },
+  {
+    "uuid": "bd5e2f06-c839-408e-9e80-459d99fede92",
+    "creationDate": "2026-03-21T16:18:34.859Z",
+    "game": "Freshly-Picked Tingle's Rosy Rupeeland",
+    "song": "Bridge Bros. (Fanfare)",
+    "composers": [
+      "Masanori Adachi"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "10"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Freshly-Picked Tingle's Rosy Rupeeland/Bridge Bros. (Fanfare).mmrs",
+    "preview": "Freshly-Picked Tingle's Rosy Rupeeland/Bridge Bros. (Fanfare).ogg"
+  },
+  {
+    "uuid": "11837906-ff27-4961-821f-df308d348a53",
+    "creationDate": "2026-03-21T16:19:48.373Z",
+    "game": "Freshly-Picked Tingle's Rosy Rupeeland",
+    "song": "Deku Forest",
+    "composers": [
+      "Masanori Adachi"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Freshly-Picked Tingle's Rosy Rupeeland/Deku Forest.mmrs",
+    "preview": "Freshly-Picked Tingle's Rosy Rupeeland/Deku Forest.ogg"
+  },
+  {
+    "uuid": "7faf1d0a-6bc0-492a-a6a0-75ff9fe195b8",
+    "creationDate": "2026-03-21T16:20:29.565Z",
+    "game": "SiivaGunner",
+    "song": "Grand Proportions",
+    "composers": [
+      "SiivaGunner"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "SiivaGunner/Grand Proportions.mmrs",
+    "preview": "SiivaGunner/Grand Proportions.ogg",
+    "lastUpdateDate": "2026-03-21T16:31:37.187Z"
+  },
+  {
+    "uuid": "81beb444-f572-4005-be71-078845b9870d",
+    "creationDate": "2026-03-21T16:21:11.607Z",
+    "game": "Old School RuneScape",
+    "song": "Pinballs",
+    "composers": [
+      "Ian Taylor"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Old School RuneScape/Pinballs.mmrs",
+    "preview": "Old School RuneScape/Pinballs.ogg"
+  },
+  {
+    "uuid": "56520ac8-1eda-4794-817f-e3380c50ee0d",
+    "creationDate": "2026-03-21T16:21:49.947Z",
+    "game": "Old School RuneScape",
+    "song": "Motherlode Mine",
+    "composers": [
+      "Ian Taylor"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Old School RuneScape/Motherlode Mine.mmrs",
+    "preview": "Old School RuneScape/Motherlode Mine.ogg"
+  },
+  {
+    "uuid": "1118a02d-507f-4f91-92ec-8e49596309c7",
+    "creationDate": "2026-03-21T16:22:23.731Z",
+    "game": "Old School RuneScape",
+    "song": "Grand Exchange",
+    "composers": [
+      "Ian Taylor"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Old School RuneScape/Grand Exchange.mmrs",
+    "preview": "Old School RuneScape/Grand Exchange.ogg",
+    "lastUpdateDate": "2026-03-21T16:23:32.457Z"
+  },
+  {
+    "uuid": "d06691a3-df69-4530-b779-d5e97ef49b1a",
+    "creationDate": "2026-03-21T16:23:10.734Z",
+    "game": "Old School RuneScape",
+    "song": "Phesant",
+    "composers": [
+      "Ian Taylor"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Old School RuneScape/Phesant.mmrs",
+    "preview": "Old School RuneScape/Phesant.ogg"
+  },
+  {
+    "uuid": "c9559744-6857-4b0b-aada-2b9d39d2a804",
+    "creationDate": "2026-03-21T16:24:14.023Z",
+    "game": "Old School RuneScape",
+    "song": "Oh Dear",
+    "composers": [
+      "Ian Taylor"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Old School RuneScape/Oh Dear.mmrs",
+    "preview": "Old School RuneScape/Oh Dear.ogg"
+  },
+  {
+    "uuid": "ec113903-b5a9-4aa3-a4f4-f7519664438b",
+    "creationDate": "2026-03-21T16:24:58.233Z",
+    "game": "Old School RuneScape",
+    "song": "Grand Exchange (Fanfare)",
+    "composers": [
+      "Ian Taylor"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Old School RuneScape/Grand Exchange (Fanfare).mmrs",
+    "preview": "Old School RuneScape/Grand Exchange (Fanfare).ogg"
+  },
+  {
+    "uuid": "46e6f395-bd9b-4a3d-a3bf-8b9776d17bcd",
+    "creationDate": "2026-03-21T16:25:32.835Z",
+    "game": "Old School RuneScape",
+    "song": "Dream",
+    "composers": [
+      "Ian Taylor"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Old School RuneScape/Dream.mmrs",
+    "preview": "Old School RuneScape/Dream.ogg"
+  },
+  {
+    "uuid": "579d44b8-7dec-4985-9cc9-415e4efbba28",
+    "creationDate": "2026-03-21T16:26:09.064Z",
+    "game": "Freshly-Picked Tingle's Rosy Rupeeland",
+    "song": "Mapping",
+    "composers": [
+      "Masanori Adachi"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Freshly-Picked Tingle's Rosy Rupeeland/Mapping.mmrs",
+    "preview": "Freshly-Picked Tingle's Rosy Rupeeland/Mapping.ogg"
+  },
+  {
+    "uuid": "b9b2c9a5-6f4c-485a-962d-66675166023f",
+    "creationDate": "2026-03-21T16:27:36.012Z",
+    "game": "GilvaSunner",
+    "song": "Milk Bar",
+    "composers": [
+      "GilvaSunner"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "GilvaSunner/Milk Bar.mmrs",
+    "preview": "GilvaSunner/Milk Bar.ogg"
+  },
+  {
+    "uuid": "d06dc3fd-07af-4f28-b127-2fe73c2f4953",
+    "creationDate": "2026-03-21T16:29:11.209Z",
+    "game": "Super Mario Bros.",
+    "song": "Game Over",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario Bros/Game Over.mmrs",
+    "preview": "Super Mario Bros/Game Over.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

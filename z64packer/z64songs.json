@@ -14862,5 +14862,28 @@
     "file": "Quattro Adventure Treasure Island Dizzy/Island.mmrs",
     "preview": "Quattro Adventure Treasure Island Dizzy/Island.ogg"
   },
+  {
+    "uuid": "be8c9f3a-92d1-44ab-a751-a64dfdd04cce",
+    "creationDate": "2026-03-21T23:23:29.934Z",
+    "game": "Quattro Adventure Super Robin Hood",
+    "song": "Ground",
+    "composers": [
+      "David Whittaker"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Quattro Adventure Super Robin Hood/Ground.mmrs",
+    "preview": "Quattro Adventure Super Robin Hood/Ground.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -14558,5 +14558,27 @@
     "file": "Freshly-Picked Tingle's Rosy Rupeeland/Bridge Bros. (Fanfare).mmrs",
     "preview": "Freshly-Picked Tingle's Rosy Rupeeland/Bridge Bros. (Fanfare).ogg"
   },
+  {
+    "uuid": "11837906-ff27-4961-821f-df308d348a53",
+    "creationDate": "2026-03-21T16:19:48.373Z",
+    "game": "Freshly-Picked Tingle's Rosy Rupeeland",
+    "song": "Deku Forest",
+    "composers": [
+      "Masanori Adachi"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Freshly-Picked Tingle's Rosy Rupeeland/Deku Forest.mmrs",
+    "preview": "Freshly-Picked Tingle's Rosy Rupeeland/Deku Forest.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

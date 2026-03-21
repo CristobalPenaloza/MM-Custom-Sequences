@@ -14424,5 +14424,28 @@
     "file": "Freshly-Picked Tingle's Rosy Rupeeland/Town Theme.mmrs",
     "preview": "Freshly-Picked Tingle's Rosy Rupeeland/Town Theme.ogg"
   },
+  {
+    "uuid": "0447cb73-247c-422c-b9b2-0310997d6cbc",
+    "creationDate": "2026-03-21T16:14:13.478Z",
+    "game": "Freshly-Picked Tingle's Rosy Rupeeland",
+    "song": "Stealth (Exterior)",
+    "composers": [
+      "Masanori Adachi"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Freshly-Picked Tingle's Rosy Rupeeland/Stealth (Exterior).mmrs",
+    "preview": "Freshly-Picked Tingle's Rosy Rupeeland/Stealth (Exterior).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

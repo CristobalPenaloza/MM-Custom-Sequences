@@ -14377,5 +14377,30 @@
     "file": "Mega Man Zero 4/Holy Land (Area Zero Camp).mmrs",
     "preview": "Mega Man Zero 4/Holy Land (Area Zero Camp).ogg"
   },
+  {
+    "uuid": "66551c2b-e01c-49cd-bba9-80ef486f1fae",
+    "creationDate": "2026-03-21T16:04:49.870Z",
+    "game": "Castlevania: Aria of Sorrow",
+    "song": "Castle Corridor",
+    "composers": [
+      "Michiru Yamane"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "5",
+      "7",
+      "111",
+      "127"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Castlevania Aria of Sorrow/Castle Corridor.mmrs",
+    "preview": "Castlevania Aria of Sorrow/Castle Corridor.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -14088,5 +14088,28 @@
     "file": "Super Mario RPG Legend of the Seven Stars/Shopping at Seaside Town.mmrs",
     "preview": "Super Mario RPG Legend of the Seven Stars/Shopping at Seaside Town.ogg"
   },
+  {
+    "uuid": "670b95b2-8275-4459-9ca6-87f22ff887b4",
+    "creationDate": "2026-03-21T15:31:16.501Z",
+    "game": "Super Mario RPG: Legend of the Seven Stars",
+    "song": "Sad Song",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "12E",
+      "16E"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario RPG Legend of the Seven Stars/Sad Song.mmrs",
+    "preview": "Super Mario RPG Legend of the Seven Stars/Sad Song.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -14022,5 +14022,27 @@
     "file": "Super Mario RPG Legend of the Seven Stars/Nimbus Land.mmrs",
     "preview": "Super Mario RPG Legend of the Seven Stars/Nimbus Land.ogg"
   },
+  {
+    "uuid": "9c906610-cc70-4a89-9393-63f330a6b0fc",
+    "creationDate": "2026-03-21T15:29:00.606Z",
+    "game": "Super Mario RPG: Legend of the Seven Stars",
+    "song": "Fight Against Monsters",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario RPG Legend of the Seven Stars/Fight Against Monsters.mmrs",
+    "preview": "Super Mario RPG Legend of the Seven Stars/Fight Against Monsters.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

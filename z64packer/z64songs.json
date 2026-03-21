@@ -14817,5 +14817,18 @@
     "file": "Super Mario Bros/Game Over.mmrs",
     "preview": "Super Mario Bros/Game Over.ogg"
   },
+  {
+    "game": "Freshly-Picked Tingle's Rosy Rupeeland",
+    "song": "Minigame",
+    "type": "bgm",
+    "categories": [
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "ba2e5e57-be4b-4a87-9def-1430b54ec1ff",
+    "file": "Freshly-Picked Tingle's Rosy Rupeeland/Minigame.mmrs"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

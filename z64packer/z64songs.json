@@ -14514,5 +14514,27 @@
     "file": "Freshly-Picked Tingle's Rosy Rupeeland/Mount Desma (Clear).mmrs",
     "preview": "Freshly-Picked Tingle's Rosy Rupeeland/Mount Desma (Clear).ogg"
   },
+  {
+    "uuid": "3cd82c1c-ac02-4f95-ab72-6b31b3a69281",
+    "creationDate": "2026-03-21T16:17:16.535Z",
+    "game": "Freshly-Picked Tingle's Rosy Rupeeland",
+    "song": "Chiko",
+    "composers": [
+      "Masanori Adachi"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "10"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Freshly-Picked Tingle's Rosy Rupeeland/Chiko.mmrs",
+    "preview": "Freshly-Picked Tingle's Rosy Rupeeland/Chiko.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

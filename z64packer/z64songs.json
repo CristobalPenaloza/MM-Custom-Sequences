@@ -14730,5 +14730,27 @@
     "file": "Old School RuneScape/Grand Exchange (Fanfare).mmrs",
     "preview": "Old School RuneScape/Grand Exchange (Fanfare).ogg"
   },
+  {
+    "uuid": "46e6f395-bd9b-4a3d-a3bf-8b9776d17bcd",
+    "creationDate": "2026-03-21T16:25:32.835Z",
+    "game": "Old School RuneScape",
+    "song": "Dream",
+    "composers": [
+      "Ian Taylor"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Old School RuneScape/Dream.mmrs",
+    "preview": "Old School RuneScape/Dream.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

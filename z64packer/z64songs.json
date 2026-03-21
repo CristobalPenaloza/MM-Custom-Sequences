@@ -14256,5 +14256,31 @@
     "file": "Pokémon Ranger/Sekra Range.mmrs",
     "preview": "Pokémon Ranger/Sekra Range.ogg"
   },
+  {
+    "uuid": "bea5d4d8-3184-40f7-803f-8400e2a16cd1",
+    "creationDate": "2026-03-21T01:23:14.423Z",
+    "game": "Pokémon Ranger: Shadows of Almia",
+    "song": "Name Entry",
+    "composers": [
+      "Takuto Kitsuta",
+      "Kinta Sato",
+      "Shinobu Amayake"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Ranger Shadows of Almia/Name Entry.mmrs",
+    "preview": "Pokémon Ranger Shadows of Almia/Name Entry.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

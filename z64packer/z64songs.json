@@ -15241,5 +15241,26 @@
     "file": "The Legend of Zelda Twilight Princess/Blizzeta (Phase 2).mmrs",
     "preview": "The Legend of Zelda Twilight Princess/Blizzeta (Phase 2).ogg"
   },
+  {
+    "uuid": "e6f4a7dd-02eb-4f86-8c1f-043dbe43caea",
+    "creationDate": "2026-03-22T01:07:22.929Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Morpheel Battle (Second Half) (Senate version)",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Twilight Princess/Morpheel Battle (Second Half) (Senate version).mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Morpheel Battle (Second Half) (Senate version).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -15620,5 +15620,26 @@
     "file": "Ura Zelda/Zeth Battle.mmrs",
     "preview": "https://www.youtube.com/watch?v=yF9fxOAUw7o"
   },
+  {
+    "uuid": "180fd53e-357b-4dfd-b4bc-267482a7297c",
+    "creationDate": "2026-03-22T02:55:26.747Z",
+    "game": "DetectiveSky612",
+    "song": "Lost",
+    "composers": [
+      "DetectiveSky612"
+    ],
+    "converters": [
+      "DetectiveSky612"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "DetectiveSky612/Lost.mmrs",
+    "preview": "https://www.youtube.com/watch?v=dPQCMEQsRQo"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

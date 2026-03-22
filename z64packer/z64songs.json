@@ -15730,5 +15730,28 @@
     "file": "DetectiveSky612/Going Alone.mmrs",
     "preview": "https://www.youtube.com/watch?v=YBWTNJDM3XA"
   },
+  {
+    "uuid": "47636a99-773f-4eba-95b5-95e25cfb91d2",
+    "creationDate": "2026-03-22T02:59:15.737Z",
+    "game": "Super Castlevania IV",
+    "song": "Dance of the Holy Man/Theme of Simon Belmont",
+    "composers": [
+      "Michiru Yamane"
+    ],
+    "converters": [
+      "DetectiveSky612"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "5"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Castlevania IV/Dance of the Holy ManTheme of Simon Belmont.mmrs",
+    "preview": "https://www.youtube.com/watch?v=wD_7sAzP9gE"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

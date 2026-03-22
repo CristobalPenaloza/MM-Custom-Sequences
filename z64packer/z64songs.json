@@ -15485,5 +15485,27 @@
     "file": "Castlevania Symphony of the Night/Lost Painting.mmrs",
     "preview": "https://www.youtube.com/watch?v=lGTYKyEgSoc"
   },
+  {
+    "uuid": "6e61bb7c-4946-4b8a-b666-9b3c31ddb083",
+    "creationDate": "2026-03-22T02:44:04.768Z",
+    "game": "Castlevania: Bloodlines",
+    "song": "Sinking Old Sanctuary",
+    "composers": [
+      "Michiru Yamane"
+    ],
+    "converters": [
+      "DetectiveSky612"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Castlevania Bloodlines/Sinking Old Sanctuary.mmrs",
+    "preview": "https://www.youtube.com/watch?v=xQ4lWPw7Qlw&pp=0gcJCcUKAYcqIYzv"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

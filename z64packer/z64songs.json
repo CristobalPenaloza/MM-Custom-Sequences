@@ -15326,5 +15326,27 @@
     "file": "The Legend of Zelda The Wind Waker/Mini Boss.mmrs",
     "preview": "The Legend of Zelda The Wind Waker/Mini Boss.ogg"
   },
+  {
+    "uuid": "444e7c7f-dee9-48b4-ad9b-85a0a1fa8648",
+    "creationDate": "2026-03-22T02:32:19.690Z",
+    "game": "Castlevania: Dawn of Sorrow",
+    "song": "Subterranean Hell",
+    "composers": [
+      "Michiru Yamane"
+    ],
+    "converters": [
+      "DetectiveSky612"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Castlevania Dawn of Sorrow/Subterranean Hell.mmrs",
+    "preview": "Castlevania Dawn of Sorrow/Subterranean Hell.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

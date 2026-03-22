@@ -15864,5 +15864,31 @@
     "file": "DetectiveSky612/Dance of Death.mmrs",
     "preview": "https://www.youtube.com/watch?v=-DNV2dGctHY"
   },
+  {
+    "uuid": "36ce3008-016d-4b7e-aa46-8831a155ebed",
+    "creationDate": "2026-03-22T03:12:13.868Z",
+    "game": "Maple Story",
+    "song": "Ellinia Tree Dungeon",
+    "composers": [
+      "CODASOUND (Lee Jun-Hee)"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "6",
+      "11C"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Maple Story/Ellinia Tree Dungeon.mmrs",
+    "preview": "Maple Story/Ellinia Tree Dungeon.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

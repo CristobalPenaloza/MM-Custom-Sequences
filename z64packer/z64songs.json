@@ -15220,5 +15220,26 @@
     "file": "The Legend of Zelda Twilight Princess/Beast Ganon Battle.mmrs",
     "preview": "The Legend of Zelda Twilight Princess/Beast Ganon Battle.ogg"
   },
+  {
+    "uuid": "d3e6d3f7-6734-4394-9dcb-39e3fe22eac1",
+    "creationDate": "2026-03-22T00:52:59.863Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Blizzeta (Phase 2)",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Twilight Princess/Blizzeta (Phase 2).mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Blizzeta (Phase 2).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

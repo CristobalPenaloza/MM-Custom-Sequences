@@ -15198,5 +15198,27 @@
     "file": "The Legend of Zelda Twilight Princess/King Bulblin Battle.mmrs",
     "preview": "The Legend of Zelda Twilight Princess/King Bulblin Battle.ogg"
   },
+  {
+    "uuid": "1d1d8a3c-8856-4722-b605-c16ce1c7bdaa",
+    "creationDate": "2026-03-22T00:51:32.564Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Beast Ganon Battle",
+    "composers": [
+      "Toru Minegishi",
+      "Asuka Ohta"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Twilight Princess/Beast Ganon Battle.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Beast Ganon Battle.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

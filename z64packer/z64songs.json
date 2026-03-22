@@ -15753,5 +15753,27 @@
     "file": "Super Castlevania IV/Dance of the Holy ManTheme of Simon Belmont.mmrs",
     "preview": "https://www.youtube.com/watch?v=wD_7sAzP9gE"
   },
+  {
+    "uuid": "a31ddbb4-95cb-4088-83cb-6893c6bac55e",
+    "creationDate": "2026-03-22T03:00:14.039Z",
+    "game": "Castlevania: Legacy of Darkness",
+    "song": "Sinking Old Sanctuary",
+    "composers": [
+      "Masahiko Kimura"
+    ],
+    "converters": [
+      "DetectiveSky612"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Castlevania Legacy of Darkness/Sinking Old Sanctuary.mmrs",
+    "preview": "https://www.youtube.com/watch?v=oPMsO4Loljs"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

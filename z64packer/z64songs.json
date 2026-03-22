@@ -15598,5 +15598,27 @@
     "file": "DetectiveSky612/Pinnacle of the World.mmrs",
     "preview": "https://www.youtube.com/watch?v=FZxH5zQc7jU"
   },
+  {
+    "uuid": "651c7d9c-1b37-4b65-96c8-bdc7dc2daef6",
+    "creationDate": "2026-03-22T02:54:47.818Z",
+    "game": "Ura Zelda",
+    "song": "Zeth Battle",
+    "composers": [
+      "Dominic Ninmark"
+    ],
+    "converters": [
+      "DetectiveSky612"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Ura Zelda/Zeth Battle.mmrs",
+    "preview": "https://www.youtube.com/watch?v=yF9fxOAUw7o"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

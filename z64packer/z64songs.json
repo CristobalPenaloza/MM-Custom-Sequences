@@ -15462,5 +15462,28 @@
     "file": "Castlevania Bloodlines/Simon Belmont's Theme.mmrs",
     "preview": "https://www.youtube.com/watch?v=oYco3II6rfA"
   },
+  {
+    "uuid": "008df7ee-0a1c-41ae-bb0c-202277541ae8",
+    "creationDate": "2026-03-22T02:43:10.262Z",
+    "game": "Castlevania: Symphony of the Night",
+    "song": "Lost Painting",
+    "composers": [
+      "Michiru Yamane"
+    ],
+    "converters": [
+      "DetectiveSky612"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Castlevania Symphony of the Night/Lost Painting.mmrs",
+    "preview": "https://www.youtube.com/watch?v=lGTYKyEgSoc"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -16029,5 +16029,30 @@
     "file": "The Legend of Zelda Spirit Tracks/Byrne Comes to the Rescue.mmrs",
     "preview": "The Legend of Zelda Spirit Tracks/Byrne Comes to the Rescue.ogg"
   },
+  {
+    "uuid": "4d614450-1eae-4b7b-a286-1be51c1cfc67",
+    "creationDate": "2026-03-22T23:57:43.858Z",
+    "game": "The Legend of Zelda: Spirit Tracks",
+    "song": "Byrne",
+    "composers": [
+      "Toru Minegishi",
+      "Manaka Tominaga",
+      "Asuka Ota"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Spirit Tracks/Byrne.mmrs",
+    "preview": "The Legend of Zelda Spirit Tracks/Byrne.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

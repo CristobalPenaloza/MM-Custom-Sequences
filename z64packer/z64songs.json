@@ -15394,5 +15394,27 @@
     "file": "Ura Zelda/Overture of Wind.mmrs",
     "preview": "Ura Zelda/Overture of Wind.mp3"
   },
+  {
+    "uuid": "af99dc2e-b543-4ef6-bef6-947e7b9cec6f",
+    "creationDate": "2026-03-22T02:40:15.639Z",
+    "game": "Ura Zelda",
+    "song": "Palace of Earth",
+    "composers": [
+      "Dominic Ninmark"
+    ],
+    "converters": [
+      "DetectiveSky612"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Ura Zelda/Palace of Earth.mmrs",
+    "preview": "https://www.youtube.com/watch?v=8Ug3T0pVSKc"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

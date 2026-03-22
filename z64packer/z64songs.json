@@ -15439,5 +15439,28 @@
     "file": "Ura Zelda/Hymn of Ice.mmrs",
     "preview": "https://www.youtube.com/watch?v=p31sdl5_BZ4"
   },
+  {
+    "uuid": "70ccf2b4-52d1-47a7-8c6d-1c1e1e70f8be",
+    "creationDate": "2026-03-22T02:42:28.182Z",
+    "game": "Castlevania: Bloodlines",
+    "song": "Simon Belmont's Theme",
+    "composers": [
+      "Michiru Yamane"
+    ],
+    "converters": [
+      "DetectiveSky612"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "5"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Castlevania Bloodlines/Simon Belmont's Theme.mmrs",
+    "preview": "https://www.youtube.com/watch?v=oYco3II6rfA"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

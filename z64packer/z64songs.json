@@ -16079,5 +16079,29 @@
     "file": "The Legend of Zelda Twilight Princess/End Credits (Part 1).mmrs",
     "preview": "The Legend of Zelda Twilight Princess/End Credits (Part 1).ogg"
   },
+  {
+    "uuid": "cb8ed21f-a62b-434f-a70b-6930c2b5375f",
+    "creationDate": "2026-03-22T23:59:47.704Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Faron Woods",
+    "composers": [
+      "Toru Minegishi",
+      "Asuka Ohta"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Twilight Princess/Faron Woods.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Faron Woods.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

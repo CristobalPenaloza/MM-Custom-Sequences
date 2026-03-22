@@ -15348,5 +15348,28 @@
     "file": "Castlevania Dawn of Sorrow/Subterranean Hell.mmrs",
     "preview": "Castlevania Dawn of Sorrow/Subterranean Hell.mp3"
   },
+  {
+    "uuid": "5e2bfae8-5cde-4201-8209-f0d0fd41a6eb",
+    "creationDate": "2026-03-22T02:33:57.165Z",
+    "game": "Castlevania: Order of Ecclesia",
+    "song": "Wandering of the Crystal Blue",
+    "composers": [
+      "Michiru Yamane"
+    ],
+    "converters": [
+      "DetectiveSky612"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Castlevania Order of Ecclesia/Wandering of the Crystal Blue.mmrs",
+    "preview": "Castlevania Order of Ecclesia/Wandering of the Crystal Blue.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

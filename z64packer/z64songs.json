@@ -15043,5 +15043,27 @@
     "file": "Super Smash Bros. Melee/Final Destination (Senate version).mmrs",
     "preview": "Super Smash Bros. Melee/Final Destination (Senate version).ogg"
   },
+  {
+    "uuid": "55cf7d1b-5a15-47db-8504-0012ac0a9f50",
+    "creationDate": "2026-03-22T00:37:57.739Z",
+    "game": "Super Smash Bros. Melee",
+    "song": "Fountain of Dreams",
+    "composers": [
+      "Tadashi Ikegami"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Smash Bros. Melee/Fountain of Dreams.mmrs",
+    "preview": "Super Smash Bros. Melee/Fountain of Dreams.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

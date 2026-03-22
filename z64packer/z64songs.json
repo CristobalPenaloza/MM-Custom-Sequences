@@ -15176,5 +15176,27 @@
     "file": "The Legend of Zelda Spirit Tracks/Fight Against Byrne.mmrs",
     "preview": "The Legend of Zelda Spirit Tracks/Fight Against Byrne.ogg"
   },
+  {
+    "uuid": "13009a71-8b67-427b-88ec-0fcaf0aff0fb",
+    "creationDate": "2026-03-22T00:50:18.824Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "King Bulblin Battle",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7",
+      "11A"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Twilight Princess/King Bulblin Battle.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/King Bulblin Battle.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

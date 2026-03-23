@@ -16983,5 +16983,28 @@
     "file": "Castlevania Aria of Sorrow/Top Floor.mmrs",
     "preview": "Castlevania Aria of Sorrow/Top Floor.mp3"
   },
+  {
+    "uuid": "21cf2ea2-884d-4561-a936-1d5c8366dfe8",
+    "creationDate": "2026-03-23T16:19:40.174Z",
+    "game": "Castlevania: Dawn of Sorrow",
+    "song": "Cursed Clock Tower",
+    "composers": [
+      "Michiru Yamane"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Castlevania Dawn of Sorrow/Cursed Clock Tower.mmrs",
+    "preview": "Castlevania Dawn of Sorrow/Cursed Clock Tower.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

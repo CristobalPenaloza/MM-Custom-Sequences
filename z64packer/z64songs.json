@@ -16652,5 +16652,27 @@
     "file": "Apollo Justice Ace Attorney/Investigation ~ Core 2007.mmrs",
     "preview": "Apollo Justice Ace Attorney/Investigation ~ Core 2007.mp3"
   },
+  {
+    "uuid": "fc846d03-028e-4832-ade8-cc6dc7faee99",
+    "creationDate": "2026-03-23T03:10:12.347Z",
+    "game": "Apollo Justice: Ace Attorney",
+    "song": "Lamiroir ~ Landscape Painter in Sound",
+    "composers": [
+      "Toshihiko Horiyama"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Apollo Justice Ace Attorney/Lamiroir ~ Landscape Painter in Sound.mmrs",
+    "preview": "Apollo Justice Ace Attorney/Lamiroir ~ Landscape Painter in Sound.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

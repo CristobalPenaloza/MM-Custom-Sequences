@@ -16302,5 +16302,31 @@
     "file": "The Legend of Zelda The Wind Waker/Wind Temple (Variant B).mmrs",
     "preview": "The Legend of Zelda The Wind Waker/Wind Temple (Variant B).ogg"
   },
+  {
+    "uuid": "8c62cde0-4e5e-49d5-b77c-506cd92fb173",
+    "creationDate": "2026-03-23T02:43:23.964Z",
+    "game": "Minecraft",
+    "song": "Cat",
+    "composers": [
+      "C418"
+    ],
+    "converters": [
+      "Semaj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6",
+      "16",
+      "118"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Minecraft/Cat.mmrs",
+    "preview": "Minecraft/Cat.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -18093,5 +18093,27 @@
     "file": "Fire Emblem The Sacred Stones/Distant Roads.mmrs",
     "preview": "Fire Emblem The Sacred Stones/Distant Roads.mp3"
   },
+  {
+    "uuid": "4889c8ae-d568-4963-9a78-164d29edfe34",
+    "creationDate": "2026-03-23T22:50:12.729Z",
+    "game": "Fire Emblem: The Sacred Stones",
+    "song": "Rise Above",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem The Sacred Stones/Rise Above.mmrs",
+    "preview": "Fire Emblem The Sacred Stones/Rise Above.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -16236,5 +16236,29 @@
     "file": "The Legend of Zelda The Wind Waker/Beedle's Shop.mmrs",
     "preview": "The Legend of Zelda The Wind Waker/Beedle's Shop.ogg"
   },
+  {
+    "uuid": "56418992-5fc9-45c6-adea-d0bd39b5abca",
+    "creationDate": "2026-03-23T00:12:59.046Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Inside a House",
+    "composers": [
+      "Kenta Nagata",
+      "Hajime Wakai",
+      "Toru Minegishi",
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda The Wind Waker/Inside a House.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Inside a House.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

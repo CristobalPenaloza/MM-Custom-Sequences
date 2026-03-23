@@ -17539,5 +17539,915 @@
     "file": "Pokémon Black & White/Relic Castle.mmrs",
     "preview": "Pokémon Black & White/Relic Castle.mp3"
   },
+  {
+    "uuid": "cfc83e01-460f-4a23-808f-60dbbe832c02",
+    "creationDate": "2026-03-23T22:15:28.256Z",
+    "game": "Octopath Traveler",
+    "song": "Grandport, Center of Commerce",
+    "composers": [
+      "Yasunori Nishiki"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Octopath Traveler/Grandport, Center of Commerce.mmrs",
+    "preview": "Octopath Traveler/Grandport, Center of Commerce.mp3"
+  },
+  {
+    "uuid": "37b92888-1924-47a2-b8fd-53948371fda4",
+    "creationDate": "2026-03-23T22:18:29.458Z",
+    "game": "Octopath Traveler",
+    "song": "Victor's Hollow, Jewel of the Forest",
+    "composers": [
+      "Yasunori Nishiki"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Octopath Traveler/Victor's Hollow, Jewel of the Forest.mmrs",
+    "preview": "Octopath Traveler/Victor's Hollow, Jewel of the Forest.mp3"
+  },
+  {
+    "uuid": "e2d9c367-c379-496d-ba95-1c1742e3ac85",
+    "creationDate": "2026-03-23T22:20:36.061Z",
+    "game": "Sonic the Hedgehog 3",
+    "song": "Chrome Gadget Zone",
+    "composers": [
+      "Brad Buxer",
+      "Michael Jackson"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic the Hedgehog 3/Chrome Gadget Zone.mmrs",
+    "preview": "Sonic the Hedgehog 3/Chrome Gadget Zone.mp3"
+  },
+  {
+    "uuid": "5f692b31-5dbe-481d-adb4-b5a4eb69e9a9",
+    "creationDate": "2026-03-23T22:21:42.078Z",
+    "game": "Sonic the Hedgehog 3",
+    "song": "Desert Palace Zone",
+    "composers": [
+      "Brad Buxer"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic the Hedgehog 3/Desert Palace Zone.mmrs",
+    "preview": "Sonic the Hedgehog 3/Desert Palace Zone.mp3"
+  },
+  {
+    "uuid": "0c7d3b91-67a5-40aa-a5b9-9f6a6fae092f",
+    "creationDate": "2026-03-23T22:22:45.737Z",
+    "game": "Sonic the Hedgehog 3",
+    "song": "Magnetic Orbs",
+    "composers": [
+      "Jun Senoue"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic the Hedgehog 3/Magnetic Orbs.mmrs",
+    "preview": "Sonic the Hedgehog 3/Magnetic Orbs.mp3"
+  },
+  {
+    "uuid": "48433e89-6dff-4378-8c93-84cad1ca949c",
+    "creationDate": "2026-03-23T22:23:46.574Z",
+    "game": "The Legend of Zelda: Breath of the Wild",
+    "song": "Korok Forest",
+    "composers": [
+      "Manaka Kataoka",
+      "Yasuaki Iwata"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Breath of the Wild/Korok Forest.mmrs",
+    "preview": "The Legend of Zelda Breath of the Wild/Korok Forest.mp3"
+  },
+  {
+    "uuid": "57fe12ce-e6d9-49b9-8f7b-b39831c18ed6",
+    "creationDate": "2026-03-23T22:25:09.996Z",
+    "game": "The Legend of Zelda: Skyward Sword",
+    "song": "Ballad of the Goddess",
+    "composers": [
+      "Hajime Wakai",
+      "Takeshi Hama"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Skyward Sword/Ballad of the Goddess.mmrs",
+    "preview": "The Legend of Zelda Skyward Sword/Ballad of the Goddess.mp3"
+  },
+  {
+    "uuid": "358d2d38-db8c-490f-a1bb-9aa1d48ac9c3",
+    "creationDate": "2026-03-23T22:27:08.133Z",
+    "game": "Xenoblade Chronicles 2",
+    "song": "Incoming!",
+    "composers": [
+      "ACE"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "7",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Xenoblade Chronicles 2/Incoming!.mmrs",
+    "preview": "Xenoblade Chronicles 2/Incoming!.mp3"
+  },
+  {
+    "uuid": "acd89964-439e-4844-8717-84f8eff36aa0",
+    "creationDate": "2026-03-23T22:28:27.050Z",
+    "game": "Xenoblade Chronicles 2",
+    "song": "One Last You",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Xenoblade Chronicles 2/One Last You.mmrs",
+    "preview": "Xenoblade Chronicles 2/One Last You.mp3"
+  },
+  {
+    "uuid": "b35c7745-4d02-4b21-8785-9eea440bc5b0",
+    "creationDate": "2026-03-23T22:30:22.718Z",
+    "game": "Xenoblade Chronicles 2",
+    "song": "Torigoth (Night)",
+    "composers": [
+      "ACE"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Xenoblade Chronicles 2/Torigoth (Night).mmrs",
+    "preview": "Xenoblade Chronicles 2/Torigoth (Night).mp3"
+  },
+  {
+    "uuid": "699c77f1-cab4-446a-b842-4cb86760476b",
+    "creationDate": "2026-03-23T22:32:37.677Z",
+    "game": "Fire Emblem: New Mystery of the Emblem",
+    "song": "Footsteps of Fate",
+    "composers": [
+      "Hiroki Morishita",
+      "Takeru Kanazaki",
+      "Shoh Murakami"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem New Mystery of the Emblem/Footsteps of Fate.mmrs",
+    "preview": "Fire Emblem New Mystery of the Emblem/Footsteps of Fate.mp3"
+  },
+  {
+    "uuid": "664b91e3-2cc7-4234-ac64-b42be92f97f3",
+    "creationDate": "2026-03-23T22:33:45.703Z",
+    "game": "Fire Emblem: New Mystery of the Emblem",
+    "song": "Into the Darkness",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem New Mystery of the Emblem/Into the Darkness.mmrs",
+    "preview": "Fire Emblem New Mystery of the Emblem/Into the Darkness.mp3"
+  },
+  {
+    "uuid": "550c2c9e-1e2a-4f7f-b39b-88388fa4dfee",
+    "creationDate": "2026-03-23T22:35:51.511Z",
+    "game": "Fire Emblem: New Mystery of the Emblem",
+    "song": "Those Who Dare to Change History",
+    "composers": [
+      "Hiroki Morishita"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem New Mystery of the Emblem/Those Who Dare to Change History.mmrs",
+    "preview": "Fire Emblem New Mystery of the Emblem/Those Who Dare to Change History.mp3"
+  },
+  {
+    "uuid": "c082c396-161c-45f8-a606-8fdc610899ff",
+    "creationDate": "2026-03-23T22:36:51.777Z",
+    "game": "Fire Emblem: New Mystery of the Emblem",
+    "song": "Victory is Ours",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem New Mystery of the Emblem/Victory is Ours.mmrs",
+    "preview": "Fire Emblem New Mystery of the Emblem/Victory is Ours.mp3"
+  },
+  {
+    "uuid": "cc84044a-7b4f-495c-a3fa-ef6f3ecb4dfa",
+    "creationDate": "2026-03-23T22:37:40.250Z",
+    "game": "Fire Emblem: Path of Radiance",
+    "song": "Decisive Battle",
+    "composers": [
+      "Atsushi Yoshida"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Path of Radiance/Decisive Battle.mmrs",
+    "preview": "Fire Emblem Path of Radiance/Decisive Battle.mp3"
+  },
+  {
+    "uuid": "58b82b07-0f45-4ae7-9b9a-ca487aa396bf",
+    "creationDate": "2026-03-23T22:38:47.221Z",
+    "game": "Fire Emblem: Radiant Dawn",
+    "song": "Proud Flight",
+    "composers": [
+      "Yoshito Hirano"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Radiant Dawn/Proud Flight.mmrs",
+    "preview": "Fire Emblem Radiant Dawn/Proud Flight.mp3"
+  },
+  {
+    "uuid": "54f33e6f-440d-423b-86ee-8d30ba34f6bd",
+    "creationDate": "2026-03-23T22:39:44.780Z",
+    "game": "Fire Emblem: Shadow Dragon",
+    "song": "A Hero's Destiny",
+    "composers": [
+      "Yuka Tsujiyoko",
+      "Saki Kasuga"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Shadow Dragon/A Hero's Destiny.mmrs",
+    "preview": "Fire Emblem Shadow Dragon/A Hero's Destiny.mp3"
+  },
+  {
+    "uuid": "2de517d4-4a27-4393-a80c-13451645adad",
+    "creationDate": "2026-03-23T22:41:32.413Z",
+    "game": "Fire Emblem: Shadow Dragon",
+    "song": "Preparations",
+    "composers": [
+      "Yuka Tsujiyoko",
+      "Saki Kasuga"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Shadow Dragon/Preparations.mmrs",
+    "preview": "Fire Emblem Shadow Dragon/Preparations.mp3"
+  },
+  {
+    "uuid": "67573b3b-bcbb-4408-b2de-e51287a5f88b",
+    "creationDate": "2026-03-23T22:42:32.260Z",
+    "game": "Fire Emblem: Shadow Dragon",
+    "song": "Unspoken Feelings",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Shadow Dragon/Unspoken Feelings.mmrs",
+    "preview": "Fire Emblem Shadow Dragon/Unspoken Feelings.mp3"
+  },
+  {
+    "uuid": "785d207b-a5f8-4318-963b-e972c0753814",
+    "creationDate": "2026-03-23T22:44:03.488Z",
+    "game": "Fire Emblem: The Binding Blade",
+    "song": "Suspicious (Narcian's Theme)",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem The Binding Blade/Suspicious (Narcian's Theme).mmrs",
+    "preview": "Fire Emblem The Binding Blade/Suspicious (Narcian's Theme).mp3"
+  },
+  {
+    "uuid": "e9a37e3d-88b0-4545-9c5c-ac7e7bee18e3",
+    "creationDate": "2026-03-23T22:45:48.633Z",
+    "game": "Fire Emblem: The Blazing Blade",
+    "song": "Everything into the Dark",
+    "composers": [
+      "Yuka Tsujiyoko",
+      "Saki Haruyama"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem The Blazing Blade/Everything into the Dark.mmrs",
+    "preview": "Fire Emblem The Blazing Blade/Everything into the Dark.mp3"
+  },
+  {
+    "uuid": "6ffc3bfc-779b-4334-b452-4a6d5a239f6c",
+    "creationDate": "2026-03-23T22:46:42.423Z",
+    "game": "Fire Emblem: The Blazing Blade",
+    "song": "Inescapable Fate",
+    "composers": [
+      "Yuka Tsujiyoko",
+      "Saki Haruyama"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem The Blazing Blade/Inescapable Fate.mmrs",
+    "preview": "Fire Emblem The Blazing Blade/Inescapable Fate.mp3"
+  },
+  {
+    "uuid": "98badd86-1a60-4095-9d88-7e5cd16e46fb",
+    "creationDate": "2026-03-23T22:47:49.311Z",
+    "game": "Fire Emblem: The Blazing Blade",
+    "song": "Reminiscence (Ninian's Theme)",
+    "composers": [
+      "Saki Haruyama"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem The Blazing Blade/Reminiscence (Ninian's Theme).mmrs",
+    "preview": "Fire Emblem The Blazing Blade/Reminiscence (Ninian's Theme).mp3"
+  },
+  {
+    "uuid": "a6c3e4c9-bbea-4fb4-8e9d-aef6ab97d3c6",
+    "creationDate": "2026-03-23T22:49:35.037Z",
+    "game": "Fire Emblem: The Sacred Stones",
+    "song": "Distant Roads",
+    "composers": [
+      "Yoshihiko Kitamura"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem The Sacred Stones/Distant Roads.mmrs",
+    "preview": "Fire Emblem The Sacred Stones/Distant Roads.mp3"
+  },
+  {
+    "uuid": "4889c8ae-d568-4963-9a78-164d29edfe34",
+    "creationDate": "2026-03-23T22:50:12.729Z",
+    "game": "Fire Emblem: The Sacred Stones",
+    "song": "Rise Above",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem The Sacred Stones/Rise Above.mmrs",
+    "preview": "Fire Emblem The Sacred Stones/Rise Above.mp3"
+  },
+  {
+    "uuid": "24af6908-a183-4adf-a253-06f8dc41451e",
+    "creationDate": "2026-03-23T22:51:55.503Z",
+    "game": "Fire Emblem: The Sacred Stones",
+    "song": "The Battle Must Be Won",
+    "composers": [
+      "Yoshihiko Kitamura"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem The Sacred Stones/The Battle Must Be Won.mmrs",
+    "preview": "Fire Emblem The Sacred Stones/The Battle Must Be Won.mp3"
+  },
+  {
+    "uuid": "34fbc7f1-aa7c-4c74-96b0-1992706c44a0",
+    "creationDate": "2026-03-23T22:52:43.990Z",
+    "game": "Fire Emblem: The Sacred Stones",
+    "song": "The Final Battle",
+    "composers": [
+      "Saki Haruyama",
+      "Yoshihiko Kitamura",
+      "Yoshito Hirano"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "5"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem The Sacred Stones/The Final Battle.mmrs",
+    "preview": "Fire Emblem The Sacred Stones/The Final Battle.mp3"
+  },
+  {
+    "uuid": "c82ffa92-ef22-47a4-afee-6625ee23e58a",
+    "creationDate": "2026-03-23T22:53:46.426Z",
+    "game": "Fire Emblem: Genealogy of the Holy War",
+    "song": "Dance in the Sky",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "5"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Genealogy of the Holy War/Dance in the Sky.mmrs",
+    "preview": "Fire Emblem Genealogy of the Holy War/Dance in the Sky.mp3"
+  },
+  {
+    "uuid": "58320f3a-c6d5-4da5-8c06-1d6955d3b4bd",
+    "creationDate": "2026-03-23T22:55:05.142Z",
+    "game": "Fire Emblem: Genealogy of the Holy War",
+    "song": "Eldigan, The Lionheart",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Genealogy of the Holy War/Eldigan, The Lionheart.mmrs",
+    "preview": "Fire Emblem Genealogy of the Holy War/Eldigan, The Lionheart.mp3"
+  },
+  {
+    "uuid": "32dc91f0-557d-461e-b20f-00518f3d06f9",
+    "creationDate": "2026-03-23T23:09:21.047Z",
+    "game": "Fire Emblem: Genealogy of the Holy War",
+    "song": "Inheritor of the Light",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Genealogy of the Holy War/Inheritor of the Light.mmrs",
+    "preview": "Fire Emblem Genealogy of the Holy War/Inheritor of the Light.mp3"
+  },
+  {
+    "uuid": "4dd8f6ad-8050-427d-90b9-de031d5b23e1",
+    "creationDate": "2026-03-23T23:10:07.968Z",
+    "game": "Fire Emblem: Genealogy of the Holy War",
+    "song": "Dragon Knights of Thracia",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Genealogy of the Holy War/Dragon Knights of Thracia.mmrs",
+    "preview": "Fire Emblem Genealogy of the Holy War/Dragon Knights of Thracia.mp3"
+  },
+  {
+    "uuid": "a7a3fc90-6652-48a8-8e48-8aeacad0d8a5",
+    "creationDate": "2026-03-23T23:11:03.088Z",
+    "game": "Fire Emblem: Thracia 776",
+    "song": "Near Defeat",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Thracia 776/Near Defeat.mmrs",
+    "preview": "Fire Emblem Thracia 776/Near Defeat.mp3"
+  },
+  {
+    "uuid": "c2e6818b-dc14-4832-8767-3605ce04355e",
+    "creationDate": "2026-03-23T23:12:24.639Z",
+    "game": "Fire Emblem Echoes: Shadows of Valentia",
+    "song": "Chasing the Wind on the Plains",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Echoes Shadows of Valentia/Chasing the Wind on the Plains.mmrs",
+    "preview": "Fire Emblem Echoes Shadows of Valentia/Chasing the Wind on the Plains.mp3"
+  },
+  {
+    "uuid": "8446084e-8b14-48cb-8707-a621b56ea857",
+    "creationDate": "2026-03-23T23:13:14.553Z",
+    "game": "Fire Emblem Echoes: Shadows of Valentia",
+    "song": "March to Deliverance",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Echoes Shadows of Valentia/March to Deliverance.mmrs",
+    "preview": "Fire Emblem Echoes Shadows of Valentia/March to Deliverance.mp3"
+  },
+  {
+    "uuid": "0e6b932d-7463-4a82-9034-2620fec106d0",
+    "creationDate": "2026-03-23T23:14:10.342Z",
+    "game": "Fire Emblem Echoes: Shadows of Valentia",
+    "song": "The Dauntless Blade",
+    "composers": [
+      "Takeru Kanazaki"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Echoes Shadows of Valentia/The Dauntless Blade.mmrs",
+    "preview": "Fire Emblem Echoes Shadows of Valentia/The Dauntless Blade.mp3"
+  },
+  {
+    "uuid": "bc0b6b3b-5923-4411-8146-2ecd055e59ef",
+    "creationDate": "2026-03-23T23:14:59.488Z",
+    "game": "Fire Emblem Echoes: Shadows of Valentia",
+    "song": "The Heritors of Arcadia",
+    "composers": [
+      "Takeru Kanazaki"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Echoes Shadows of Valentia/The Heritors of Arcadia.mmrs",
+    "preview": "Fire Emblem Echoes Shadows of Valentia/The Heritors of Arcadia.mp3"
+  },
+  {
+    "uuid": "7fdd4b40-9336-45d1-ba6d-4cc3aea0ce66",
+    "creationDate": "2026-03-23T23:15:57.267Z",
+    "game": "Fire Emblem Echoes: Shadows of Valentia",
+    "song": "The Sacrifice and the Saint",
+    "composers": [
+      "Takeru Kanazaki"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Echoes Shadows of Valentia/The Sacrifice and the Saint.mmrs",
+    "preview": "Fire Emblem Echoes Shadows of Valentia/The Sacrifice and the Saint.mp3"
+  },
+  {
+    "uuid": "01595673-bf3a-44b3-9436-6359166970e6",
+    "creationDate": "2026-03-23T23:17:49.161Z",
+    "game": "Fire Emblem Echoes: Shadows of Valentia",
+    "song": "The Scions' Dance in Purgatory",
+    "composers": [
+      "Yasuhisa Baba"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Echoes Shadows of Valentia/The Scions' Dance in Purgatory.mmrs",
+    "preview": "Fire Emblem Echoes Shadows of Valentia/The Scions' Dance in Purgatory.mp3"
+  },
+  {
+    "uuid": "2f4ff588-c621-46d8-bdba-c8e3134bbe58",
+    "creationDate": "2026-03-23T23:19:14.707Z",
+    "game": "Metroid Prime 2: Echoes",
+    "song": "Twilight of the Gods",
+    "composers": [
+      "Yasuhisa Baba",
+      "Takafumi Wada"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Metroid Prime 2 Echoes/Twilight of the Gods.mmrs",
+    "preview": "Metroid Prime 2 Echoes/Twilight of the Gods.mp3"
+  },
+  {
+    "uuid": "839587b8-87a6-4c75-b9fe-22a4f45fa21b",
+    "creationDate": "2026-03-23T23:20:08.671Z",
+    "game": "Fire Emblem Echoes: Shadows of Valentia",
+    "song": "Unity",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Echoes Shadows of Valentia/Unity.mmrs",
+    "preview": "Fire Emblem Echoes Shadows of Valentia/Unity.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -17445,5 +17445,29 @@
     "file": "Lunar Silver Star Story/Go Go Go! ~ Final Battle Vs Ghaleon.mmrs",
     "preview": "Lunar Silver Star Story/Go Go Go! ~ Final Battle Vs Ghaleon.mp3"
   },
+  {
+    "uuid": "21eb41c2-5dc8-46e9-aa59-703aedf2d905",
+    "creationDate": "2026-03-23T16:55:17.677Z",
+    "game": "Metroid: Zero Mission",
+    "song": "Title",
+    "composers": [
+      "Kenji Yamamoto",
+      "Minako Hamano"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Metroid Zero Mission/Title.mmrs",
+    "preview": "Metroid Zero Mission/Title.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

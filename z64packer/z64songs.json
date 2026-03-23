@@ -16761,5 +16761,27 @@
     "file": "Apollo Justice Ace Attorney/Trucy's Theme ~ Child of Magic.mmrs",
     "preview": "Apollo Justice Ace Attorney/Trucy's Theme ~ Child of Magic.mp3"
   },
+  {
+    "uuid": "c0ec4548-30dd-4ab4-b393-161c6188d8b3",
+    "creationDate": "2026-03-23T03:16:57.837Z",
+    "game": "Apollo Justice: Ace Attorney",
+    "song": "Victory! - A Win for Us",
+    "composers": [
+      "Toshihiko Horiyama"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Apollo Justice Ace Attorney/Victory! - A Win for Us.mmrs",
+    "preview": "Apollo Justice Ace Attorney/Victory! - A Win for Us.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

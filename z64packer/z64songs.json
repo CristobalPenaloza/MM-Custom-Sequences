@@ -17516,5 +17516,28 @@
     "file": "Persona 4 Arena/Princess Amagi - Yukiko's Theme.mmrs",
     "preview": "Persona 4 Arena/Princess Amagi - Yukiko's Theme.mp3"
   },
+  {
+    "uuid": "1a7735aa-6502-4e00-8f55-fce7c0141547",
+    "creationDate": "2026-03-23T21:59:50.941Z",
+    "game": "Pokémon Black & White",
+    "song": "Relic Castle",
+    "composers": [
+      "Shota Kageyama"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Black & White/Relic Castle.mmrs",
+    "preview": "Pokémon Black & White/Relic Castle.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -17750,5 +17750,27 @@
     "file": "Xenoblade Chronicles 2/One Last You.mmrs",
     "preview": "Xenoblade Chronicles 2/One Last You.mp3"
   },
+  {
+    "uuid": "b35c7745-4d02-4b21-8785-9eea440bc5b0",
+    "creationDate": "2026-03-23T22:30:22.718Z",
+    "game": "Xenoblade Chronicles 2",
+    "song": "Torigoth (Night)",
+    "composers": [
+      "ACE"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Xenoblade Chronicles 2/Torigoth (Night).mmrs",
+    "preview": "Xenoblade Chronicles 2/Torigoth (Night).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

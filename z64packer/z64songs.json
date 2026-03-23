@@ -16806,5 +16806,28 @@
     "file": "Phoenix Wright Ace Attorney/Jake Marshall ~ Renegade Sheriff.mmrs",
     "preview": "Phoenix Wright Ace Attorney/Jake Marshall ~ Renegade Sheriff.mp3"
   },
+  {
+    "uuid": "cc2de4b8-79d7-4f9e-a401-091ce0f684a2",
+    "creationDate": "2026-03-23T03:21:32.072Z",
+    "game": "Phoenix Wright: Ace Attorney",
+    "song": "Recollection ~ The DL-6 Incident",
+    "composers": [
+      "Masakazu Sugimori"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Phoenix Wright Ace Attorney/Recollection ~ The DL-6 Incident.mmrs",
+    "preview": "Phoenix Wright Ace Attorney/Recollection ~ The DL-6 Incident.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

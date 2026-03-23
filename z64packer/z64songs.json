@@ -18136,5 +18136,30 @@
     "file": "Fire Emblem The Sacred Stones/The Battle Must Be Won.mmrs",
     "preview": "Fire Emblem The Sacred Stones/The Battle Must Be Won.mp3"
   },
+  {
+    "uuid": "34fbc7f1-aa7c-4c74-96b0-1992706c44a0",
+    "creationDate": "2026-03-23T22:52:43.990Z",
+    "game": "Fire Emblem: The Sacred Stones",
+    "song": "The Final Battle",
+    "composers": [
+      "Saki Haruyama",
+      "Yoshihiko Kitamura",
+      "Yoshito Hirano"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "5"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem The Sacred Stones/The Final Battle.mmrs",
+    "preview": "Fire Emblem The Sacred Stones/The Final Battle.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

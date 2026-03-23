@@ -16961,5 +16961,27 @@
     "file": "Castlevania Aria of Sorrow/Floating Garden.mmrs",
     "preview": "Castlevania Aria of Sorrow/Floating Garden.mp3"
   },
+  {
+    "uuid": "ab627060-e336-461e-8dc6-b3e59734e719",
+    "creationDate": "2026-03-23T16:18:11.548Z",
+    "game": "Castlevania: Aria of Sorrow",
+    "song": "Top Floor",
+    "composers": [
+      "Michiru Yamane"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Castlevania Aria of Sorrow/Top Floor.mmrs",
+    "preview": "Castlevania Aria of Sorrow/Top Floor.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

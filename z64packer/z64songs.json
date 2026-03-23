@@ -16352,5 +16352,33 @@
     "file": "Minecraft/Sweden.mmrs",
     "preview": "Minecraft/Sweden.mp3"
   },
+  {
+    "uuid": "9aa95216-f712-4ef1-8bb9-69e4a7bf4e70",
+    "creationDate": "2026-03-23T02:46:15.107Z",
+    "game": "Mario Party DS",
+    "song": "Yoshi Falls",
+    "composers": [
+      "Shinobu Nagata"
+    ],
+    "converters": [
+      "Semaj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "6",
+      "16",
+      "118"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mario Party DS/Yoshi Falls.mmrs",
+    "preview": "Mario Party DS/Yoshi Falls.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

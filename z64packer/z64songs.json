@@ -16281,5 +16281,26 @@
     "file": "The Legend of Zelda The Wind Waker/Outset Island.mmrs",
     "preview": "The Legend of Zelda The Wind Waker/Outset Island.ogg"
   },
+  {
+    "uuid": "ded5150d-fbd5-48e5-95b9-5048aa806098",
+    "creationDate": "2026-03-23T00:15:01.449Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Wind Temple (Variant B)",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda The Wind Waker/Wind Temple (Variant B).mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Wind Temple (Variant B).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

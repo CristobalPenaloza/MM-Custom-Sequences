@@ -18115,5 +18115,26 @@
     "file": "Fire Emblem The Sacred Stones/Rise Above.mmrs",
     "preview": "Fire Emblem The Sacred Stones/Rise Above.mp3"
   },
+  {
+    "uuid": "24af6908-a183-4adf-a253-06f8dc41451e",
+    "creationDate": "2026-03-23T22:51:55.503Z",
+    "game": "Fire Emblem: The Sacred Stones",
+    "song": "The Battle Must Be Won",
+    "composers": [
+      "Yoshihiko Kitamura"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem The Sacred Stones/The Battle Must Be Won.mmrs",
+    "preview": "Fire Emblem The Sacred Stones/The Battle Must Be Won.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

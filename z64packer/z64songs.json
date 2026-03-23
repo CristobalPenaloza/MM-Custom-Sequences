@@ -16850,5 +16850,27 @@
     "file": "Phoenix Wright Ace Attorney/Trial.mmrs",
     "preview": "Phoenix Wright Ace Attorney/Trial.mp3"
   },
+  {
+    "uuid": "5636ff3e-768c-4a60-b353-fe37faaf56d3",
+    "creationDate": "2026-03-23T15:43:00.793Z",
+    "game": "Bloodstained: Ritual of the Night",
+    "song": "Gears of Fortune",
+    "composers": [
+      "Ryusuke Fujioka"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Bloodstained Ritual of the Night/Gears of Fortune.mmrs",
+    "preview": "Bloodstained Ritual of the Night/Gears of Fortune.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

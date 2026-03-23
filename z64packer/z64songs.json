@@ -16380,5 +16380,29 @@
     "file": "Mario Party DS/Yoshi Falls.mmrs",
     "preview": "Mario Party DS/Yoshi Falls.mp3"
   },
+  {
+    "uuid": "e19e8293-0d75-49fd-ac62-e3b22c4afe27",
+    "creationDate": "2026-03-23T02:47:51.195Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Midna's Lament (Variant B)",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Semaj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "118",
+      "157",
+      "176"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Twilight Princess/Midna's Lament (Variant B).mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Midna's Lament (Variant B).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

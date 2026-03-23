@@ -3025,31 +3025,49 @@
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/8b7450db0bbb63c96fe26a0b5c4d326f.png"
   },
   {
-    "game": "Fire Emblem Echoes: Shadows of Valentia"
+    "game": "Fire Emblem Echoes: Shadows of Valentia",
+    "series": "Fire Emblem Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/05926178c441547bacaa7cb94d1bd557.png"
   },
   {
-    "game": "Fire Emblem: Path of Radiance"
+    "game": "Fire Emblem: Path of Radiance",
+    "series": "Fire Emblem Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/2fd07f875ca298ebc205bb8a54bcd506.png"
   },
   {
-    "game": "Fire Emblem: The Binding Blade"
+    "game": "Fire Emblem: The Binding Blade",
+    "series": "Fire Emblem Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/42c558afca2928af13d868d104e2dca5.png"
   },
   {
-    "game": "Fire Emblem: Thracia 776"
+    "game": "Fire Emblem: Thracia 776",
+    "series": "Fire Emblem Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/14a31775d302b5e0e25caa93b6d95ff5.png"
   },
   {
-    "game": "Fire Emblem: New Mystery of the Emblem"
+    "game": "Fire Emblem: New Mystery of the Emblem",
+    "series": "Fire Emblem Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/5516ff1335f97cb2d25618d1cf085bbf.png"
   },
   {
-    "game": "Xenoblade Chronicles 2"
+    "game": "Xenoblade Chronicles 2",
+    "series": "Xeno Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/8ccf849734993abe369360d16d262328.png"
   },
   {
-    "game": "Fire Emblem: Radiant Dawn"
+    "game": "Fire Emblem: Radiant Dawn",
+    "series": "Fire Emblem Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/3091d86c09a002e144f4ec506eada3d7.png"
   },
   {
-    "game": "Fire Emblem: The Sacred Stones"
+    "game": "Fire Emblem: The Sacred Stones",
+    "series": "Fire Emblem Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/838f14a84363d9a7ac1b06ad63fc6fb5.png"
   },
   {
-    "game": "Fire Emblem: Shadow Dragon"
+    "game": "Fire Emblem: Shadow Dragon",
+    "series": "Fire Emblem Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/4d630f9347177b17ec7a362f19489239.png"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -16895,5 +16895,26 @@
     "file": "Bloodstained Ritual of the Night/Voyage of Promise.mmrs",
     "preview": "Bloodstained Ritual of the Night/Voyage of Promise.mp3"
   },
+  {
+    "uuid": "558ab29d-d8ee-4f4c-8bb5-c42b4ac33e02",
+    "creationDate": "2026-03-23T15:46:08.378Z",
+    "game": "Castlevania: Aria of Sorrow",
+    "song": "Clock Tower (No Intro)",
+    "composers": [
+      "Michiru Yamane"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Castlevania Aria of Sorrow/Clock Tower (No Intro).mmrs",
+    "preview": "Castlevania Aria of Sorrow/Clock Tower (No Intro).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

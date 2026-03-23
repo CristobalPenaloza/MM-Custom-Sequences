@@ -18070,5 +18070,28 @@
     "file": "Fire Emblem The Blazing Blade/Reminiscence (Ninian's Theme).mmrs",
     "preview": "Fire Emblem The Blazing Blade/Reminiscence (Ninian's Theme).mp3"
   },
+  {
+    "uuid": "a6c3e4c9-bbea-4fb4-8e9d-aef6ab97d3c6",
+    "creationDate": "2026-03-23T22:49:35.037Z",
+    "game": "Fire Emblem: The Sacred Stones",
+    "song": "Distant Roads",
+    "composers": [
+      "Yoshihiko Kitamura"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem The Sacred Stones/Distant Roads.mmrs",
+    "preview": "Fire Emblem The Sacred Stones/Distant Roads.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

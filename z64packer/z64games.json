@@ -581,6 +581,7 @@
   },
   {
     "game": "Golden Sun",
+    "series": "Golden Sun Series",
     "logo": "https://i.imgur.com/i9LarXU.png"
   },
   {
@@ -2996,22 +2997,32 @@
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/4d76bdef0d4780075906b69acd169cb7.png"
   },
   {
-    "game": "Persona 4 Arena"
+    "game": "Persona 4 Arena",
+    "series": "Persona Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/4324e8d0d37b110ee1a4f1633ac52df5.png"
   },
   {
-    "game": "Bloodstained: Ritual of the Night"
+    "game": "Bloodstained: Ritual of the Night",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/9c37f52f0de5fb6ee4ee1d8cb7a0b085.png"
   },
   {
-    "game": "Metal Gear Rising: Revengeance"
+    "game": "Metal Gear Rising: Revengeance",
+    "series": "Metal Gear Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/fc3cf452d3da8402bebb765225ce8c0e.png"
   },
   {
-    "game": "Golden Sun: The Lost Age"
+    "game": "Golden Sun: The Lost Age",
+    "series": "Golden Sun Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/b998882657b5780d5a28664294f9ffb9.png"
   },
   {
-    "game": "Lunar: Silver Star Story"
+    "game": "Lunar: Silver Star Story",
+    "logo": "https://i.imgur.com/LOQNw6S.png"
   },
   {
-    "game": "Castlevania: Lament of Innocence"
+    "game": "Castlevania: Lament of Innocence",
+    "series": "Castlevania Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/8b7450db0bbb63c96fe26a0b5c4d326f.png"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

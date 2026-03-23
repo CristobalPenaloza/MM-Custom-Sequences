@@ -16215,5 +16215,26 @@
     "file": "The Legend of Zelda Twilight Princess/Queen Rutela's Theme.mmrs",
     "preview": "The Legend of Zelda Twilight Princess/Queen Rutela's Theme.ogg"
   },
+  {
+    "uuid": "215ca793-e696-4076-818c-9e5190c293b8",
+    "creationDate": "2026-03-23T00:11:12.910Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Beedle's Shop",
+    "composers": [
+      "Kenta Nagata"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda The Wind Waker/Beedle's Shop.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Beedle's Shop.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

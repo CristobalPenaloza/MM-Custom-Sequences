@@ -16739,5 +16739,27 @@
     "file": "Apollo Justice Ace Attorney/Troupe Gramarye.mmrs",
     "preview": "Apollo Justice Ace Attorney/Troupe Gramarye.mp3"
   },
+  {
+    "uuid": "03951a19-0185-419f-aa06-0e4521ae1933",
+    "creationDate": "2026-03-23T03:15:33.677Z",
+    "game": "Apollo Justice: Ace Attorney",
+    "song": "Trucy's Theme ~ Child of Magic",
+    "composers": [
+      "Hideki Okugawa"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Apollo Justice Ace Attorney/Trucy's Theme ~ Child of Magic.mmrs",
+    "preview": "Apollo Justice Ace Attorney/Trucy's Theme ~ Child of Magic.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -16302,5 +16302,553 @@
     "file": "The Legend of Zelda The Wind Waker/Wind Temple (Variant B).mmrs",
     "preview": "The Legend of Zelda The Wind Waker/Wind Temple (Variant B).ogg"
   },
+  {
+    "uuid": "8c62cde0-4e5e-49d5-b77c-506cd92fb173",
+    "creationDate": "2026-03-23T02:43:23.964Z",
+    "game": "Minecraft",
+    "song": "Cat",
+    "composers": [
+      "C418"
+    ],
+    "converters": [
+      "Semaj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6",
+      "16",
+      "118"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Minecraft/Cat.mmrs",
+    "preview": "Minecraft/Cat.mp3"
+  },
+  {
+    "uuid": "aa7c13c6-0a63-4e9c-b163-659fa597a0bc",
+    "creationDate": "2026-03-23T02:45:01.130Z",
+    "game": "Minecraft",
+    "song": "Sweden",
+    "composers": [
+      "C418"
+    ],
+    "converters": [
+      "Semaj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Minecraft/Sweden.mmrs",
+    "preview": "Minecraft/Sweden.mp3"
+  },
+  {
+    "uuid": "9aa95216-f712-4ef1-8bb9-69e4a7bf4e70",
+    "creationDate": "2026-03-23T02:46:15.107Z",
+    "game": "Mario Party DS",
+    "song": "Yoshi Falls",
+    "composers": [
+      "Shinobu Nagata"
+    ],
+    "converters": [
+      "Semaj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "6",
+      "16",
+      "118"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mario Party DS/Yoshi Falls.mmrs",
+    "preview": "Mario Party DS/Yoshi Falls.mp3"
+  },
+  {
+    "uuid": "e19e8293-0d75-49fd-ac62-e3b22c4afe27",
+    "creationDate": "2026-03-23T02:47:51.195Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Midna's Lament (Variant B)",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Semaj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "118",
+      "157",
+      "176"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Twilight Princess/Midna's Lament (Variant B).mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Midna's Lament (Variant B).mp3"
+  },
+  {
+    "uuid": "dec09d4d-7f8f-4a6d-a381-0a4259c6e44b",
+    "creationDate": "2026-03-23T02:51:56.504Z",
+    "game": "Phoenix Wright: Ace Attorney - Justice for All",
+    "song": "Examination ~ Moderate 2002",
+    "composers": [
+      "Masakazu Sugimori"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Phoenix Wright Ace Attorney - Justice for All/Examination ~ Moderate 2002.mmrs",
+    "preview": "Phoenix Wright Ace Attorney - Justice for All/Examination ~ Moderate 2002.mp3"
+  },
+  {
+    "uuid": "721997d6-4a35-463b-a2ff-0b78d9d2b70d",
+    "creationDate": "2026-03-23T02:53:06.306Z",
+    "game": "Phoenix Wright: Ace Attorney - Justice for All",
+    "song": "Investigation ~ Core 2002",
+    "composers": [
+      "Akemi Kimura"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Phoenix Wright Ace Attorney - Justice for All/Investigation ~ Core 2002.mmrs",
+    "preview": "Phoenix Wright Ace Attorney - Justice for All/Investigation ~ Core 2002.mp3"
+  },
+  {
+    "uuid": "ee74d46a-5c68-4c07-a029-423ab4f4a19a",
+    "creationDate": "2026-03-23T02:54:23.923Z",
+    "game": "Phoenix Wright: Ace Attorney - Justice for All",
+    "song": "Pressing Pursuit ~ Cross-Examine",
+    "composers": [
+      "Akemi Kimura"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Phoenix Wright Ace Attorney - Justice for All/Pressing Pursuit ~ Cross-Examine.mmrs",
+    "preview": "Phoenix Wright Ace Attorney - Justice for All/Pressing Pursuit ~ Cross-Examine.mp3"
+  },
+  {
+    "uuid": "1c09fd19-bcba-44d1-9fce-c2ea7a7419ef",
+    "creationDate": "2026-03-23T02:56:13.122Z",
+    "game": "Phoenix Wright: Ace Attorney - Justice for All",
+    "song": "Psyche-Lock",
+    "composers": [
+      "Akemi Kimura"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Phoenix Wright Ace Attorney - Justice for All/Psyche-Lock.mmrs",
+    "preview": "Phoenix Wright Ace Attorney - Justice for All/Psyche-Lock.mp3"
+  },
+  {
+    "uuid": "2fc671d4-7450-42e4-a33f-e15299d79532",
+    "creationDate": "2026-03-23T02:57:20.475Z",
+    "game": "Phoenix Wright: Ace Attorney - Justice for All",
+    "song": "Questioning ~ Allegro 2002",
+    "composers": [
+      "Akemi Kimura"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Phoenix Wright Ace Attorney - Justice for All/Questioning ~ Allegro 2002.mmrs",
+    "preview": "Phoenix Wright Ace Attorney - Justice for All/Questioning ~ Allegro 2002.mp3"
+  },
+  {
+    "uuid": "e30f0105-248a-4d26-9cb1-e573686a89a7",
+    "creationDate": "2026-03-23T03:02:23.150Z",
+    "game": "Phoenix Wright: Ace Attorney - Trials and Tribulations",
+    "song": "Trés Bien",
+    "composers": [
+      "Noriyuki Iwadare"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Phoenix Wright Ace Attorney - Trials and Tribulations/Trés Bien.mmrs",
+    "preview": "Phoenix Wright Ace Attorney - Trials and Tribulations/Trés Bien.mp3"
+  },
+  {
+    "uuid": "c6a1e2b1-ccfc-44bd-9843-bff7a4111e7d",
+    "creationDate": "2026-03-23T03:03:52.788Z",
+    "game": "Phoenix Wright: Ace Attorney - Trials and Tribulations",
+    "song": "Questioning ~ Allegro 2004",
+    "composers": [
+      "Noriyuki Iwadare"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Phoenix Wright Ace Attorney - Trials and Tribulations/Questioning ~ Allegro 2004.mmrs",
+    "preview": "Phoenix Wright Ace Attorney - Trials and Tribulations/Questioning ~ Allegro 2004.mp3"
+  },
+  {
+    "uuid": "b095a856-f0fb-4b85-9772-66583d0567bc",
+    "creationDate": "2026-03-23T03:05:04.810Z",
+    "game": "Phoenix Wright: Ace Attorney - Trials and Tribulations",
+    "song": "Trial",
+    "composers": [
+      "Noriyuki Iwadare"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Phoenix Wright Ace Attorney - Trials and Tribulations/Trial.mmrs",
+    "preview": "Phoenix Wright Ace Attorney - Trials and Tribulations/Trial.mp3"
+  },
+  {
+    "uuid": "c3ddae01-df67-4ac0-b25b-c9657cdedfd4",
+    "creationDate": "2026-03-23T03:06:18.887Z",
+    "game": "Apollo Justice: Ace Attorney",
+    "song": "Eccentrics 2007",
+    "composers": [
+      "Akemi Kimura"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Apollo Justice Ace Attorney/Eccentrics 2007.mmrs",
+    "preview": "Apollo Justice Ace Attorney/Eccentrics 2007.mp3"
+  },
+  {
+    "uuid": "ea183bb4-1ae5-404a-a9ff-c52444a392b2",
+    "creationDate": "2026-03-23T03:08:14.714Z",
+    "game": "Apollo Justice: Ace Attorney",
+    "song": "Ema Skye ~ Scientific Detective",
+    "composers": [
+      "Toshihiko Horiyama"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Apollo Justice Ace Attorney/Ema Skye ~ Scientific Detective.mmrs",
+    "preview": "Apollo Justice Ace Attorney/Ema Skye ~ Scientific Detective.mp3"
+  },
+  {
+    "uuid": "d7a22be5-6fc2-484d-a76e-53d42fb43e61",
+    "creationDate": "2026-03-23T03:09:08.695Z",
+    "game": "Apollo Justice: Ace Attorney",
+    "song": "Investigation ~ Core 2007",
+    "composers": [
+      "Toshihiko Horiyama"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Apollo Justice Ace Attorney/Investigation ~ Core 2007.mmrs",
+    "preview": "Apollo Justice Ace Attorney/Investigation ~ Core 2007.mp3"
+  },
+  {
+    "uuid": "fc846d03-028e-4832-ade8-cc6dc7faee99",
+    "creationDate": "2026-03-23T03:10:12.347Z",
+    "game": "Apollo Justice: Ace Attorney",
+    "song": "Lamiroir ~ Landscape Painter in Sound",
+    "composers": [
+      "Toshihiko Horiyama"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Apollo Justice Ace Attorney/Lamiroir ~ Landscape Painter in Sound.mmrs",
+    "preview": "Apollo Justice Ace Attorney/Lamiroir ~ Landscape Painter in Sound.mp3"
+  },
+  {
+    "uuid": "f03ca2e6-e465-44f9-b370-01439821653f",
+    "creationDate": "2026-03-23T03:11:37.549Z",
+    "game": "Apollo Justice: Ace Attorney",
+    "song": "The Truth Revealed 2007",
+    "composers": [
+      "Toshihiko Horiyama"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Apollo Justice Ace Attorney/The Truth Revealed 2007.mmrs",
+    "preview": "Apollo Justice Ace Attorney/The Truth Revealed 2007.mp3"
+  },
+  {
+    "uuid": "b73cd76c-5033-4c37-9c07-cbfeaa55c4c5",
+    "creationDate": "2026-03-23T03:13:10.864Z",
+    "game": "Apollo Justice: Ace Attorney",
+    "song": "The Guitar's Serenade",
+    "composers": [
+      "Shu Takumi"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Apollo Justice Ace Attorney/The Guitar's Serenade.mmrs",
+    "preview": "Apollo Justice Ace Attorney/The Guitar's Serenade.mp3"
+  },
+  {
+    "uuid": "071f2836-6d29-4175-b8e7-0711988605fb",
+    "creationDate": "2026-03-23T03:14:10.565Z",
+    "game": "Apollo Justice: Ace Attorney",
+    "song": "Troupe Gramarye",
+    "composers": [
+      "Toshihiko Horiyama"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Apollo Justice Ace Attorney/Troupe Gramarye.mmrs",
+    "preview": "Apollo Justice Ace Attorney/Troupe Gramarye.mp3"
+  },
+  {
+    "uuid": "03951a19-0185-419f-aa06-0e4521ae1933",
+    "creationDate": "2026-03-23T03:15:33.677Z",
+    "game": "Apollo Justice: Ace Attorney",
+    "song": "Trucy's Theme ~ Child of Magic",
+    "composers": [
+      "Hideki Okugawa"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Apollo Justice Ace Attorney/Trucy's Theme ~ Child of Magic.mmrs",
+    "preview": "Apollo Justice Ace Attorney/Trucy's Theme ~ Child of Magic.mp3"
+  },
+  {
+    "uuid": "c0ec4548-30dd-4ab4-b393-161c6188d8b3",
+    "creationDate": "2026-03-23T03:16:57.837Z",
+    "game": "Apollo Justice: Ace Attorney",
+    "song": "Victory! - A Win for Us",
+    "composers": [
+      "Toshihiko Horiyama"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Apollo Justice Ace Attorney/Victory! - A Win for Us.mmrs",
+    "preview": "Apollo Justice Ace Attorney/Victory! - A Win for Us.mp3"
+  },
+  {
+    "uuid": "22d8dc7b-678f-4500-a4bf-284e492b2d64",
+    "creationDate": "2026-03-23T03:19:52.578Z",
+    "game": "Phoenix Wright: Ace Attorney",
+    "song": "Jake Marshall ~ Renegade Sheriff",
+    "composers": [
+      "Akemi Kimura"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Phoenix Wright Ace Attorney/Jake Marshall ~ Renegade Sheriff.mmrs",
+    "preview": "Phoenix Wright Ace Attorney/Jake Marshall ~ Renegade Sheriff.mp3"
+  },
+  {
+    "uuid": "cc2de4b8-79d7-4f9e-a401-091ce0f684a2",
+    "creationDate": "2026-03-23T03:21:32.072Z",
+    "game": "Phoenix Wright: Ace Attorney",
+    "song": "Recollection ~ The DL-6 Incident",
+    "composers": [
+      "Masakazu Sugimori"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Phoenix Wright Ace Attorney/Recollection ~ The DL-6 Incident.mmrs",
+    "preview": "Phoenix Wright Ace Attorney/Recollection ~ The DL-6 Incident.mp3"
+  },
+  {
+    "uuid": "32df5718-5161-4536-98bb-bbcbc14de37b",
+    "creationDate": "2026-03-23T03:22:36.295Z",
+    "game": "Phoenix Wright: Ace Attorney",
+    "song": "Trial",
+    "composers": [
+      "Masakazu Sugimori"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Phoenix Wright Ace Attorney/Trial.mmrs",
+    "preview": "Phoenix Wright Ace Attorney/Trial.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -19250,5 +19250,27 @@
     "file": "Final Fantasy VII/Jenova Absolute.mmrs",
     "preview": "Final Fantasy VII/Jenova Absolute.mp3"
   },
+  {
+    "uuid": "42162bc2-6f80-40b7-962c-ded4411f7161",
+    "creationDate": "2026-03-24T01:39:15.599Z",
+    "game": "Final Fantasy VII",
+    "song": "Let the Battles Begin!",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/Let the Battles Begin!.mmrs",
+    "preview": "Final Fantasy VII/Let the Battles Begin!.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

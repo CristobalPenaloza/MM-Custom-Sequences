@@ -19342,5 +19342,28 @@
     "file": "Final Fantasy VII/Mining Town.mmrs",
     "preview": "Final Fantasy VII/Mining Town.mp3"
   },
+  {
+    "uuid": "ce2d1635-06b3-4edb-bd70-8de391bda65c",
+    "creationDate": "2026-03-24T01:42:56.984Z",
+    "game": "Final Fantasy VII",
+    "song": "From the Edge of Despair",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/From the Edge of Despair.mmrs",
+    "preview": "Final Fantasy VII/From the Edge of Despair.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

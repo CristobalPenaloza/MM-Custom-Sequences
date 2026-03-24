@@ -19388,5 +19388,28 @@
     "file": "Final Fantasy VII/On That Day, Five Years Ago....mmrs",
     "preview": "Final Fantasy VII/On That Day, Five Years Ago....mp3"
   },
+  {
+    "uuid": "38d9b06e-1f96-4f3d-bc60-a1513b0b88db",
+    "creationDate": "2026-03-24T01:44:09.795Z",
+    "game": "Final Fantasy VII",
+    "song": "Parochial Town",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/Parochial Town.mmrs",
+    "preview": "Final Fantasy VII/Parochial Town.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

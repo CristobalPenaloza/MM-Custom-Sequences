@@ -19206,5 +19206,27 @@
     "file": "Final Fantasy VII/Interrumpted by Fireworks.mmrs",
     "preview": "Final Fantasy VII/Interrumpted by Fireworks.mp3"
   },
+  {
+    "uuid": "c467af4c-9991-408e-9a50-5a268b86d364",
+    "creationDate": "2026-03-24T01:37:40.894Z",
+    "game": "Final Fantasy VII",
+    "song": "J-E-N-O-V-A",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/J-E-N-O-V-A.mmrs",
+    "preview": "Final Fantasy VII/J-E-N-O-V-A.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

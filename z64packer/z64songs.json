@@ -20041,5 +20041,28 @@
     "file": "Kirby 64 The Crystal Shards/Boss.mmrs",
     "preview": "Kirby 64 The Crystal Shards/Boss.mp3"
   },
+  {
+    "uuid": "0ed9727d-4f5f-4329-8bf2-a1aea26598a1",
+    "creationDate": "2026-03-24T02:26:10.762Z",
+    "game": "Kirby 64: The Crystal Shards",
+    "song": "Miracle Matter",
+    "composers": [
+      "Jun Ishikawa"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Kirby 64 The Crystal Shards/Miracle Matter.mmrs",
+    "preview": "Kirby 64 The Crystal Shards/Miracle Matter.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -19432,5 +19432,28 @@
     "file": "Final Fantasy VII/Prelude.mmrs",
     "preview": "Final Fantasy VII/Prelude.mp3"
   },
+  {
+    "uuid": "82f2579e-77fc-4237-9613-55d089003fb9",
+    "creationDate": "2026-03-24T01:46:05.584Z",
+    "game": "Final Fantasy VII",
+    "song": "Still More Fighting",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/Still More Fighting.mmrs",
+    "preview": "Final Fantasy VII/Still More Fighting.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

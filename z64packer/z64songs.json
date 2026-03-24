@@ -19049,5 +19049,26 @@
     "file": "Final Fantasy VII/Flowers Blooming in the Church.mmrs",
     "preview": "Final Fantasy VII/Flowers Blooming in the Church.mp3"
   },
+  {
+    "uuid": "e7006baf-fe0a-4ef8-88f0-a689d7818990",
+    "creationDate": "2026-03-24T01:31:36.858Z",
+    "game": "Final Fantasy VII",
+    "song": "Forested Temple",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/Forested Temple.mmrs",
+    "preview": "Final Fantasy VII/Forested Temple.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

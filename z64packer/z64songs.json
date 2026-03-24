@@ -19092,5 +19092,26 @@
     "file": "Final Fantasy VII/Fortress of the Condor.mmrs",
     "preview": "Final Fantasy VII/Fortress of the Condor.mp3"
   },
+  {
+    "uuid": "016b10f8-bc7d-4d42-b9aa-373cec13b232",
+    "creationDate": "2026-03-24T01:32:40.232Z",
+    "game": "Final Fantasy VII",
+    "song": "Good Night, Until Tomorrow",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/Good Night, Until Tomorrow.mmrs",
+    "preview": "Final Fantasy VII/Good Night, Until Tomorrow.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

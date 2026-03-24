@@ -19228,5 +19228,27 @@
     "file": "Final Fantasy VII/J-E-N-O-V-A.mmrs",
     "preview": "Final Fantasy VII/J-E-N-O-V-A.mp3"
   },
+  {
+    "uuid": "798bd00a-269e-436d-b9c6-7d52bb2f0d18",
+    "creationDate": "2026-03-24T01:38:29.364Z",
+    "game": "Final Fantasy VII",
+    "song": "Jenova Absolute",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/Jenova Absolute.mmrs",
+    "preview": "Final Fantasy VII/Jenova Absolute.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -19502,5 +19502,28 @@
     "file": "Final Fantasy VII/Tifa's Theme.mmrs",
     "preview": "Final Fantasy VII/Tifa's Theme.mp3"
   },
+  {
+    "uuid": "9d44d970-7209-462a-9675-a0ea0e2b0f3a",
+    "creationDate": "2026-03-24T01:48:10.841Z",
+    "game": "Final Fantasy VII",
+    "song": "Underneath the Rotting Pizza",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/Underneath the Rotting Pizza.mmrs",
+    "preview": "Final Fantasy VII/Underneath the Rotting Pizza.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

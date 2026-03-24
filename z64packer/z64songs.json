@@ -19690,5 +19690,29 @@
     "file": "GoldenEye 007/Depot.mmrs",
     "preview": "GoldenEye 007/Depot.mp3"
   },
+  {
+    "uuid": "8b5f284c-591b-402a-8e0e-552e90fa692f",
+    "creationDate": "2026-03-24T02:09:31.463Z",
+    "game": "GoldenEye 007",
+    "song": "Elevator",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "GoldenEye 007/Elevator.mmrs",
+    "preview": "GoldenEye 007/Elevator.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

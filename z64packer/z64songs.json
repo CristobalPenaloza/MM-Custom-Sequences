@@ -19860,5 +19860,29 @@
     "file": "GoldenEye 007/Runway.mmrs",
     "preview": "GoldenEye 007/Runway.mp3"
   },
+  {
+    "uuid": "424807d2-1f1a-4f86-be9c-513871d2fbc6",
+    "creationDate": "2026-03-24T02:19:05.952Z",
+    "game": "GoldenEye 007",
+    "song": "Surface 2",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "GoldenEye 007/Surface 2.mmrs",
+    "preview": "GoldenEye 007/Surface 2.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

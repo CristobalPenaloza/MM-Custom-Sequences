@@ -18979,5 +18979,28 @@
     "file": "Final Fantasy VII/Cosmo Canyon.mmrs",
     "preview": "Final Fantasy VII/Cosmo Canyon.mp3"
   },
+  {
+    "uuid": "ce4deacc-874b-43bd-b60d-cc78bf2262ba",
+    "creationDate": "2026-03-24T01:29:34.489Z",
+    "game": "Final Fantasy VII",
+    "song": "Costa del Sol",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/Costa del Sol.mmrs",
+    "preview": "Final Fantasy VII/Costa del Sol.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

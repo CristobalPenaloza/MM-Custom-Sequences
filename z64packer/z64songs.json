@@ -18543,5 +18543,27 @@
     "file": "Chrono Trigger/Last Battle.mmrs",
     "preview": "Chrono Trigger/Last Battle.mp3"
   },
+  {
+    "uuid": "bb34d4da-be9c-41ce-a23d-bdd4a02936b3",
+    "creationDate": "2026-03-24T01:10:57.524Z",
+    "game": "Chrono Trigger",
+    "song": "Last Battle (No Intro)",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Chrono Trigger/Last Battle (No Intro).mmrs",
+    "preview": "Chrono Trigger/Last Battle (No Intro).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

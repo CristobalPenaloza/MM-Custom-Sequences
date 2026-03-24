@@ -18458,7 +18458,7 @@
       "Mario Gonzalez"
     ],
     "converters": [
-      "Philos_kun"
+      "Philos-Kun"
     ],
     "type": "bgm",
     "categories": [
@@ -18485,7 +18485,7 @@
       "Masami Ueda"
     ],
     "converters": [
-      "Philos_kun"
+      "Philos-Kun"
     ],
     "type": "fanfare",
     "categories": [
@@ -18568,7 +18568,7 @@
   {
     "uuid": "2eade667-65e5-4e40-adcd-0c9b34fe6c3f",
     "creationDate": "2026-03-24T01:12:29.862Z",
-    "game": "Banjo Kazooie",
+    "game": "Banjo-Kazooie",
     "song": "Collect Jiggy",
     "composers": [
       "Grant Kirkhope"
@@ -18583,8 +18583,8 @@
     "usesCustomBank": true,
     "usesCustomSamples": true,
     "usesFormmask": false,
-    "file": "Banjo Kazooie/Collect Jiggy.mmrs",
-    "preview": "Banjo Kazooie/Collect Jiggy.mp3"
+    "file": "Banjo-Kazooie/Collect Jiggy.mmrs",
+    "preview": "Banjo-Kazooie/Collect Jiggy.mp3"
   },
   {
     "uuid": "5caca4cc-fab3-44ee-959b-1c9c472bd9b3",

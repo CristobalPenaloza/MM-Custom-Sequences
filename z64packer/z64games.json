@@ -3070,13 +3070,12 @@
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/4d630f9347177b17ec7a362f19489239.png"
   },
   {
-    "game": "Memes"
+    "game": "Memes",
+    "logo": "https://cdn.7tv.app/emote/01GG2EQ2G00004SZ8NX33XD8KT/4x.avif"
   },
   {
-    "game": "Banjo Kazooie"
-  },
-  {
-    "game": "Bayonetta"
+    "game": "Bayonetta",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/de584085097dbcc290d237ea48ccd97c.png"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

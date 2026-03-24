@@ -18449,5 +18449,32 @@
     "file": "Fire Emblem Echoes Shadows of Valentia/Unity.mmrs",
     "preview": "Fire Emblem Echoes Shadows of Valentia/Unity.mp3"
   },
+  {
+    "uuid": "be90d8f8-9028-45cc-8b83-d32ec498eba0",
+    "creationDate": "2026-03-24T01:01:38.867Z",
+    "game": "Action 52",
+    "song": "Cheetahmen (Variant B)",
+    "composers": [
+      "Mario Gonzalez"
+    ],
+    "converters": [
+      "Philos_kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Action 52/Cheetahmen (Variant B).mmrs",
+    "preview": "Action 52/Cheetahmen (Variant B).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

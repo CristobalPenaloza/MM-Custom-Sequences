@@ -19907,5 +19907,26 @@
     "file": "GoldenEye 007/Battle with Xenia Onatopp.mmrs",
     "preview": "GoldenEye 007/Battle with Xenia Onatopp.mp3"
   },
+  {
+    "uuid": "c1859385-6844-4ac8-9c54-d14617ba1896",
+    "creationDate": "2026-03-24T02:20:56.185Z",
+    "game": "Memes",
+    "song": "Michael Jackson Hee Hee",
+    "composers": [
+      "Michael Jackson"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Memes/Michael Jackson Hee Hee.mmrs",
+    "preview": "Memes/Michael Jackson Hee Hee.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

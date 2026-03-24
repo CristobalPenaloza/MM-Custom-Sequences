@@ -20159,5 +20159,26 @@
     "file": "Kirby's Adventure/Green Greens.mmrs",
     "preview": "Kirby's Adventure/Green Greens.mp3"
   },
+  {
+    "uuid": "d1363014-7f54-48e9-9dec-38d74bd44c98",
+    "creationDate": "2026-03-24T02:30:59.395Z",
+    "game": "Memes",
+    "song": "Metal Pipe",
+    "composers": [
+      "The Internet"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Memes/Metal Pipe.mmrs",
+    "preview": "Memes/Metal Pipe.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

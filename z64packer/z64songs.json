@@ -18842,5 +18842,28 @@
     "file": "Final Fantasy VII/Anxious Heart.mmrs",
     "preview": "Final Fantasy VII/Anxious Heart.mp3"
   },
+  {
+    "uuid": "8c5213f2-4174-4200-b498-0b668e842dcc",
+    "creationDate": "2026-03-24T01:25:16.016Z",
+    "game": "Final Fantasy VII",
+    "song": "Barret's Theme",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/Barret's Theme.mmrs",
+    "preview": "Final Fantasy VII/Barret's Theme.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

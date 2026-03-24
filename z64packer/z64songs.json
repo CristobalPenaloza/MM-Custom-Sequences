@@ -19478,5 +19478,29 @@
     "file": "Final Fantasy VII/The Great Northern Cave.mmrs",
     "preview": "Final Fantasy VII/The Great Northern Cave.mp3"
   },
+  {
+    "uuid": "be70578e-120a-403c-bf00-af180ddcb5b4",
+    "creationDate": "2026-03-24T01:47:37.166Z",
+    "game": "Final Fantasy VII",
+    "song": "Tifa's Theme",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/Tifa's Theme.mmrs",
+    "preview": "Final Fantasy VII/Tifa's Theme.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

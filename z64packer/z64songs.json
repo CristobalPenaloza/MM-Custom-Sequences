@@ -19546,5 +19546,27 @@
     "file": "Final Fantasy VII/Who am I.mmrs",
     "preview": "Final Fantasy VII/Who am I.mp3"
   },
+  {
+    "uuid": "206f9851-6940-496a-8557-bc9a4e089da7",
+    "creationDate": "2026-03-24T01:49:59.677Z",
+    "game": "Final Fantasy VII",
+    "song": "World Crisis (Lifestream Part)",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/World Crisis (Lifestream Part).mmrs",
+    "preview": "Final Fantasy VII/World Crisis (Lifestream Part).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

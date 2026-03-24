@@ -18449,5 +18449,1147 @@
     "file": "Fire Emblem Echoes Shadows of Valentia/Unity.mmrs",
     "preview": "Fire Emblem Echoes Shadows of Valentia/Unity.mp3"
   },
+  {
+    "uuid": "be90d8f8-9028-45cc-8b83-d32ec498eba0",
+    "creationDate": "2026-03-24T01:01:38.867Z",
+    "game": "Action 52",
+    "song": "Cheetahmen (Variant B)",
+    "composers": [
+      "Mario Gonzalez"
+    ],
+    "converters": [
+      "Philos_kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Action 52/Cheetahmen (Variant B).mmrs",
+    "preview": "Action 52/Cheetahmen (Variant B).mp3"
+  },
+  {
+    "uuid": "ab69aae3-2773-4262-afb5-70c7d758f417",
+    "creationDate": "2026-03-24T01:08:00.239Z",
+    "game": "Bayonetta",
+    "song": "Platinum Coin Jingle",
+    "composers": [
+      "Masami Ueda"
+    ],
+    "converters": [
+      "Philos_kun"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Bayonetta/Platinum Coin Jingle.mmrs",
+    "preview": "Bayonetta/Platinum Coin Jingle.mp3"
+  },
+  {
+    "uuid": "5cf07fa8-4b0e-434c-80c8-cb34fa65e2cc",
+    "creationDate": "2026-03-24T01:09:08.197Z",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "song": "Beta Clock Town Day 1 (2020 Gigaleak)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Majora's Mask/Beta Clock Town Day 1 (2020 Gigaleak).mmrs",
+    "preview": "The Legend of Zelda Majora's Mask/Beta Clock Town Day 1 (2020 Gigaleak).mp3"
+  },
+  {
+    "uuid": "c6a5feaf-8fe1-4c01-8bf4-495558808e88",
+    "creationDate": "2026-03-24T01:10:10.606Z",
+    "game": "Chrono Trigger",
+    "song": "Last Battle",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Chrono Trigger/Last Battle.mmrs",
+    "preview": "Chrono Trigger/Last Battle.mp3"
+  },
+  {
+    "uuid": "bb34d4da-be9c-41ce-a23d-bdd4a02936b3",
+    "creationDate": "2026-03-24T01:10:57.524Z",
+    "game": "Chrono Trigger",
+    "song": "Last Battle (No Intro)",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Chrono Trigger/Last Battle (No Intro).mmrs",
+    "preview": "Chrono Trigger/Last Battle (No Intro).mp3"
+  },
+  {
+    "uuid": "2eade667-65e5-4e40-adcd-0c9b34fe6c3f",
+    "creationDate": "2026-03-24T01:12:29.862Z",
+    "game": "Banjo Kazooie",
+    "song": "Collect Jiggy",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Banjo Kazooie/Collect Jiggy.mmrs",
+    "preview": "Banjo Kazooie/Collect Jiggy.mp3"
+  },
+  {
+    "uuid": "5caca4cc-fab3-44ee-959b-1c9c472bd9b3",
+    "creationDate": "2026-03-24T01:13:17.352Z",
+    "game": "Chrono Trigger",
+    "song": "Corridors of Time",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Chrono Trigger/Corridors of Time.mmrs",
+    "preview": "Chrono Trigger/Corridors of Time.mp3"
+  },
+  {
+    "uuid": "65b313d9-7557-41fa-a3ff-35935cda03fc",
+    "creationDate": "2026-03-24T01:14:05.348Z",
+    "game": "Donkey Kong 64",
+    "song": "Collect Banana",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Donkey Kong 64/Collect Banana.mmrs",
+    "preview": "Donkey Kong 64/Collect Banana.mp3"
+  },
+  {
+    "uuid": "deb38da9-bb37-45f9-9c16-95432fbe9407",
+    "creationDate": "2026-03-24T01:14:49.195Z",
+    "game": "Donkey Kong 64",
+    "song": "Crystal Caves",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Donkey Kong 64/Crystal Caves.mmrs",
+    "preview": "Donkey Kong 64/Crystal Caves.mp3"
+  },
+  {
+    "uuid": "95c17dbb-fea2-4462-9f84-3c8bcbaa7f03",
+    "creationDate": "2026-03-24T01:15:27.830Z",
+    "game": "Donkey Kong 64",
+    "song": "Enguarde",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Donkey Kong 64/Enguarde.mmrs",
+    "preview": "Donkey Kong 64/Enguarde.mp3"
+  },
+  {
+    "uuid": "a306eb82-cd39-4804-8f88-438d132493f5",
+    "creationDate": "2026-03-24T01:16:27.533Z",
+    "game": "Diddy Kong Racing",
+    "song": "Stardust Alley / Star City",
+    "composers": [
+      "David Wise"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Diddy Kong Racing/Stardust Alley  Star City.mmrs",
+    "preview": "Diddy Kong Racing/Stardust Alley  Star City.mp3"
+  },
+  {
+    "uuid": "f1a9a812-87d0-4195-99e7-b9e1dfda2a6d",
+    "creationDate": "2026-03-24T01:17:48.954Z",
+    "game": "Diddy Kong Racing",
+    "song": "Key Opens the Door / Trophy Win",
+    "composers": [
+      "David Wise",
+      "Graeme Norgate"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "121",
+      "122",
+      "137",
+      "122",
+      "139"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Diddy Kong Racing/Key Opens the Door  Trophy Win.mmrs",
+    "preview": "Diddy Kong Racing/Key Opens the Door  Trophy Win.mp3"
+  },
+  {
+    "uuid": "21d66106-22a6-43d2-99d2-554f405e73ae",
+    "creationDate": "2026-03-24T01:18:54.200Z",
+    "game": "DuckTales",
+    "song": "Moon Theme",
+    "composers": [
+      "Hiroshige Tonomura"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "DuckTales/Moon Theme.mmrs",
+    "preview": "DuckTales/Moon Theme.mp3"
+  },
+  {
+    "uuid": "31a44cdd-7fb8-48f2-8855-a010ed707b4f",
+    "creationDate": "2026-03-24T01:22:00.644Z",
+    "game": "Memes",
+    "song": "Fart with reverb",
+    "composers": [
+      "The Internet"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Memes/Fart with reverb.mmrs",
+    "preview": "Memes/Fart with reverb.mp3"
+  },
+  {
+    "uuid": "336cc8f3-2aad-4e69-aec6-87adc24ae7fe",
+    "creationDate": "2026-03-24T01:22:42.158Z",
+    "game": "Final Fantasy VII",
+    "song": "Aerith Theme",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/Aerith Theme.mmrs",
+    "preview": "Final Fantasy VII/Aerith Theme.mp3"
+  },
+  {
+    "uuid": "7ec2e01d-6c88-4528-af6a-d358dcf7e7ef",
+    "creationDate": "2026-03-24T01:23:44.576Z",
+    "game": "Final Fantasy VII",
+    "song": "Ahead On Our Way",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/Ahead On Our Way.mmrs",
+    "preview": "Final Fantasy VII/Ahead On Our Way.mp3"
+  },
+  {
+    "uuid": "a8f29938-19a0-4e78-b5a0-eaa744d973aa",
+    "creationDate": "2026-03-24T01:24:22.975Z",
+    "game": "Final Fantasy VII",
+    "song": "Anxious Heart",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/Anxious Heart.mmrs",
+    "preview": "Final Fantasy VII/Anxious Heart.mp3"
+  },
+  {
+    "uuid": "8c5213f2-4174-4200-b498-0b668e842dcc",
+    "creationDate": "2026-03-24T01:25:16.016Z",
+    "game": "Final Fantasy VII",
+    "song": "Barret's Theme",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/Barret's Theme.mmrs",
+    "preview": "Final Fantasy VII/Barret's Theme.mp3"
+  },
+  {
+    "uuid": "d71fb465-c26a-486f-b4e8-1c3fae7458e1",
+    "creationDate": "2026-03-24T01:25:57.832Z",
+    "game": "Final Fantasy VII",
+    "song": "Birth of a God",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/Birth of a God.mmrs",
+    "preview": "Final Fantasy VII/Birth of a God.mp3"
+  },
+  {
+    "uuid": "c555af28-b78e-4175-a4a7-c28798d71ecd",
+    "creationDate": "2026-03-24T01:26:51.035Z",
+    "game": "Final Fantasy VII",
+    "song": "Buried in the Snow",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/Buried in the Snow.mmrs",
+    "preview": "Final Fantasy VII/Buried in the Snow.mp3"
+  },
+  {
+    "uuid": "0e26a29d-52e1-413a-98f9-ad8e06d3cb30",
+    "creationDate": "2026-03-24T01:27:31.294Z",
+    "game": "Final Fantasy VII",
+    "song": "Cid's Theme",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/Cid's Theme.mmrs",
+    "preview": "Final Fantasy VII/Cid's Theme.mp3"
+  },
+  {
+    "uuid": "f1e42f66-930e-455a-98a5-faaf9d9eba01",
+    "creationDate": "2026-03-24T01:28:20.232Z",
+    "game": "Final Fantasy VII",
+    "song": "Cinco de Chocobo",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/Cinco de Chocobo.mmrs",
+    "preview": "Final Fantasy VII/Cinco de Chocobo.mp3"
+  },
+  {
+    "uuid": "b683edd1-479d-4f64-b78b-0663a103649d",
+    "creationDate": "2026-03-24T01:28:57.164Z",
+    "game": "Final Fantasy VII",
+    "song": "Cosmo Canyon",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/Cosmo Canyon.mmrs",
+    "preview": "Final Fantasy VII/Cosmo Canyon.mp3"
+  },
+  {
+    "uuid": "ce4deacc-874b-43bd-b60d-cc78bf2262ba",
+    "creationDate": "2026-03-24T01:29:34.489Z",
+    "game": "Final Fantasy VII",
+    "song": "Costa del Sol",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/Costa del Sol.mmrs",
+    "preview": "Final Fantasy VII/Costa del Sol.mp3"
+  },
+  {
+    "uuid": "54227a07-da45-4d04-96ea-4e5ac9379422",
+    "creationDate": "2026-03-24T01:30:17.934Z",
+    "game": "Final Fantasy VII",
+    "song": "Farm Boy",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/Farm Boy.mmrs",
+    "preview": "Final Fantasy VII/Farm Boy.mp3"
+  },
+  {
+    "uuid": "11d4db98-52a0-4a93-b3df-92bbdd61fcbc",
+    "creationDate": "2026-03-24T01:30:54.035Z",
+    "game": "Final Fantasy VII",
+    "song": "Flowers Blooming in the Church",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/Flowers Blooming in the Church.mmrs",
+    "preview": "Final Fantasy VII/Flowers Blooming in the Church.mp3"
+  },
+  {
+    "uuid": "e7006baf-fe0a-4ef8-88f0-a689d7818990",
+    "creationDate": "2026-03-24T01:31:36.858Z",
+    "game": "Final Fantasy VII",
+    "song": "Forested Temple",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/Forested Temple.mmrs",
+    "preview": "Final Fantasy VII/Forested Temple.mp3"
+  },
+  {
+    "uuid": "8ee5eca6-6cab-407e-afab-cd09627b6172",
+    "creationDate": "2026-03-24T01:32:07.083Z",
+    "game": "Final Fantasy VII",
+    "song": "Fortress of the Condor",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/Fortress of the Condor.mmrs",
+    "preview": "Final Fantasy VII/Fortress of the Condor.mp3"
+  },
+  {
+    "uuid": "016b10f8-bc7d-4d42-b9aa-373cec13b232",
+    "creationDate": "2026-03-24T01:32:40.232Z",
+    "game": "Final Fantasy VII",
+    "song": "Good Night, Until Tomorrow",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/Good Night, Until Tomorrow.mmrs",
+    "preview": "Final Fantasy VII/Good Night, Until Tomorrow.mp3"
+  },
+  {
+    "uuid": "b7e0cfdc-b7b5-4c9e-b6ec-902ee7149e2c",
+    "creationDate": "2026-03-24T01:33:16.946Z",
+    "game": "Final Fantasy VII",
+    "song": "Great Warrior",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/Great Warrior.mmrs",
+    "preview": "Final Fantasy VII/Great Warrior.mp3"
+  },
+  {
+    "uuid": "4485d7ef-2550-44dc-9621-e0bde6cb18fa",
+    "creationDate": "2026-03-24T01:35:08.419Z",
+    "game": "Final Fantasy VII",
+    "song": "Holding My Thoughts In My Heart",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/Holding My Thoughts In My Heart.mmrs",
+    "preview": "Final Fantasy VII/Holding My Thoughts In My Heart.mp3"
+  },
+  {
+    "uuid": "6de5b1f8-82e5-4e3c-a117-90a006c82b5e",
+    "creationDate": "2026-03-24T01:36:01.108Z",
+    "game": "Final Fantasy VII",
+    "song": "If You Open Your Heart",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/If You Open Your Heart.mmrs",
+    "preview": "Final Fantasy VII/If You Open Your Heart.mp3"
+  },
+  {
+    "uuid": "7ac8049f-bdec-45fc-82b4-9b957672d9a5",
+    "creationDate": "2026-03-24T01:36:46.627Z",
+    "game": "Final Fantasy VII",
+    "song": "Interrumpted by Fireworks",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/Interrumpted by Fireworks.mmrs",
+    "preview": "Final Fantasy VII/Interrumpted by Fireworks.mp3"
+  },
+  {
+    "uuid": "c467af4c-9991-408e-9a50-5a268b86d364",
+    "creationDate": "2026-03-24T01:37:40.894Z",
+    "game": "Final Fantasy VII",
+    "song": "J-E-N-O-V-A",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/J-E-N-O-V-A.mmrs",
+    "preview": "Final Fantasy VII/J-E-N-O-V-A.mp3"
+  },
+  {
+    "uuid": "798bd00a-269e-436d-b9c6-7d52bb2f0d18",
+    "creationDate": "2026-03-24T01:38:29.364Z",
+    "game": "Final Fantasy VII",
+    "song": "Jenova Absolute",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/Jenova Absolute.mmrs",
+    "preview": "Final Fantasy VII/Jenova Absolute.mp3"
+  },
+  {
+    "uuid": "42162bc2-6f80-40b7-962c-ded4411f7161",
+    "creationDate": "2026-03-24T01:39:15.599Z",
+    "game": "Final Fantasy VII",
+    "song": "Let the Battles Begin!",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/Let the Battles Begin!.mmrs",
+    "preview": "Final Fantasy VII/Let the Battles Begin!.mp3"
+  },
+  {
+    "uuid": "79b13b98-87b4-452e-b39c-9f1cf8d2619f",
+    "creationDate": "2026-03-24T01:39:50.612Z",
+    "game": "Final Fantasy VII",
+    "song": "Life Stream",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/Life Stream.mmrs",
+    "preview": "Final Fantasy VII/Life Stream.mp3"
+  },
+  {
+    "uuid": "e44fc8df-a42f-4ae1-b52a-a19a299cfe9d",
+    "creationDate": "2026-03-24T01:41:10.702Z",
+    "game": "Final Fantasy VII",
+    "song": "Lurking in the Darkness",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/Lurking in the Darkness.mmrs",
+    "preview": "Final Fantasy VII/Lurking in the Darkness.mp3"
+  },
+  {
+    "uuid": "3bd97a3c-0f1f-4663-b95c-c12e3c6addfd",
+    "creationDate": "2026-03-24T01:42:11.762Z",
+    "game": "Final Fantasy VII",
+    "song": "Mining Town",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/Mining Town.mmrs",
+    "preview": "Final Fantasy VII/Mining Town.mp3"
+  },
+  {
+    "uuid": "ce2d1635-06b3-4edb-bd70-8de391bda65c",
+    "creationDate": "2026-03-24T01:42:56.984Z",
+    "game": "Final Fantasy VII",
+    "song": "From the Edge of Despair",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/From the Edge of Despair.mmrs",
+    "preview": "Final Fantasy VII/From the Edge of Despair.mp3"
+  },
+  {
+    "uuid": "2ec010bc-ee16-40a8-bb87-e48c8a0b251a",
+    "creationDate": "2026-03-24T01:43:36.807Z",
+    "game": "Final Fantasy VII",
+    "song": "On That Day, Five Years Ago...",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/On That Day, Five Years Ago....mmrs",
+    "preview": "Final Fantasy VII/On That Day, Five Years Ago....mp3"
+  },
+  {
+    "uuid": "38d9b06e-1f96-4f3d-bc60-a1513b0b88db",
+    "creationDate": "2026-03-24T01:44:09.795Z",
+    "game": "Final Fantasy VII",
+    "song": "Parochial Town",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/Parochial Town.mmrs",
+    "preview": "Final Fantasy VII/Parochial Town.mp3"
+  },
+  {
+    "uuid": "561d481e-4285-404b-a37e-e8bbd0889932",
+    "creationDate": "2026-03-24T01:45:07.428Z",
+    "game": "Final Fantasy VII",
+    "song": "Prelude",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/Prelude.mmrs",
+    "preview": "Final Fantasy VII/Prelude.mp3"
+  },
+  {
+    "uuid": "82f2579e-77fc-4237-9613-55d089003fb9",
+    "creationDate": "2026-03-24T01:46:05.584Z",
+    "game": "Final Fantasy VII",
+    "song": "Still More Fighting",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/Still More Fighting.mmrs",
+    "preview": "Final Fantasy VII/Still More Fighting.mp3"
+  },
+  {
+    "uuid": "8608e703-4e81-4606-bc36-c5458606958c",
+    "creationDate": "2026-03-24T01:46:57.914Z",
+    "game": "Final Fantasy VII",
+    "song": "The Great Northern Cave",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "10D",
+      "157"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/The Great Northern Cave.mmrs",
+    "preview": "Final Fantasy VII/The Great Northern Cave.mp3"
+  },
+  {
+    "uuid": "be70578e-120a-403c-bf00-af180ddcb5b4",
+    "creationDate": "2026-03-24T01:47:37.166Z",
+    "game": "Final Fantasy VII",
+    "song": "Tifa's Theme",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/Tifa's Theme.mmrs",
+    "preview": "Final Fantasy VII/Tifa's Theme.mp3"
+  },
+  {
+    "uuid": "9d44d970-7209-462a-9675-a0ea0e2b0f3a",
+    "creationDate": "2026-03-24T01:48:10.841Z",
+    "game": "Final Fantasy VII",
+    "song": "Underneath the Rotting Pizza",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/Underneath the Rotting Pizza.mmrs",
+    "preview": "Final Fantasy VII/Underneath the Rotting Pizza.mp3"
+  },
+  {
+    "uuid": "cda2190c-95f7-4885-b049-107225ab59fb",
+    "creationDate": "2026-03-24T01:48:46.842Z",
+    "game": "Final Fantasy VII",
+    "song": "Who am I",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/Who am I.mmrs",
+    "preview": "Final Fantasy VII/Who am I.mp3"
+  },
+  {
+    "uuid": "206f9851-6940-496a-8557-bc9a4e089da7",
+    "creationDate": "2026-03-24T01:49:59.677Z",
+    "game": "Final Fantasy VII",
+    "song": "World Crisis (Lifestream Part)",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/World Crisis (Lifestream Part).mmrs",
+    "preview": "Final Fantasy VII/World Crisis (Lifestream Part).mp3"
+  },
+  {
+    "uuid": "3fd0ae54-d84e-4d6d-9fff-f387fdf12ed2",
+    "creationDate": "2026-03-24T01:50:44.515Z",
+    "game": "Final Fantasy VII",
+    "song": "You Can Hear the Cry of the Planet",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/You Can Hear the Cry of the Planet.mmrs",
+    "preview": "Final Fantasy VII/You Can Hear the Cry of the Planet.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

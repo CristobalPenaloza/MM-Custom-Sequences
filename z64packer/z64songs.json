@@ -19950,5 +19950,26 @@
     "file": "Memes/Jackpot.mmrs",
     "preview": "Memes/Jackpot.mp3"
   },
+  {
+    "uuid": "1181d44c-dd6b-4087-92af-adc7e39b1b2c",
+    "creationDate": "2026-03-24T02:23:02.987Z",
+    "game": "Memes",
+    "song": "Kabuki Yoooo",
+    "composers": [
+      "The Internet"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Memes/Kabuki Yoooo.mmrs",
+    "preview": "Memes/Kabuki Yoooo.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

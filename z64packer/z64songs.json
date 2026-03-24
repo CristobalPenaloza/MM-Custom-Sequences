@@ -18586,5 +18586,28 @@
     "file": "Banjo Kazooie/Collect Jiggy.mmrs",
     "preview": "Banjo Kazooie/Collect Jiggy.mp3"
   },
+  {
+    "uuid": "5caca4cc-fab3-44ee-959b-1c9c472bd9b3",
+    "creationDate": "2026-03-24T01:13:17.352Z",
+    "game": "Chrono Trigger",
+    "song": "Corridors of Time",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Chrono Trigger/Corridors of Time.mmrs",
+    "preview": "Chrono Trigger/Corridors of Time.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

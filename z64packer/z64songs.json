@@ -19025,5 +19025,29 @@
     "file": "Final Fantasy VII/Farm Boy.mmrs",
     "preview": "Final Fantasy VII/Farm Boy.mp3"
   },
+  {
+    "uuid": "11d4db98-52a0-4a93-b3df-92bbdd61fcbc",
+    "creationDate": "2026-03-24T01:30:54.035Z",
+    "game": "Final Fantasy VII",
+    "song": "Flowers Blooming in the Church",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/Flowers Blooming in the Church.mmrs",
+    "preview": "Final Fantasy VII/Flowers Blooming in the Church.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -18476,5 +18476,26 @@
     "file": "Action 52/Cheetahmen (Variant B).mmrs",
     "preview": "Action 52/Cheetahmen (Variant B).mp3"
   },
+  {
+    "uuid": "ab69aae3-2773-4262-afb5-70c7d758f417",
+    "creationDate": "2026-03-24T01:08:00.239Z",
+    "game": "Bayonetta",
+    "song": "Platinum Coin Jingle",
+    "composers": [
+      "Masami Ueda"
+    ],
+    "converters": [
+      "Philos_kun"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Bayonetta/Platinum Coin Jingle.mmrs",
+    "preview": "Bayonetta/Platinum Coin Jingle.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

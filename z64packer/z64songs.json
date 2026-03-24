@@ -20180,5 +20180,27 @@
     "file": "Memes/Metal Pipe.mmrs",
     "preview": "Memes/Metal Pipe.mp3"
   },
+  {
+    "uuid": "5d4bf8b3-b7d2-4705-9fb6-21a628ad1869",
+    "creationDate": "2026-03-24T02:31:47.545Z",
+    "game": "Memes",
+    "song": "Nyan Cat",
+    "composers": [
+      "daniwell"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "171"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Memes/Nyan Cat.mmrs",
+    "preview": "Memes/Nyan Cat.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

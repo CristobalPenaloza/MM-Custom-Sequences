@@ -19365,5 +19365,28 @@
     "file": "Final Fantasy VII/From the Edge of Despair.mmrs",
     "preview": "Final Fantasy VII/From the Edge of Despair.mp3"
   },
+  {
+    "uuid": "2ec010bc-ee16-40a8-bb87-e48c8a0b251a",
+    "creationDate": "2026-03-24T01:43:36.807Z",
+    "game": "Final Fantasy VII",
+    "song": "On That Day, Five Years Ago...",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/On That Day, Five Years Ago....mmrs",
+    "preview": "Final Fantasy VII/On That Day, Five Years Ago....mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -19666,5 +19666,29 @@
     "file": "GoldenEye 007/Cradle.mmrs",
     "preview": "GoldenEye 007/Cradle.mp3"
   },
+  {
+    "uuid": "245d584c-cbf2-487f-b947-9d451095bcc1",
+    "creationDate": "2026-03-24T02:08:36.801Z",
+    "game": "GoldenEye 007",
+    "song": "Depot",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "GoldenEye 007/Depot.mmrs",
+    "preview": "GoldenEye 007/Depot.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

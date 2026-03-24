@@ -19319,5 +19319,28 @@
     "file": "Final Fantasy VII/Lurking in the Darkness.mmrs",
     "preview": "Final Fantasy VII/Lurking in the Darkness.mp3"
   },
+  {
+    "uuid": "3bd97a3c-0f1f-4663-b95c-c12e3c6addfd",
+    "creationDate": "2026-03-24T01:42:11.762Z",
+    "game": "Final Fantasy VII",
+    "song": "Mining Town",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/Mining Town.mmrs",
+    "preview": "Final Fantasy VII/Mining Town.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

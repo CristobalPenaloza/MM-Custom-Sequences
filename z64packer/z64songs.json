@@ -18725,5 +18725,30 @@
     "file": "Diddy Kong Racing/Key Opens the Door  Trophy Win.mmrs",
     "preview": "Diddy Kong Racing/Key Opens the Door  Trophy Win.mp3"
   },
+  {
+    "uuid": "21d66106-22a6-43d2-99d2-554f405e73ae",
+    "creationDate": "2026-03-24T01:18:54.200Z",
+    "game": "DuckTales",
+    "song": "Moon Theme",
+    "composers": [
+      "Hiroshige Tonomura"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "DuckTales/Moon Theme.mmrs",
+    "preview": "DuckTales/Moon Theme.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

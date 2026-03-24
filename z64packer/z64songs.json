@@ -18865,5 +18865,26 @@
     "file": "Final Fantasy VII/Barret's Theme.mmrs",
     "preview": "Final Fantasy VII/Barret's Theme.mp3"
   },
+  {
+    "uuid": "d71fb465-c26a-486f-b4e8-1c3fae7458e1",
+    "creationDate": "2026-03-24T01:25:57.832Z",
+    "game": "Final Fantasy VII",
+    "song": "Birth of a God",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/Birth of a God.mmrs",
+    "preview": "Final Fantasy VII/Birth of a God.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

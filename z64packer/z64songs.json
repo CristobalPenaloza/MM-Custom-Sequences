@@ -19615,5 +19615,32 @@
     "file": "GoldenEye 007/Caverns.mmrs",
     "preview": "GoldenEye 007/Caverns.mp3"
   },
+  {
+    "uuid": "7fb81df2-64da-4f4d-b160-2eab3594cfdb",
+    "creationDate": "2026-03-24T02:07:11.758Z",
+    "game": "GoldenEye 007",
+    "song": "Control",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "GoldenEye 007/Control.mmrs",
+    "preview": "GoldenEye 007/Control.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

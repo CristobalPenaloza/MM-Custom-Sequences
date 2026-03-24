@@ -19811,5 +19811,30 @@
     "file": "GoldenEye 007/Multiplayer 14 (Beta Jungle Theme).mmrs",
     "preview": "GoldenEye 007/Multiplayer 14 (Beta Jungle Theme).mp3"
   },
+  {
+    "uuid": "3d185306-6ef6-4eb5-8e79-abbf073107c5",
+    "creationDate": "2026-03-24T02:13:48.761Z",
+    "game": "GoldenEye 007",
+    "song": "Q Watch v2.01 Beta",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "GoldenEye 007/Q Watch v2.01 Beta.mmrs",
+    "preview": "GoldenEye 007/Q Watch v2.01 Beta.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

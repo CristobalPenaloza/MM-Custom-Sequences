@@ -21214,5 +21214,31 @@
     "file": "Super Mario Bros/Overworld.mmrs",
     "preview": "Super Mario Bros/Overworld.mp3"
   },
+  {
+    "uuid": "ddafdbda-c8fc-49c2-9576-15d88ba1a67e",
+    "creationDate": "2026-03-25T13:26:20.056Z",
+    "game": "Super Mario Bros.",
+    "song": "Overworld (Fart Version)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Super Mario Bros/Overworld (Fart Version).mmrs",
+    "preview": "Super Mario Bros/Overworld (Fart Version).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -20294,5 +20294,26 @@
     "file": "Pokémon Black 2 & White 2/Champion Iris.mmrs",
     "preview": "Pokémon Black 2 & White 2/Champion Iris.mp3"
   },
+  {
+    "uuid": "64e451a0-9fb4-4922-943c-f89d2b108afd",
+    "creationDate": "2026-03-25T03:18:03.862Z",
+    "game": "Pokémon Black & White",
+    "song": "Unwavering Emotions",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Black & White/Unwavering Emotions.mmrs",
+    "preview": "Pokémon Black & White/Unwavering Emotions.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

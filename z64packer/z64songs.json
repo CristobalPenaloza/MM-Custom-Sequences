@@ -21578,5 +21578,30 @@
     "file": "Final Fantasy IV/Lunar Whale.mmrs",
     "preview": "Final Fantasy IV/Lunar Whale.ogg"
   },
+  {
+    "uuid": "a2c3da01-e4e8-4264-a618-720550fd9a3f",
+    "creationDate": "2026-03-25T23:08:32.760Z",
+    "game": "Pokémon Black & White",
+    "song": "Critical Health",
+    "composers": [
+      "Shota Kageyama",
+      "Go Ichinose",
+      "Hitomi Sato",
+      "Junichi Masuda",
+      "Minako Adachi"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Black & White/Critical Health.mmrs",
+    "preview": "Pokémon Black & White/Critical Health.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

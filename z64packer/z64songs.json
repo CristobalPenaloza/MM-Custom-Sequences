@@ -21240,5 +21240,29 @@
     "file": "Super Mario Bros/Overworld (Fart Version).mmrs",
     "preview": "Super Mario Bros/Overworld (Fart Version).mp3"
   },
+  {
+    "uuid": "3b01778c-c728-4087-8318-4b4ea2e223c1",
+    "creationDate": "2026-03-25T13:27:28.512Z",
+    "game": "Super Mario Bros.",
+    "song": "Underwater",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Super Mario Bros/Underwater.mmrs",
+    "preview": "Super Mario Bros/Underwater.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

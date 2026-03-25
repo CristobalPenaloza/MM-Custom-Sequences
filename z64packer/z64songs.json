@@ -20775,5 +20775,28 @@
     "file": "Pokémon Red, Blue & Yellow/Celadon City (Variant B).mmrs",
     "preview": "Pokémon Red, Blue & Yellow/Celadon City (Variant B).mp3"
   },
+  {
+    "uuid": "ccc95472-89c1-418f-8292-a4c23d80112f",
+    "creationDate": "2026-03-25T04:01:51.725Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Cerulean City",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/Cerulean City.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Cerulean City.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

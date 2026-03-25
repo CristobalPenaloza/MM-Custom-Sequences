@@ -21963,5 +21963,26 @@
     "file": "Super Mario World/Game Over.mmrs",
     "preview": "Super Mario World/Game Over.ogg"
   },
+  {
+    "uuid": "50ff35b2-5faa-4271-b57f-6c817ea98eed",
+    "creationDate": "2026-03-25T23:27:32.409Z",
+    "game": "Super Mario World",
+    "song": "Victory",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "10"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario World/Victory.mmrs",
+    "preview": "Super Mario World/Victory.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -21942,5 +21942,26 @@
     "file": "Super Mario World/Goal.mmrs",
     "preview": "Super Mario World/Goal.ogg"
   },
+  {
+    "uuid": "90ad2238-7e83-450f-ab8c-9b61cfc37334",
+    "creationDate": "2026-03-25T23:26:58.070Z",
+    "game": "Super Mario World",
+    "song": "Game Over",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario World/Game Over.mmrs",
+    "preview": "Super Mario World/Game Over.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

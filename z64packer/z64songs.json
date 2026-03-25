@@ -20271,5 +20271,28 @@
     "file": "Perfect Dark/WAR! (Alien Conflict).mmrs",
     "preview": "Perfect Dark/WAR! (Alien Conflict).mp3"
   },
+  {
+    "uuid": "8c017b8d-74e5-4919-b02b-b98934dc23bd",
+    "creationDate": "2026-03-25T03:16:25.084Z",
+    "game": "Pokémon Black 2 & White 2",
+    "song": "Champion Iris",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Black 2 & White 2/Champion Iris.mmrs",
+    "preview": "Pokémon Black 2 & White 2/Champion Iris.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

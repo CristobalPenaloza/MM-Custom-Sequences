@@ -21439,5 +21439,30 @@
     "file": "Memes/Michael Jackson Yeah.mmrs",
     "preview": "Memes/Michael Jackson Yeah.mp3"
   },
+  {
+    "uuid": "9f7cd1e2-959e-4cff-aed0-5f1e8c0047b6",
+    "creationDate": "2026-03-25T15:21:25.346Z",
+    "game": "Yoshi's Story",
+    "song": "Yo-Yo-Yoshi",
+    "composers": [
+      "Kazumi Totaka"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Yoshi's Story/Yo-Yo-Yoshi.mmrs",
+    "preview": "Yoshi's Story/Yo-Yo-Yoshi.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

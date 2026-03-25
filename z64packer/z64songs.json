@@ -21144,5 +21144,26 @@
     "file": "Pokémon X & Y/Battle! Champion Diantha.mmrs",
     "preview": "Pokémon X & Y/Battle! Champion Diantha.mp3"
   },
+  {
+    "uuid": "2471d7d9-a3c0-4f2e-b9d8-6bf46479ac0e",
+    "creationDate": "2026-03-25T04:51:51.382Z",
+    "game": "Memes",
+    "song": "Ran Ran Ru",
+    "composers": [
+      "Ronald McDonald"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Memes/Ran Ran Ru.mmrs",
+    "preview": "Memes/Ran Ran Ru.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

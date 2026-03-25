@@ -3077,5 +3077,11 @@
     "game": "Bayonetta",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/de584085097dbcc290d237ea48ccd97c.png"
   },
+  {
+    "game": "Harvest Moon"
+  },
+  {
+    "game": "Suikoden"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

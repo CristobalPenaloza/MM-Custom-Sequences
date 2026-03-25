@@ -21920,5 +21920,27 @@
     "file": "Golden Sun/Venus Lighthouse.mmrs",
     "preview": "Golden Sun/Venus Lighthouse.ogg"
   },
+  {
+    "uuid": "3ad3b1f6-d3f6-4eb7-904b-0910f62aa83d",
+    "creationDate": "2026-03-25T23:26:26.601Z",
+    "game": "Super Mario World",
+    "song": "Goal",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "10"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario World/Goal.mmrs",
+    "preview": "Super Mario World/Goal.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

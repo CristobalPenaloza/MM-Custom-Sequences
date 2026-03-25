@@ -21833,5 +21833,26 @@
     "file": "Terranigma/Crysta.mmrs",
     "preview": "Terranigma/Crysta.ogg"
   },
+  {
+    "uuid": "f7e6d98e-abe7-4f2c-87b2-48ef2a6e2806",
+    "creationDate": "2026-03-25T23:23:15.834Z",
+    "game": "Final Fantasy VI",
+    "song": "Celes' Theme",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy VI/Celes' Theme.mmrs",
+    "preview": "Final Fantasy VI/Celes' Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

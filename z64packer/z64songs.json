@@ -20665,5 +20665,26 @@
     "file": "Pokémon Gold, Silver & Crystal/Route 42.mmrs",
     "preview": "Pokémon Gold, Silver & Crystal/Route 42.mp3"
   },
+  {
+    "uuid": "826f1352-9f58-4644-b819-b58f72aeaad0",
+    "creationDate": "2026-03-25T03:39:19.589Z",
+    "game": "Pokémon Gold, Silver & Crystal",
+    "song": "Ruins of Alph",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Gold, Silver & Crystal/Ruins of Alph.mmrs",
+    "preview": "Pokémon Gold, Silver & Crystal/Ruins of Alph.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -20798,5 +20798,26 @@
     "file": "Pokémon Red, Blue & Yellow/Cerulean City.mmrs",
     "preview": "Pokémon Red, Blue & Yellow/Cerulean City.mp3"
   },
+  {
+    "uuid": "efbe38a1-5292-4423-a923-2f6743ab3f9e",
+    "creationDate": "2026-03-25T04:03:36.612Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Game Corner",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/Game Corner.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Game Corner.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

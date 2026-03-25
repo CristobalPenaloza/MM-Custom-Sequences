@@ -20973,5 +20973,26 @@
     "file": "Pokémon Red, Blue & Yellow/Pokémon Tower.mmrs",
     "preview": "Pokémon Red, Blue & Yellow/Pokémon Tower.mp3"
   },
+  {
+    "uuid": "bd30026c-5d75-41cf-8bd4-1bbb059d9944",
+    "creationDate": "2026-03-25T04:19:44.420Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Route 3",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/Route 3.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Route 3.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

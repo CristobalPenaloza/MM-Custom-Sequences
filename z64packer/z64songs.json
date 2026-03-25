@@ -21287,5 +21287,27 @@
     "file": "Super Mario RPG Legend of the Seven Stars/Fight Against Culex.mmrs",
     "preview": "Super Mario RPG Legend of the Seven Stars/Fight Against Culex.mp3"
   },
+  {
+    "uuid": "7f11ea48-7169-4a20-90b2-3f479c56aba7",
+    "creationDate": "2026-03-25T13:33:50.565Z",
+    "game": "Touhou Koumakyou ~ the Embodiment of Scarlet Devil",
+    "song": "Septette for a Dead Princess",
+    "composers": [
+      "ZUN"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Touhou Koumakyou ~ the Embodiment of Scarlet Devil/Septette for a Dead Princess.mmrs",
+    "preview": "Touhou Koumakyou ~ the Embodiment of Scarlet Devil/Septette for a Dead Princess.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

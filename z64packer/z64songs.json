@@ -20862,5 +20862,27 @@
     "file": "Pokémon Red, Blue & Yellow/Mt. Moon (Variant B).mmrs",
     "preview": "Pokémon Red, Blue & Yellow/Mt. Moon (Variant B).mp3"
   },
+  {
+    "uuid": "ccaa9744-0e40-42ec-a707-6a5d72246ef4",
+    "creationDate": "2026-03-25T04:06:51.856Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Oak's Laboratory",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/Oak's Laboratory.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Oak's Laboratory.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

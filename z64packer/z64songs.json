@@ -20338,5 +20338,27 @@
     "file": "Pokémon Gold, Silver & Crystal/Azalea Town.mmrs",
     "preview": "Pokémon Gold, Silver & Crystal/Azalea Town.mp3"
   },
+  {
+    "uuid": "d4adcd83-a9c3-4894-b96d-87b3e2811b94",
+    "creationDate": "2026-03-25T03:26:49.203Z",
+    "game": "Pokémon Gold, Silver & Crystal",
+    "song": "Battle! Champion",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Gold, Silver & Crystal/Battle! Champion.mmrs",
+    "preview": "Pokémon Gold, Silver & Crystal/Battle! Champion.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

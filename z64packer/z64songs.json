@@ -20246,5 +20246,30 @@
     "file": "Okami/Theme of the Celestials.mmrs",
     "preview": "Okami/Theme of the Celestials.mp3"
   },
+  {
+    "uuid": "0d310f6f-1c73-47e0-ad8a-24ab574df1b6",
+    "creationDate": "2026-03-25T03:13:35.172Z",
+    "game": "Perfect Dark",
+    "song": "WAR! (Alien Conflict)",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "4",
+      "10D"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Perfect Dark/WAR! (Alien Conflict).mmrs",
+    "preview": "Perfect Dark/WAR! (Alien Conflict).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

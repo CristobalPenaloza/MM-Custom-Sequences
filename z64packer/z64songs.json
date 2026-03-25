@@ -21809,5 +21809,29 @@
     "file": "Harvest Moon/Menu Theme.mmrs",
     "preview": "Harvest Moon/Menu Theme.ogg"
   },
+  {
+    "uuid": "02759571-0ef1-4a82-a984-66380592edc3",
+    "creationDate": "2026-03-25T23:22:43.355Z",
+    "game": "Terranigma",
+    "song": "Crysta",
+    "composers": [
+      "Miyoko Takaoka",
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Terranigma/Crysta.mmrs",
+    "preview": "Terranigma/Crysta.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

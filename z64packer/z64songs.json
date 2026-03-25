@@ -20930,5 +20930,27 @@
     "file": "Pokémon Red, Blue & Yellow/Pewter City.mmrs",
     "preview": "Pokémon Red, Blue & Yellow/Pewter City.mp3"
   },
+  {
+    "uuid": "4c83b685-1122-4579-8ec5-814ea238e416",
+    "creationDate": "2026-03-25T04:17:57.043Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Pokémon Center (Variant B)",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/Pokémon Center (Variant B).mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Pokémon Center (Variant B).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

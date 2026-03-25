@@ -21309,5 +21309,27 @@
     "file": "Touhou Koumakyou ~ the Embodiment of Scarlet Devil/Septette for a Dead Princess.mmrs",
     "preview": "Touhou Koumakyou ~ the Embodiment of Scarlet Devil/Septette for a Dead Princess.mp3"
   },
+  {
+    "uuid": "588797b7-d5a3-4c8f-8a6c-7a5432c8fc6e",
+    "creationDate": "2026-03-25T13:34:43.891Z",
+    "game": "Touhou Youyoumu ~ Perfect Cherry Blossom",
+    "song": "Border of Life",
+    "composers": [
+      "ZUN"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Touhou Youyoumu ~ Perfect Cherry Blossom/Border of Life.mmrs",
+    "preview": "Touhou Youyoumu ~ Perfect Cherry Blossom/Border of Life.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

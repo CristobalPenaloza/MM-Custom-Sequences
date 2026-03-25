@@ -22028,5 +22028,27 @@
     "file": "Banjo-Kazooie/Game Over (Variant A).mmrs",
     "preview": "Banjo-Kazooie/Game Over (Variant A).ogg"
   },
+  {
+    "uuid": "a48be2f8-755e-45b3-b5bd-4187d1814765",
+    "creationDate": "2026-03-25T23:29:51.078Z",
+    "game": "Super Mario World 2: Yoshi's Island",
+    "song": "Goal",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "10"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario World 2 Yoshi's Island/Goal.mmrs",
+    "preview": "Super Mario World 2 Yoshi's Island/Goal.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -20952,5 +20952,26 @@
     "file": "Pokémon Red, Blue & Yellow/Pokémon Center (Variant B).mmrs",
     "preview": "Pokémon Red, Blue & Yellow/Pokémon Center (Variant B).mp3"
   },
+  {
+    "uuid": "390531a8-fa91-4a26-a01f-d9ec096ed702",
+    "creationDate": "2026-03-25T04:18:42.514Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Pokémon Tower",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/Pokémon Tower.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Pokémon Tower.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

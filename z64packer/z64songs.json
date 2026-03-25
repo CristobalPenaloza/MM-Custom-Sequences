@@ -20752,5 +20752,28 @@
     "file": "Pokémon Red, Blue & Yellow/Bicycle.mmrs",
     "preview": "Pokémon Red, Blue & Yellow/Bicycle.mp3"
   },
+  {
+    "uuid": "ea9d19a0-1370-465e-86fe-6f315ccda585",
+    "creationDate": "2026-03-25T03:51:55.512Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Celadon City (Variant B)",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/Celadon City (Variant B).mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Celadon City (Variant B).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

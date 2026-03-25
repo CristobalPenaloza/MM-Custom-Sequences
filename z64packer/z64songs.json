@@ -20884,5 +20884,28 @@
     "file": "Pokémon Red, Blue & Yellow/Oak's Laboratory.mmrs",
     "preview": "Pokémon Red, Blue & Yellow/Oak's Laboratory.mp3"
   },
+  {
+    "uuid": "eb7c1311-286c-41f9-8782-311ffff8f00c",
+    "creationDate": "2026-03-25T04:07:45.465Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Pallet Town",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/Pallet Town.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Pallet Town.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -20709,5 +20709,485 @@
     "file": "Pokémon Omega Ruby & Alpha Sapphire/Battle! Lorekeeper Zinnia (Variant B).mmrs",
     "preview": "Pokémon Omega Ruby & Alpha Sapphire/Battle! Lorekeeper Zinnia (Variant B).mp3"
   },
+  {
+    "uuid": "46d635aa-0851-40db-8010-6c37b7b9640d",
+    "creationDate": "2026-03-25T03:49:15.555Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Battle! Champion",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/Battle! Champion.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Battle! Champion.mp3"
+  },
+  {
+    "uuid": "de9298d4-d03f-4850-916c-a4f0acd0d1c7",
+    "creationDate": "2026-03-25T03:51:10.494Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Bicycle",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/Bicycle.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Bicycle.mp3"
+  },
+  {
+    "uuid": "ea9d19a0-1370-465e-86fe-6f315ccda585",
+    "creationDate": "2026-03-25T03:51:55.512Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Celadon City (Variant B)",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/Celadon City (Variant B).mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Celadon City (Variant B).mp3"
+  },
+  {
+    "uuid": "ccc95472-89c1-418f-8292-a4c23d80112f",
+    "creationDate": "2026-03-25T04:01:51.725Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Cerulean City",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/Cerulean City.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Cerulean City.mp3"
+  },
+  {
+    "uuid": "efbe38a1-5292-4423-a923-2f6743ab3f9e",
+    "creationDate": "2026-03-25T04:03:36.612Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Game Corner",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/Game Corner.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Game Corner.mp3"
+  },
+  {
+    "uuid": "9ffe64ab-9003-429f-9a5d-488968c58520",
+    "creationDate": "2026-03-25T04:04:45.345Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Gym",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/Gym.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Gym.mp3"
+  },
+  {
+    "uuid": "626bdc3c-1130-479a-8d30-14e48eeb7524",
+    "creationDate": "2026-03-25T04:06:16.628Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Mt. Moon (Variant B)",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/Mt. Moon (Variant B).mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Mt. Moon (Variant B).mp3"
+  },
+  {
+    "uuid": "ccaa9744-0e40-42ec-a707-6a5d72246ef4",
+    "creationDate": "2026-03-25T04:06:51.856Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Oak's Laboratory",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/Oak's Laboratory.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Oak's Laboratory.mp3"
+  },
+  {
+    "uuid": "eb7c1311-286c-41f9-8782-311ffff8f00c",
+    "creationDate": "2026-03-25T04:07:45.465Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Pallet Town",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/Pallet Town.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Pallet Town.mp3"
+  },
+  {
+    "uuid": "049650ee-52cf-4b3d-81af-f75d19bfc783",
+    "creationDate": "2026-03-25T04:08:15.003Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Pewter City",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/Pewter City.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Pewter City.mp3"
+  },
+  {
+    "uuid": "4c83b685-1122-4579-8ec5-814ea238e416",
+    "creationDate": "2026-03-25T04:17:57.043Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Pokémon Center (Variant B)",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/Pokémon Center (Variant B).mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Pokémon Center (Variant B).mp3"
+  },
+  {
+    "uuid": "390531a8-fa91-4a26-a01f-d9ec096ed702",
+    "creationDate": "2026-03-25T04:18:42.514Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Pokémon Tower",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/Pokémon Tower.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Pokémon Tower.mp3"
+  },
+  {
+    "uuid": "bd30026c-5d75-41cf-8bd4-1bbb059d9944",
+    "creationDate": "2026-03-25T04:19:44.420Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Route 3",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/Route 3.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Route 3.mp3"
+  },
+  {
+    "uuid": "3a7c7b06-b96c-4cc2-8b9d-e3f12041e35a",
+    "creationDate": "2026-03-25T04:20:39.726Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Route 11",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/Route 11.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Route 11.mp3"
+  },
+  {
+    "uuid": "abf3bb04-e478-4f50-b2d0-1cce3ca043c8",
+    "creationDate": "2026-03-25T04:21:16.056Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Silph Co.",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/Silph Co..mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Silph Co..mp3"
+  },
+  {
+    "uuid": "1983bb85-3c5f-4182-92aa-9958ceeeb044",
+    "creationDate": "2026-03-25T04:22:01.775Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "S.S. Anne",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/S.S. Anne.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/S.S. Anne.mp3"
+  },
+  {
+    "uuid": "832b5be7-dc20-416d-8b9e-5ff976101ceb",
+    "creationDate": "2026-03-25T04:23:05.654Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Surfing",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/Surfing.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Surfing.mp3"
+  },
+  {
+    "uuid": "4440c2a5-031c-4d0a-930c-db69abda2876",
+    "creationDate": "2026-03-25T04:23:47.824Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Title Theme",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/Title Theme.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Title Theme.mp3"
+  },
+  {
+    "uuid": "cbeb5b44-1af3-4559-8d86-fe3fa5e9153c",
+    "creationDate": "2026-03-25T04:24:44.975Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Vermilion City",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/Vermilion City.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Vermilion City.mp3"
+  },
+  {
+    "uuid": "2cc6fe99-b861-419d-bcaa-5b1ff01bc2ec",
+    "creationDate": "2026-03-25T04:27:23.290Z",
+    "game": "Pokémon X & Y",
+    "song": "Battle! Champion Diantha",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon X & Y/Battle! Champion Diantha.mmrs",
+    "preview": "Pokémon X & Y/Battle! Champion Diantha.mp3"
+  },
+  {
+    "uuid": "2471d7d9-a3c0-4f2e-b9d8-6bf46479ac0e",
+    "creationDate": "2026-03-25T04:51:51.382Z",
+    "game": "Memes",
+    "song": "Ran Ran Ru",
+    "composers": [
+      "Ronald McDonald"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Memes/Ran Ran Ru.mmrs",
+    "preview": "Memes/Ran Ran Ru.mp3"
+  },
+  {
+    "uuid": "0dafd960-c477-4693-9039-a49bf8c1841d",
+    "creationDate": "2026-03-25T04:58:09.427Z",
+    "game": "Star Fox 64",
+    "song": "Menu",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Star Fox 64/Menu.mmrs",
+    "preview": "Star Fox 64/Menu.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

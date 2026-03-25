@@ -20579,5 +20579,28 @@
     "file": "Pokémon Gold, Silver & Crystal/Ice Path.mmrs",
     "preview": "Pokémon Gold, Silver & Crystal/Ice Path.mp3"
   },
+  {
+    "uuid": "003b7585-985d-4c84-9219-11ab5ace088b",
+    "creationDate": "2026-03-25T03:36:48.780Z",
+    "game": "Pokémon Gold, Silver & Crystal",
+    "song": "New Bark Town",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Gold, Silver & Crystal/New Bark Town.mmrs",
+    "preview": "Pokémon Gold, Silver & Crystal/New Bark Town.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

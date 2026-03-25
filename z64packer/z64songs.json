@@ -21688,5 +21688,26 @@
     "file": "Final Fantasy III/Cloud of Darkness.mmrs",
     "preview": "Final Fantasy III/Cloud of Darkness.ogg"
   },
+  {
+    "uuid": "8e12f996-dff1-40fd-835b-d9b7f458e8ce",
+    "creationDate": "2026-03-25T23:12:38.864Z",
+    "game": "Yoshi's Story",
+    "song": "Baby Bowser's Lullaby",
+    "composers": [
+      "Kazumi Totaka"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Yoshi's Story/Baby Bowser's Lullaby.mmrs",
+    "preview": "Yoshi's Story/Baby Bowser's Lullaby.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

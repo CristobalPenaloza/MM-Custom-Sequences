@@ -21189,5 +21189,348 @@
     "file": "Star Fox 64/Menu.mmrs",
     "preview": "Star Fox 64/Menu.mp3"
   },
+  {
+    "uuid": "6f664648-5dd6-4edc-bcce-ccc3ca839209",
+    "creationDate": "2026-03-25T13:25:01.187Z",
+    "game": "Super Mario Bros.",
+    "song": "Overworld",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Super Mario Bros/Overworld.mmrs",
+    "preview": "Super Mario Bros/Overworld.mp3"
+  },
+  {
+    "uuid": "ddafdbda-c8fc-49c2-9576-15d88ba1a67e",
+    "creationDate": "2026-03-25T13:26:20.056Z",
+    "game": "Super Mario Bros.",
+    "song": "Overworld (Fart Version)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Super Mario Bros/Overworld (Fart Version).mmrs",
+    "preview": "Super Mario Bros/Overworld (Fart Version).mp3"
+  },
+  {
+    "uuid": "3b01778c-c728-4087-8318-4b4ea2e223c1",
+    "creationDate": "2026-03-25T13:27:28.512Z",
+    "game": "Super Mario Bros.",
+    "song": "Underwater",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Super Mario Bros/Underwater.mmrs",
+    "preview": "Super Mario Bros/Underwater.mp3"
+  },
+  {
+    "uuid": "5a450831-2bb8-43a1-a60a-1d1e1058db06",
+    "creationDate": "2026-03-25T13:32:46.728Z",
+    "game": "Super Mario RPG: Legend of the Seven Stars",
+    "song": "Fight Against Culex",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Super Mario RPG Legend of the Seven Stars/Fight Against Culex.mmrs",
+    "preview": "Super Mario RPG Legend of the Seven Stars/Fight Against Culex.mp3"
+  },
+  {
+    "uuid": "7f11ea48-7169-4a20-90b2-3f479c56aba7",
+    "creationDate": "2026-03-25T13:33:50.565Z",
+    "game": "Touhou Koumakyou ~ the Embodiment of Scarlet Devil",
+    "song": "Septette for a Dead Princess",
+    "composers": [
+      "ZUN"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Touhou Koumakyou ~ the Embodiment of Scarlet Devil/Septette for a Dead Princess.mmrs",
+    "preview": "Touhou Koumakyou ~ the Embodiment of Scarlet Devil/Septette for a Dead Princess.mp3"
+  },
+  {
+    "uuid": "588797b7-d5a3-4c8f-8a6c-7a5432c8fc6e",
+    "creationDate": "2026-03-25T13:34:43.891Z",
+    "game": "Touhou Youyoumu ~ Perfect Cherry Blossom",
+    "song": "Border of Life",
+    "composers": [
+      "ZUN"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Touhou Youyoumu ~ Perfect Cherry Blossom/Border of Life.mmrs",
+    "preview": "Touhou Youyoumu ~ Perfect Cherry Blossom/Border of Life.mp3"
+  },
+  {
+    "uuid": "45bc3578-7a62-4bf8-8897-8e58ef40cdba",
+    "creationDate": "2026-03-25T15:08:14.740Z",
+    "game": "Touhou Youyoumu ~ Perfect Cherry Blossom",
+    "song": "Ghostly Band ~ Phantom Ensemble",
+    "composers": [
+      "ZUN"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Touhou Youyoumu ~ Perfect Cherry Blossom/Ghostly Band ~ Phantom Ensemble.mmrs",
+    "preview": "Touhou Youyoumu ~ Perfect Cherry Blossom/Ghostly Band ~ Phantom Ensemble.mp3"
+  },
+  {
+    "uuid": "6006ed42-aaaa-419a-ad63-e63aec80f8de",
+    "creationDate": "2026-03-25T15:09:07.781Z",
+    "game": "Touhou Fuujinroku ~ Mountain of Faith",
+    "song": "Because Princess Inada is Scolding Me",
+    "composers": [
+      "ZUN"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Touhou Fuujinroku ~ Mountain of Faith/Because Princess Inada is Scolding Me.mmrs",
+    "preview": "Touhou Fuujinroku ~ Mountain of Faith/Because Princess Inada is Scolding Me.mp3"
+  },
+  {
+    "uuid": "af8cf1e1-edb4-459f-ad6b-c67588d3f314",
+    "creationDate": "2026-03-25T15:12:17.748Z",
+    "game": "Final Fantasy X",
+    "song": "Tidus' Laugh",
+    "composers": [
+      "James Arnold Taylor"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "120"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Final Fantasy X/Tidus' Laugh.mmrs",
+    "preview": "Final Fantasy X/Tidus' Laugh.mp3"
+  },
+  {
+    "uuid": "9aea9c4a-535f-4c9e-8b34-d6714abd270e",
+    "creationDate": "2026-03-25T15:13:59.747Z",
+    "game": "Memes",
+    "song": "Whistling",
+    "composers": [
+      "The Internet"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Memes/Whistling.mmrs",
+    "preview": "Memes/Whistling.mp3"
+  },
+  {
+    "uuid": "b7d5dcd0-e5f5-43d1-a361-43e938955f48",
+    "creationDate": "2026-03-25T15:20:30.140Z",
+    "game": "Memes",
+    "song": "Michael Jackson Yeah",
+    "composers": [
+      "Michael Jackson"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Memes/Michael Jackson Yeah.mmrs",
+    "preview": "Memes/Michael Jackson Yeah.mp3"
+  },
+  {
+    "uuid": "9f7cd1e2-959e-4cff-aed0-5f1e8c0047b6",
+    "creationDate": "2026-03-25T15:21:25.346Z",
+    "game": "Yoshi's Story",
+    "song": "Yo-Yo-Yoshi",
+    "composers": [
+      "Kazumi Totaka"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Yoshi's Story/Yo-Yo-Yoshi.mmrs",
+    "preview": "Yoshi's Story/Yo-Yo-Yoshi.mp3"
+  },
+  {
+    "uuid": "673db897-50fa-48d4-92a7-d2dee906dbc0",
+    "creationDate": "2026-03-25T15:22:57.878Z",
+    "game": "Yoshi's Story",
+    "song": "Love is in the Air",
+    "composers": [
+      "Kazumi Totaka"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Yoshi's Story/Love is in the Air.mmrs",
+    "preview": "Yoshi's Story/Love is in the Air.mp3"
+  },
+  {
+    "uuid": "3fd12c09-2ddd-47c6-9fff-2e94aa81b882",
+    "creationDate": "2026-03-25T15:23:41.679Z",
+    "game": "The Legend of Zelda",
+    "song": "Level 9",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda/Level 9.mmrs",
+    "preview": "The Legend of Zelda/Level 9.mp3"
+  },
+  {
+    "uuid": "3927c3fd-1cb7-4186-ad13-cd3ba680bad8",
+    "creationDate": "2026-03-25T15:24:13.375Z",
+    "game": "The Legend of Zelda",
+    "song": "Overworld",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda/Overworld.mmrs",
+    "preview": "The Legend of Zelda/Overworld.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

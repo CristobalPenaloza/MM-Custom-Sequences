@@ -5856,7 +5856,7 @@
     "uuid": "cf08ffc3-b45a-4dc1-8650-7131c98b3bbf",
     "creationDate": "2026-03-14T01:29:00.124Z",
     "game": "The Legend of Zelda: The Wind Waker",
-    "song": "Wind Temple",
+    "song": "Wind Temple (Variant A)",
     "composers": [
       "Kenta Nagata",
       "Hajime Wakai",
@@ -5875,7 +5875,7 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "The Legend of Zelda The Wind Waker/Wind Temple.mmrs",
+    "file": "The Legend of Zelda The Wind Waker/Wind Temple (Variant A).mmrs",
     "preview": "https://www.youtube.com/watch?v=DjZIxad5L3o"
   },
   {
@@ -11122,7 +11122,7 @@
     "uuid": "93be2938-8be4-4cf9-be0f-cddee069f7f4",
     "creationDate": "2026-03-18T02:53:21.958Z",
     "game": "Pokémon Red, Blue & Yellow",
-    "song": "Celadon City",
+    "song": "Celadon City (Variant A)",
     "composers": [
       "Junichi Masuda"
     ],
@@ -11136,14 +11136,14 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Pokémon Red, Blue & Yellow/Celadon City.mmrs",
-    "preview": "Pokémon Red, Blue & Yellow/Celadon City.ogg"
+    "file": "Pokémon Red, Blue & Yellow/Celadon City (Variant A).mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Celadon City (Variant A).ogg"
   },
   {
     "uuid": "74796081-0922-48c1-821f-a632c78dd7b8",
     "creationDate": "2026-03-18T02:54:02.263Z",
     "game": "Pokémon Red, Blue & Yellow",
-    "song": "Mt. Moon",
+    "song": "Mt. Moon (Variant A)",
     "composers": [
       "Junichi Masuda"
     ],
@@ -11157,14 +11157,14 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Pokémon Red, Blue & Yellow/Mt. Moon.mmrs",
-    "preview": "Pokémon Red, Blue & Yellow/Mt. Moon.ogg"
+    "file": "Pokémon Red, Blue & Yellow/Mt. Moon (Variant A).mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Mt. Moon (Variant A).ogg"
   },
   {
     "uuid": "27d52756-0ffd-491c-b421-45e976fe62d5",
     "creationDate": "2026-03-18T02:54:58.874Z",
     "game": "Pokémon Red, Blue & Yellow",
-    "song": "Pokémon Center",
+    "song": "Pokémon Center (Variant A)",
     "composers": [
       "Junichi Masuda"
     ],
@@ -11178,8 +11178,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Pokémon Red, Blue & Yellow/Pokémon Center.mmrs",
-    "preview": "Pokémon Red, Blue & Yellow/Pokémon Center.ogg"
+    "file": "Pokémon Red, Blue & Yellow/Pokémon Center (Variant A).mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Pokémon Center (Variant A).ogg"
   },
   {
     "uuid": "fcb085bd-6aea-4a7c-9258-fd46fdf5412f",
@@ -11345,7 +11345,7 @@
     "uuid": "6039b530-76e4-4374-9301-cddf072cb83b",
     "creationDate": "2026-03-18T22:38:38.040Z",
     "game": "Action 52",
-    "song": "Cheetahmen",
+    "song": "Cheetahmen (Variant A)",
     "composers": [
       "Mario González"
     ],
@@ -11362,8 +11362,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Action 52/Cheetahmen.mmrs",
-    "preview": "Action 52/Cheetahmen.ogg"
+    "file": "Action 52/Cheetahmen (Variant A).mmrs",
+    "preview": "Action 52/Cheetahmen (Variant A).ogg"
   },
   {
     "uuid": "507f426b-973a-4e1a-8d3e-3b794d57e330",
@@ -11975,7 +11975,7 @@
     "uuid": "41098e97-25ed-407b-a7ab-089234a8c76c",
     "creationDate": "2026-03-20T01:04:05.194Z",
     "game": "Pokémon Omega Ruby & Alpha Sapphire",
-    "song": "Battle! Lorekeeper Zinnia",
+    "song": "Battle! Lorekeeper Zinnia (Variant A)",
     "composers": [
       "Shota Kageyama"
     ],
@@ -11991,8 +11991,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Pokémon Omega Ruby & Alpha Sapphire/Battle! Lorekeeper Zinnia.mmrs",
-    "preview": "Pokémon Omega Ruby & Alpha Sapphire/Battle! Lorekeeper Zinnia.ogg"
+    "file": "Pokémon Omega Ruby & Alpha Sapphire/Battle! Lorekeeper Zinnia (Variant A).mmrs",
+    "preview": "Pokémon Omega Ruby & Alpha Sapphire/Battle! Lorekeeper Zinnia (Variant A).ogg"
   },
   {
     "uuid": "4ff7507d-a449-42b1-a1bb-58bd0f043d4b",
@@ -21790,10 +21790,10 @@
   {
     "uuid": "f7d4b1f0-36f9-4ccb-a39f-c9fab4a9565a",
     "creationDate": "2026-03-25T23:21:52.617Z",
-    "game": "Harvest Moon",
-    "song": "Menu Theme",
+    "game": "Hotel Mario",
+    "song": "Main Menu",
     "composers": [
-      "Tsuyoshi Tanaka"
+      "Marc St. Regis"
     ],
     "converters": [
       "Forest Siren"
@@ -21809,8 +21809,8 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Harvest Moon/Menu Theme.mmrs",
-    "preview": "Harvest Moon/Menu Theme.ogg"
+    "file": "Hotel Mario/Main Menu.mmrs",
+    "preview": "Hotel Mario/Main Menu.ogg"
   },
   {
     "uuid": "02759571-0ef1-4a82-a984-66380592edc3",

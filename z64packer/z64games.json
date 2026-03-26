@@ -2455,6 +2455,7 @@
   },
   {
     "game": "Suikoden II",
+    "series": "Suikoden Series",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/a7ccec2053fd3f95bade291c40ae428c.png"
   },
   {
@@ -3078,13 +3079,14 @@
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/de584085097dbcc290d237ea48ccd97c.png"
   },
   {
-    "game": "Harvest Moon"
+    "game": "Suikoden",
+    "series": "Suikoden Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/29e11dc359bad383e1243f730bdbe032.png"
   },
   {
-    "game": "Suikoden"
-  },
-  {
-    "game": "Final Fantasy Tactics"
+    "game": "Final Fantasy Tactics",
+    "series": "Final Fantasy Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/70b9a250694bcd701d37a2189b9c8289.png"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

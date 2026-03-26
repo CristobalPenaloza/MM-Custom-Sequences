@@ -22236,5 +22236,29 @@
     "file": "Final Fantasy VI/Slame Shuffle.mmrs",
     "preview": "Final Fantasy VI/Slame Shuffle.ogg"
   },
+  {
+    "uuid": "15b10b97-455a-4706-8593-5ea23c787409",
+    "creationDate": "2026-03-26T00:07:45.016Z",
+    "game": "Final Fantasy VIII",
+    "song": "Triple Triad",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy VIII/Triple Triad.mmrs",
+    "preview": "Final Fantasy VIII/Triple Triad.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

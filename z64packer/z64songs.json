@@ -22188,5 +22188,29 @@
     "file": "Final Fantasy/Mt. Gulg.mmrs",
     "preview": "Final Fantasy/Mt. Gulg.ogg"
   },
+  {
+    "uuid": "a59fdfec-f8a1-4f30-8eed-f7a4c8f48b24",
+    "creationDate": "2026-03-26T00:06:14.965Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Farewell Hyrule King",
+    "composers": [
+      "Kenta Nagata",
+      "Hajime Wakai",
+      "Toru Minegishi",
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda The Wind Waker/Farewell Hyrule King.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Farewell Hyrule King.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

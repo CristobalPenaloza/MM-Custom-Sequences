@@ -22166,5 +22166,27 @@
     "file": "Final Fantasy VII/Fiddle De Chocobo.mmrs",
     "preview": "Final Fantasy VII/Fiddle De Chocobo.ogg"
   },
+  {
+    "uuid": "88e85008-2931-4d5c-9b06-84e90ee33577",
+    "creationDate": "2026-03-26T00:05:27.516Z",
+    "game": "Final Fantasy",
+    "song": "Mt. Gulg",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy/Mt. Gulg.mmrs",
+    "preview": "Final Fantasy/Mt. Gulg.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

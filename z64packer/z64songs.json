@@ -22838,5 +22838,24 @@
     "file": "Pikmin/The Distant Spring (Sunset).mmrs",
     "preview": "Pikmin/The Distant Spring (Sunset).ogg"
   },
+  {
+    "uuid": "84be5053-4cca-4432-bd4b-f59d091d3b3c",
+    "creationDate": "2026-03-27T22:52:35.444Z",
+    "game": "Pikmin",
+    "song": "The Final Trial",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "file": "Pikmin/The Final Trial.mmrs",
+    "preview": "Pikmin/The Final Trial.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

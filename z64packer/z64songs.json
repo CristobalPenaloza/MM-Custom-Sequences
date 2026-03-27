@@ -22372,5 +22372,27 @@
     "file": "The Legend of Zelda A Link Between Worlds/The Zora Queen's Predicament.mmrs",
     "preview": "The Legend of Zelda A Link Between Worlds/The Zora Queen's Predicament.ogg"
   },
+  {
+    "uuid": "94a3b2a4-d5ad-4811-b73c-d2bb1ffd75ca",
+    "creationDate": "2026-03-27T02:03:38.870Z",
+    "game": "The Legend of Zelda: A Link Between Worlds",
+    "song": "Queen Zora's Gratitude",
+    "composers": [
+      "Ryo Nagamatsu"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "4",
+      "6"
+    ],
+    "file": "The Legend of Zelda A Link Between Worlds/Queen Zora's Gratitude.mmrs",
+    "preview": "The Legend of Zelda A Link Between Worlds/Queen Zora's Gratitude.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

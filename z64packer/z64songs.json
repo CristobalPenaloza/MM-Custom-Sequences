@@ -22311,5 +22311,340 @@
     "file": "Pokémon X & Y/Snowbelle City.mmrs",
     "preview": "Pokémon X & Y/Snowbelle City.ogg"
   },
+  {
+    "uuid": "893a7911-21f0-4da3-8a96-c8eed827f587",
+    "creationDate": "2026-03-27T02:00:19.238Z",
+    "game": "The Legend of Zelda: A Link Between Worlds",
+    "song": "Dark Palace Maze",
+    "composers": [
+      "Ryo Nagamatsu"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "file": "The Legend of Zelda A Link Between Worlds/Dark Palace Maze.mmrs",
+    "preview": "The Legend of Zelda A Link Between Worlds/Dark Palace Maze.ogg"
+  },
+  {
+    "uuid": "ee535231-d15f-4439-b1c8-c0c6e4e180e3",
+    "creationDate": "2026-03-27T02:01:19.360Z",
+    "game": "The Legend of Zelda: A Link Between Worlds",
+    "song": "Hilda's Theme",
+    "composers": [
+      "Ryo Nagamatsu"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6"
+    ],
+    "file": "The Legend of Zelda A Link Between Worlds/Hilda's Theme.mmrs",
+    "preview": "The Legend of Zelda A Link Between Worlds/Hilda's Theme.ogg"
+  },
+  {
+    "uuid": "78fbcb0a-b13a-4f6d-a3ab-4bc58047dfac",
+    "creationDate": "2026-03-27T02:02:25.176Z",
+    "game": "The Legend of Zelda: A Link Between Worlds",
+    "song": "The Zora Queen's Predicament",
+    "composers": [
+      "Ryo Nagamatsu"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6"
+    ],
+    "file": "The Legend of Zelda A Link Between Worlds/The Zora Queen's Predicament.mmrs",
+    "preview": "The Legend of Zelda A Link Between Worlds/The Zora Queen's Predicament.ogg"
+  },
+  {
+    "uuid": "94a3b2a4-d5ad-4811-b73c-d2bb1ffd75ca",
+    "creationDate": "2026-03-27T02:03:38.870Z",
+    "game": "The Legend of Zelda: A Link Between Worlds",
+    "song": "Queen Zora's Gratitude",
+    "composers": [
+      "Ryo Nagamatsu"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "4",
+      "6"
+    ],
+    "file": "The Legend of Zelda A Link Between Worlds/Queen Zora's Gratitude.mmrs",
+    "preview": "The Legend of Zelda A Link Between Worlds/Queen Zora's Gratitude.ogg"
+  },
+  {
+    "uuid": "06ab311c-4091-4ae2-a1b0-64c151139729",
+    "creationDate": "2026-03-27T02:05:13.508Z",
+    "game": "The Legend of Zelda: A Link Between Worlds",
+    "song": "Lorule Castle #1",
+    "composers": [
+      "Ryo Nagamatsu"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "file": "The Legend of Zelda A Link Between Worlds/Lorule Castle #1.mmrs",
+    "preview": "The Legend of Zelda A Link Between Worlds/Lorule Castle #1.mp3"
+  },
+  {
+    "uuid": "f52ff680-e005-4f1a-adbf-2846c9038f43",
+    "creationDate": "2026-03-27T02:06:03.875Z",
+    "game": "The Legend of Zelda: A Link Between Worlds",
+    "song": "Lorule Castle #2",
+    "composers": [
+      "Ryo Nagamatsu"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "file": "The Legend of Zelda A Link Between Worlds/Lorule Castle #2.mmrs",
+    "preview": "The Legend of Zelda A Link Between Worlds/Lorule Castle #2.mp3"
+  },
+  {
+    "uuid": "b0c30892-64fd-4d05-8143-5764664ac895",
+    "creationDate": "2026-03-27T02:06:47.593Z",
+    "game": "The Legend of Zelda: A Link Between Worlds",
+    "song": "Lorule Castle #3",
+    "composers": [
+      "Ryo Nagamatsu"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "file": "The Legend of Zelda A Link Between Worlds/Lorule Castle #3.mmrs",
+    "preview": "The Legend of Zelda A Link Between Worlds/Lorule Castle #3.mp3"
+  },
+  {
+    "uuid": "5da88d4f-3d94-4388-8355-52cc387b1c65",
+    "creationDate": "2026-03-27T02:08:54.591Z",
+    "game": "Hyrule Warriors: Age of Calamity",
+    "song": "Zelda's Lullaby (Ancient Tune)",
+    "composers": [
+      "Kumi Tanioka"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4",
+      "6",
+      "16"
+    ],
+    "file": "Hyrule Warriors Age of Calamity/Zelda's Lullaby (Ancient Tune).mmrs",
+    "preview": "Hyrule Warriors Age of Calamity/Zelda's Lullaby (Ancient Tune).mp3"
+  },
+  {
+    "uuid": "ce64c7e9-1552-4105-b706-1197f6bb9642",
+    "creationDate": "2026-03-27T02:15:49.950Z",
+    "game": "The Legend of Zelda: Breath of the Wild",
+    "song": "Minigame - Parasail",
+    "composers": [
+      "Manaka Kataoka"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "4",
+      "6"
+    ],
+    "file": "The Legend of Zelda Breath of the Wild/Minigame - Parasail.mmrs",
+    "preview": "The Legend of Zelda Breath of the Wild/Minigame - Parasail.mp3"
+  },
+  {
+    "uuid": "61560c4c-06bd-4484-9571-278d7590993e",
+    "creationDate": "2026-03-27T02:19:33.972Z",
+    "game": "Luigi's Mansion 3",
+    "song": "Amadeus Wolfgeist (Phase 1)",
+    "composers": [
+      "Chad York",
+      "Darren Radtke"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "file": "Luigi's Mansion 3/Amadeus Wolfgeist (Phase 1).mmrs",
+    "preview": "Luigi's Mansion 3/Amadeus Wolfgeist (Phase 1).ogg"
+  },
+  {
+    "uuid": "ae696d84-e460-46bc-bcfe-92ca107c1b0c",
+    "creationDate": "2026-03-27T02:22:11.680Z",
+    "game": "Luigi's Mansion 3",
+    "song": "The Great Stage (Distant Piano)",
+    "composers": [
+      "Chad York",
+      "Darren Radtke"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3",
+      "5",
+      "6"
+    ],
+    "file": "Luigi's Mansion 3/The Great Stage (Distant Piano).mmrs",
+    "preview": "Luigi's Mansion 3/The Great Stage (Distant Piano).ogg"
+  },
+  {
+    "uuid": "552e1ac1-8424-4d4e-a019-c09aa599aa78",
+    "creationDate": "2026-03-27T02:25:25.693Z",
+    "game": "Luigi's Mansion 3",
+    "song": "Boilerworks (Ghost Catching 1)",
+    "composers": [
+      "Chad York",
+      "Darren Radtke"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "file": "Luigi's Mansion 3/Boilerworks (Ghost Catching 1).mmrs",
+    "preview": "Luigi's Mansion 3/Boilerworks (Ghost Catching 1).mp3"
+  },
+  {
+    "uuid": "829a1715-05b6-492e-ae34-6f60c185ec93",
+    "creationDate": "2026-03-27T02:27:03.371Z",
+    "game": "Persona 5",
+    "song": "Impromptu for the Next Prime Minister",
+    "composers": [
+      "Shoji Meguro"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "file": "Persona 5/Impromptu for the Next Prime Minister.mmrs",
+    "preview": "Persona 5/Impromptu for the Next Prime Minister.ogg"
+  },
+  {
+    "uuid": "756d167c-4e35-44d4-8c1a-00762ba65575",
+    "creationDate": "2026-03-27T02:29:57.917Z",
+    "game": "The Legend of Zelda: Phantom Hourglass",
+    "song": "Bellum Battle",
+    "composers": [
+      "Kenta Nagata",
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "file": "The Legend of Zelda Phantom Hourglass/Bellum Battle.mmrs",
+    "preview": "The Legend of Zelda Phantom Hourglass/Bellum Battle.ogg"
+  },
+  {
+    "uuid": "921fd16e-ffa2-4569-838e-d5ea2050f3a7",
+    "creationDate": "2026-03-27T02:33:36.787Z",
+    "game": "The Legend of Zelda: Phantom Hourglass",
+    "song": "Enemy Battle",
+    "composers": [
+      "Toru Minegishi",
+      "Kenta Nagata"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "6",
+      "7"
+    ],
+    "file": "The Legend of Zelda Phantom Hourglass/Enemy Battle.mmrs",
+    "preview": "The Legend of Zelda Phantom Hourglass/Enemy Battle.ogg"
+  },
+  {
+    "uuid": "0d863dbd-a07e-4d9b-a86e-b0b1586cd786",
+    "creationDate": "2026-03-27T02:34:42.193Z",
+    "game": "The Legend of Zelda: Phantom Hourglass",
+    "song": "Tetra's Pirates",
+    "composers": [
+      "Kenta Nagata",
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "file": "The Legend of Zelda Phantom Hourglass/Tetra's Pirates.mmrs",
+    "preview": "The Legend of Zelda Phantom Hourglass/Tetra's Pirates.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

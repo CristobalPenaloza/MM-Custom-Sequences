@@ -22734,5 +22734,25 @@
     "file": "Pikmin 2/Boss Battle.mmrs",
     "preview": "Pikmin 2/Boss Battle.ogg"
   },
+  {
+    "uuid": "3d064153-1cc4-487e-8403-43094963c3c3",
+    "creationDate": "2026-03-27T22:41:18.747Z",
+    "game": "Pikmin 2",
+    "song": "Emergence Cave 1",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "6"
+    ],
+    "file": "Pikmin 2/Emergence Cave 1.mmrs",
+    "preview": "Pikmin 2/Emergence Cave 1.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

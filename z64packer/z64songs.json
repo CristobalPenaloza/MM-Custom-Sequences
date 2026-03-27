@@ -22491,5 +22491,29 @@
     "file": "The Legend of Zelda Breath of the Wild/Minigame - Parasail.mmrs",
     "preview": "The Legend of Zelda Breath of the Wild/Minigame - Parasail.mp3"
   },
+  {
+    "uuid": "61560c4c-06bd-4484-9571-278d7590993e",
+    "creationDate": "2026-03-27T02:19:33.972Z",
+    "game": "Luigi's Mansion 3",
+    "song": "Amadeus Wolfgeist (Phase 1)",
+    "composers": [
+      "Chad York",
+      "Darren Radtke"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "file": "Luigi's Mansion 3/Amadeus Wolfgeist (Phase 1).mmrs",
+    "preview": "Luigi's Mansion 3/Amadeus Wolfgeist (Phase 1).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

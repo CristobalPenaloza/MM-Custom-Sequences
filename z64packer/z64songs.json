@@ -22754,5 +22754,25 @@
     "file": "Pikmin 2/Emergence Cave 1.mmrs",
     "preview": "Pikmin 2/Emergence Cave 1.ogg"
   },
+  {
+    "uuid": "028baa1a-86db-4910-99ac-f45fb7ae724a",
+    "creationDate": "2026-03-27T22:49:20.930Z",
+    "game": "Pikmin",
+    "song": "Demo",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4",
+      "6"
+    ],
+    "file": "Pikmin/Demo.mmrs",
+    "preview": "Pikmin/Demo.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

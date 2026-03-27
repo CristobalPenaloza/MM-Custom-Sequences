@@ -22469,5 +22469,27 @@
     "file": "Hyrule Warriors Age of Calamity/Zelda's Lullaby (Ancient Tune).mmrs",
     "preview": "Hyrule Warriors Age of Calamity/Zelda's Lullaby (Ancient Tune).mp3"
   },
+  {
+    "uuid": "ce64c7e9-1552-4105-b706-1197f6bb9642",
+    "creationDate": "2026-03-27T02:15:49.950Z",
+    "game": "The Legend of Zelda: Breath of the Wild",
+    "song": "Minigame - Parasail",
+    "composers": [
+      "Manaka Kataoka"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "4",
+      "6"
+    ],
+    "file": "The Legend of Zelda Breath of the Wild/Minigame - Parasail.mmrs",
+    "preview": "The Legend of Zelda Breath of the Wild/Minigame - Parasail.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

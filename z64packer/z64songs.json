@@ -22920,5 +22920,25 @@
     "file": "Pikmin/The Impact Site (Sunset).mmrs",
     "preview": "Pikmin/The Impact Site (Sunset).ogg"
   },
+  {
+    "uuid": "66cf73f3-6972-41f4-9938-d4a37d000d6f",
+    "creationDate": "2026-03-27T22:57:10.882Z",
+    "game": "Pikmin",
+    "song": "View",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "6"
+    ],
+    "file": "Pikmin/View.mmrs",
+    "preview": "Pikmin/View.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -22538,5 +22538,27 @@
     "file": "Luigi's Mansion 3/The Great Stage (Distant Piano).mmrs",
     "preview": "Luigi's Mansion 3/The Great Stage (Distant Piano).ogg"
   },
+  {
+    "uuid": "552e1ac1-8424-4d4e-a019-c09aa599aa78",
+    "creationDate": "2026-03-27T02:25:25.693Z",
+    "game": "Luigi's Mansion 3",
+    "song": "Boilerworks (Ghost Catching 1)",
+    "composers": [
+      "Chad York",
+      "Darren Radtke"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "file": "Luigi's Mansion 3/Boilerworks (Ghost Catching 1).mmrs",
+    "preview": "Luigi's Mansion 3/Boilerworks (Ghost Catching 1).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

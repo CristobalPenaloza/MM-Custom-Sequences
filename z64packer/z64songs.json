@@ -22311,5 +22311,26 @@
     "file": "Pokémon X & Y/Snowbelle City.mmrs",
     "preview": "Pokémon X & Y/Snowbelle City.ogg"
   },
+  {
+    "uuid": "893a7911-21f0-4da3-8a96-c8eed827f587",
+    "creationDate": "2026-03-27T02:00:19.238Z",
+    "game": "The Legend of Zelda: A Link Between Worlds",
+    "song": "Dark Palace Maze",
+    "composers": [
+      "Ryo Nagamatsu"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "file": "The Legend of Zelda A Link Between Worlds/Dark Palace Maze.mmrs",
+    "preview": "The Legend of Zelda A Link Between Worlds/Dark Palace Maze.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

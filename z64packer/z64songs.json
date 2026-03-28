@@ -23308,5 +23308,26 @@
     "file": "Final Fantasy VIII/Blue Fields.mmrs",
     "preview": "Final Fantasy VIII/Blue Fields.mp3"
   },
+  {
+    "uuid": "fc24bfa7-e71b-4383-a206-b06972e0eef8",
+    "creationDate": "2026-03-28T17:27:30.655Z",
+    "game": "Hey You, Pikachu!",
+    "song": "Title Screen",
+    "composers": [
+      "Miki Obata"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "file": "Hey You, Pikachu!/Title Screen.mmrs",
+    "preview": "Hey You, Pikachu!/Title Screen.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

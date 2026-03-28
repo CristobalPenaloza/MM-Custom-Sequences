@@ -23083,5 +23083,24 @@
     "file": "Racing Lagoon/Bay Lagoon Racing.mmrs",
     "preview": "Racing Lagoon/Bay Lagoon Racing.mp3"
   },
+  {
+    "uuid": "afa7e446-5212-4acc-9e20-05421d15e82a",
+    "creationDate": "2026-03-28T17:18:19.472Z",
+    "game": "F-Zero X",
+    "song": "Retire",
+    "composers": [
+      "Taro Bando",
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9"
+    ],
+    "file": "F-Zero X/Retire.mmrs",
+    "preview": "F-Zero X/Retire.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

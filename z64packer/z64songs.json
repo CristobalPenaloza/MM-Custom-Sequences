@@ -23360,7 +23360,7 @@
     "composers": [
       "Shoji Meguro",
       "Toshiko Tasaki",
-      "and Tsukasa Masuko"
+      "Tsukasa Masuko"
     ],
     "converters": [
       "Indextic"
@@ -23373,7 +23373,8 @@
     ],
     "usesCustomBank": true,
     "file": "Shin Megami Tensei Devil Summoner Soul Hackers/Video Muscle.mmrs",
-    "preview": "Shin Megami Tensei Devil Summoner Soul Hackers/Video Muscle.mp3"
+    "preview": "Shin Megami Tensei Devil Summoner Soul Hackers/Video Muscle.mp3",
+    "lastUpdateDate": "2026-03-28T17:47:45.870Z"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -23434,5 +23434,24 @@
     "file": "Shin Megami Tensei II/Chaos.mmrs",
     "preview": "Shin Megami Tensei II/Chaos.mp3"
   },
+  {
+    "uuid": "83c801bd-4888-41c2-b742-ee66a6e6cfff",
+    "creationDate": "2026-03-28T17:51:48.838Z",
+    "game": "Tetris Attack",
+    "song": "Spell Lifted",
+    "composers": [
+      "Masaya Kuzume"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Tetris Attack/Spell Lifted.mmrs",
+    "preview": "Tetris Attack/Spell Lifted.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

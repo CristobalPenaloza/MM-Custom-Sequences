@@ -22994,7 +22994,9 @@
     ],
     "usesCustomBank": true,
     "file": "Shin Megami Tensei IV/Tokyo.mmrs",
-    "preview": "Shin Megami Tensei IV/Tokyo.mp3"
+    "preview": "Shin Megami Tensei IV/Tokyo.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "eba4d231-bbde-4b44-84a6-b2954d979004",
@@ -23015,7 +23017,9 @@
     ],
     "usesCustomBank": true,
     "file": "Dragon's Dogma Dark Arisen/The Fallen City.mmrs",
-    "preview": "Dragon's Dogma Dark Arisen/The Fallen City.mp3"
+    "preview": "Dragon's Dogma Dark Arisen/The Fallen City.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "5ada6a41-065e-4c0d-b48c-7c816bdd7bd3",
@@ -23038,7 +23042,9 @@
     ],
     "usesCustomBank": true,
     "file": "F-Zero/Port Town.mmrs",
-    "preview": "F-Zero/Port Town.mp3"
+    "preview": "F-Zero/Port Town.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "cec837ac-6376-45f1-b826-b406df5874d7",
@@ -23060,7 +23066,9 @@
     ],
     "usesCustomBank": true,
     "file": "F-Zero X/Crazy Call at Cry.mmrs",
-    "preview": "F-Zero X/Crazy Call at Cry.mp3"
+    "preview": "F-Zero X/Crazy Call at Cry.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "131deb61-fd96-4ea6-8f0e-b5b38b719ba4",
@@ -23081,7 +23089,9 @@
     ],
     "usesCustomBank": true,
     "file": "Racing Lagoon/Bay Lagoon Racing.mmrs",
-    "preview": "Racing Lagoon/Bay Lagoon Racing.mp3"
+    "preview": "Racing Lagoon/Bay Lagoon Racing.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "afa7e446-5212-4acc-9e20-05421d15e82a",
@@ -23100,7 +23110,10 @@
       "9"
     ],
     "file": "F-Zero X/Retire.mmrs",
-    "preview": "F-Zero X/Retire.mp3"
+    "preview": "F-Zero X/Retire.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "e5729b24-7e36-4935-86a9-899b2c25d848",
@@ -23122,7 +23135,9 @@
     ],
     "usesCustomBank": true,
     "file": "Jack Bros/Mecha Fortress.mmrs",
-    "preview": "Jack Bros/Mecha Fortress.mp3"
+    "preview": "Jack Bros/Mecha Fortress.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "1ce2aa4d-b292-4e20-8a25-0d704e973aa2",
@@ -23143,7 +23158,10 @@
       "16"
     ],
     "file": "Final Fantasy IV/Prologue.mmrs",
-    "preview": "Final Fantasy IV/Prologue.mp3"
+    "preview": "Final Fantasy IV/Prologue.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "007ad274-5872-41fc-8bf0-1083865ff037",
@@ -23165,7 +23183,10 @@
       "2"
     ],
     "file": "Pokémon Gold, Silver & Crystal/Dark Cave (Variant A).mmrs",
-    "preview": "Pokémon Gold, Silver & Crystal/Dark Cave (Variant A).mp3"
+    "preview": "Pokémon Gold, Silver & Crystal/Dark Cave (Variant A).mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "02cd43de-57c1-4307-8b42-598fd5b9d084",
@@ -23185,7 +23206,10 @@
       "4"
     ],
     "file": "Shin Megami Tensei II /Gym.mmrs",
-    "preview": "Shin Megami Tensei II /Gym.mp3"
+    "preview": "Shin Megami Tensei II /Gym.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "597e635b-b083-49a3-893c-f26fcae9ddce",
@@ -23204,7 +23228,10 @@
       "6"
     ],
     "file": "Demon's Souls/Maiden in Black.mmrs",
-    "preview": "Demon's Souls/Maiden in Black.mp3"
+    "preview": "Demon's Souls/Maiden in Black.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "162a2411-215c-481b-a5b8-3c68e21cd285",
@@ -23222,7 +23249,10 @@
       "16E"
     ],
     "file": "Xenogears/Faraway Promise.mmrs",
-    "preview": "Xenogears/Faraway Promise.mp3"
+    "preview": "Xenogears/Faraway Promise.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "c50391ba-398f-4a85-a6f3-59aeaad5580b",
@@ -23243,7 +23273,9 @@
     ],
     "usesCustomBank": true,
     "file": "Tetris Attack/Water Stage.mmrs",
-    "preview": "Tetris Attack/Water Stage.mp3"
+    "preview": "Tetris Attack/Water Stage.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "e3d29678-7a20-4114-8da1-0f69dd192d41",
@@ -23265,7 +23297,9 @@
     ],
     "usesCustomBank": true,
     "file": "Tetris Attack/Lunar Stage.mmrs",
-    "preview": "Tetris Attack/Lunar Stage.mp3"
+    "preview": "Tetris Attack/Lunar Stage.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "572a0eeb-f690-48d6-91c8-aa02118001f0",
@@ -23286,7 +23320,9 @@
     ],
     "usesCustomBank": true,
     "file": "Racing Lagoon/Base Point.mmrs",
-    "preview": "Racing Lagoon/Base Point.mp3"
+    "preview": "Racing Lagoon/Base Point.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "24b69b92-9845-4509-821b-38bce8c92547",
@@ -23306,7 +23342,9 @@
     ],
     "usesCustomBank": true,
     "file": "Final Fantasy VIII/Blue Fields.mmrs",
-    "preview": "Final Fantasy VIII/Blue Fields.mp3"
+    "preview": "Final Fantasy VIII/Blue Fields.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "fc24bfa7-e71b-4383-a206-b06972e0eef8",
@@ -23327,7 +23365,9 @@
     ],
     "usesCustomBank": true,
     "file": "Hey You, Pikachu!/Title Screen.mmrs",
-    "preview": "Hey You, Pikachu!/Title Screen.mp3"
+    "preview": "Hey You, Pikachu!/Title Screen.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "1cb972e6-a020-427e-9f3a-a3720bad0a41",
@@ -23350,7 +23390,9 @@
     ],
     "usesCustomBank": true,
     "file": "Shin Megami Tensei Devil Summoner Soul Hackers/Spookies.mmrs",
-    "preview": "Shin Megami Tensei Devil Summoner Soul Hackers/Spookies.mp3"
+    "preview": "Shin Megami Tensei Devil Summoner Soul Hackers/Spookies.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "bf070c1c-e6c1-413a-9a58-ee728a6913fe",
@@ -23374,7 +23416,9 @@
     "usesCustomBank": true,
     "file": "Shin Megami Tensei Devil Summoner Soul Hackers/Video Muscle.mmrs",
     "preview": "Shin Megami Tensei Devil Summoner Soul Hackers/Video Muscle.mp3",
-    "lastUpdateDate": "2026-03-28T17:47:45.870Z"
+    "lastUpdateDate": "2026-03-28T17:47:45.870Z",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "361b9151-240c-4c7c-9712-046c98198a58",
@@ -23393,7 +23437,10 @@
       "3"
     ],
     "file": "Xenogears/Valley Where Wind is Born.mmrs",
-    "preview": "Xenogears/Valley Where Wind is Born.mp3"
+    "preview": "Xenogears/Valley Where Wind is Born.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "455dab8a-86df-41de-9cd7-c1365bcf1001",
@@ -23412,7 +23459,10 @@
       "4"
     ],
     "file": "Final Fantasy VI/Spinach Rag.mmrs",
-    "preview": "Final Fantasy VI/Spinach Rag.mp3"
+    "preview": "Final Fantasy VI/Spinach Rag.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "fac03098-dd60-4fba-86b1-9a6c5cab5afc",
@@ -23432,7 +23482,10 @@
       "6"
     ],
     "file": "Shin Megami Tensei II/Chaos.mmrs",
-    "preview": "Shin Megami Tensei II/Chaos.mp3"
+    "preview": "Shin Megami Tensei II/Chaos.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "83c801bd-4888-41c2-b742-ee66a6e6cfff",
@@ -23451,7 +23504,10 @@
       "9"
     ],
     "file": "Tetris Attack/Spell Lifted.mmrs",
-    "preview": "Tetris Attack/Spell Lifted.mp3"
+    "preview": "Tetris Attack/Spell Lifted.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "eca6a722-a6bb-48d6-9023-4b206818b8fc",
@@ -23472,7 +23528,9 @@
     ],
     "usesCustomBank": true,
     "file": "Shin Megami Tensei IV/Battle A1 (Naraku Battle Theme).mmrs",
-    "preview": "Shin Megami Tensei IV/Battle A1 (Naraku Battle Theme).mp3"
+    "preview": "Shin Megami Tensei IV/Battle A1 (Naraku Battle Theme).mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "31edd1d9-391d-4090-a3c9-9fc9eec6ce77",
@@ -23495,7 +23553,9 @@
     ],
     "usesCustomBank": true,
     "file": "Celeste/Mirror Temple (B Side).mmrs",
-    "preview": "Celeste/Mirror Temple (B Side).mp3"
+    "preview": "Celeste/Mirror Temple (B Side).mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

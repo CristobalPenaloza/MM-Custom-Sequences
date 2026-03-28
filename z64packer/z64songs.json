@@ -23145,5 +23145,27 @@
     "file": "Final Fantasy IV/Prologue.mmrs",
     "preview": "Final Fantasy IV/Prologue.mp3"
   },
+  {
+    "uuid": "007ad274-5872-41fc-8bf0-1083865ff037",
+    "creationDate": "2026-03-28T17:20:38.764Z",
+    "game": "Pokémon Gold, Silver & Crystal",
+    "song": "Dark Cave (Variant A)",
+    "composers": [
+      "Go Ichinose",
+      "Junichi Masuda",
+      "Morikazu Aoki"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "file": "Pokémon Gold, Silver & Crystal/Dark Cave (Variant A).mmrs",
+    "preview": "Pokémon Gold, Silver & Crystal/Dark Cave (Variant A).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

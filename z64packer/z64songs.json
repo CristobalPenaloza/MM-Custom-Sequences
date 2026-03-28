@@ -23224,5 +23224,26 @@
     "file": "Xenogears/Faraway Promise.mmrs",
     "preview": "Xenogears/Faraway Promise.mp3"
   },
+  {
+    "uuid": "c50391ba-398f-4a85-a6f3-59aeaad5580b",
+    "creationDate": "2026-03-28T17:23:45.705Z",
+    "game": "Tetris Attack",
+    "song": "Water Stage",
+    "composers": [
+      "Masaya Kuzume"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "file": "Tetris Attack/Water Stage.mmrs",
+    "preview": "Tetris Attack/Water Stage.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

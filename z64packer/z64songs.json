@@ -23618,5 +23618,27 @@
     "file": "The Legend of Zelda Majora's Mask/Clock Town, First Day (Unused Version).mmrs",
     "preview": "The Legend of Zelda Majora's Mask/Clock Town, First Day (Unused Version).mp3"
   },
+  {
+    "uuid": "d17c6335-f1ec-45f7-a688-5e739484b6f7",
+    "creationDate": "2026-03-29T01:49:44.065Z",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "song": "Clock Town, Second Day (Unused Version)",
+    "composers": [
+      "SiivaGunner"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "notes": "Joke is Shiveria Town from Super Mario Odyssey.",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4",
+      "6"
+    ],
+    "file": "The Legend of Zelda Majora's Mask/Clock Town, Second Day (Unused Version).mmrs",
+    "preview": "The Legend of Zelda Majora's Mask/Clock Town, Second Day (Unused Version).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

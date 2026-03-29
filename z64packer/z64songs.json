@@ -23726,5 +23726,26 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "uuid": "06e72522-49c1-41f7-b2b6-82d3b9b1c38f",
+    "creationDate": "2026-03-29T16:40:12.442Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Potion Shop (Hood Mix)",
+    "composers": [
+      "SiivaGunner"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "notes": "Joke is \"Where The Hood At\" by DMX",
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4",
+      "6"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Potion Shop (Hood Mix).mmrs",
+    "preview": "The Legend of Zelda Ocarina of Time/Potion Shop (Hood Mix).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

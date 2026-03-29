@@ -23557,5 +23557,24 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "uuid": "98695de8-c38f-40c2-b11f-e6213444e395",
+    "creationDate": "2026-03-29T01:15:23.195Z",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "song": "Horse Race (US Mix)",
+    "composers": [
+      "Siivagunner"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "6"
+    ],
+    "file": "The Legend of Zelda Majora's Mask/Horse Race (US Mix).mmrs",
+    "preview": "The Legend of Zelda Majora's Mask/Horse Race (US Mix).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

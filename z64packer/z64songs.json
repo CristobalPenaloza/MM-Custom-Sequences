@@ -23726,5 +23726,89 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "uuid": "06e72522-49c1-41f7-b2b6-82d3b9b1c38f",
+    "creationDate": "2026-03-29T16:40:12.442Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Potion Shop (Hood Mix)",
+    "composers": [
+      "SiivaGunner"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "notes": "Joke is \"Where The Hood At\" by DMX",
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4",
+      "6"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Potion Shop (Hood Mix).mmrs",
+    "preview": "The Legend of Zelda Ocarina of Time/Potion Shop (Hood Mix).ogg"
+  },
+  {
+    "uuid": "8ce89e18-caf0-4d91-b344-3c4ee894466b",
+    "creationDate": "2026-03-29T16:45:38.600Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Princess Zelda (Winter)",
+    "composers": [
+      "SiivaGunner"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "notes": "Joke is \"Snowman\" from Mother/Earthbound series.",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "4",
+      "6"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Princess Zelda (Winter).mmrs",
+    "preview": "The Legend of Zelda Ocarina of Time/Princess Zelda (Winter).ogg"
+  },
+  {
+    "uuid": "5ee49926-71b5-4c0d-bd28-24dc4dd456cc",
+    "creationDate": "2026-03-29T17:06:14.963Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Shop (Virtual Console Version)",
+    "composers": [
+      "SiivaGunner"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "notes": "In what you're gonna spend your Rupee Shop Points?",
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4",
+      "6"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Shop (Virtual Console Version).mmrs",
+    "preview": "The Legend of Zelda Ocarina of Time/Shop (Virtual Console Version).ogg"
+  },
+  {
+    "uuid": "aed6c37f-4341-479b-abab-a6db9ec93ccc",
+    "creationDate": "2026-03-29T17:13:01.743Z",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "song": "pǝʇɹǝʌuI ǝldɯǝ⊥ ɹǝʍo⊥ ǝuoʇS",
+    "composers": [
+      "SiivaGunner"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "notes": "It's actually inverted!",
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "file": "The Legend of Zelda Majora's Mask/pǝʇɹǝʌuI ǝldɯǝ⊥ ɹǝʍo⊥ ǝuoʇS.mmrs",
+    "preview": "The Legend of Zelda Majora's Mask/pǝʇɹǝʌuI ǝldɯǝ⊥ ɹǝʍo⊥ ǝuoʇS.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

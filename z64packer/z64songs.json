@@ -23745,7 +23745,10 @@
       "6"
     ],
     "file": "The Legend of Zelda Ocarina of Time/Potion Shop (Hood Mix).mmrs",
-    "preview": "The Legend of Zelda Ocarina of Time/Potion Shop (Hood Mix).ogg"
+    "preview": "The Legend of Zelda Ocarina of Time/Potion Shop (Hood Mix).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "8ce89e18-caf0-4d91-b344-3c4ee894466b",
@@ -23768,7 +23771,10 @@
       "6"
     ],
     "file": "The Legend of Zelda Ocarina of Time/Princess Zelda (Winter).mmrs",
-    "preview": "The Legend of Zelda Ocarina of Time/Princess Zelda (Winter).ogg"
+    "preview": "The Legend of Zelda Ocarina of Time/Princess Zelda (Winter).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "5ee49926-71b5-4c0d-bd28-24dc4dd456cc",
@@ -23789,7 +23795,10 @@
       "6"
     ],
     "file": "The Legend of Zelda Ocarina of Time/Shop (Virtual Console Version).mmrs",
-    "preview": "The Legend of Zelda Ocarina of Time/Shop (Virtual Console Version).ogg"
+    "preview": "The Legend of Zelda Ocarina of Time/Shop (Virtual Console Version).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "aed6c37f-4341-479b-abab-a6db9ec93ccc",
@@ -23808,7 +23817,10 @@
       "2"
     ],
     "file": "The Legend of Zelda Majora's Mask/pǝʇɹǝʌuI ǝldɯǝ⊥ ɹǝʍo⊥ ǝuoʇS.mmrs",
-    "preview": "The Legend of Zelda Majora's Mask/pǝʇɹǝʌuI ǝldɯǝ⊥ ɹǝʍo⊥ ǝuoʇS.mp3"
+    "preview": "The Legend of Zelda Majora's Mask/pǝʇɹǝʌuI ǝldɯǝ⊥ ɹǝʍo⊥ ǝuoʇS.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

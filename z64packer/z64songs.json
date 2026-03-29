@@ -23917,5 +23917,29 @@
     "file": "The Legend of Zelda Spirit Tracks/Papuchia Village.mmrs",
     "preview": "The Legend of Zelda Spirit Tracks/Papuchia Village.ogg"
   },
+  {
+    "uuid": "c2e48b8a-af17-475d-a7ff-30328c7d52a9",
+    "creationDate": "2026-03-29T19:15:49.019Z",
+    "game": "The Legend of Zelda: Spirit Tracks",
+    "song": "Tower of Spirits (Staircase)",
+    "composers": [
+      "Toru Minegishi",
+      "Manaka Tominaga",
+      "Asuka Ohta"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "file": "The Legend of Zelda Spirit Tracks/Tower of Spirits (Staircase).mmrs",
+    "preview": "The Legend of Zelda Spirit Tracks/Tower of Spirits (Staircase).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

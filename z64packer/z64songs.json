@@ -23985,5 +23985,27 @@
     "file": "Super Mario Sunshine/Gelato Beach.mmrs",
     "preview": "Super Mario Sunshine/Gelato Beach.mp3"
   },
+  {
+    "uuid": "e4b401af-b1ba-4035-ae99-e9b2e2e14f07",
+    "creationDate": "2026-03-29T19:18:38.657Z",
+    "game": "The Legend of Zelda: The Missing Link",
+    "song": "Deku Road",
+    "composers": [
+      "Badub"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "4",
+      "6"
+    ],
+    "file": "The Legend of Zelda The Missing Link/Deku Road.mmrs",
+    "preview": "The Legend of Zelda The Missing Link/Deku Road.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

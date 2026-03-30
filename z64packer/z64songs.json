@@ -24319,5 +24319,29 @@
     "file": "Super Mario Bros. Wonder/Piranha Plants On Parade (Vocal Mix).mmrs",
     "preview": "Super Mario Bros. Wonder/Piranha Plants On Parade (Vocal Mix).mp3"
   },
+  {
+    "uuid": "2793a086-d634-49a6-9624-25db9f6f26e9",
+    "creationDate": "2026-03-30T02:34:47.402Z",
+    "game": "Super Mario Sunshine",
+    "song": "Ricco Harbor",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "LoadingError"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Super Mario Sunshine/Ricco Harbor.mmrs",
+    "preview": "Super Mario Sunshine/Ricco Harbor.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

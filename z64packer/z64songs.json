@@ -24293,5 +24293,31 @@
     "file": "Super Mario Bros. Wonder/Piranha Plants On Parade.mmrs",
     "preview": "Super Mario Bros. Wonder/Piranha Plants On Parade.mp3"
   },
+  {
+    "uuid": "fde09b57-dc9e-4898-a8cb-2531f9882bbc",
+    "creationDate": "2026-03-30T02:33:31.921Z",
+    "game": "Super Mario Bros. Wonder",
+    "song": "Piranha Plants On Parade (Vocal Mix)",
+    "composers": [
+      "Koji Kondo",
+      "Shiho Fujii",
+      "Sayako Doi",
+      "Chisaki Shimazu"
+    ],
+    "converters": [
+      "LoadingError"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Super Mario Bros. Wonder/Piranha Plants On Parade (Vocal Mix).mmrs",
+    "preview": "Super Mario Bros. Wonder/Piranha Plants On Parade (Vocal Mix).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -24136,5 +24136,28 @@
     "uuid": "6e938266-3f03-41ee-b548-ccf39e4f36e8",
     "file": "Shin Megami Tensei II/Gym.mmrs"
   },
+  {
+    "uuid": "4e66e3df-8835-4bc8-af8c-40ab912b9050",
+    "creationDate": "2026-03-30T02:22:42.245Z",
+    "game": "Deltarune",
+    "song": "THE WORLD REVOLVING",
+    "composers": [
+      "Toby Fox"
+    ],
+    "converters": [
+      "LoadingError"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "Deltarune/THE WORLD REVOLVING.mmrs",
+    "preview": "Deltarune/THE WORLD REVOLVING.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

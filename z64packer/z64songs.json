@@ -24203,5 +24203,25 @@
     "file": "LoadingError/Skyloft Ruins.mmrs",
     "preview": "LoadingError/Skyloft Ruins.mp3"
   },
+  {
+    "uuid": "df3d0a52-ec16-4467-b632-4ba0f2361b7d",
+    "creationDate": "2026-03-30T02:26:42.511Z",
+    "game": "LoadingError",
+    "song": "Sundrop Valley",
+    "composers": [
+      "LoadingError"
+    ],
+    "converters": [
+      "LoadingError"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4"
+    ],
+    "file": "LoadingError/Sundrop Valley.mmrs",
+    "preview": "LoadingError/Sundrop Valley.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

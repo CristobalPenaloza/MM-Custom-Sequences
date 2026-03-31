@@ -24585,5 +24585,27 @@
     "file": "The Legend of Zelda Twilight Princess/Game Over.mmrs",
     "preview": "The Legend of Zelda Twilight Princess/Game Over.mp3"
   },
+  {
+    "uuid": "aaeca9ca-1663-4eb7-a184-d480e7b8dafe",
+    "creationDate": "2026-03-31T01:06:28.366Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Palace of Twilight",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "LoadingError"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "The Legend of Zelda Twilight Princess/Palace of Twilight.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Palace of Twilight.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

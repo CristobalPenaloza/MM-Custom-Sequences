@@ -24406,5 +24406,26 @@
     "file": "The Legend of Zelda Link's Awakening (2019)/Mabe Village.mmrs",
     "preview": "The Legend of Zelda Link's Awakening (2019)/Mabe Village.mp3"
   },
+  {
+    "uuid": "e627841a-46cf-49fc-ab5e-5adab5f0a4ed",
+    "creationDate": "2026-03-31T00:34:56.633Z",
+    "game": "The Legend of Zelda: The Minish Cap",
+    "song": "Climbing a Beanstalk",
+    "composers": [
+      "Mitsuhiko Takano"
+    ],
+    "converters": [
+      "LoadingError"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "The Legend of Zelda The Minish Cap/Climbing a Beanstalk.mmrs",
+    "preview": "The Legend of Zelda The Minish Cap/Climbing a Beanstalk.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

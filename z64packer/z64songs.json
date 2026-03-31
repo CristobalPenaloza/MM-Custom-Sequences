@@ -25088,5 +25088,26 @@
     "file": "Banjo-Tooie/Witchyworld.mmrs",
     "preview": "Banjo-Tooie/Witchyworld.ogg"
   },
+  {
+    "uuid": "557bdd64-bd57-419e-85a4-d42df964731f",
+    "creationDate": "2026-03-31T03:06:57.908Z",
+    "game": "Castlevania II: Simon's Quest",
+    "song": "The Silence of the Daylight",
+    "composers": [
+      "Kenichi Matsubara"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157"
+    ],
+    "file": "Castlevania II Simon's Quest/The Silence of the Daylight.mmrs",
+    "preview": "Castlevania II Simon's Quest/The Silence of the Daylight.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

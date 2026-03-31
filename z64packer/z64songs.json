@@ -24922,5 +24922,25 @@
     "file": "A Hat in Time/Death Wish.mmrs",
     "preview": "A Hat in Time/Death Wish.ogg"
   },
+  {
+    "uuid": "091aabf8-a7b1-4ee7-a4c8-b876af014199",
+    "creationDate": "2026-03-31T02:50:09.895Z",
+    "game": "Banjo-Kazooie",
+    "song": "Click Clock Wood (Spring) (Variant B)",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "file": "Banjo-Kazooie/Click Clock Wood (Spring) (Variant B).mmrs",
+    "preview": "Banjo-Kazooie/Click Clock Wood (Spring) (Variant B).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

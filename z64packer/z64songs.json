@@ -24878,7 +24878,10 @@
       "157"
     ],
     "file": "A Hat in Time/A City Of Calcite And Adventure (Beta).mmrs",
-    "preview": "A Hat in Time/A City Of Calcite And Adventure (Beta).ogg"
+    "preview": "A Hat in Time/A City Of Calcite And Adventure (Beta).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "c97e96d2-e0c3-4787-9610-b8fab47f0d77",
@@ -24898,7 +24901,10 @@
       "16"
     ],
     "file": "A Hat in Time/Clocktowers Beneath the Sea.mmrs",
-    "preview": "A Hat in Time/Clocktowers Beneath the Sea.ogg"
+    "preview": "A Hat in Time/Clocktowers Beneath the Sea.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "c2eff825-67e3-495d-9cc3-f14a0f4c6149",
@@ -24920,7 +24926,10 @@
       "157"
     ],
     "file": "A Hat in Time/Death Wish.mmrs",
-    "preview": "A Hat in Time/Death Wish.ogg"
+    "preview": "A Hat in Time/Death Wish.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "091aabf8-a7b1-4ee7-a4c8-b876af014199",
@@ -24940,7 +24949,10 @@
       "2"
     ],
     "file": "Banjo-Kazooie/Click Clock Wood (Spring) (Variant B).mmrs",
-    "preview": "Banjo-Kazooie/Click Clock Wood (Spring) (Variant B).ogg"
+    "preview": "Banjo-Kazooie/Click Clock Wood (Spring) (Variant B).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "1babf596-628d-4b05-b019-609b04315d61",
@@ -24961,7 +24973,10 @@
       "157"
     ],
     "file": "Banjo-Kazooie/Freezeezy Peak (Variant B).mmrs",
-    "preview": "Banjo-Kazooie/Freezeezy Peak (Variant B).ogg"
+    "preview": "Banjo-Kazooie/Freezeezy Peak (Variant B).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "2d17983d-42f0-46f0-b5f6-8710be268d0c",
@@ -24981,7 +24996,10 @@
       "2"
     ],
     "file": "Banjo-Kazooie/Rusty Bucket Bay (Variant B).mmrs",
-    "preview": "Banjo-Kazooie/Rusty Bucket Bay (Variant B).ogg"
+    "preview": "Banjo-Kazooie/Rusty Bucket Bay (Variant B).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "8134dc83-ec29-4937-8110-e0a30d424e3a",
@@ -25002,7 +25020,10 @@
       "157"
     ],
     "file": "Bomberman 64/Green Garden (Variant A).mmrs",
-    "preview": "Bomberman 64/Green Garden (Variant A).mp3"
+    "preview": "Bomberman 64/Green Garden (Variant A).mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "12074139-f6b5-4ee8-8069-80b7c4dd80f6",
@@ -25022,7 +25043,10 @@
       "2"
     ],
     "file": "Bomberman 64/Green Garden (Variant B).mmrs",
-    "preview": "Bomberman 64/Green Garden (Variant B).ogg"
+    "preview": "Bomberman 64/Green Garden (Variant B).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "46c1d4ad-29f4-4449-965d-2ea4db52e275",
@@ -25043,7 +25067,10 @@
       "157"
     ],
     "file": "Banjo-Tooie/Atlantis.mmrs",
-    "preview": "Banjo-Tooie/Atlantis.mp3"
+    "preview": "Banjo-Tooie/Atlantis.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "ae14e217-07b0-4645-880e-3a508dd45443",
@@ -25066,7 +25093,9 @@
     ],
     "usesCustomBank": true,
     "file": "Banjo-Tooie/Glitter Gulch Mine.mmrs",
-    "preview": "Banjo-Tooie/Glitter Gulch Mine.ogg"
+    "preview": "Banjo-Tooie/Glitter Gulch Mine.ogg",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "972a5cb9-79d3-4a2c-9da3-fde765ba2f3b",
@@ -25086,7 +25115,10 @@
       "16"
     ],
     "file": "Banjo-Tooie/Witchyworld.mmrs",
-    "preview": "Banjo-Tooie/Witchyworld.ogg"
+    "preview": "Banjo-Tooie/Witchyworld.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "557bdd64-bd57-419e-85a4-d42df964731f",
@@ -25107,7 +25139,10 @@
       "157"
     ],
     "file": "Castlevania II Simon's Quest/The Silence of the Daylight.mmrs",
-    "preview": "Castlevania II Simon's Quest/The Silence of the Daylight.ogg"
+    "preview": "Castlevania II Simon's Quest/The Silence of the Daylight.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "7b68d24b-893f-4875-aa7c-62f1f74cd2c5",
@@ -25134,7 +25169,10 @@
       "176"
     ],
     "file": "Castlevania III Dracula's Curse/Mad Forest.mmrs",
-    "preview": "Castlevania III Dracula's Curse/Mad Forest.mp3"
+    "preview": "Castlevania III Dracula's Curse/Mad Forest.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "f3457406-3b4e-4529-832d-c4ccdac5408d",
@@ -25157,7 +25195,10 @@
       "157"
     ],
     "file": "Castlevania Lament of Innocence/Lament of Innocence ~Leon's Theme~ (Variant B).mmrs",
-    "preview": "Castlevania Lament of Innocence/Lament of Innocence ~Leon's Theme~ (Variant B).ogg"
+    "preview": "Castlevania Lament of Innocence/Lament of Innocence ~Leon's Theme~ (Variant B).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

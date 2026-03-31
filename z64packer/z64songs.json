@@ -24942,5 +24942,26 @@
     "file": "Banjo-Kazooie/Click Clock Wood (Spring) (Variant B).mmrs",
     "preview": "Banjo-Kazooie/Click Clock Wood (Spring) (Variant B).ogg"
   },
+  {
+    "uuid": "1babf596-628d-4b05-b019-609b04315d61",
+    "creationDate": "2026-03-31T02:51:40.474Z",
+    "game": "Banjo-Kazooie",
+    "song": "Freezeezy Peak (Variant B)",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157"
+    ],
+    "file": "Banjo-Kazooie/Freezeezy Peak (Variant B).mmrs",
+    "preview": "Banjo-Kazooie/Freezeezy Peak (Variant B).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

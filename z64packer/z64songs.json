@@ -24607,5 +24607,26 @@
     "file": "The Legend of Zelda Twilight Princess/Palace of Twilight.mmrs",
     "preview": "The Legend of Zelda Twilight Princess/Palace of Twilight.mp3"
   },
+  {
+    "uuid": "7220ab37-27fc-4e7a-a367-6ea62a534bff",
+    "creationDate": "2026-03-31T01:07:57.375Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Hyrule Field (Beta)",
+    "composers": [
+      "Unknown"
+    ],
+    "converters": [
+      "LoadingError"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4",
+      "5"
+    ],
+    "file": "The Legend of Zelda Twilight Princess/Hyrule Field (Beta).mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Hyrule Field (Beta).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

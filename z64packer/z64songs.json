@@ -24983,5 +24983,26 @@
     "file": "Banjo-Kazooie/Rusty Bucket Bay (Variant B).mmrs",
     "preview": "Banjo-Kazooie/Rusty Bucket Bay (Variant B).ogg"
   },
+  {
+    "uuid": "8134dc83-ec29-4937-8110-e0a30d424e3a",
+    "creationDate": "2026-03-31T02:55:16.441Z",
+    "game": "Bomberman 64",
+    "song": "Green Garden (Variant A)",
+    "composers": [
+      "Akifumi Tada"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157"
+    ],
+    "file": "Bomberman 64/Green Garden (Variant A).mmrs",
+    "preview": "Bomberman 64/Green Garden (Variant A).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

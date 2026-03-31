@@ -24836,5 +24836,25 @@
     "file": "Doom II/The Demon's Dead (Arr. Master of Time).mmrs",
     "preview": "https://www.youtube.com/watch?v=TOjJ1Hysnx8"
   },
+  {
+    "uuid": "dd7b2875-52da-45ce-ab03-57e1b2489a01",
+    "creationDate": "2026-03-31T01:57:24.887Z",
+    "game": "The Settlers II",
+    "song": "Track 04 (Arr. Master of Time)",
+    "composers": [
+      "Haiko Ruttmann"
+    ],
+    "converters": [
+      "doncamilo"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "4",
+      "5"
+    ],
+    "file": "The Settlers II/Track 04 (Arr. Master of Time).mmrs",
+    "preview": "https://www.youtube.com/watch?v=qF-fKd9Da1M"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

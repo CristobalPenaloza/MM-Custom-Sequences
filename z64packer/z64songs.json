@@ -24747,5 +24747,29 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "uuid": "5f62c274-edfa-43c0-a97d-7c02888f92d7",
+    "creationDate": "2026-03-31T01:47:05.598Z",
+    "game": "The Legend of Zelda: Link's Awakening",
+    "song": "Tal Tal Heights (MoT Remix)",
+    "composers": [
+      "Kozue Ishikawa",
+      "Minako Hamano",
+      "Kazumi Totaka"
+    ],
+    "converters": [
+      "doncamilo",
+      "LoadingError"
+    ],
+    "notes": "Used in Master of Time as \"Abello Field\"",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "5"
+    ],
+    "file": "The Legend of Zelda Link's Awakening/Tal Tal Heights (MoT Remix).mmrs",
+    "preview": "https://www.youtube.com/watch?v=IMmsW8QQxyk"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

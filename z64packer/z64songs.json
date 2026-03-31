@@ -24565,5 +24565,25 @@
     "file": "The Legend of Zelda Skyward Sword/Fire Sanctuary.mmrs",
     "preview": "The Legend of Zelda Skyward Sword/Fire Sanctuary.mp3"
   },
+  {
+    "uuid": "ff2f245a-7300-40b5-b222-4f7bc463fa8f",
+    "creationDate": "2026-03-31T01:04:36.707Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Game Over",
+    "composers": [
+      "Asuka Ota"
+    ],
+    "converters": [
+      "LoadingError"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": true,
+    "file": "The Legend of Zelda Twilight Princess/Game Over.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Game Over.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

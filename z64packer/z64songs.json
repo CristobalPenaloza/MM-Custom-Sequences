@@ -24900,5 +24900,27 @@
     "file": "A Hat in Time/Clocktowers Beneath the Sea.mmrs",
     "preview": "A Hat in Time/Clocktowers Beneath the Sea.ogg"
   },
+  {
+    "uuid": "c2eff825-67e3-495d-9cc3-f14a0f4c6149",
+    "creationDate": "2026-03-31T02:48:44.889Z",
+    "game": "A Hat in Time",
+    "song": "Death Wish",
+    "composers": [
+      "Pascal Michael Stiefel"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "7",
+      "157"
+    ],
+    "file": "A Hat in Time/Death Wish.mmrs",
+    "preview": "A Hat in Time/Death Wish.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

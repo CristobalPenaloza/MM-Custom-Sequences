@@ -25068,5 +25068,25 @@
     "file": "Banjo-Tooie/Glitter Gulch Mine.mmrs",
     "preview": "Banjo-Tooie/Glitter Gulch Mine.ogg"
   },
+  {
+    "uuid": "972a5cb9-79d3-4a2c-9da3-fde765ba2f3b",
+    "creationDate": "2026-03-31T03:04:37.274Z",
+    "game": "Banjo-Tooie",
+    "song": "Witchyworld",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "16"
+    ],
+    "file": "Banjo-Tooie/Witchyworld.mmrs",
+    "preview": "Banjo-Tooie/Witchyworld.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

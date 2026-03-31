@@ -25109,5 +25109,32 @@
     "file": "Castlevania II Simon's Quest/The Silence of the Daylight.mmrs",
     "preview": "Castlevania II Simon's Quest/The Silence of the Daylight.ogg"
   },
+  {
+    "uuid": "7b68d24b-893f-4875-aa7c-62f1f74cd2c5",
+    "creationDate": "2026-03-31T03:17:07.877Z",
+    "game": "Castlevania III: Dracula's Curse",
+    "song": "Mad Forest",
+    "composers": [
+      "Hidenori Maezawa",
+      "Jun Funahashi",
+      "Yukie Morimoto",
+      "Yoshinori Sasaki"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "7",
+      "118",
+      "157",
+      "176"
+    ],
+    "file": "Castlevania III Dracula's Curse/Mad Forest.mmrs",
+    "preview": "Castlevania III Dracula's Curse/Mad Forest.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

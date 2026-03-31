@@ -24473,5 +24473,27 @@
     "file": "The Legend of Zelda The Minish Cap/Minish Woods.mmrs",
     "preview": "The Legend of Zelda The Minish Cap/Minish Woods.mp3"
   },
+  {
+    "uuid": "4237cdf1-2bb9-4eb8-a355-4a4577d57889",
+    "creationDate": "2026-03-31T00:43:34.612Z",
+    "game": "The Legend of Zelda: The Minish Cap",
+    "song": "Mt. Crenel",
+    "composers": [
+      "Mitsuhiko Takano"
+    ],
+    "converters": [
+      "LoadingError"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4",
+      "12E",
+      "10F"
+    ],
+    "file": "The Legend of Zelda The Minish Cap/Mt. Crenel.mmrs",
+    "preview": "The Legend of Zelda The Minish Cap/Mt. Crenel.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

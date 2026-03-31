@@ -24669,5 +24669,27 @@
     "file": "The Legend of Zelda The Wind Waker/Mini-Boss.mmrs",
     "preview": "The Legend of Zelda The Wind Waker/Mini-Boss.mp3"
   },
+  {
+    "uuid": "eb4d09d9-4f2d-4a4c-acab-f9b28f434d39",
+    "creationDate": "2026-03-31T01:12:23.949Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Hyrule Castle",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "LoadingError"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "The Legend of Zelda The Wind Waker/Hyrule Castle.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Hyrule Castle.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

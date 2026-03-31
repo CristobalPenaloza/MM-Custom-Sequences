@@ -24859,5 +24859,305 @@
     "uuid": "2aefcb41-b58c-4086-9b08-3786a47b0351",
     "file": "The Legend of Zelda The Wind Waker/Mini-Boss (Variant A).mmrs"
   },
+  {
+    "uuid": "126ecfa9-b87c-4f0a-8c95-aa44d2374619",
+    "creationDate": "2026-03-31T02:42:42.404Z",
+    "game": "A Hat in Time",
+    "song": "A City Of Calcite And Adventure (Beta)",
+    "composers": [
+      "Edgar Phœte"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157"
+    ],
+    "file": "A Hat in Time/A City Of Calcite And Adventure (Beta).mmrs",
+    "preview": "A Hat in Time/A City Of Calcite And Adventure (Beta).ogg"
+  },
+  {
+    "uuid": "c97e96d2-e0c3-4787-9610-b8fab47f0d77",
+    "creationDate": "2026-03-31T02:47:05.869Z",
+    "game": "A Hat in Time",
+    "song": "Clocktowers Beneath the Sea",
+    "composers": [
+      "Pascal Michael Stiefel"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "A Hat in Time/Clocktowers Beneath the Sea.mmrs",
+    "preview": "A Hat in Time/Clocktowers Beneath the Sea.ogg"
+  },
+  {
+    "uuid": "c2eff825-67e3-495d-9cc3-f14a0f4c6149",
+    "creationDate": "2026-03-31T02:48:44.889Z",
+    "game": "A Hat in Time",
+    "song": "Death Wish",
+    "composers": [
+      "Pascal Michael Stiefel"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "7",
+      "157"
+    ],
+    "file": "A Hat in Time/Death Wish.mmrs",
+    "preview": "A Hat in Time/Death Wish.ogg"
+  },
+  {
+    "uuid": "091aabf8-a7b1-4ee7-a4c8-b876af014199",
+    "creationDate": "2026-03-31T02:50:09.895Z",
+    "game": "Banjo-Kazooie",
+    "song": "Click Clock Wood (Spring) (Variant B)",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "file": "Banjo-Kazooie/Click Clock Wood (Spring) (Variant B).mmrs",
+    "preview": "Banjo-Kazooie/Click Clock Wood (Spring) (Variant B).ogg"
+  },
+  {
+    "uuid": "1babf596-628d-4b05-b019-609b04315d61",
+    "creationDate": "2026-03-31T02:51:40.474Z",
+    "game": "Banjo-Kazooie",
+    "song": "Freezeezy Peak (Variant B)",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157"
+    ],
+    "file": "Banjo-Kazooie/Freezeezy Peak (Variant B).mmrs",
+    "preview": "Banjo-Kazooie/Freezeezy Peak (Variant B).ogg"
+  },
+  {
+    "uuid": "2d17983d-42f0-46f0-b5f6-8710be268d0c",
+    "creationDate": "2026-03-31T02:52:43.933Z",
+    "game": "Banjo-Kazooie",
+    "song": "Rusty Bucket Bay (Variant B)",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "file": "Banjo-Kazooie/Rusty Bucket Bay (Variant B).mmrs",
+    "preview": "Banjo-Kazooie/Rusty Bucket Bay (Variant B).ogg"
+  },
+  {
+    "uuid": "8134dc83-ec29-4937-8110-e0a30d424e3a",
+    "creationDate": "2026-03-31T02:55:16.441Z",
+    "game": "Bomberman 64",
+    "song": "Green Garden (Variant A)",
+    "composers": [
+      "Akifumi Tada"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157"
+    ],
+    "file": "Bomberman 64/Green Garden (Variant A).mmrs",
+    "preview": "Bomberman 64/Green Garden (Variant A).mp3"
+  },
+  {
+    "uuid": "12074139-f6b5-4ee8-8069-80b7c4dd80f6",
+    "creationDate": "2026-03-31T02:57:00.594Z",
+    "game": "Bomberman 64",
+    "song": "Green Garden (Variant B)",
+    "composers": [
+      "Akifumi Tada"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "file": "Bomberman 64/Green Garden (Variant B).mmrs",
+    "preview": "Bomberman 64/Green Garden (Variant B).ogg"
+  },
+  {
+    "uuid": "46c1d4ad-29f4-4449-965d-2ea4db52e275",
+    "creationDate": "2026-03-31T03:01:56.866Z",
+    "game": "Banjo-Tooie",
+    "song": "Atlantis",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157"
+    ],
+    "file": "Banjo-Tooie/Atlantis.mmrs",
+    "preview": "Banjo-Tooie/Atlantis.mp3"
+  },
+  {
+    "uuid": "ae14e217-07b0-4645-880e-3a508dd45443",
+    "creationDate": "2026-03-31T03:03:38.978Z",
+    "game": "Banjo-Tooie",
+    "song": "Glitter Gulch Mine",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "157"
+    ],
+    "usesCustomBank": true,
+    "file": "Banjo-Tooie/Glitter Gulch Mine.mmrs",
+    "preview": "Banjo-Tooie/Glitter Gulch Mine.ogg"
+  },
+  {
+    "uuid": "972a5cb9-79d3-4a2c-9da3-fde765ba2f3b",
+    "creationDate": "2026-03-31T03:04:37.274Z",
+    "game": "Banjo-Tooie",
+    "song": "Witchyworld",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "16"
+    ],
+    "file": "Banjo-Tooie/Witchyworld.mmrs",
+    "preview": "Banjo-Tooie/Witchyworld.ogg"
+  },
+  {
+    "uuid": "557bdd64-bd57-419e-85a4-d42df964731f",
+    "creationDate": "2026-03-31T03:06:57.908Z",
+    "game": "Castlevania II: Simon's Quest",
+    "song": "The Silence of the Daylight",
+    "composers": [
+      "Kenichi Matsubara"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157"
+    ],
+    "file": "Castlevania II Simon's Quest/The Silence of the Daylight.mmrs",
+    "preview": "Castlevania II Simon's Quest/The Silence of the Daylight.ogg"
+  },
+  {
+    "uuid": "7b68d24b-893f-4875-aa7c-62f1f74cd2c5",
+    "creationDate": "2026-03-31T03:17:07.877Z",
+    "game": "Castlevania III: Dracula's Curse",
+    "song": "Mad Forest",
+    "composers": [
+      "Hidenori Maezawa",
+      "Jun Funahashi",
+      "Yukie Morimoto",
+      "Yoshinori Sasaki"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "7",
+      "118",
+      "157",
+      "176"
+    ],
+    "file": "Castlevania III Dracula's Curse/Mad Forest.mmrs",
+    "preview": "Castlevania III Dracula's Curse/Mad Forest.mp3"
+  },
+  {
+    "uuid": "f3457406-3b4e-4529-832d-c4ccdac5408d",
+    "creationDate": "2026-03-31T03:22:08.885Z",
+    "game": "Castlevania: Lament of Innocence",
+    "song": "Lament of Innocence ~Leon's Theme~ (Variant B)",
+    "composers": [
+      "Michiru Yamane"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3",
+      "5",
+      "7",
+      "157"
+    ],
+    "file": "Castlevania Lament of Innocence/Lament of Innocence ~Leon's Theme~ (Variant B).mmrs",
+    "preview": "Castlevania Lament of Innocence/Lament of Innocence ~Leon's Theme~ (Variant B).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

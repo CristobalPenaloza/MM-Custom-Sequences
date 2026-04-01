@@ -25540,5 +25540,26 @@
     "file": "Final Fantasy Mystic Quest/Battle Theme.mmrs",
     "preview": "Final Fantasy Mystic Quest/Battle Theme.mp3"
   },
+  {
+    "uuid": "bea61d35-af44-4325-b9ef-33a43d174dc1",
+    "creationDate": "2026-04-01T16:23:35.978Z",
+    "game": "Final Fantasy: Mystic Quest",
+    "song": "Battle 2",
+    "composers": [
+      "Ryuji Sasai"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "7"
+    ],
+    "file": "Final Fantasy Mystic Quest/Battle 2.mmrs",
+    "preview": "Final Fantasy Mystic Quest/Battle 2.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

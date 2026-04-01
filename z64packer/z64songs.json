@@ -26232,5 +26232,27 @@
     "file": "Final Fantasy IV/Boss Theme.mmrs",
     "preview": "Final Fantasy IV/Boss Theme.mp3"
   },
+  {
+    "uuid": "8f8b2d81-6066-450e-9671-bb763aede94f",
+    "creationDate": "2026-04-01T22:49:35.065Z",
+    "game": "Silent Hill 2",
+    "song": "True",
+    "composers": [
+      "Akira Yamaoka"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Silent Hill 2/True.mmrs",
+    "preview": "Silent Hill 2/True.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -25704,5 +25704,26 @@
     "file": "Xenogears/Emotion.mmrs",
     "preview": "Xenogears/Emotion.mp3"
   },
+  {
+    "uuid": "cb539c9d-2199-4bcc-873c-9f375dc3fcd2",
+    "creationDate": "2026-04-01T22:09:25.884Z",
+    "game": "Xenogears",
+    "song": "Bare Fangs",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "6",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "file": "Xenogears/Bare Fangs.mmrs",
+    "preview": "Xenogears/Bare Fangs.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

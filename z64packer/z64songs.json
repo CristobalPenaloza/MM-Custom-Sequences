@@ -25772,5 +25772,27 @@
     "file": "Shin Megami Tensei II/Disco.mmrs",
     "preview": "Shin Megami Tensei II/Disco.mp3"
   },
+  {
+    "uuid": "fc27bb40-079c-4af9-a278-7dbf2de85326",
+    "creationDate": "2026-04-01T22:13:49.069Z",
+    "game": "Outer Wilds",
+    "song": "Outer Wilds",
+    "composers": [
+      "Andrew Prahlow"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "file": "Outer Wilds/Outer Wilds.mmrs",
+    "preview": "Outer Wilds/Outer Wilds.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

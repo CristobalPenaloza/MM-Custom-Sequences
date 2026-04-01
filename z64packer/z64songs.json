@@ -25989,5 +25989,26 @@
     "preview": "Final Fantasy VI/Terra's Theme (Variant B).mp3",
     "lastUpdateDate": "2026-04-01T22:30:10.013Z"
   },
+  {
+    "uuid": "c075fa78-5764-429f-8a0d-daa007bee4f8",
+    "creationDate": "2026-04-01T22:30:57.624Z",
+    "game": "Shin Megami Tensei",
+    "song": "Shop",
+    "composers": [
+      "Shoji Meguro"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "4",
+      "6"
+    ],
+    "file": "Shin Megami Tensei/Shop.mmrs",
+    "preview": "Shin Megami Tensei/Shop.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -25369,5 +25369,23 @@
     "file": "Diddy Kong Racing/Spaceport Alpha.mmrs",
     "preview": "Diddy Kong Racing/Spaceport Alpha.ogg"
   },
+  {
+    "uuid": "dfc12c55-313d-4849-a8a3-805c16c8abf6",
+    "creationDate": "2026-04-01T15:52:08.793Z",
+    "game": "Devil May Cry",
+    "song": "Seeds of Love",
+    "composers": [
+      "Masami Ueda"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3"
+    ],
+    "file": "Devil May Cry/Seeds of Love.mmrs",
+    "preview": "Devil May Cry/Seeds of Love.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

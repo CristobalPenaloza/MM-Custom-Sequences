@@ -25218,7 +25218,10 @@
       "2"
     ],
     "file": "Castlevania Bloodlines/Iron-Blue Intention.mmrs",
-    "preview": "Castlevania Bloodlines/Iron-Blue Intention.mp3"
+    "preview": "Castlevania Bloodlines/Iron-Blue Intention.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "981716a9-61c8-4f6f-9ec2-44eb9779f7a6",
@@ -25240,7 +25243,10 @@
       "176"
     ],
     "file": "Crusader of Centy/Rafflesia Training Grounds.mmrs",
-    "preview": "Crusader of Centy/Rafflesia Training Grounds.mp3"
+    "preview": "Crusader of Centy/Rafflesia Training Grounds.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "3c123601-1506-467a-9eef-1cc697443656",
@@ -25260,7 +25266,10 @@
       "2"
     ],
     "file": "Chameleon Twist 2/Toy Land.mmrs",
-    "preview": "Chameleon Twist 2/Toy Land.mp3"
+    "preview": "Chameleon Twist 2/Toy Land.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "13b9df22-3441-44d8-b756-1571ad33d208",
@@ -25284,7 +25293,10 @@
       "176"
     ],
     "file": "Chrono Trigger/Battle 2.mmrs",
-    "preview": "Chrono Trigger/Battle 2.mp3"
+    "preview": "Chrono Trigger/Battle 2.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "79c5f3b1-9127-4d1e-85fc-52388546c57d",
@@ -25304,7 +25316,10 @@
       "10"
     ],
     "file": "Deltarune/HEY EVERY !.mmrs",
-    "preview": "Deltarune/HEY EVERY !.ogg"
+    "preview": "Deltarune/HEY EVERY !.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "34e4a0c3-a479-4e7a-9bbb-181ea021cf46",
@@ -25325,7 +25340,10 @@
       "4"
     ],
     "file": "Diddy Kong Racing/Ancient Lake.mmrs",
-    "preview": "Diddy Kong Racing/Ancient Lake.mp3"
+    "preview": "Diddy Kong Racing/Ancient Lake.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "339d6424-a413-4233-a5d2-ddaf2d2b5512",
@@ -25345,7 +25363,10 @@
       "2"
     ],
     "file": "Diddy Kong Racing/Everfrost Peak.mmrs",
-    "preview": "Diddy Kong Racing/Everfrost Peak.ogg"
+    "preview": "Diddy Kong Racing/Everfrost Peak.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "a2adec7e-8232-46a9-9d1b-286936be83c5",
@@ -25367,7 +25388,10 @@
       "176"
     ],
     "file": "Diddy Kong Racing/Spaceport Alpha.mmrs",
-    "preview": "Diddy Kong Racing/Spaceport Alpha.ogg"
+    "preview": "Diddy Kong Racing/Spaceport Alpha.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "dfc12c55-313d-4849-a8a3-805c16c8abf6",
@@ -25385,7 +25409,10 @@
       "3"
     ],
     "file": "Devil May Cry/Seeds of Love.mmrs",
-    "preview": "Devil May Cry/Seeds of Love.mp3"
+    "preview": "Devil May Cry/Seeds of Love.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "ae7fbc66-81c2-4f14-93fb-1420b4a7860b",
@@ -25406,7 +25433,10 @@
       "7"
     ],
     "file": "Dinosaur Planet/Guardclaw Theme.mmrs",
-    "preview": "Dinosaur Planet/Guardclaw Theme.ogg"
+    "preview": "Dinosaur Planet/Guardclaw Theme.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "a70bf396-29c4-4450-8e3e-d0c72ce5e7f4",
@@ -25426,7 +25456,10 @@
       "7"
     ],
     "file": "Darksiders II/The Makers Guardian.mmrs",
-    "preview": "Darksiders II/The Makers Guardian.ogg"
+    "preview": "Darksiders II/The Makers Guardian.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "40023223-8bbb-4d87-8a33-a3ed5cd76ab9",
@@ -25450,7 +25483,10 @@
       "176"
     ],
     "file": "El Viento/Stage 1 - New York City.mmrs",
-    "preview": "El Viento/Stage 1 - New York City.mp3"
+    "preview": "El Viento/Stage 1 - New York City.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "133e5e72-781d-49ac-9085-c39e4a52f964",
@@ -25472,7 +25508,10 @@
       "176"
     ],
     "file": "Etrian Odyssey III The Drowned City/Battlefield - The First Campaign.mmrs",
-    "preview": "Etrian Odyssey III The Drowned City/Battlefield - The First Campaign.mp3"
+    "preview": "Etrian Odyssey III The Drowned City/Battlefield - The First Campaign.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "8baf7829-f842-4fc4-91ba-2d2cc93be8ec",
@@ -25495,7 +25534,10 @@
       "176"
     ],
     "file": "Flying Dragon/SD Demo.mmrs",
-    "preview": "Flying Dragon/SD Demo.mp3"
+    "preview": "Flying Dragon/SD Demo.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "e69e25b5-2ea0-41bf-849c-b77b5cc03876",
@@ -25518,7 +25560,10 @@
       "176"
     ],
     "file": "Flying Dragon/Mode Select.mmrs",
-    "preview": "Flying Dragon/Mode Select.mp3"
+    "preview": "Flying Dragon/Mode Select.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "02694f2f-0e67-4afe-b7db-5bbe26d48f88",
@@ -25538,7 +25583,10 @@
       "2"
     ],
     "file": "Final Fantasy Mystic Quest/Battle Theme.mmrs",
-    "preview": "Final Fantasy Mystic Quest/Battle Theme.mp3"
+    "preview": "Final Fantasy Mystic Quest/Battle Theme.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "bea61d35-af44-4325-b9ef-33a43d174dc1",
@@ -25559,7 +25607,10 @@
       "7"
     ],
     "file": "Final Fantasy Mystic Quest/Battle 2.mmrs",
-    "preview": "Final Fantasy Mystic Quest/Battle 2.mp3"
+    "preview": "Final Fantasy Mystic Quest/Battle 2.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "2621b03b-0e02-4041-8412-0ceeae05a4e7",
@@ -25583,7 +25634,10 @@
       "176"
     ],
     "file": "F-Zero/Fire Field.mmrs",
-    "preview": "F-Zero/Fire Field.mp3"
+    "preview": "F-Zero/Fire Field.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

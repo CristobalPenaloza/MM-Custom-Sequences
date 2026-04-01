@@ -25751,5 +25751,26 @@
     "file": "Shin Megami Tensei III Nocturne/Puzzle Boy (Variant B).mmrs",
     "preview": "Shin Megami Tensei III Nocturne/Puzzle Boy (Variant B).mp3"
   },
+  {
+    "uuid": "a98645f4-9f63-45f9-9c89-dd47c66700ef",
+    "creationDate": "2026-04-01T22:12:43.642Z",
+    "game": "Shin Megami Tensei II",
+    "song": "Disco",
+    "composers": [
+      "Tsukasa Masuko"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "file": "Shin Megami Tensei II/Disco.mmrs",
+    "preview": "Shin Megami Tensei II/Disco.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

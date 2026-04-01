@@ -25903,5 +25903,25 @@
     "file": "Kirby Super Star/Minecart.mmrs",
     "preview": "Kirby Super Star/Minecart.mp3"
   },
+  {
+    "uuid": "90f8424d-35ce-4c88-b35e-48fc3872bcce",
+    "creationDate": "2026-04-01T22:26:33.179Z",
+    "game": "Chrono Cross",
+    "song": "Radical Dreamers",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "file": "Chrono Cross/Radical Dreamers.mmrs",
+    "preview": "Chrono Cross/Radical Dreamers.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

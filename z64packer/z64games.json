@@ -340,6 +340,7 @@
   },
   {
     "game": "Diddy Kong Racing",
+    "series": "Donkey Kong Series",
     "logo": "https://i.imgur.com/4xmpHHJ.png"
   },
   {
@@ -462,6 +463,7 @@
   },
   {
     "game": "Etrian Odyssey",
+    "series": "Etrian Odyssey Series",
     "logo": "https://i.imgur.com/YRHaZxw.png"
   },
   {
@@ -3154,25 +3156,33 @@
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/6551516d51364661aed940bde89d0b12.png"
   },
   {
-    "game": "Crusader of Centy"
+    "game": "Crusader of Centy",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/350035841e1182bf4389c52752d8bd0d.png"
   },
   {
-    "game": "Flying Dragon"
+    "game": "Flying Dragon",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/b7fb2884d40fa347e723d7edb3a151d2.png"
   },
   {
-    "game": "Devil May Cry"
+    "game": "Devil May Cry",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/a30499ad9ae847c32510caccd5d2af71.png"
   },
   {
-    "game": "Darksiders II"
+    "game": "Darksiders II",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/6ba1085b788407963fe0e89c699a7396.png"
   },
   {
-    "game": "El Viento"
+    "game": "El Viento",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/4397a09c4cb35e85a293b857c53c00ca.png"
   },
   {
-    "game": "Etrian Odyssey III: The Drowned City"
+    "game": "Etrian Odyssey III: The Drowned City",
+    "series": "Etrian Odyssey Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/13a5ec89e9c3f333d6f52ddc356ef7a1.png"
   },
   {
-    "game": "Dinosaur Planet"
+    "game": "Dinosaur Planet",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/bb4acfc3f18743bfd00e09c18b65e474.png"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

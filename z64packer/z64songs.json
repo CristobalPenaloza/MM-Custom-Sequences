@@ -25569,7 +25569,7 @@
     "uuid": "02694f2f-0e67-4afe-b7db-5bbe26d48f88",
     "creationDate": "2026-04-01T16:21:40.546Z",
     "game": "Final Fantasy: Mystic Quest",
-    "song": "Battle Theme",
+    "song": "Battle 1",
     "composers": [
       "Ryuji Sasai"
     ],
@@ -25582,8 +25582,8 @@
       "1",
       "2"
     ],
-    "file": "Final Fantasy Mystic Quest/Battle Theme.mmrs",
-    "preview": "Final Fantasy Mystic Quest/Battle Theme.mp3",
+    "file": "Final Fantasy Mystic Quest/Battle 1.mmrs",
+    "preview": "Final Fantasy Mystic Quest/Battle 1.mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false

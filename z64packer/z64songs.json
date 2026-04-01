@@ -25838,5 +25838,26 @@
     "file": "Phoenix Wright Ace Attorney/Maya Fey ~ Turnabout Sisters Theme.mmrs",
     "preview": "Phoenix Wright Ace Attorney/Maya Fey ~ Turnabout Sisters Theme.mp3"
   },
+  {
+    "uuid": "771ff7b3-f7df-4dba-a6a3-081e272cef0b",
+    "creationDate": "2026-04-01T22:22:17.328Z",
+    "game": "Sonic Adventure 2",
+    "song": "Pumpkin Hill (Variant B)",
+    "composers": [
+      "Tomoya Ohtani"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "file": "Sonic Adventure 2/Pumpkin Hill (Variant B).mmrs",
+    "preview": "Sonic Adventure 2/Pumpkin Hill (Variant B).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

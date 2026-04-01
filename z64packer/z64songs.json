@@ -26192,5 +26192,25 @@
     "file": "F-Zero/Red Canyon.mmrs",
     "preview": "F-Zero/Red Canyon.mp3"
   },
+  {
+    "uuid": "a5090f73-7994-4dc3-8e36-e11b034128ab",
+    "creationDate": "2026-04-01T22:47:49.119Z",
+    "game": "Battletoads",
+    "song": "Arctic Caverns",
+    "composers": [
+      "David Wise"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "file": "Battletoads/Arctic Caverns.mmrs",
+    "preview": "Battletoads/Arctic Caverns.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

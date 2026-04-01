@@ -26371,5 +26371,24 @@
     "file": "Shin Megami Tensei/Fiend.mmrs",
     "preview": "Shin Megami Tensei/Fiend.mp3"
   },
+  {
+    "uuid": "7d28bfe1-4035-4631-b0e7-fc567b7d30e0",
+    "creationDate": "2026-04-01T22:57:36.027Z",
+    "game": "Shin Megami Tensei II",
+    "song": "Battle Theme",
+    "composers": [
+      "Tsukasa Masuko"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "file": "Shin Megami Tensei II/Battle Theme.mmrs",
+    "preview": "Shin Megami Tensei II/Battle Theme.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

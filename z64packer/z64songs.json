@@ -25884,5 +25884,24 @@
     "file": "Pokémon Colosseum/Miror B. Theme.mmrs",
     "preview": "Pokémon Colosseum/Miror B. Theme.mp3"
   },
+  {
+    "uuid": "8937d1c0-2f29-4617-b480-a4f03bd075e8",
+    "creationDate": "2026-04-01T22:25:18.028Z",
+    "game": "Kirby Super Star",
+    "song": "Minecart",
+    "composers": [
+      "Jun Ishikawa"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4"
+    ],
+    "usesCustomBank": true,
+    "file": "Kirby Super Star/Minecart.mmrs",
+    "preview": "Kirby Super Star/Minecart.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

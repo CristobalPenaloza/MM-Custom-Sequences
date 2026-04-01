@@ -26130,5 +26130,27 @@
     "file": "AeroGauge/Chinatown Jam (Remix).mmrs",
     "preview": "AeroGauge/Chinatown Jam (Remix).mp3"
   },
+  {
+    "uuid": "4e86baf2-f49e-4112-9d1d-9ea2dde62f64",
+    "creationDate": "2026-04-01T22:36:44.496Z",
+    "game": "F-Zero Climax",
+    "song": "Silence",
+    "composers": [
+      "Kenji Hikita"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "4",
+      "5",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "file": "F-Zero Climax/Silence.mmrs",
+    "preview": "F-Zero Climax/Silence.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

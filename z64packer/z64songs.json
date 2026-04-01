@@ -26152,5 +26152,24 @@
     "file": "F-Zero Climax/Silence.mmrs",
     "preview": "F-Zero Climax/Silence.mp3"
   },
+  {
+    "uuid": "ba12ca48-fdb8-430c-afc1-fea55e0087c5",
+    "creationDate": "2026-04-01T22:45:21.041Z",
+    "game": "Gradius",
+    "song": "Coin",
+    "composers": [
+      "Miki Higashino"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Gradius/Coin.mmrs",
+    "preview": "Gradius/Coin.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

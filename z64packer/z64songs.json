@@ -25286,5 +25286,25 @@
     "file": "Chrono Trigger/Battle 2.mmrs",
     "preview": "Chrono Trigger/Battle 2.mp3"
   },
+  {
+    "uuid": "79c5f3b1-9127-4d1e-85fc-52388546c57d",
+    "creationDate": "2026-04-01T15:25:07.802Z",
+    "game": "Deltarune",
+    "song": "HEY EVERY !",
+    "composers": [
+      "Toby Fox"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Deltarune/HEY EVERY !.mmrs",
+    "preview": "Deltarune/HEY EVERY !.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

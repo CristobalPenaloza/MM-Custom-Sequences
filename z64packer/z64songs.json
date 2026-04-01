@@ -25561,5 +25561,29 @@
     "file": "Final Fantasy Mystic Quest/Battle 2.mmrs",
     "preview": "Final Fantasy Mystic Quest/Battle 2.mp3"
   },
+  {
+    "uuid": "2621b03b-0e02-4041-8412-0ceeae05a4e7",
+    "creationDate": "2026-04-01T16:24:56.409Z",
+    "game": "F-Zero",
+    "song": "Fire Field",
+    "composers": [
+      "Yumiko Kanki"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "7",
+      "118",
+      "157",
+      "176"
+    ],
+    "file": "F-Zero/Fire Field.mmrs",
+    "preview": "F-Zero/Fire Field.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

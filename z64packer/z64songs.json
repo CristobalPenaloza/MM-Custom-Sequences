@@ -25306,5 +25306,26 @@
     "file": "Deltarune/HEY EVERY !.mmrs",
     "preview": "Deltarune/HEY EVERY !.ogg"
   },
+  {
+    "uuid": "34e4a0c3-a479-4e7a-9bbb-181ea021cf46",
+    "creationDate": "2026-04-01T15:26:25.082Z",
+    "game": "Diddy Kong Racing",
+    "song": "Ancient Lake",
+    "composers": [
+      "David Wise"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "4"
+    ],
+    "file": "Diddy Kong Racing/Ancient Lake.mmrs",
+    "preview": "Diddy Kong Racing/Ancient Lake.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

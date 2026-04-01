@@ -25428,5 +25428,29 @@
     "file": "Darksiders II/The Makers Guardian.mmrs",
     "preview": "Darksiders II/The Makers Guardian.ogg"
   },
+  {
+    "uuid": "40023223-8bbb-4d87-8a33-a3ed5cd76ab9",
+    "creationDate": "2026-04-01T16:05:58.828Z",
+    "game": "El Viento",
+    "song": "Stage 1 - New York City",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "7",
+      "118",
+      "157",
+      "176"
+    ],
+    "file": "El Viento/Stage 1 - New York City.mmrs",
+    "preview": "El Viento/Stage 1 - New York City.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

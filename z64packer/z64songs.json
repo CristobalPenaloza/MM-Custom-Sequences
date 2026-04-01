@@ -26212,5 +26212,25 @@
     "file": "Battletoads/Arctic Caverns.mmrs",
     "preview": "Battletoads/Arctic Caverns.mp3"
   },
+  {
+    "uuid": "813cd157-6e35-46e9-91c7-dd55e99cef27",
+    "creationDate": "2026-04-01T22:48:38.702Z",
+    "game": "Final Fantasy IV",
+    "song": "Boss Theme",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "Final Fantasy IV/Boss Theme.mmrs",
+    "preview": "Final Fantasy IV/Boss Theme.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -25682,5 +25682,27 @@
     "file": "Xenogears/Lahan Village.mmrs",
     "preview": "Xenogears/Lahan Village.mp3"
   },
+  {
+    "uuid": "55a143df-4c80-49c5-94be-e3e087963dfa",
+    "creationDate": "2026-04-01T22:08:34.551Z",
+    "game": "Xenogears",
+    "song": "Emotion",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "file": "Xenogears/Emotion.mmrs",
+    "preview": "Xenogears/Emotion.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

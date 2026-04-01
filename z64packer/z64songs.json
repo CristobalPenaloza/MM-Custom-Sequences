@@ -25923,5 +25923,27 @@
     "file": "Chrono Cross/Radical Dreamers.mmrs",
     "preview": "Chrono Cross/Radical Dreamers.mp3"
   },
+  {
+    "uuid": "e07514ab-850b-461f-80f2-f0ca52a31593",
+    "creationDate": "2026-04-01T22:27:26.060Z",
+    "game": "Chrono Cross",
+    "song": "Fort Dragonia",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Chrono Cross/Fort Dragonia.mmrs",
+    "preview": "Chrono Cross/Fort Dragonia.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

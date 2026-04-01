@@ -25661,5 +25661,26 @@
     "file": "007 The World is Not Enough/Courier 2.mmrs",
     "preview": "007 The World is Not Enough/Courier 2.mp3"
   },
+  {
+    "uuid": "5830596c-bdc2-447c-b278-e3cc1ed27d81",
+    "creationDate": "2026-04-01T22:07:55.163Z",
+    "game": "Xenogears",
+    "song": "Lahan Village",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Xenogears/Lahan Village.mmrs",
+    "preview": "Xenogears/Lahan Village.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

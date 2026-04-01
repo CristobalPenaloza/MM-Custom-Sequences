@@ -25497,5 +25497,28 @@
     "file": "Flying Dragon/SD Demo.mmrs",
     "preview": "Flying Dragon/SD Demo.mp3"
   },
+  {
+    "uuid": "e69e25b5-2ea0-41bf-849c-b77b5cc03876",
+    "creationDate": "2026-04-01T16:19:42.729Z",
+    "game": "Flying Dragon",
+    "song": "Mode Select",
+    "composers": [
+      "Akinori Sawa"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "118",
+      "157",
+      "176"
+    ],
+    "file": "Flying Dragon/Mode Select.mmrs",
+    "preview": "Flying Dragon/Mode Select.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

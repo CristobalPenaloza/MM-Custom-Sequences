@@ -25639,5 +25639,27 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "uuid": "30bd1377-a906-4905-9cc4-296a0c6b044b",
+    "creationDate": "2026-04-01T22:06:14.193Z",
+    "game": "007 The World is Not Enough",
+    "song": "Courier 2",
+    "composers": [
+      "Robert Watkins",
+      "Mark Duffill",
+      "Simon Mills"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "5",
+      "7"
+    ],
+    "file": "007 The World is Not Enough/Courier 2.mmrs",
+    "preview": "007 The World is Not Enough/Courier 2.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -26171,5 +26171,26 @@
     "file": "Gradius/Coin.mmrs",
     "preview": "Gradius/Coin.mp3"
   },
+  {
+    "uuid": "908b22de-de49-41de-8c46-16ae68abb13d",
+    "creationDate": "2026-04-01T22:46:26.900Z",
+    "game": "F-Zero",
+    "song": "Red Canyon",
+    "composers": [
+      "Yumiko Kanki",
+      "Naoto Ishida"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "5"
+    ],
+    "file": "F-Zero/Red Canyon.mmrs",
+    "preview": "F-Zero/Red Canyon.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

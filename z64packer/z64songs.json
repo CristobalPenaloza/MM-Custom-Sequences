@@ -25967,5 +25967,26 @@
     "file": "Chrono Cross/Dream of the Shore.mmrs",
     "preview": "Chrono Cross/Dream of the Shore.mp3"
   },
+  {
+    "uuid": "bb085f32-4488-494e-944d-ca7e91f77c7a",
+    "creationDate": "2026-04-01T22:29:28.153Z",
+    "game": "Final Fantasy VI",
+    "song": "Terra's Theme (Variant B)",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "6",
+      "16"
+    ],
+    "file": "Final Fantasy VI/Terra's Theme (Variant B).mmrs",
+    "preview": "Final Fantasy VI/Terra's Theme (Variant B).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -26334,5 +26334,25 @@
     "file": "Kirby's Adventure/I'm Hit (Variant B).mmrs",
     "preview": "Kirby's Adventure/I'm Hit (Variant B).mp3"
   },
+  {
+    "uuid": "b737e6de-e4c2-4882-a1b7-4561237d7902",
+    "creationDate": "2026-04-01T22:55:13.819Z",
+    "game": "Phoenix Wright: Ace Attorney",
+    "song": "Pursuit ~ Cornered (Variant B)",
+    "composers": [
+      "Masakazu Sugimori"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "Phoenix Wright Ace Attorney/Pursuit ~ Cornered (Variant B).mmrs",
+    "preview": "Phoenix Wright Ace Attorney/Pursuit ~ Cornered (Variant B).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

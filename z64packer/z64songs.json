@@ -26746,5 +26746,27 @@
     "file": "Kingdom Hearts/Blast Away! (Gummi Ship I).mmrs",
     "preview": "Kingdom Hearts/Blast Away! (Gummi Ship I).mp3"
   },
+  {
+    "uuid": "b7b30a27-f2de-4919-bfe7-a8a5ce75a14a",
+    "creationDate": "2026-04-02T02:14:17.258Z",
+    "game": "Live A Live",
+    "song": "Megalomania",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "7",
+      "157"
+    ],
+    "file": "Live A Live/Megalomania.mmrs",
+    "preview": "Live A Live/Megalomania.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

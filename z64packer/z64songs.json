@@ -17341,7 +17341,7 @@
     "uuid": "6925bffe-2cbe-4822-9961-08e4064667eb",
     "creationDate": "2026-03-23T16:49:49.088Z",
     "game": "Golden Sun: The Lost Age",
-    "song": "Non-Adept Battle",
+    "song": "A Powerful Opponent",
     "composers": [
       "Motoi Sakuraba"
     ],
@@ -17355,8 +17355,8 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Golden Sun The Lost Age/Non-Adept Battle.mmrs",
-    "preview": "Golden Sun The Lost Age/Non-Adept Battle.mp3"
+    "file": "Golden Sun The Lost Age/A Powerful Opponent.mmrs",
+    "preview": "Golden Sun The Lost Age/A Powerful Opponent.mp3"
   },
   {
     "uuid": "57b516e1-6b6e-47f3-9d72-2b3de1b2da3f",
@@ -21887,7 +21887,7 @@
     "uuid": "b4818f04-4a4b-4a2a-95bc-eff729a87db6",
     "creationDate": "2026-03-25T23:25:43.368Z",
     "game": "Golden Sun",
-    "song": "Venus Lighthouse",
+    "song": "Venus Lighthouse (Variant A)",
     "composers": [
       "Motoi Sakuraba"
     ],
@@ -21902,8 +21902,8 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Golden Sun/Venus Lighthouse.mmrs",
-    "preview": "Golden Sun/Venus Lighthouse.ogg"
+    "file": "Golden Sun/Venus Lighthouse (Variant A).mmrs",
+    "preview": "Golden Sun/Venus Lighthouse (Variant A).ogg"
   },
   {
     "uuid": "3ad3b1f6-d3f6-4eb7-904b-0910f62aa83d",
@@ -26491,7 +26491,7 @@
     "uuid": "68f90bef-527e-48c0-b8f1-f6118fb47f56",
     "creationDate": "2026-04-02T01:31:18.573Z",
     "game": "Golden Sun: The Lost Age",
-    "song": "Jenna's Battle Theme",
+    "song": "Battle (Jenna)",
     "composers": [
       "Motoi Sakuraba"
     ],
@@ -26506,8 +26506,8 @@
       "157",
       "176"
     ],
-    "file": "Golden Sun The Lost Age/Jenna's Battle Theme.mmrs",
-    "preview": "Golden Sun The Lost Age/Jenna's Battle Theme.mp3",
+    "file": "Golden Sun The Lost Age/Battle (Jenna).mmrs",
+    "preview": "Golden Sun The Lost Age/Battle (Jenna).mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -27068,14 +27068,18 @@
     "converters": [
       "Joshua8600"
     ],
+    "notes": "Absolute silence cannot exist. When you hear this track, it allows you to acknowledge the value of silence and appreciate the ambient sounds around you... Or you can mute BGMs with it, you decide.",
     "type": "bgm",
     "categories": [
       "0",
       "1",
       "2",
-      "118",
-      "157",
-      "176"
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "16"
     ],
     "file": "Memes/4'33” (Silence).mmrs",
     "preview": "Memes/4'33” (Silence).mp3",

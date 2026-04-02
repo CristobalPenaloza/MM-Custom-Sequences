@@ -588,6 +588,7 @@
   },
   {
     "game": "GoldenEye 007",
+    "series": "007 Series",
     "logo": "https://i.imgur.com/wjLLHpS.png"
   },
   {
@@ -3185,37 +3186,53 @@
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/bb4acfc3f18743bfd00e09c18b65e474.png"
   },
   {
-    "game": "Body Harvest"
+    "game": "Body Harvest",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/b90010f47ac493fc027e5727059032d4.png"
   },
   {
-    "game": "F-Zero Climax"
+    "game": "F-Zero Climax",
+    "series": "F-Zero Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/3c805d5a97328f0abbacc7f0052a7cfc.png"
   },
   {
-    "game": "007 The World is Not Enough"
+    "game": "007 The World is Not Enough",
+    "series": "007 Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/28c2dd7432db5cd6056ea8e7258a34da.png"
   },
   {
-    "game": "Shin Megami Tensei"
+    "game": "Shin Megami Tensei",
+    "series": "Shin Megami Tensei Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/f3e0eb8f4ae5f3afd35b5e4b6e5a2d78.png"
   },
   {
-    "game": "Gradius"
+    "game": "Gradius",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/4594ecbf9e567c3b75488953d07aeead.png"
   },
   {
-    "game": "Battletoads"
+    "game": "Battletoads",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/94cd1a66360c6dd0f1328bd989f26a99.png"
   },
   {
-    "game": "Top Gear"
+    "game": "Top Gear",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/ab086276bbedec0e01a2248edc54caf7.png"
   },
   {
-    "game": "Golden Sun: Dark Dawn"
+    "game": "Golden Sun: Dark Dawn",
+    "series": "Golden Sun Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/f5733d372f2a9ea144e4c15e56685ea8.png"
   },
   {
-    "game": "Mighty Final Fight"
+    "game": "Mighty Final Fight",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/54f46e81b66496c9909bcdc2f7987f41.png"
   },
   {
-    "game": "Monkey Island 2: LeChuck's Revenge"
+    "game": "Monkey Island 2: LeChuck's Revenge",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/15114b232670d53c100a833d5b55946f.png"
   },
   {
-    "game": "Mario Kart 8"
+    "game": "Mario Kart 8",
+    "series": "Mario Kart Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/81a5f7fc4837ced528f0eee21ea5c3ca.png"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

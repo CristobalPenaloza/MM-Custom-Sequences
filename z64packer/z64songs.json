@@ -26947,5 +26947,26 @@
     "file": "Mario Kart DS/Shroom Ridge.mmrs",
     "preview": "Mario Kart DS/Shroom Ridge.mp3"
   },
+  {
+    "uuid": "64f4a5a1-2ba1-41fc-991d-d1cb88bce22c",
+    "creationDate": "2026-04-02T02:48:26.450Z",
+    "game": "Mario Kart Wii",
+    "song": "Maple Treeway",
+    "composers": [
+      "Ryo Nagamatsu"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157"
+    ],
+    "file": "Mario Kart Wii/Maple Treeway.mmrs",
+    "preview": "Mario Kart Wii/Maple Treeway.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

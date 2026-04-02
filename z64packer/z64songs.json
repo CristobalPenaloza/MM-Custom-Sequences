@@ -26768,5 +26768,30 @@
     "file": "Live A Live/Megalomania.mmrs",
     "preview": "Live A Live/Megalomania.ogg"
   },
+  {
+    "uuid": "c697af86-b20c-4dc6-bbdf-e5d43ffc5c9e",
+    "creationDate": "2026-04-02T02:25:51.070Z",
+    "game": "Mighty Final Fight",
+    "song": "Round 01 - Slum",
+    "composers": [
+      "Setsuo Yamamoto",
+      "Yuko Takehara"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "5",
+      "7",
+      "157",
+      "176"
+    ],
+    "file": "Mighty Final Fight/Round 01 - Slum.mmrs",
+    "preview": "Mighty Final Fight/Round 01 - Slum.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

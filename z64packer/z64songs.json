@@ -26531,5 +26531,27 @@
     "file": "Golden Sun/Battle.mmrs",
     "preview": "Golden Sun/Battle.mp3"
   },
+  {
+    "uuid": "bd9caa87-52d1-4625-a2d0-b0958b2eedb9",
+    "creationDate": "2026-04-02T01:36:40.836Z",
+    "game": "Golden Sun",
+    "song": "Trial Road",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "7",
+      "157"
+    ],
+    "file": "Golden Sun/Trial Road.mmrs",
+    "preview": "Golden Sun/Trial Road.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

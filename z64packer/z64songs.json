@@ -26704,5 +26704,25 @@
     "file": "The Legend of Zelda Majora's Mask/Deku Dance (Deku Palace Techno Remix).mmrs",
     "preview": "The Legend of Zelda Majora's Mask/Deku Dance (Deku Palace Techno Remix).mp3"
   },
+  {
+    "uuid": "8b742743-3021-4f3e-acfb-fc3c0735e100",
+    "creationDate": "2026-04-02T02:07:57.542Z",
+    "game": "Kingdom Hearts II",
+    "song": "Sora's Theme",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "file": "Kingdom Hearts II/Sora's Theme.mmrs",
+    "preview": "Kingdom Hearts II/Sora's Theme.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

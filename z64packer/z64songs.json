@@ -26619,5 +26619,29 @@
     "file": "Golden Sun Dark Dawn/World Map.mmrs",
     "preview": "Golden Sun Dark Dawn/World Map.ogg"
   },
+  {
+    "uuid": "77bf0b12-e69c-4fb2-b16f-e9b14a837005",
+    "creationDate": "2026-04-02T01:51:20.790Z",
+    "game": "Golden Sun",
+    "song": "Venus Lighthouse (Variant B)",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "5",
+      "7",
+      "157",
+      "176"
+    ],
+    "file": "Golden Sun/Venus Lighthouse (Variant B).mmrs",
+    "preview": "Golden Sun/Venus Lighthouse (Variant B).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

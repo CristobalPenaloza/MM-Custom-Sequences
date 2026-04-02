@@ -26793,5 +26793,28 @@
     "file": "Mighty Final Fight/Round 01 - Slum.mmrs",
     "preview": "Mighty Final Fight/Round 01 - Slum.ogg"
   },
+  {
+    "uuid": "541a29b8-c11e-4e26-8c61-3c9e9bb7a751",
+    "creationDate": "2026-04-02T02:37:07.772Z",
+    "game": "Mr. Gimmick!",
+    "song": "Happy Birthday",
+    "composers": [
+      "Masashi Kageyama"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "118",
+      "157",
+      "176"
+    ],
+    "file": "Mr. Gimmick!/Happy Birthday.mmrs",
+    "preview": "Mr. Gimmick!/Happy Birthday.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

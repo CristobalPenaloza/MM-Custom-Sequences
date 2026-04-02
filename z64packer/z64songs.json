@@ -26901,5 +26901,28 @@
     "file": "Monkey Island 2 LeChuck's Revenge/Main Theme (Variant B).mmrs",
     "preview": "Monkey Island 2 LeChuck's Revenge/Main Theme (Variant B).ogg"
   },
+  {
+    "uuid": "62d639b6-a17f-4e5f-ad19-d3b0eb35f283",
+    "creationDate": "2026-04-02T02:43:45.053Z",
+    "game": "Monkey Island 2: LeChuck's Revenge",
+    "song": "Main Theme (Variant C)",
+    "composers": [
+      "Michael Land"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "118",
+      "157",
+      "176"
+    ],
+    "file": "Monkey Island 2 LeChuck's Revenge/Main Theme (Variant C).mmrs",
+    "preview": "Monkey Island 2 LeChuck's Revenge/Main Theme (Variant C).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

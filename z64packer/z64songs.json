@@ -26662,5 +26662,23 @@
     "file": "Golden Sun/Victory!.mmrs",
     "preview": "Golden Sun/Victory!.ogg"
   },
+  {
+    "uuid": "330baefe-05d3-42c7-b7cd-a0cb58516a03",
+    "creationDate": "2026-04-02T01:54:02.372Z",
+    "game": "Golden Sun",
+    "song": "Victory! (Loop)",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "10"
+    ],
+    "file": "Golden Sun/Victory! (Loop).mmrs",
+    "preview": "Golden Sun/Victory! (Loop).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

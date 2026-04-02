@@ -27011,5 +27011,29 @@
     "file": "Memes/4'33” (Silence).mmrs",
     "preview": "Memes/4'33” (Silence).mp3"
   },
+  {
+    "uuid": "800262ed-78d4-4d5b-b97e-a8f91c314961",
+    "creationDate": "2026-04-02T03:09:24.319Z",
+    "game": "Mega Man X",
+    "song": "Armored Armadillo",
+    "composers": [
+      "Setsuo Yamamoto"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "5",
+      "7",
+      "157",
+      "176"
+    ],
+    "file": "Mega Man X/Armored Armadillo.mmrs",
+    "preview": "Mega Man X/Armored Armadillo.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

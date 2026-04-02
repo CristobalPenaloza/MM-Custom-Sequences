@@ -26507,7 +26507,10 @@
       "176"
     ],
     "file": "Golden Sun The Lost Age/Jenna's Battle Theme.mmrs",
-    "preview": "Golden Sun The Lost Age/Jenna's Battle Theme.mp3"
+    "preview": "Golden Sun The Lost Age/Jenna's Battle Theme.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "06133e05-5e1a-459e-98a1-d86dbdadf3bc",
@@ -26529,7 +26532,10 @@
       "176"
     ],
     "file": "Golden Sun/Battle.mmrs",
-    "preview": "Golden Sun/Battle.mp3"
+    "preview": "Golden Sun/Battle.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "bd9caa87-52d1-4625-a2d0-b0958b2eedb9",
@@ -26551,7 +26557,10 @@
       "157"
     ],
     "file": "Golden Sun/Trial Road.mmrs",
-    "preview": "Golden Sun/Trial Road.ogg"
+    "preview": "Golden Sun/Trial Road.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "75cd6f0a-c857-4c68-9588-bbe166f76f09",
@@ -26574,7 +26583,10 @@
       "176"
     ],
     "file": "Golden Sun/Sworn Enemies Stand in Your Way.mmrs",
-    "preview": "Golden Sun/Sworn Enemies Stand in Your Way.ogg"
+    "preview": "Golden Sun/Sworn Enemies Stand in Your Way.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "baf388a1-e869-4991-9325-6e2f01ab76b4",
@@ -26596,7 +26608,10 @@
       "176"
     ],
     "file": "Golden Sun Dark Dawn/Battle! [Fight of Sons].mmrs",
-    "preview": "Golden Sun Dark Dawn/Battle! [Fight of Sons].ogg"
+    "preview": "Golden Sun Dark Dawn/Battle! [Fight of Sons].ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "b0516569-a6e3-41da-8924-b2e679a5671b",
@@ -26617,7 +26632,10 @@
       "176"
     ],
     "file": "Golden Sun Dark Dawn/World Map.mmrs",
-    "preview": "Golden Sun Dark Dawn/World Map.ogg"
+    "preview": "Golden Sun Dark Dawn/World Map.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "77bf0b12-e69c-4fb2-b16f-e9b14a837005",
@@ -26641,7 +26659,10 @@
       "176"
     ],
     "file": "Golden Sun/Venus Lighthouse (Variant B).mmrs",
-    "preview": "Golden Sun/Venus Lighthouse (Variant B).ogg"
+    "preview": "Golden Sun/Venus Lighthouse (Variant B).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "c87fb993-4b6b-4b04-b3d8-7ceeadbb55c9",
@@ -26660,7 +26681,10 @@
       "9"
     ],
     "file": "Golden Sun/Victory!.mmrs",
-    "preview": "Golden Sun/Victory!.ogg"
+    "preview": "Golden Sun/Victory!.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "330baefe-05d3-42c7-b7cd-a0cb58516a03",
@@ -26678,7 +26702,10 @@
       "10"
     ],
     "file": "Golden Sun/Victory! (Loop).mmrs",
-    "preview": "Golden Sun/Victory! (Loop).ogg"
+    "preview": "Golden Sun/Victory! (Loop).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "0db7bec3-33ce-47fd-b349-b86104bda1a0",
@@ -26702,7 +26729,10 @@
       "176"
     ],
     "file": "The Legend of Zelda Majora's Mask/Deku Dance (Deku Palace Techno Remix).mmrs",
-    "preview": "The Legend of Zelda Majora's Mask/Deku Dance (Deku Palace Techno Remix).mp3"
+    "preview": "The Legend of Zelda Majora's Mask/Deku Dance (Deku Palace Techno Remix).mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "8b742743-3021-4f3e-acfb-fc3c0735e100",
@@ -26722,7 +26752,10 @@
       "2"
     ],
     "file": "Kingdom Hearts II/Sora's Theme.mmrs",
-    "preview": "Kingdom Hearts II/Sora's Theme.mp3"
+    "preview": "Kingdom Hearts II/Sora's Theme.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "5f64ec26-3103-43b7-a416-653a36e2caef",
@@ -26744,7 +26777,10 @@
       "16"
     ],
     "file": "Kingdom Hearts/Blast Away! (Gummi Ship I).mmrs",
-    "preview": "Kingdom Hearts/Blast Away! (Gummi Ship I).mp3"
+    "preview": "Kingdom Hearts/Blast Away! (Gummi Ship I).mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "b7b30a27-f2de-4919-bfe7-a8a5ce75a14a",
@@ -26766,7 +26802,10 @@
       "157"
     ],
     "file": "Live A Live/Megalomania.mmrs",
-    "preview": "Live A Live/Megalomania.ogg"
+    "preview": "Live A Live/Megalomania.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "c697af86-b20c-4dc6-bbdf-e5d43ffc5c9e",
@@ -26791,7 +26830,10 @@
       "176"
     ],
     "file": "Mighty Final Fight/Round 01 - Slum.mmrs",
-    "preview": "Mighty Final Fight/Round 01 - Slum.ogg"
+    "preview": "Mighty Final Fight/Round 01 - Slum.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "541a29b8-c11e-4e26-8c61-3c9e9bb7a751",
@@ -26814,7 +26856,10 @@
       "176"
     ],
     "file": "Mr. Gimmick!/Happy Birthday.mmrs",
-    "preview": "Mr. Gimmick!/Happy Birthday.mp3"
+    "preview": "Mr. Gimmick!/Happy Birthday.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "73de7a01-3a83-4281-a957-e4a1060e4649",
@@ -26835,7 +26880,10 @@
       "157"
     ],
     "file": "Metal Gear Solid/Main Theme.mmrs",
-    "preview": "Metal Gear Solid/Main Theme.mp3"
+    "preview": "Metal Gear Solid/Main Theme.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "f293b7b6-c4f1-4276-abb0-f77af8a09a74",
@@ -26858,7 +26906,10 @@
       "176"
     ],
     "file": "Mario Kart 8/Mario Kart Stadium.mmrs",
-    "preview": "Mario Kart 8/Mario Kart Stadium.mp3"
+    "preview": "Mario Kart 8/Mario Kart Stadium.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "4f89c5e9-5b59-4fbc-b12c-b54592608bbe",
@@ -26878,7 +26929,10 @@
       "2"
     ],
     "file": "Monkey Island 2 LeChuck's Revenge/Main Theme (Variant A).mmrs",
-    "preview": "Monkey Island 2 LeChuck's Revenge/Main Theme (Variant A).mp3"
+    "preview": "Monkey Island 2 LeChuck's Revenge/Main Theme (Variant A).mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "abd4a647-7285-427f-9cea-2fa3aa3b74da",
@@ -26899,7 +26953,10 @@
       "157"
     ],
     "file": "Monkey Island 2 LeChuck's Revenge/Main Theme (Variant B).mmrs",
-    "preview": "Monkey Island 2 LeChuck's Revenge/Main Theme (Variant B).ogg"
+    "preview": "Monkey Island 2 LeChuck's Revenge/Main Theme (Variant B).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "62d639b6-a17f-4e5f-ad19-d3b0eb35f283",
@@ -26922,7 +26979,10 @@
       "176"
     ],
     "file": "Monkey Island 2 LeChuck's Revenge/Main Theme (Variant C).mmrs",
-    "preview": "Monkey Island 2 LeChuck's Revenge/Main Theme (Variant C).mp3"
+    "preview": "Monkey Island 2 LeChuck's Revenge/Main Theme (Variant C).mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "46aa03e7-13a9-42e7-879a-07aca83e30fa",
@@ -26945,7 +27005,10 @@
       "176"
     ],
     "file": "Mario Kart DS/Shroom Ridge.mmrs",
-    "preview": "Mario Kart DS/Shroom Ridge.mp3"
+    "preview": "Mario Kart DS/Shroom Ridge.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "64f4a5a1-2ba1-41fc-991d-d1cb88bce22c",
@@ -26966,7 +27029,10 @@
       "157"
     ],
     "file": "Mario Kart Wii/Maple Treeway.mmrs",
-    "preview": "Mario Kart Wii/Maple Treeway.mp3"
+    "preview": "Mario Kart Wii/Maple Treeway.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "07d39d44-ee8a-4dfb-add0-70cc96626a17",
@@ -26986,7 +27052,10 @@
       "176"
     ],
     "file": "The Legend of Zelda Majora's Mask/Deku Palace (Ocarina of Time Version).mmrs",
-    "preview": "The Legend of Zelda Majora's Mask/Deku Palace (Ocarina of Time Version).mp3"
+    "preview": "The Legend of Zelda Majora's Mask/Deku Palace (Ocarina of Time Version).mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "89fa7d67-79fe-4714-a579-6892b573384b",
@@ -27009,7 +27078,10 @@
       "176"
     ],
     "file": "Memes/4'33” (Silence).mmrs",
-    "preview": "Memes/4'33” (Silence).mp3"
+    "preview": "Memes/4'33” (Silence).mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "800262ed-78d4-4d5b-b97e-a8f91c314961",
@@ -27033,7 +27105,10 @@
       "176"
     ],
     "file": "Mega Man X/Armored Armadillo.mmrs",
-    "preview": "Mega Man X/Armored Armadillo.mp3"
+    "preview": "Mega Man X/Armored Armadillo.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

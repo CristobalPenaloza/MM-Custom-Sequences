@@ -26576,5 +26576,27 @@
     "file": "Golden Sun/Sworn Enemies Stand in Your Way.mmrs",
     "preview": "Golden Sun/Sworn Enemies Stand in Your Way.ogg"
   },
+  {
+    "uuid": "baf388a1-e869-4991-9325-6e2f01ab76b4",
+    "creationDate": "2026-04-02T01:45:33.025Z",
+    "game": "Golden Sun: Dark Dawn",
+    "song": "Battle! [Fight of Sons]",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157",
+      "176"
+    ],
+    "file": "Golden Sun Dark Dawn/Battle! [Fight of Sons].mmrs",
+    "preview": "Golden Sun Dark Dawn/Battle! [Fight of Sons].ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

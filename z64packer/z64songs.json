@@ -26598,5 +26598,26 @@
     "file": "Golden Sun Dark Dawn/Battle! [Fight of Sons].mmrs",
     "preview": "Golden Sun Dark Dawn/Battle! [Fight of Sons].ogg"
   },
+  {
+    "uuid": "b0516569-a6e3-41da-8924-b2e679a5671b",
+    "creationDate": "2026-04-02T01:46:48.891Z",
+    "game": "Golden Sun: Dark Dawn",
+    "song": "World Map",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "157",
+      "176"
+    ],
+    "file": "Golden Sun Dark Dawn/World Map.mmrs",
+    "preview": "Golden Sun Dark Dawn/World Map.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

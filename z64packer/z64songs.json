@@ -26680,5 +26680,29 @@
     "file": "Golden Sun/Victory! (Loop).mmrs",
     "preview": "Golden Sun/Victory! (Loop).ogg"
   },
+  {
+    "uuid": "0db7bec3-33ce-47fd-b349-b86104bda1a0",
+    "creationDate": "2026-04-02T01:58:06.507Z",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "song": "Deku Dance (Deku Palace Techno Remix)",
+    "composers": [
+      "Hylian Hero"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "7",
+      "118",
+      "157",
+      "176"
+    ],
+    "file": "The Legend of Zelda Majora's Mask/Deku Dance (Deku Palace Techno Remix).mmrs",
+    "preview": "The Legend of Zelda Majora's Mask/Deku Dance (Deku Palace Techno Remix).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

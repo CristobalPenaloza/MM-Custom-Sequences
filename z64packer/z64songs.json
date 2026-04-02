@@ -26509,5 +26509,27 @@
     "file": "Golden Sun The Lost Age/Jenna's Battle Theme.mmrs",
     "preview": "Golden Sun The Lost Age/Jenna's Battle Theme.mp3"
   },
+  {
+    "uuid": "06133e05-5e1a-459e-98a1-d86dbdadf3bc",
+    "creationDate": "2026-04-02T01:33:20.438Z",
+    "game": "Golden Sun",
+    "song": "Battle",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157",
+      "176"
+    ],
+    "file": "Golden Sun/Battle.mmrs",
+    "preview": "Golden Sun/Battle.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

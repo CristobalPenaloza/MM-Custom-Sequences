@@ -16146,7 +16146,10 @@
     ],
     "file": "The Legend of Zelda Twilight Princess/Sacred Grove (Variant A).mmrs",
     "preview": "The Legend of Zelda Twilight Princess/Sacred Grove.ogg",
-    "lastUpdateDate": "2026-04-04T16:55:59.573Z"
+    "lastUpdateDate": "2026-04-04T16:55:59.573Z",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "3240cad1-e63e-40ce-8a3d-32de79ff0473",
@@ -27160,7 +27163,9 @@
     "usesCustomBank": true,
     "file": "The Legend of Zelda Twilight Princess/Sacred Grove (Variant B).mmrs",
     "preview": "The Legend of Zelda Twilight Princess/Sacred Grove (Variant B).ogg",
-    "lastUpdateDate": "2026-04-04T16:56:32.263Z"
+    "lastUpdateDate": "2026-04-04T16:56:32.263Z",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "5909a537-1bed-4d90-be61-418992725bc4",
@@ -27182,7 +27187,10 @@
       "12A"
     ],
     "file": "Nintendo GameCube/BIOS.mmrs",
-    "preview": "Nintendo GameCube/BIOS.ogg"
+    "preview": "Nintendo GameCube/BIOS.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "c9820ebb-d371-495b-a246-648ee9074da1",
@@ -27203,7 +27211,8 @@
     "usesCustomBank": true,
     "usesCustomSamples": true,
     "file": "Kingdom Hearts ReCoded/Castle Oblivion.mmrs",
-    "preview": "Kingdom Hearts ReCoded/Castle Oblivion.ogg"
+    "preview": "Kingdom Hearts ReCoded/Castle Oblivion.ogg",
+    "usesFormmask": false
   },
   {
     "uuid": "70b893cc-bccd-4855-9987-9396ab576978",
@@ -27225,7 +27234,8 @@
     "usesCustomBank": true,
     "usesCustomSamples": true,
     "file": "Shin Megami Tensei III Nocturne/Jakyou.mmrs",
-    "preview": "Shin Megami Tensei III Nocturne/Jakyou.ogg"
+    "preview": "Shin Megami Tensei III Nocturne/Jakyou.ogg",
+    "usesFormmask": false
   },
   {
     "uuid": "6713e88d-6380-4b10-a9f0-a4aae108fa08",
@@ -27245,7 +27255,8 @@
     "usesCustomBank": true,
     "usesCustomSamples": true,
     "file": "Banjo-Kazooie/Game Over (Grunty Laugh ver.).mmrs",
-    "preview": "Banjo-Kazooie/Game Over (Grunty Laugh ver.).mp3"
+    "preview": "Banjo-Kazooie/Game Over (Grunty Laugh ver.).mp3",
+    "usesFormmask": false
   },
   {
     "uuid": "8a89c09f-c19f-45ea-93d4-429440f42f13",
@@ -27265,7 +27276,8 @@
     "usesCustomBank": true,
     "usesCustomSamples": true,
     "file": "The Legend of Zelda Dawn and Dusk/Red Ice Cavern.mmrs",
-    "preview": "https://www.youtube.com/watch?v=qm-3X4PEChE&"
+    "preview": "https://www.youtube.com/watch?v=qm-3X4PEChE&",
+    "usesFormmask": false
   },
   {
     "uuid": "5d963d31-e85a-40bf-94e5-5ccba4ab9cf4",
@@ -27291,7 +27303,10 @@
       "6"
     ],
     "file": "The Legend of Zelda The Wind Waker/Dragon Roost Island (Variant A).mmrs",
-    "preview": "The Legend of Zelda The Wind Waker/Dragon Roost Island (Variant A).ogg"
+    "preview": "The Legend of Zelda The Wind Waker/Dragon Roost Island (Variant A).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "1657d744-6034-4166-9115-8dd086d7a426",
@@ -27317,7 +27332,8 @@
     "usesCustomBank": true,
     "usesCustomSamples": true,
     "file": "Pokémon Black & White/Accumula Town.mmrs",
-    "preview": "Pokémon Black & White/Accumula Town.ogg"
+    "preview": "Pokémon Black & White/Accumula Town.ogg",
+    "usesFormmask": false
   },
   {
     "uuid": "592a2ce9-29b7-4026-a9bf-b3e84a97888b",
@@ -27364,7 +27380,9 @@
     ],
     "usesCustomBank": true,
     "file": "The Legend of Zelda Dawn and Dusk/Dawngrove.mmrs",
-    "preview": "https://www.youtube.com/watch?v=RNcV5MGocrA&"
+    "preview": "https://www.youtube.com/watch?v=RNcV5MGocrA&",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "b3c46ff5-fba7-4777-ba64-2ef2b6a1119e",
@@ -27384,7 +27402,9 @@
     ],
     "usesCustomBank": true,
     "file": "Kingdom Hearts/Hollow Bastion.mmrs",
-    "preview": "Kingdom Hearts/Hollow Bastion.ogg"
+    "preview": "Kingdom Hearts/Hollow Bastion.ogg",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "49215ffb-16af-4b49-beed-55f0d73fb53c",
@@ -27405,7 +27425,9 @@
     ],
     "usesCustomBank": true,
     "file": "Chrono Cross/Grasslands (Jazz Guitar ver.).mmrs",
-    "preview": "Chrono Cross/Grasslands (Jazz Guitar ver.).ogg"
+    "preview": "Chrono Cross/Grasslands (Jazz Guitar ver.).ogg",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "19cf07a5-7770-4812-a751-52b64687243b",
@@ -27424,7 +27446,9 @@
     ],
     "usesCustomBank": true,
     "file": "Banjo-Tooie/Isle o' Hags.mmrs",
-    "preview": "Banjo-Tooie/Isle o' Hags.ogg"
+    "preview": "Banjo-Tooie/Isle o' Hags.ogg",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "31f56932-433d-45d8-9fae-3dc7640771a6",
@@ -27447,7 +27471,8 @@
     "usesCustomBank": true,
     "usesCustomSamples": true,
     "file": "Banjo-Kazooie/Cathedral (OOT Organ ver.).mmrs",
-    "preview": "Banjo-Kazooie/Cathedral (OOT Organ ver.).ogg"
+    "preview": "Banjo-Kazooie/Cathedral (OOT Organ ver.).ogg",
+    "usesFormmask": false
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

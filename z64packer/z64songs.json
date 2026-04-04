@@ -27293,5 +27293,31 @@
     "file": "The Legend of Zelda The Wind Waker/Dragon Roost Island (Variant A).mmrs",
     "preview": "The Legend of Zelda The Wind Waker/Dragon Roost Island (Variant A).ogg"
   },
+  {
+    "uuid": "1657d744-6034-4166-9115-8dd086d7a426",
+    "creationDate": "2026-04-04T17:11:16.325Z",
+    "game": "Pokémon Black & White",
+    "song": "Accumula Town",
+    "composers": [
+      "Shota Kageyama",
+      "Go Ichinose",
+      "Hitomi Sato",
+      "Junichi Masuda",
+      "Minako Adachi"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "Pokémon Black & White/Accumula Town.mmrs",
+    "preview": "Pokémon Black & White/Accumula Town.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

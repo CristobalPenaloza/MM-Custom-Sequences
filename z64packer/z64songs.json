@@ -27366,5 +27366,25 @@
     "file": "The Legend of Zelda Dawn and Dusk/Dawngrove.mmrs",
     "preview": "https://www.youtube.com/watch?v=RNcV5MGocrA&"
   },
+  {
+    "uuid": "b3c46ff5-fba7-4777-ba64-2ef2b6a1119e",
+    "creationDate": "2026-04-04T17:15:05.579Z",
+    "game": "Kingdom Hearts",
+    "song": "Hollow Bastion",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "16e"
+    ],
+    "usesCustomBank": true,
+    "file": "Kingdom Hearts/Hollow Bastion.mmrs",
+    "preview": "Kingdom Hearts/Hollow Bastion.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -27386,5 +27386,26 @@
     "file": "Kingdom Hearts/Hollow Bastion.mmrs",
     "preview": "Kingdom Hearts/Hollow Bastion.ogg"
   },
+  {
+    "uuid": "49215ffb-16af-4b49-beed-55f0d73fb53c",
+    "creationDate": "2026-04-04T17:15:47.077Z",
+    "game": "Chrono Cross",
+    "song": "Grasslands (Jazz Guitar ver.)",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Chrono Cross/Grasslands (Jazz Guitar ver.).mmrs",
+    "preview": "Chrono Cross/Grasslands (Jazz Guitar ver.).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

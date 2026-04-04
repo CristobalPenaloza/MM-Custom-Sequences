@@ -27426,5 +27426,28 @@
     "file": "Banjo-Tooie/Isle o' Hags.mmrs",
     "preview": "Banjo-Tooie/Isle o' Hags.ogg"
   },
+  {
+    "uuid": "31f56932-433d-45d8-9fae-3dc7640771a6",
+    "creationDate": "2026-04-04T17:17:04.717Z",
+    "game": "Banjo-Kazooie",
+    "song": "Cathedral (OOT Organ ver.)",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "Banjo-Kazooie/Cathedral (OOT Organ ver.).mmrs",
+    "preview": "Banjo-Kazooie/Cathedral (OOT Organ ver.).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

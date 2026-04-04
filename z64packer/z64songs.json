@@ -27205,5 +27205,27 @@
     "file": "Kingdom Hearts ReCoded/Castle Oblivion.mmrs",
     "preview": "Kingdom Hearts ReCoded/Castle Oblivion.ogg"
   },
+  {
+    "uuid": "70b893cc-bccd-4855-9987-9396ab576978",
+    "creationDate": "2026-04-04T16:59:07.790Z",
+    "game": "Shin Megami Tensei III: Nocturne",
+    "song": "Jakyou",
+    "composers": [
+      "Shoji Meguro"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "Shin Megami Tensei III Nocturne/Jakyou.mmrs",
+    "preview": "Shin Megami Tensei III Nocturne/Jakyou.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

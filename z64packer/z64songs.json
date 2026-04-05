@@ -28314,5 +28314,25 @@
     "file": "Final Fantasy IX/Bermecia Kingdom.mmrs",
     "preview": "Final Fantasy IX/Bermecia Kingdom.mp3"
   },
+  {
+    "uuid": "5900b71d-60e8-4fa0-ad50-7c20c1008da2",
+    "creationDate": "2026-04-05T14:16:37.597Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Forest Temple",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "The Legend of Zelda Ocarina of Time/Forest Temple.mmrs",
+    "preview": "The Legend of Zelda Ocarina of Time/Forest Temple.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

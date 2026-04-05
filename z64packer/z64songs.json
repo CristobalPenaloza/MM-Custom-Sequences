@@ -28357,5 +28357,25 @@
     "file": "The Legend of Zelda Ocarina of Time/Spirit Temple.mmrs",
     "preview": "The Legend of Zelda Ocarina of Time/Spirit Temple.mp3"
   },
+  {
+    "uuid": "483308a0-fc8a-4db4-a8a2-e7c7d2fa217b",
+    "creationDate": "2026-04-05T14:17:53.701Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Water Temple",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "The Legend of Zelda Ocarina of Time/Water Temple.mmrs",
+    "preview": "The Legend of Zelda Ocarina of Time/Water Temple.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

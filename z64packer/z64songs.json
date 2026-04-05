@@ -27717,5 +27717,25 @@
     "file": "Final Fantasy IX/Estogaza.mmrs",
     "preview": "Final Fantasy IX/Estogaza.ogg"
   },
+  {
+    "uuid": "469945f8-d705-4f8a-ac5b-bbd37d0e4f9c",
+    "creationDate": "2026-04-05T03:21:21.922Z",
+    "game": "Final Fantasy IX",
+    "song": "Stealthy Steiner",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "file": "Final Fantasy IX/Stealthy Steiner.mmrs",
+    "preview": "Final Fantasy IX/Stealthy Steiner.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

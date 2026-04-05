@@ -28101,5 +28101,25 @@
     "file": "Banjo-Kazooie/Cathedral.mmrs",
     "preview": "Banjo-Kazooie/Cathedral.ogg"
   },
+  {
+    "uuid": "ac55c81a-ef1e-4a42-8780-a84f370bad14",
+    "creationDate": "2026-04-05T03:48:57.097Z",
+    "game": "Banjo-Kazooie",
+    "song": "Final Battle",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "file": "Banjo-Kazooie/Final Battle.mmrs",
+    "preview": "Banjo-Kazooie/Final Battle.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

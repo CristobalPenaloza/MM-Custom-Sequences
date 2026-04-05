@@ -27482,5 +27482,24 @@
     "preview": "Banjo-Kazooie/Cathedral (OOT Organ ver.).ogg",
     "usesFormmask": false
   },
+  {
+    "uuid": "e7dc4f0f-75e1-4bb5-ade7-5db64d13417e",
+    "creationDate": "2026-04-05T02:42:33.181Z",
+    "game": "Chrono Cross",
+    "song": "Star Stealing Girl",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6"
+    ],
+    "file": "Chrono Cross/Star Stealing Girl.mmrs",
+    "preview": "Chrono Cross/Star Stealing Girl.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

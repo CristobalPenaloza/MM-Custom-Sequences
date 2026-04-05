@@ -28059,5 +28059,25 @@
     "file": "Banjo-Kazooie/Boggy's Race.mmrs",
     "preview": "Banjo-Kazooie/Boggy's Race.ogg"
   },
+  {
+    "uuid": "bb9f5424-1d59-4369-9f2f-c0916b52d876",
+    "creationDate": "2026-04-05T03:42:49.992Z",
+    "game": "Wave Race 64",
+    "song": "Drake Lake",
+    "composers": [
+      "Kazumi Totaka"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Wave Race 64/Drake Lake.mmrs",
+    "preview": "Wave Race 64/Drake Lake.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

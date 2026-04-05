@@ -583,10 +583,11 @@
       "2"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
     "usesFormmask": true,
     "file": "Banjo-Kazooie/Rusty Bucket Bay (Variant A).mmrs",
-    "preview": "https://www.youtube.com/watch?v=TaXoPdoooIw"
+    "preview": "https://www.youtube.com/watch?v=TaXoPdoooIw",
+    "lastUpdateDate": "2026-04-05T04:09:47.932Z",
+    "notes": "This version of the song changes if the player is swimming."
   },
   {
     "uuid": "81d23377-b622-4646-9482-51315e3b7406",

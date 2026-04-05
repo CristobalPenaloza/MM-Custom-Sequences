@@ -27864,5 +27864,26 @@
     "file": "Rune Factory 3 A Fantasy Harvest Moon/Dragon Cave.mmrs",
     "preview": "Rune Factory 3 A Fantasy Harvest Moon/Dragon Cave.ogg"
   },
+  {
+    "uuid": "201ec7af-0d1e-4511-aef3-cb008ef03339",
+    "creationDate": "2026-04-05T03:32:03.497Z",
+    "game": "Final Fantasy IX",
+    "song": "Terra's Theme",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "3",
+      "1",
+      "6"
+    ],
+    "file": "Final Fantasy IX/Terra's Theme.mmrs",
+    "preview": "Final Fantasy IX/Terra's Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

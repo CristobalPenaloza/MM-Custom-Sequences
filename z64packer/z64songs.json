@@ -28139,5 +28139,27 @@
     "file": "Banjo-Kazooie/Boggy's Race (Victory).mmrs",
     "preview": "Banjo-Kazooie/Boggy's Race (Victory).ogg"
   },
+  {
+    "uuid": "904fc963-5419-4cf5-bab7-74f92f475799",
+    "creationDate": "2026-04-05T03:50:13.467Z",
+    "game": "Super Mario 64",
+    "song": "Slider (Variant A)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "3",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "file": "Super Mario 64/Slider (Variant A).mmrs",
+    "preview": "Super Mario 64/Slider (Variant A).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -27647,5 +27647,26 @@
     "file": "The Legend of Zelda Twilight Princess/Castle Town (Variant A).mmrs",
     "preview": "The Legend of Zelda Twilight Princess/Castle Town (Variant A).ogg"
   },
+  {
+    "uuid": "bde1301d-1dc8-4563-9f67-3c276138e3c9",
+    "creationDate": "2026-04-05T03:18:40.211Z",
+    "game": "Kingdom Hearts 358/2 Days",
+    "song": "Spooky Town Brawl",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7",
+      "117",
+      "10E"
+    ],
+    "usesCustomBank": true,
+    "file": "Kingdom Hearts 3582 Days/Spooky Town Brawl.mmrs",
+    "preview": "Kingdom Hearts 3582 Days/Spooky Town Brawl.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

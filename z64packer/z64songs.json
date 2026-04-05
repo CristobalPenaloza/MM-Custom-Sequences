@@ -27908,5 +27908,27 @@
     "file": "Kirby 64 The Crystal Shards/Aqua Star.mmrs",
     "preview": "Kirby 64 The Crystal Shards/Aqua Star.ogg"
   },
+  {
+    "uuid": "01b16dd8-c2e6-46c7-a32f-8627e8c06162",
+    "creationDate": "2026-04-05T03:34:22.280Z",
+    "game": "Zelda 64: Dawn & Dusk",
+    "song": "Dusk Palace Gardens",
+    "composers": [
+      "Unknown"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Zelda 64 Dawn & Dusk/Dusk Palace Gardens.mmrs",
+    "preview": "https://www.youtube.com/watch?v=wij7qw5ePFE&"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

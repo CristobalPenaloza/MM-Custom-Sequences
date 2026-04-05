@@ -3244,5 +3244,14 @@
     "series": "Kingdom Hearts Series",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/d556b595eef47660153b8eddebbc2b12.png"
   },
+  {
+    "game": "Kingdom Hearts Birth by Sleep"
+  },
+  {
+    "game": "Rune Factory 3: A Fantasy Harvest Moon"
+  },
+  {
+    "game": "Trials of Mana"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -512,10 +512,11 @@
       "4"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
     "usesFormmask": true,
     "file": "Banjo-Kazooie/Freezeezy Peak (Variant A).mmrs",
-    "preview": "https://www.youtube.com/watch?v=uqEoykI2Zd0"
+    "preview": "https://www.youtube.com/watch?v=uqEoykI2Zd0",
+    "lastUpdateDate": "2026-04-05T04:10:46.468Z",
+    "notes": "This version of the song changes based on being in combat or while swimming."
   },
   {
     "uuid": "e6f2aabd-9e85-46b2-8bdc-2a620a7f2d79",

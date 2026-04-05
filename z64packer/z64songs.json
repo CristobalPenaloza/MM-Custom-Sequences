@@ -470,7 +470,7 @@
     "uuid": "53a730b9-009e-439c-9ae2-c5cd40222b61",
     "creationDate": "2026-03-06T16:37:13.543Z",
     "game": "Banjo-Kazooie",
-    "song": "Clanker's Cavern",
+    "song": "Clanker's Cavern (Variant A)",
     "composers": [
       "Grant Kirkhope"
     ],
@@ -485,9 +485,9 @@
     ],
     "usesCustomBank": true,
     "usesFormmask": true,
-    "file": "Banjo-Kazooie/Clanker's Cavern.mmrs",
+    "file": "Banjo-Kazooie/Clanker's Cavern (Variant A).mmrs",
     "preview": "https://www.youtube.com/watch?v=Q0jwAEfufuM",
-    "lastUpdateDate": "2026-04-05T03:54:04.883Z"
+    "lastUpdateDate": "2026-04-05T03:54:54.400Z"
   },
   {
     "uuid": "6931b2b1-a391-42f9-8794-f6a920d97ceb",

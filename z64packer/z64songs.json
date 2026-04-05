@@ -27693,5 +27693,29 @@
     "file": "Final Fantasy IX/Vamoalla Flamenco.mmrs",
     "preview": "Final Fantasy IX/Vamoalla Flamenco.ogg"
   },
+  {
+    "uuid": "07155b61-e850-4ca4-b3ca-10f83cad4f3c",
+    "creationDate": "2026-04-05T03:20:43.801Z",
+    "game": "Final Fantasy IX",
+    "song": "Estogaza",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6",
+      "113",
+      "130",
+      "165"
+    ],
+    "usesCustomBank": true,
+    "file": "Final Fantasy IX/Estogaza.mmrs",
+    "preview": "Final Fantasy IX/Estogaza.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

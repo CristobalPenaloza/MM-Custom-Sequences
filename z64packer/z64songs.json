@@ -27625,5 +27625,27 @@
     "file": "Kingdom Hearts II/Vim and Vigor.mmrs",
     "preview": "Kingdom Hearts II/Vim and Vigor.ogg"
   },
+  {
+    "uuid": "d831baa1-708b-4285-be10-a3bd8ed63481",
+    "creationDate": "2026-04-05T03:17:06.838Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Castle Town (Variant A)",
+    "composers": [
+      "Toru Minegishi",
+      "Asuka Ohta"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "The Legend of Zelda Twilight Princess/Castle Town (Variant A).mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Castle Town (Variant A).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

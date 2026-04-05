@@ -28253,5 +28253,233 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "uuid": "7e954f7f-0939-49ac-ae09-94cc3e26a0a9",
+    "creationDate": "2026-04-05T14:13:11.757Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Fire Temple (1.2 ver.)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "The Legend of Zelda Ocarina of Time/Fire Temple (1.2 ver.).mmrs",
+    "preview": "The Legend of Zelda Ocarina of Time/Fire Temple (1.2 ver.).mp3",
+    "lastUpdateDate": "2026-04-05T14:14:25.079Z"
+  },
+  {
+    "uuid": "0af1c6c3-a33a-4af8-9c05-32fe382fc104",
+    "creationDate": "2026-04-05T14:14:55.424Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Fire Temple (1.0 ver.)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "The Legend of Zelda Ocarina of Time/Fire Temple (1.0 ver.).mmrs",
+    "preview": "The Legend of Zelda Ocarina of Time/Fire Temple (1.0 ver.).mp3"
+  },
+  {
+    "uuid": "bbccad89-06d7-465d-b0d3-7574f3399123",
+    "creationDate": "2026-04-05T14:15:54.849Z",
+    "game": "Final Fantasy IX",
+    "song": "Bermecia Kingdom",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "Final Fantasy IX/Bermecia Kingdom.mmrs",
+    "preview": "Final Fantasy IX/Bermecia Kingdom.mp3"
+  },
+  {
+    "uuid": "5900b71d-60e8-4fa0-ad50-7c20c1008da2",
+    "creationDate": "2026-04-05T14:16:37.597Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Forest Temple",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "The Legend of Zelda Ocarina of Time/Forest Temple.mmrs",
+    "preview": "The Legend of Zelda Ocarina of Time/Forest Temple.mp3"
+  },
+  {
+    "uuid": "cdbbba31-532c-4d88-b0d5-6b868d0a6927",
+    "creationDate": "2026-04-05T14:17:16.333Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Spirit Temple",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "The Legend of Zelda Ocarina of Time/Spirit Temple.mmrs",
+    "preview": "The Legend of Zelda Ocarina of Time/Spirit Temple.mp3"
+  },
+  {
+    "uuid": "483308a0-fc8a-4db4-a8a2-e7c7d2fa217b",
+    "creationDate": "2026-04-05T14:17:53.701Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Water Temple",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "The Legend of Zelda Ocarina of Time/Water Temple.mmrs",
+    "preview": "The Legend of Zelda Ocarina of Time/Water Temple.mp3"
+  },
+  {
+    "uuid": "0a749ed9-f3a2-4dc1-bf5e-d9baf8ca2576",
+    "creationDate": "2026-04-05T14:18:31.226Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Deku Tree",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "The Legend of Zelda Ocarina of Time/Deku Tree.mmrs",
+    "preview": "The Legend of Zelda Ocarina of Time/Deku Tree.mp3"
+  },
+  {
+    "uuid": "e0683ace-5996-4e36-9910-26b5b058c8da",
+    "creationDate": "2026-04-05T14:19:23.687Z",
+    "game": "Banjo-Tooie",
+    "song": "Mr. Patch",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7",
+      "5"
+    ],
+    "usesCustomBank": true,
+    "file": "Banjo-Tooie/Mr. Patch.mmrs",
+    "preview": "Banjo-Tooie/Mr. Patch.mp3"
+  },
+  {
+    "uuid": "7dd6fd59-906f-4b3d-ace4-5bad25fbf984",
+    "creationDate": "2026-04-05T14:20:10.198Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Title Screen",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "16"
+    ],
+    "usesCustomBank": true,
+    "file": "The Legend of Zelda Ocarina of Time/Title Screen.mmrs",
+    "preview": "The Legend of Zelda Ocarina of Time/Intro.mp3",
+    "lastUpdateDate": "2026-04-05T14:21:26.441Z"
+  },
+  {
+    "uuid": "ab6a4f90-4559-47d8-a12f-eb0300b7f943",
+    "creationDate": "2026-04-05T14:22:33.215Z",
+    "game": "Super Mario 64",
+    "song": "Ultimate Koopa",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "Super Mario 64/Ultimate Koopa.mmrs",
+    "preview": "Super Mario 64/Ultimate Koopa.mp3"
+  },
+  {
+    "uuid": "e12303f0-c505-4080-90cc-2fb267c4fa06",
+    "creationDate": "2026-04-05T14:24:26.569Z",
+    "game": "Banjo-Kazooie",
+    "song": "Note Door Unlock",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "177",
+      "137",
+      "122",
+      "141"
+    ],
+    "file": "Banjo-Kazooie/Note Door Unlock.mmrs",
+    "preview": "Banjo-Kazooie/Note Door Unlock.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

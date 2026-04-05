@@ -27586,5 +27586,25 @@
     "file": "Banjo-Tooie/Ordnance Storage (Variant B).mmrs",
     "preview": "Banjo-Tooie/Ordnance Storage (Variant B).ogg"
   },
+  {
+    "uuid": "c89edc4f-ce9b-4024-bb6d-e0e2a86ffe46",
+    "creationDate": "2026-04-05T02:57:32.908Z",
+    "game": "Chrono Trigger",
+    "song": "Light of Silence",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "file": "Chrono Trigger/Light of Silence.mmrs",
+    "preview": "Chrono Trigger/Light of Silence.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -27936,7 +27936,7 @@
     "game": "Super Mario Galaxy",
     "song": "Space Junk Galaxy",
     "composers": [
-      "ahito Yokota",
+      "Mahito Yokota",
       "Koji Kondo"
     ],
     "converters": [
@@ -27951,7 +27951,8 @@
     ],
     "usesCustomBank": true,
     "file": "Super Mario Galaxy/Space Junk Galaxy.mmrs",
-    "preview": "Super Mario Galaxy/Space Junk Galaxy.ogg"
+    "preview": "Super Mario Galaxy/Space Junk Galaxy.ogg",
+    "lastUpdateDate": "2026-04-05T03:35:37.636Z"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

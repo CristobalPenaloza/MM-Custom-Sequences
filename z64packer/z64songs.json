@@ -673,10 +673,11 @@
       "2"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
     "usesFormmask": true,
     "file": "Banjo-Tooie/Hailfire Peak.mmrs",
-    "preview": "https://www.youtube.com/watch?v=WXGE-dzVJas"
+    "preview": "https://www.youtube.com/watch?v=WXGE-dzVJas",
+    "lastUpdateDate": "2026-04-05T04:08:03.382Z",
+    "notes": "This song changes based on transformation mask form and swimming"
   },
   {
     "uuid": "af14ce6b-dcbd-48ae-83c8-021438d1b116",

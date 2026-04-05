@@ -228,7 +228,7 @@
     "uuid": "467cb86b-312e-41a0-a720-fe799acf9c94",
     "creationDate": "2026-03-06T03:36:16.134Z",
     "game": "Banjo-Tooie",
-    "song": "Ordnance Storage",
+    "song": "Ordnance Storage (Variant A)",
     "composers": [
       "Grant Kirkhope"
     ],
@@ -239,11 +239,9 @@
     "categories": [
       "4"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "file": "Banjo-Tooie/Ordnance Storage.mmrs",
-    "preview": "https://www.youtube.com/watch?v=3WnHr2D7aqU"
+    "file": "Banjo-Tooie/Ordnance Storage (Variant A).mmrs",
+    "preview": "https://www.youtube.com/watch?v=3WnHr2D7aqU",
+    "lastUpdateDate": "2026-04-05T02:54:36.556Z"
   },
   {
     "uuid": "eda43975-ac6a-4010-a123-780b0cccfc8d",
@@ -472,7 +470,7 @@
     "uuid": "53a730b9-009e-439c-9ae2-c5cd40222b61",
     "creationDate": "2026-03-06T16:37:13.543Z",
     "game": "Banjo-Kazooie",
-    "song": "Clanker's Cavern",
+    "song": "Clanker's Cavern (Variant A)",
     "composers": [
       "Grant Kirkhope"
     ],
@@ -486,10 +484,10 @@
       "2"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
     "usesFormmask": true,
-    "file": "Banjo-Kazooie/Clanker's Cavern.mmrs",
-    "preview": "https://www.youtube.com/watch?v=Q0jwAEfufuM"
+    "file": "Banjo-Kazooie/Clanker's Cavern (Variant A).mmrs",
+    "preview": "https://www.youtube.com/watch?v=Q0jwAEfufuM",
+    "lastUpdateDate": "2026-04-05T03:54:54.400Z"
   },
   {
     "uuid": "6931b2b1-a391-42f9-8794-f6a920d97ceb",
@@ -27481,6 +27479,687 @@
     "file": "Banjo-Kazooie/Cathedral (OOT Organ ver.).mmrs",
     "preview": "Banjo-Kazooie/Cathedral (OOT Organ ver.).ogg",
     "usesFormmask": false
+  },
+  {
+    "uuid": "e7dc4f0f-75e1-4bb5-ade7-5db64d13417e",
+    "creationDate": "2026-04-05T02:42:33.181Z",
+    "game": "Chrono Cross",
+    "song": "Star Stealing Girl",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6"
+    ],
+    "file": "Chrono Cross/Star Stealing Girl.mmrs",
+    "preview": "Chrono Cross/Star Stealing Girl.ogg"
+  },
+  {
+    "uuid": "43bcb22f-6e43-4d2e-a993-5dc112ef80b9",
+    "creationDate": "2026-04-05T02:49:38.678Z",
+    "game": "Kingdom Hearts Birth by Sleep",
+    "song": "Night of Darkest Dream",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "6",
+      "113",
+      "117"
+    ],
+    "usesCustomBank": true,
+    "file": "Kingdom Hearts Birth by Sleep/Night of Darkest Dream.mmrs",
+    "preview": "Kingdom Hearts Birth by Sleep/Night of Darkest Dream.ogg"
+  },
+  {
+    "uuid": "3ce61862-b65a-4f26-bbbd-fcf7e2e8e6c5",
+    "creationDate": "2026-04-05T02:51:16.754Z",
+    "game": "The Legend of Zelda: Link's Awakening",
+    "song": "Color Dungeon",
+    "composers": [
+      "Kazumi Totaka",
+      "Minako Hamano",
+      "Kozue Ishikawa"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "6"
+    ],
+    "file": "The Legend of Zelda Link's Awakening/Color Dungeon.mmrs",
+    "preview": "The Legend of Zelda Link's Awakening/Color Dungeon.ogg"
+  },
+  {
+    "uuid": "4a0f5163-4dfe-48e8-ba89-6dedef727bab",
+    "creationDate": "2026-04-05T02:52:11.995Z",
+    "game": "Kingdom Hearts II",
+    "song": "Riku's Theme",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6"
+    ],
+    "file": "Kingdom Hearts II/Riku's Theme.mmrs",
+    "preview": "Kingdom Hearts II/Riku's Theme.ogg"
+  },
+  {
+    "uuid": "baa26c1e-03b2-4cab-a421-3459edb3ec48",
+    "creationDate": "2026-04-05T02:52:50.960Z",
+    "game": "Banjo-Tooie",
+    "song": "Ordnance Storage (Variant B)",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4",
+      "12F",
+      "142",
+      "13E",
+      "16A",
+      "11A",
+      "13B"
+    ],
+    "file": "Banjo-Tooie/Ordnance Storage (Variant B).mmrs",
+    "preview": "Banjo-Tooie/Ordnance Storage (Variant B).ogg"
+  },
+  {
+    "uuid": "c89edc4f-ce9b-4024-bb6d-e0e2a86ffe46",
+    "creationDate": "2026-04-05T02:57:32.908Z",
+    "game": "Chrono Trigger",
+    "song": "Light of Silence",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "file": "Chrono Trigger/Light of Silence.mmrs",
+    "preview": "Chrono Trigger/Light of Silence.ogg"
+  },
+  {
+    "uuid": "70b75f07-ae26-4f4e-9784-40e0bc3d914f",
+    "creationDate": "2026-04-05T03:16:14.764Z",
+    "game": "Kingdom Hearts II",
+    "song": "Vim and Vigor",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "file": "Kingdom Hearts II/Vim and Vigor.mmrs",
+    "preview": "Kingdom Hearts II/Vim and Vigor.ogg"
+  },
+  {
+    "uuid": "d831baa1-708b-4285-be10-a3bd8ed63481",
+    "creationDate": "2026-04-05T03:17:06.838Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Castle Town (Variant A)",
+    "composers": [
+      "Toru Minegishi",
+      "Asuka Ohta"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "The Legend of Zelda Twilight Princess/Castle Town (Variant A).mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Castle Town (Variant A).ogg"
+  },
+  {
+    "uuid": "bde1301d-1dc8-4563-9f67-3c276138e3c9",
+    "creationDate": "2026-04-05T03:18:40.211Z",
+    "game": "Kingdom Hearts 358/2 Days",
+    "song": "Spooky Town Brawl",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7",
+      "117",
+      "10E"
+    ],
+    "usesCustomBank": true,
+    "file": "Kingdom Hearts 3582 Days/Spooky Town Brawl.mmrs",
+    "preview": "Kingdom Hearts 3582 Days/Spooky Town Brawl.ogg",
+    "lastUpdateDate": "2026-04-05T03:19:06.389Z"
+  },
+  {
+    "uuid": "54a3566c-d4bd-4d0c-a0dd-87c59c2aefa6",
+    "creationDate": "2026-04-05T03:19:48.870Z",
+    "game": "Final Fantasy IX",
+    "song": "Vamoalla Flamenco",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "4",
+      "5",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "Final Fantasy IX/Vamoalla Flamenco.mmrs",
+    "preview": "Final Fantasy IX/Vamoalla Flamenco.ogg"
+  },
+  {
+    "uuid": "07155b61-e850-4ca4-b3ca-10f83cad4f3c",
+    "creationDate": "2026-04-05T03:20:43.801Z",
+    "game": "Final Fantasy IX",
+    "song": "Estogaza",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6",
+      "113",
+      "130",
+      "165"
+    ],
+    "usesCustomBank": true,
+    "file": "Final Fantasy IX/Estogaza.mmrs",
+    "preview": "Final Fantasy IX/Estogaza.ogg"
+  },
+  {
+    "uuid": "469945f8-d705-4f8a-ac5b-bbd37d0e4f9c",
+    "creationDate": "2026-04-05T03:21:21.922Z",
+    "game": "Final Fantasy IX",
+    "song": "Stealthy Steiner",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "file": "Final Fantasy IX/Stealthy Steiner.mmrs",
+    "preview": "Final Fantasy IX/Stealthy Steiner.ogg"
+  },
+  {
+    "uuid": "0d4d092a-d679-452b-aaf5-0951ef235fc9",
+    "creationDate": "2026-04-05T03:22:11.818Z",
+    "game": "Final Fantasy IX",
+    "song": "Kuja's Theme",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "2"
+    ],
+    "file": "Final Fantasy IX/Kuja's Theme.mmrs",
+    "preview": "Final Fantasy IX/Kuja's Theme.ogg"
+  },
+  {
+    "uuid": "2aa8db1d-702e-4976-bc83-11563c69b1e8",
+    "creationDate": "2026-04-05T03:22:46.045Z",
+    "game": "Final Fantasy IX",
+    "song": "South Gate",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "file": "Final Fantasy IX/South Gate.mmrs",
+    "preview": "Final Fantasy IX/South Gate.ogg"
+  },
+  {
+    "uuid": "0abf61e9-8190-431d-be73-35b7b3df2afb",
+    "creationDate": "2026-04-05T03:28:06.103Z",
+    "game": "Trials of Mana",
+    "song": "Powell",
+    "composers": [
+      "Hiroki Kikuta"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Trials of Mana/Powell.mmrs",
+    "preview": "Trials of Mana/Powell.ogg"
+  },
+  {
+    "uuid": "f6591ba9-4559-492c-9b70-a3d2d9b051c6",
+    "creationDate": "2026-04-05T03:28:40.591Z",
+    "game": "Chrono Trigger",
+    "song": "Schala's Theme (Variant A)",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Chrono Trigger/Schala's Theme (Variant A).mmrs",
+    "preview": "Chrono Trigger/Schala's Theme (Variant A).ogg"
+  },
+  {
+    "uuid": "d3f16fc7-21c8-4d04-af39-8927a3896144",
+    "creationDate": "2026-04-05T03:29:24.776Z",
+    "game": "Chrono Trigger",
+    "song": "Schala's Theme (Variant B)",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "Chrono Trigger/Schala's Theme (Variant B).mmrs",
+    "preview": "Chrono Trigger/Schala's Theme (Variant B).ogg"
+  },
+  {
+    "uuid": "bba98325-4055-4cf9-9ae5-4167e7b8bf8b",
+    "creationDate": "2026-04-05T03:30:38.686Z",
+    "game": "Rune Factory 3: A Fantasy Harvest Moon",
+    "song": "Dragon Cave",
+    "composers": [
+      "Tomoko Morita"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "file": "Rune Factory 3 A Fantasy Harvest Moon/Dragon Cave.mmrs",
+    "preview": "Rune Factory 3 A Fantasy Harvest Moon/Dragon Cave.ogg"
+  },
+  {
+    "uuid": "201ec7af-0d1e-4511-aef3-cb008ef03339",
+    "creationDate": "2026-04-05T03:32:03.497Z",
+    "game": "Final Fantasy IX",
+    "song": "Terra's Theme",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "3",
+      "1",
+      "6"
+    ],
+    "file": "Final Fantasy IX/Terra's Theme.mmrs",
+    "preview": "Final Fantasy IX/Terra's Theme.ogg"
+  },
+  {
+    "uuid": "7ca0faaf-e95b-412b-a5b4-2070fdc10cf6",
+    "creationDate": "2026-04-05T03:32:51.700Z",
+    "game": "Kirby 64: The Crystal Shards",
+    "song": "Aqua Star",
+    "composers": [
+      "Jun Ishikawa",
+      "Hirokazu Ando"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "1",
+      "5",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "file": "Kirby 64 The Crystal Shards/Aqua Star.mmrs",
+    "preview": "Kirby 64 The Crystal Shards/Aqua Star.ogg"
+  },
+  {
+    "uuid": "01b16dd8-c2e6-46c7-a32f-8627e8c06162",
+    "creationDate": "2026-04-05T03:34:22.280Z",
+    "game": "Zelda 64: Dawn & Dusk",
+    "song": "Dusk Palace Gardens",
+    "composers": [
+      "Unknown"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Zelda 64 Dawn & Dusk/Dusk Palace Gardens.mmrs",
+    "preview": "https://www.youtube.com/watch?v=wij7qw5ePFE&"
+  },
+  {
+    "uuid": "69f4ede3-e8b6-4e7a-b77e-8eb674f094ac",
+    "creationDate": "2026-04-05T03:35:10.740Z",
+    "game": "Super Mario Galaxy",
+    "song": "Space Junk Galaxy",
+    "composers": [
+      "Mahito Yokota",
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "4",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "file": "Super Mario Galaxy/Space Junk Galaxy.mmrs",
+    "preview": "Super Mario Galaxy/Space Junk Galaxy.ogg",
+    "lastUpdateDate": "2026-04-05T03:35:37.636Z"
+  },
+  {
+    "uuid": "62aa67db-cc9c-4291-9cff-bf5d301dd2e9",
+    "creationDate": "2026-04-05T03:36:29.021Z",
+    "game": "Super Mario Sunshine",
+    "song": "Sea and Sky",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "file": "Super Mario Sunshine/Sea and Sky.mmrs",
+    "preview": "Super Mario Sunshine/Sea and Sky.ogg"
+  },
+  {
+    "uuid": "85470eed-fff7-49c7-8af7-11e9682e2b5e",
+    "creationDate": "2026-04-05T03:39:39.019Z",
+    "game": "Chrono Trigger",
+    "song": "Millenial Fair",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "file": "Chrono Trigger/Millenial Fair.mmrs",
+    "preview": "Chrono Trigger/Millenial Fair.ogg"
+  },
+  {
+    "uuid": "438a6170-4064-4bff-b0a4-9819cb5c5297",
+    "creationDate": "2026-04-05T03:40:20.339Z",
+    "game": "Banjo-Kazooie",
+    "song": "Clanker's Cavern (Variant B)",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "file": "Banjo-Kazooie/Clanker's Cavern (Variant B).mmrs",
+    "preview": "Banjo-Kazooie/Clanker's Cavern (Variant B).ogg"
+  },
+  {
+    "uuid": "f61ff0bc-7e8b-4dac-8c3f-4a0ea966b5d7",
+    "creationDate": "2026-04-05T03:41:23.116Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Lavender Town",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Pokémon Red, Blue & Yellow/Lavender Town.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Lavender Town.ogg"
+  },
+  {
+    "uuid": "06f53be9-d4b0-48c8-9dc1-636ab455e96e",
+    "creationDate": "2026-04-05T03:41:57.951Z",
+    "game": "Banjo-Kazooie",
+    "song": "Boggy's Race",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "file": "Banjo-Kazooie/Boggy's Race.mmrs",
+    "preview": "Banjo-Kazooie/Boggy's Race.ogg"
+  },
+  {
+    "uuid": "bb9f5424-1d59-4369-9f2f-c0916b52d876",
+    "creationDate": "2026-04-05T03:42:49.992Z",
+    "game": "Wave Race 64",
+    "song": "Drake Lake",
+    "composers": [
+      "Kazumi Totaka"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Wave Race 64/Drake Lake.mmrs",
+    "preview": "Wave Race 64/Drake Lake.ogg"
+  },
+  {
+    "uuid": "bd856747-4573-4433-bd58-66220e5f7b5d",
+    "creationDate": "2026-04-05T03:46:54.401Z",
+    "game": "Banjo-Kazooie",
+    "song": "Cathedral",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Banjo-Kazooie/Cathedral.mmrs",
+    "preview": "Banjo-Kazooie/Cathedral.ogg"
+  },
+  {
+    "uuid": "ac55c81a-ef1e-4a42-8780-a84f370bad14",
+    "creationDate": "2026-04-05T03:48:57.097Z",
+    "game": "Banjo-Kazooie",
+    "song": "Final Battle",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "file": "Banjo-Kazooie/Final Battle.mmrs",
+    "preview": "Banjo-Kazooie/Final Battle.ogg"
+  },
+  {
+    "uuid": "9c0cc65f-61cb-4e7b-a25b-fb367ce612c7",
+    "creationDate": "2026-04-05T03:49:37.219Z",
+    "game": "Banjo-Kazooie",
+    "song": "Boggy's Race (Victory)",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "file": "Banjo-Kazooie/Boggy's Race (Victory).mmrs",
+    "preview": "Banjo-Kazooie/Boggy's Race (Victory).ogg"
+  },
+  {
+    "uuid": "904fc963-5419-4cf5-bab7-74f92f475799",
+    "creationDate": "2026-04-05T03:50:13.467Z",
+    "game": "Super Mario 64",
+    "song": "Slider (Variant A)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "3",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "file": "Super Mario 64/Slider (Variant A).mmrs",
+    "preview": "Super Mario 64/Slider (Variant A).ogg"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -27523,5 +27523,27 @@
     "file": "Kingdom Hearts Birth by Sleep/Night of Darkest Dream.mmrs",
     "preview": "Kingdom Hearts Birth by Sleep/Night of Darkest Dream.ogg"
   },
+  {
+    "uuid": "3ce61862-b65a-4f26-bbbd-fcf7e2e8e6c5",
+    "creationDate": "2026-04-05T02:51:16.754Z",
+    "game": "The Legend of Zelda: Link's Awakening",
+    "song": "Color Dungeon",
+    "composers": [
+      "Kazumi Totaka",
+      "Minako Hamano",
+      "Kozue Ishikawa"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "6"
+    ],
+    "file": "The Legend of Zelda Link's Awakening/Color Dungeon.mmrs",
+    "preview": "The Legend of Zelda Link's Awakening/Color Dungeon.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

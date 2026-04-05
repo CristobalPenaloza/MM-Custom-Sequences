@@ -28460,5 +28460,26 @@
     "file": "Super Mario 64/Ultimate Koopa.mmrs",
     "preview": "Super Mario 64/Ultimate Koopa.mp3"
   },
+  {
+    "uuid": "e12303f0-c505-4080-90cc-2fb267c4fa06",
+    "creationDate": "2026-04-05T14:24:26.569Z",
+    "game": "Banjo-Kazooie",
+    "song": "Note Door Unlock",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "177",
+      "137",
+      "122",
+      "141"
+    ],
+    "file": "Banjo-Kazooie/Note Door Unlock.mmrs",
+    "preview": "Banjo-Kazooie/Note Door Unlock.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

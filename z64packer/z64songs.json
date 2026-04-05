@@ -558,10 +558,11 @@
       "2"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
     "usesFormmask": true,
     "file": "Banjo-Kazooie/Mad Monster Mansion.mmrs",
-    "preview": "https://www.youtube.com/watch?v=a4-6lb3cXW4"
+    "preview": "https://www.youtube.com/watch?v=a4-6lb3cXW4",
+    "lastUpdateDate": "2026-04-05T04:07:31.595Z",
+    "notes": "This song changes based on combat and being underwater"
   },
   {
     "uuid": "c70f0234-364e-4bb3-9bc4-39828195af1e",

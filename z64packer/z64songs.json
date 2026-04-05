@@ -535,10 +535,11 @@
       "2"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
     "usesFormmask": true,
     "file": "Banjo-Kazooie/Gobi's Valley.mmrs",
-    "preview": "https://www.youtube.com/watch?v=RYrRouw4uhU"
+    "preview": "https://www.youtube.com/watch?v=RYrRouw4uhU",
+    "lastUpdateDate": "2026-04-05T04:09:03.869Z",
+    "notes": "This song changes based on being in combat or while swimming"
   },
   {
     "uuid": "e8703d70-86ea-4cb3-ab8e-cdae9a8933de",

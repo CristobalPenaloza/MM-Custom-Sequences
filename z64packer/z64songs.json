@@ -27844,5 +27844,25 @@
     "file": "Chrono Trigger/Schala's Theme (Variant B).mmrs",
     "preview": "Chrono Trigger/Schala's Theme (Variant B).ogg"
   },
+  {
+    "uuid": "bba98325-4055-4cf9-9ae5-4167e7b8bf8b",
+    "creationDate": "2026-04-05T03:30:38.686Z",
+    "game": "Rune Factory 3: A Fantasy Harvest Moon",
+    "song": "Dragon Cave",
+    "composers": [
+      "Tomoko Morita"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "file": "Rune Factory 3 A Fantasy Harvest Moon/Dragon Cave.mmrs",
+    "preview": "Rune Factory 3 A Fantasy Harvest Moon/Dragon Cave.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

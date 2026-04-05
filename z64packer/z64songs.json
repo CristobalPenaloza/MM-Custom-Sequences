@@ -27563,5 +27563,30 @@
     "file": "Kingdom Hearts II/Riku's Theme.mmrs",
     "preview": "Kingdom Hearts II/Riku's Theme.ogg"
   },
+  {
+    "uuid": "baa26c1e-03b2-4cab-a421-3459edb3ec48",
+    "creationDate": "2026-04-05T02:52:50.960Z",
+    "game": "Banjo-Tooie",
+    "song": "Ordnance Storage (Variant B)",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4",
+      "12F",
+      "142",
+      "13E",
+      "16A",
+      "11A",
+      "13B"
+    ],
+    "file": "Banjo-Tooie/Ordnance Storage (Variant B).mmrs",
+    "preview": "Banjo-Tooie/Ordnance Storage (Variant B).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

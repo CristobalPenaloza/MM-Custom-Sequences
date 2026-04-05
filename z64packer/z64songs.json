@@ -607,10 +607,11 @@
       "1"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
     "usesFormmask": true,
     "file": "Banjo-Kazooie/Spiral Mountain.mmrs",
-    "preview": "https://www.youtube.com/watch?v=yPz26RpFiuY"
+    "preview": "https://www.youtube.com/watch?v=yPz26RpFiuY",
+    "lastUpdateDate": "2026-04-05T04:12:29.647Z",
+    "notes": "This song changes while swimming."
   },
   {
     "uuid": "5df25d06-a1ab-488f-89d2-92a9976eab0a",

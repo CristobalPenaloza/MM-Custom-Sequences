@@ -27930,5 +27930,28 @@
     "file": "Zelda 64 Dawn & Dusk/Dusk Palace Gardens.mmrs",
     "preview": "https://www.youtube.com/watch?v=wij7qw5ePFE&"
   },
+  {
+    "uuid": "69f4ede3-e8b6-4e7a-b77e-8eb674f094ac",
+    "creationDate": "2026-04-05T03:35:10.740Z",
+    "game": "Super Mario Galaxy",
+    "song": "Space Junk Galaxy",
+    "composers": [
+      "ahito Yokota",
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "4",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "file": "Super Mario Galaxy/Space Junk Galaxy.mmrs",
+    "preview": "Super Mario Galaxy/Space Junk Galaxy.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

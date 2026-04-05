@@ -491,7 +491,8 @@
     "file": "Banjo-Kazooie/Clanker's Cavern (Variant A).mmrs",
     "preview": "https://www.youtube.com/watch?v=Q0jwAEfufuM",
     "lastUpdateDate": "2026-04-05T04:04:48.980Z",
-    "notes": "This version changes based on being underwater and deep underwater."
+    "notes": "This version changes based on being underwater and deep underwater.",
+    "usesCustomSamples": false
   },
   {
     "uuid": "6931b2b1-a391-42f9-8794-f6a920d97ceb",
@@ -516,7 +517,8 @@
     "file": "Banjo-Kazooie/Freezeezy Peak (Variant A).mmrs",
     "preview": "https://www.youtube.com/watch?v=uqEoykI2Zd0",
     "lastUpdateDate": "2026-04-05T04:10:46.468Z",
-    "notes": "This version of the song changes based on being in combat or while swimming."
+    "notes": "This version of the song changes based on being in combat or while swimming.",
+    "usesCustomSamples": false
   },
   {
     "uuid": "e6f2aabd-9e85-46b2-8bdc-2a620a7f2d79",
@@ -540,7 +542,8 @@
     "file": "Banjo-Kazooie/Gobi's Valley.mmrs",
     "preview": "https://www.youtube.com/watch?v=RYrRouw4uhU",
     "lastUpdateDate": "2026-04-05T04:09:03.869Z",
-    "notes": "This song changes based on being in combat or while swimming"
+    "notes": "This song changes based on being in combat or while swimming",
+    "usesCustomSamples": false
   },
   {
     "uuid": "e8703d70-86ea-4cb3-ab8e-cdae9a8933de",
@@ -564,7 +567,8 @@
     "file": "Banjo-Kazooie/Mad Monster Mansion.mmrs",
     "preview": "https://www.youtube.com/watch?v=a4-6lb3cXW4",
     "lastUpdateDate": "2026-04-05T04:07:31.595Z",
-    "notes": "This song changes based on combat and being underwater"
+    "notes": "This song changes based on combat and being underwater",
+    "usesCustomSamples": false
   },
   {
     "uuid": "c70f0234-364e-4bb3-9bc4-39828195af1e",
@@ -588,7 +592,8 @@
     "file": "Banjo-Kazooie/Rusty Bucket Bay (Variant A).mmrs",
     "preview": "https://www.youtube.com/watch?v=TaXoPdoooIw",
     "lastUpdateDate": "2026-04-05T04:09:47.932Z",
-    "notes": "This version of the song changes if the player is swimming."
+    "notes": "This version of the song changes if the player is swimming.",
+    "usesCustomSamples": false
   },
   {
     "uuid": "81d23377-b622-4646-9482-51315e3b7406",
@@ -611,7 +616,8 @@
     "file": "Banjo-Kazooie/Spiral Mountain.mmrs",
     "preview": "https://www.youtube.com/watch?v=yPz26RpFiuY",
     "lastUpdateDate": "2026-04-05T04:12:29.647Z",
-    "notes": "This song changes while swimming."
+    "notes": "This song changes while swimming.",
+    "usesCustomSamples": false
   },
   {
     "uuid": "5df25d06-a1ab-488f-89d2-92a9976eab0a",
@@ -635,7 +641,8 @@
     "file": "Banjo-Kazooie/Treasure Trove Cove.mmrs",
     "preview": "https://www.youtube.com/watch?v=MU897v1VhX4",
     "lastUpdateDate": "2026-04-05T04:13:00.769Z",
-    "notes": "This song changes based on being in combat or while swimming."
+    "notes": "This song changes based on being in combat or while swimming.",
+    "usesCustomSamples": false
   },
   {
     "uuid": "56250c32-1d5e-4eb4-a146-60a27bcc42a9",
@@ -659,7 +666,8 @@
     "file": "Banjo-Tooie/Grunty Industries.mmrs",
     "preview": "https://www.youtube.com/watch?v=ni3EsoQTrwQ",
     "lastUpdateDate": "2026-04-05T04:11:52.321Z",
-    "notes": "This song changes based on the transformation mask form, while in combat, or while swimming."
+    "notes": "This song changes based on the transformation mask form, while in combat, or while swimming.",
+    "usesCustomSamples": false
   },
   {
     "uuid": "2f408761-461f-4d88-97d7-01d036d2df2c",
@@ -683,7 +691,8 @@
     "file": "Banjo-Tooie/Hailfire Peak.mmrs",
     "preview": "https://www.youtube.com/watch?v=WXGE-dzVJas",
     "lastUpdateDate": "2026-04-05T04:08:03.382Z",
-    "notes": "This song changes based on transformation mask form and swimming"
+    "notes": "This song changes based on transformation mask form and swimming",
+    "usesCustomSamples": false
   },
   {
     "uuid": "af14ce6b-dcbd-48ae-83c8-021438d1b116",

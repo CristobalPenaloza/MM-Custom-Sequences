@@ -28399,5 +28399,25 @@
     "file": "The Legend of Zelda Ocarina of Time/Deku Tree.mmrs",
     "preview": "The Legend of Zelda Ocarina of Time/Deku Tree.mp3"
   },
+  {
+    "uuid": "e0683ace-5996-4e36-9910-26b5b058c8da",
+    "creationDate": "2026-04-05T14:19:23.687Z",
+    "game": "Banjo-Tooie",
+    "song": "Mr. Patch",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7",
+      "5"
+    ],
+    "usesCustomBank": true,
+    "file": "Banjo-Tooie/Mr. Patch.mmrs",
+    "preview": "Banjo-Tooie/Mr. Patch.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

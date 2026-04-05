@@ -28419,5 +28419,24 @@
     "file": "Banjo-Tooie/Mr. Patch.mmrs",
     "preview": "Banjo-Tooie/Mr. Patch.mp3"
   },
+  {
+    "uuid": "7dd6fd59-906f-4b3d-ace4-5bad25fbf984",
+    "creationDate": "2026-04-05T14:20:10.198Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Intro",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "16"
+    ],
+    "usesCustomBank": true,
+    "file": "The Legend of Zelda Ocarina of Time/Intro.mmrs",
+    "preview": "The Legend of Zelda Ocarina of Time/Intro.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

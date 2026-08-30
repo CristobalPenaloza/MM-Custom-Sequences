@@ -89148,7 +89148,7 @@
       "Toby Fox"
     ],
     "converters": [
-      "BigBomba88"
+      "Flieen"
     ],
     "lufs": "-17.46",
     "type": "bgm",
@@ -89157,7 +89157,8 @@
     ],
     "usesCustomBank": true,
     "file": "Deltarune/BURNING EYES.mmrs",
-    "preview": "https://www.youtube.com/watch?v=7UtNSCRniSQ"
+    "preview": "https://www.youtube.com/watch?v=7UtNSCRniSQ",
+    "lastUpdateDate": "2026-08-30T04:03:45.805Z"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

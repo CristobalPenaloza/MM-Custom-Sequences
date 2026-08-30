@@ -89278,5 +89278,30 @@
     "file": "Mario Kart DS/Delfino Square.mmrs",
     "preview": "Mario Kart DS/Delfino Square.mp3"
   },
+  {
+    "uuid": "59f80514-9237-4f66-b54b-51cea1850ebd",
+    "creationDate": "2026-08-30T04:50:56.993Z",
+    "game": "Super Mario World",
+    "song": "Athletic [2]",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "TheRealReliable"
+    ],
+    "notes": "Formmask: Bongos during Goron Spikerolling & while on Epona",
+    "lufs": "-21.13",
+    "type": "bgm",
+    "categories": [
+      "102",
+      "110",
+      "113"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": true,
+    "file": "Super Mario World/Athletic [2].mmrs",
+    "preview": "Super Mario World/Athletic [2].mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

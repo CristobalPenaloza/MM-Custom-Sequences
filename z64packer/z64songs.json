@@ -89139,5 +89139,25 @@
     "file": "Deltarune/Running Sky.mmrs",
     "preview": "Deltarune/Running Sky.mp3"
   },
+  {
+    "uuid": "d026d193-3639-4ce7-a579-175024d94948",
+    "creationDate": "2026-08-30T04:02:49.258Z",
+    "game": "Deltarune",
+    "song": "BURNING EYES",
+    "composers": [
+      "Toby Fox"
+    ],
+    "converters": [
+      "BigBomba88"
+    ],
+    "lufs": "-17.46",
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "file": "Deltarune/BURNING EYES.mmrs",
+    "preview": "https://www.youtube.com/watch?v=7UtNSCRniSQ"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

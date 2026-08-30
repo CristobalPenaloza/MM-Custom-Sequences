@@ -89303,5 +89303,30 @@
     "file": "Super Mario World/Athletic [2].mmrs",
     "preview": "Super Mario World/Athletic [2].mp3"
   },
+  {
+    "uuid": "0a2643ce-73cf-44ea-afb7-3533156e48ca",
+    "creationDate": "2026-08-30T04:52:03.898Z",
+    "game": "Super Mario World",
+    "song": "Athleeeeeeeeetic",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "TheRealReliable"
+    ],
+    "notes": "Formmask: Bongos during Goron Spikerolling & while on Epona",
+    "lufs": "-20.37",
+    "type": "bgm",
+    "categories": [
+      "102",
+      "110",
+      "113"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": true,
+    "file": "Super Mario World/Athleeeeeeeeetic.mmrs",
+    "preview": "Super Mario World/Athleeeeeeeeetic.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

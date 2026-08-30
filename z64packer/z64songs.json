@@ -89212,5 +89212,24 @@
     "file": "New Super Mario Bros. Wii/Volcano Underground.mmrs",
     "preview": "New Super Mario Bros. Wii/Volcano Underground.mp3"
   },
+  {
+    "uuid": "85d63860-2b1a-4405-b6bf-e61b10786579",
+    "creationDate": "2026-08-30T04:16:35.713Z",
+    "game": "The Legend of Zelda: Breath of the Wild",
+    "song": "Attack on Vah Medoh",
+    "composers": [
+      "Yasuaki Iwata"
+    ],
+    "converters": [
+      "sillyhorseradish"
+    ],
+    "lufs": "-13.20",
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "file": "The Legend of Zelda Breath of the Wild/Attack on Vah Medoh.mmrs",
+    "preview": "The Legend of Zelda Breath of the Wild/Attack on Vah Medoh.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

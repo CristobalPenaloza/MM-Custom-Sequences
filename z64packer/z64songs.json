@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -89112,6 +89112,32 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "hash": "b03838ffcad2e03f45c8ad1e1038a544"
+  },
+  {
+    "uuid": "df879b44-7818-403c-9297-81c93054e3fd",
+    "creationDate": "2026-08-30T04:00:21.561Z",
+    "game": "Deltarune",
+    "song": "Running Sky",
+    "composers": [
+      "Toby Fox"
+    ],
+    "converters": [
+      "BigBomba88"
+    ],
+    "lufs": "-17.06",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "4",
+      "5",
+      "7",
+      "157"
+    ],
+    "usesCustomBank": true,
+    "file": "Deltarune/Running Sky.mmrs",
+    "preview": "Deltarune/Running Sky.mp3"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

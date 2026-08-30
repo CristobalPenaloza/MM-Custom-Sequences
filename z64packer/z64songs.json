@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -89137,7 +89137,10 @@
     ],
     "usesCustomBank": true,
     "file": "Deltarune/Running Sky.mmrs",
-    "preview": "Deltarune/Running Sky.mp3"
+    "preview": "Deltarune/Running Sky.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "hash": "2c7db0267817e76919a10d230b7be804"
   },
   {
     "uuid": "d026d193-3639-4ce7-a579-175024d94948",
@@ -89158,7 +89161,10 @@
     "usesCustomBank": true,
     "file": "Deltarune/BURNING EYES.mmrs",
     "preview": "https://www.youtube.com/watch?v=7UtNSCRniSQ",
-    "lastUpdateDate": "2026-08-30T04:03:45.805Z"
+    "lastUpdateDate": "2026-08-30T04:03:45.805Z",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "hash": "60e2dda707449cf2597fb40e035134dc"
   },
   {
     "uuid": "806703e6-e9a0-4fda-88db-f14bcc1f3411",
@@ -89184,7 +89190,10 @@
     ],
     "usesCustomBank": true,
     "file": "Deltarune/Egg Room (Chapter 5).mmrs",
-    "preview": "Deltarune/Egg Room (Chapter 5).mp3"
+    "preview": "Deltarune/Egg Room (Chapter 5).mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "hash": "187df03f68d85ee3720575499dad034a"
   },
   {
     "uuid": "054238c1-b3aa-4da0-9e7b-7147aea997df",
@@ -89210,7 +89219,11 @@
       "113"
     ],
     "file": "New Super Mario Bros. Wii/Volcano Underground.mmrs",
-    "preview": "New Super Mario Bros. Wii/Volcano Underground.mp3"
+    "preview": "New Super Mario Bros. Wii/Volcano Underground.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "hash": "bbdfe31b23576273caa45e556e418136"
   },
   {
     "uuid": "85d63860-2b1a-4405-b6bf-e61b10786579",
@@ -89229,7 +89242,11 @@
       "7"
     ],
     "file": "The Legend of Zelda Breath of the Wild/Attack on Vah Medoh.mmrs",
-    "preview": "The Legend of Zelda Breath of the Wild/Attack on Vah Medoh.mp3"
+    "preview": "The Legend of Zelda Breath of the Wild/Attack on Vah Medoh.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "hash": "630953ce3280ba50cac94e6d0805752f"
   },
   {
     "uuid": "8cbc89b9-5e7e-49b7-8985-12fc40a3ee5a",
@@ -89253,7 +89270,10 @@
     ],
     "usesCustomBank": true,
     "file": "Deltarune/Monologue.mmrs",
-    "preview": "Deltarune/Monologue.mp3"
+    "preview": "Deltarune/Monologue.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "hash": "99be47450a9b21a5cdf327a7356524e5"
   },
   {
     "uuid": "874e7dbd-177b-40bd-90bd-9f8eb76ecc61",
@@ -89276,7 +89296,10 @@
     ],
     "usesCustomBank": true,
     "file": "Mario Kart DS/Delfino Square.mmrs",
-    "preview": "Mario Kart DS/Delfino Square.mp3"
+    "preview": "Mario Kart DS/Delfino Square.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "hash": "e913b56e9ae879e6982fa02555cc9b62"
   },
   {
     "uuid": "59f80514-9237-4f66-b54b-51cea1850ebd",
@@ -89301,7 +89324,8 @@
     "usesCustomSamples": true,
     "usesFormmask": true,
     "file": "Super Mario World/Athletic [2].mmrs",
-    "preview": "Super Mario World/Athletic [2].mp3"
+    "preview": "Super Mario World/Athletic [2].mp3",
+    "hash": "80bafa2b90b0c78e0b21cd5d31d932e5"
   },
   {
     "uuid": "0a2643ce-73cf-44ea-afb7-3533156e48ca",
@@ -89326,7 +89350,8 @@
     "usesCustomSamples": true,
     "usesFormmask": true,
     "file": "Super Mario World/Athleeeeeeeeetic.mmrs",
-    "preview": "Super Mario World/Athleeeeeeeeetic.mp3"
+    "preview": "Super Mario World/Athleeeeeeeeetic.mp3",
+    "hash": "587742de597dc386263a1af91b47d3fd"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

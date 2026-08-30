@@ -89186,5 +89186,31 @@
     "file": "Deltarune/Egg Room (Chapter 5).mmrs",
     "preview": "Deltarune/Egg Room (Chapter 5).mp3"
   },
+  {
+    "uuid": "054238c1-b3aa-4da0-9e7b-7147aea997df",
+    "creationDate": "2026-08-30T04:13:22.349Z",
+    "game": "New Super Mario Bros. Wii",
+    "song": "Volcano Underground",
+    "composers": [
+      "Shiho Fujii",
+      "Ryo Nagamatsu",
+      "Kenta Nagata"
+    ],
+    "converters": [
+      "Retroflex"
+    ],
+    "lufs": "-21.80",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3",
+      "6",
+      "16",
+      "113"
+    ],
+    "file": "New Super Mario Bros. Wii/Volcano Underground.mmrs",
+    "preview": "New Super Mario Bros. Wii/Volcano Underground.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

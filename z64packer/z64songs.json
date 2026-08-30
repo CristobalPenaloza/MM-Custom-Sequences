@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -89112,6 +89112,221 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "hash": "b03838ffcad2e03f45c8ad1e1038a544"
+  },
+  {
+    "uuid": "df879b44-7818-403c-9297-81c93054e3fd",
+    "creationDate": "2026-08-30T04:00:21.561Z",
+    "game": "Deltarune",
+    "song": "Running Sky",
+    "composers": [
+      "Toby Fox"
+    ],
+    "converters": [
+      "BigBomba88"
+    ],
+    "lufs": "-17.06",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "4",
+      "5",
+      "7",
+      "157"
+    ],
+    "usesCustomBank": true,
+    "file": "Deltarune/Running Sky.mmrs",
+    "preview": "Deltarune/Running Sky.mp3"
+  },
+  {
+    "uuid": "d026d193-3639-4ce7-a579-175024d94948",
+    "creationDate": "2026-08-30T04:02:49.258Z",
+    "game": "Deltarune",
+    "song": "BURNING EYES",
+    "composers": [
+      "Toby Fox"
+    ],
+    "converters": [
+      "Flieen"
+    ],
+    "lufs": "-17.46",
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "file": "Deltarune/BURNING EYES.mmrs",
+    "preview": "https://www.youtube.com/watch?v=7UtNSCRniSQ",
+    "lastUpdateDate": "2026-08-30T04:03:45.805Z"
+  },
+  {
+    "uuid": "806703e6-e9a0-4fda-88db-f14bcc1f3411",
+    "creationDate": "2026-08-30T04:08:55.726Z",
+    "game": "Deltarune",
+    "song": "Egg Room (Chapter 5)",
+    "composers": [
+      "Toby Fox",
+      "Trevor Alan Gomes"
+    ],
+    "converters": [
+      "BigBomba88"
+    ],
+    "notes": "Scarlet Forest excerpt from DELTARUNE Piano Collections by Trevor Alan Gomes",
+    "lufs": "-17.91",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6",
+      "16",
+      "157"
+    ],
+    "usesCustomBank": true,
+    "file": "Deltarune/Egg Room (Chapter 5).mmrs",
+    "preview": "Deltarune/Egg Room (Chapter 5).mp3"
+  },
+  {
+    "uuid": "054238c1-b3aa-4da0-9e7b-7147aea997df",
+    "creationDate": "2026-08-30T04:13:22.349Z",
+    "game": "New Super Mario Bros. Wii",
+    "song": "Volcano Underground",
+    "composers": [
+      "Shiho Fujii",
+      "Ryo Nagamatsu",
+      "Kenta Nagata"
+    ],
+    "converters": [
+      "Retroflex"
+    ],
+    "lufs": "-21.80",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3",
+      "6",
+      "16",
+      "113"
+    ],
+    "file": "New Super Mario Bros. Wii/Volcano Underground.mmrs",
+    "preview": "New Super Mario Bros. Wii/Volcano Underground.mp3"
+  },
+  {
+    "uuid": "85d63860-2b1a-4405-b6bf-e61b10786579",
+    "creationDate": "2026-08-30T04:16:35.713Z",
+    "game": "The Legend of Zelda: Breath of the Wild",
+    "song": "Attack on Vah Medoh",
+    "composers": [
+      "Yasuaki Iwata"
+    ],
+    "converters": [
+      "sillyhorseradish"
+    ],
+    "lufs": "-13.20",
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "file": "The Legend of Zelda Breath of the Wild/Attack on Vah Medoh.mmrs",
+    "preview": "The Legend of Zelda Breath of the Wild/Attack on Vah Medoh.mp3"
+  },
+  {
+    "uuid": "8cbc89b9-5e7e-49b7-8985-12fc40a3ee5a",
+    "creationDate": "2026-08-30T04:24:36.622Z",
+    "game": "Deltarune",
+    "song": "Monologue",
+    "composers": [
+      "Toby Fox"
+    ],
+    "converters": [
+      "BigBomba88"
+    ],
+    "lufs": "-14.21",
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "5",
+      "6",
+      "157"
+    ],
+    "usesCustomBank": true,
+    "file": "Deltarune/Monologue.mmrs",
+    "preview": "Deltarune/Monologue.mp3"
+  },
+  {
+    "uuid": "874e7dbd-177b-40bd-90bd-9f8eb76ecc61",
+    "creationDate": "2026-08-30T04:29:57.233Z",
+    "game": "Mario Kart DS",
+    "song": "Delfino Square",
+    "composers": [
+      "Shinobu Tanaka"
+    ],
+    "converters": [
+      "BigBomba88"
+    ],
+    "lufs": "-15.99",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "file": "Mario Kart DS/Delfino Square.mmrs",
+    "preview": "Mario Kart DS/Delfino Square.mp3"
+  },
+  {
+    "uuid": "59f80514-9237-4f66-b54b-51cea1850ebd",
+    "creationDate": "2026-08-30T04:50:56.993Z",
+    "game": "Super Mario World",
+    "song": "Athletic [2]",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "TheRealReliable"
+    ],
+    "notes": "Formmask: Bongos during Goron Spikerolling & while on Epona",
+    "lufs": "-21.13",
+    "type": "bgm",
+    "categories": [
+      "102",
+      "110",
+      "113"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": true,
+    "file": "Super Mario World/Athletic [2].mmrs",
+    "preview": "Super Mario World/Athletic [2].mp3"
+  },
+  {
+    "uuid": "0a2643ce-73cf-44ea-afb7-3533156e48ca",
+    "creationDate": "2026-08-30T04:52:03.898Z",
+    "game": "Super Mario World",
+    "song": "Athleeeeeeeeetic",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "TheRealReliable"
+    ],
+    "notes": "Formmask: Bongos during Goron Spikerolling & while on Epona",
+    "lufs": "-20.37",
+    "type": "bgm",
+    "categories": [
+      "102",
+      "110",
+      "113"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": true,
+    "file": "Super Mario World/Athleeeeeeeeetic.mmrs",
+    "preview": "Super Mario World/Athleeeeeeeeetic.mp3"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -89160,5 +89160,31 @@
     "preview": "https://www.youtube.com/watch?v=7UtNSCRniSQ",
     "lastUpdateDate": "2026-08-30T04:03:45.805Z"
   },
+  {
+    "uuid": "806703e6-e9a0-4fda-88db-f14bcc1f3411",
+    "creationDate": "2026-08-30T04:08:55.726Z",
+    "game": "Deltarune",
+    "song": "Egg Room (Chapter 5)",
+    "composers": [
+      "Toby Fox",
+      "Trevor Alan Gomes"
+    ],
+    "converters": [
+      "BigBomba88"
+    ],
+    "notes": "Scarlet Forest excerpt from DELTARUNE Piano Collections by Trevor Alan Gomes",
+    "lufs": "-17.91",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6",
+      "16",
+      "157"
+    ],
+    "usesCustomBank": true,
+    "file": "Deltarune/Egg Room (Chapter 5).mmrs",
+    "preview": "Deltarune/Egg Room (Chapter 5).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

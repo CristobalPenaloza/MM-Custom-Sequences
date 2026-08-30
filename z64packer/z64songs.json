@@ -89231,5 +89231,29 @@
     "file": "The Legend of Zelda Breath of the Wild/Attack on Vah Medoh.mmrs",
     "preview": "The Legend of Zelda Breath of the Wild/Attack on Vah Medoh.mp3"
   },
+  {
+    "uuid": "8cbc89b9-5e7e-49b7-8985-12fc40a3ee5a",
+    "creationDate": "2026-08-30T04:24:36.622Z",
+    "game": "Deltarune",
+    "song": "Monologue",
+    "composers": [
+      "Toby Fox"
+    ],
+    "converters": [
+      "BigBomba88"
+    ],
+    "lufs": "-14.21",
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "5",
+      "6",
+      "157"
+    ],
+    "usesCustomBank": true,
+    "file": "Deltarune/Monologue.mmrs",
+    "preview": "Deltarune/Monologue.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

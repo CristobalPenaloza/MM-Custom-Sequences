@@ -88967,7 +88967,7 @@
   {
     "uuid": "11adda0e-f204-46a9-8e39-01ac63299286",
     "creationDate": "2026-08-29T20:49:01.445Z",
-    "game": "Yakuza 0",
+    "game": "Memes",
     "song": "Pledge of Demon",
     "composers": [
       "Hidenori Shoji"
@@ -88980,12 +88980,10 @@
     "categories": [
       "7"
     ],
-    "file": "Yakuza 0/Pledge of Demon.mmrs",
-    "preview": "Yakuza 0/Pledge of Demon.mp3",
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "hash": "7996fa4bbeb403269ac5674ceb533ab2"
+    "file": "Memes/Pledge of Demon.mmrs",
+    "preview": "Memes/Pledge of Demon.mp3",
+    "hash": "7996fa4bbeb403269ac5674ceb533ab2",
+    "lastUpdateDate": "2026-09-06T03:42:49.990Z"
   },
   {
     "uuid": "b96c9e46-a497-4fb4-98e7-cd5fa1c69e2c",

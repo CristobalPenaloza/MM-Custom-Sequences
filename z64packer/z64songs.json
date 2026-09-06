@@ -89196,7 +89196,7 @@
   {
     "uuid": "8cbc89b9-5e7e-49b7-8985-12fc40a3ee5a",
     "creationDate": "2026-08-30T04:24:36.622Z",
-    "game": "Deltarune",
+    "game": "Memes",
     "song": "Monologue",
     "composers": [
       "Toby Fox"
@@ -89214,11 +89214,10 @@
       "157"
     ],
     "usesCustomBank": true,
-    "file": "Deltarune/Monologue.mmrs",
-    "preview": "Deltarune/Monologue.mp3",
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "hash": "99be47450a9b21a5cdf327a7356524e5"
+    "file": "Memes/Monologue.mmrs",
+    "preview": "Memes/Monologue.mp3",
+    "hash": "99be47450a9b21a5cdf327a7356524e5",
+    "lastUpdateDate": "2026-09-06T18:11:36.551Z"
   },
   {
     "uuid": "874e7dbd-177b-40bd-90bd-9f8eb76ecc61",

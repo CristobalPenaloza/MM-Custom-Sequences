@@ -62358,7 +62358,7 @@
   {
     "uuid": "a1021da8-dd7a-418c-8adf-bf145db0a983",
     "creationDate": "2026-05-16T00:53:19.553Z",
-    "game": "Tales of Symphonia",
+    "game": "Memes",
     "song": "Old Familiar Scent of Iselia",
     "composers": [
       "Motoi Sakuraba",
@@ -62374,11 +62374,9 @@
     ],
     "file": "Tales of Symphonia/Old Familiar Scent of Iselia.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Tales of Symphonia/Old Familiar Scent of Iselia.mp3",
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "lufs": "-16.91",
-    "hash": "93b6cd97ac20c0a04923f9953409b85a"
+    "hash": "93b6cd97ac20c0a04923f9953409b85a",
+    "lastUpdateDate": "2026-09-06T02:10:29.620Z"
   },
   {
     "uuid": "07956929-c902-4503-afdd-9e984de6c933",

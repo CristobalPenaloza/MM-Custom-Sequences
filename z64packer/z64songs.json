@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -87934,7 +87934,7 @@
     "lufs": "-17.02"
   },
   {
-    "game": "Family Guy",
+    "game": "Memes",
     "song": "I'm Not Taking My Sneakers Off",
     "composers": [
       "Seth MacFarlane?"
@@ -87955,8 +87955,8 @@
     ],
     "usesCustomBank": true,
     "usesCustomSamples": true,
-    "usesFormmask": false,
-    "lufs": "-27.84"
+    "lufs": "-27.84",
+    "lastUpdateDate": "2026-09-06T01:59:54.619Z"
   },
   {
     "game": "New York Times Crossword",

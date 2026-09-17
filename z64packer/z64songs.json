@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -97344,6 +97344,25 @@
     ],
     "usesCustomSamples": false,
     "usesFormmask": false
+  },
+  {
+    "uuid": "88d67e7a-da63-44e4-987c-9b2a3a000094",
+    "creationDate": "2026-09-17T23:33:51.809Z",
+    "game": "Dragon Quest III: The Seeds of Salvation",
+    "song": "Adventure",
+    "composers": [
+      "Koichi Sugiyama"
+    ],
+    "converters": [
+      "Tolin"
+    ],
+    "lufs": "-21.56",
+    "file": "Dragon Quest III The Seeds of Salvation/Adventure.mmrs",
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "preview": "Dragon Quest III The Seeds of Salvation/Adventure.mp3"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

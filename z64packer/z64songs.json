@@ -103858,5 +103858,26 @@
     "usesCustomBank": true,
     "preview": "Banjo-Kazooie Jiggies of Time/Lon Lon Park.mp3"
   },
+  {
+    "uuid": "691eb84d-a133-4e09-9000-2ae2c051c537",
+    "creationDate": "2026-10-19T18:57:29.807Z",
+    "game": "Donkey Kong 64",
+    "song": "Angry Aztec (Temple) [2]",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Cmellz"
+    ],
+    "lufs": "-19.88",
+    "file": "Donkey Kong 64/Angry Aztec (Temple) [2].mmrs",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "preview": "Donkey Kong 64/Angry Aztec (Temple) [2].mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

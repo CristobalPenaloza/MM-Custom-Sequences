@@ -103834,5 +103834,29 @@
     ],
     "preview": "Dragon Quest III The Seeds of Salvation/Adventure.mp3"
   },
+  {
+    "uuid": "238a0aea-0558-48e6-a235-2c78ca987f7c",
+    "creationDate": "2026-10-19T18:50:38.449Z",
+    "game": "Banjo-Kazooie: Jiggies of Time",
+    "song": "Lon Lon Park",
+    "composers": [
+      "Grant Kirkhope",
+      "Koji Kondo",
+      "Grybo"
+    ],
+    "converters": [
+      "Cmellz"
+    ],
+    "lufs": "-16.72",
+    "file": "Banjo-Kazooie Jiggies of Time/Lon Lon Park.mmrs",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "preview": "Banjo-Kazooie Jiggies of Time/Lon Lon Park.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

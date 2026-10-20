@@ -103879,5 +103879,25 @@
     "usesCustomBank": true,
     "preview": "Donkey Kong 64/Angry Aztec (Temple) [2].mp3"
   },
+  {
+    "uuid": "2eaafcc1-be23-424e-8aa7-464fddb991a8",
+    "creationDate": "2026-10-20T00:36:45.267Z",
+    "game": "AriahKS",
+    "song": "Dirge of Lost Souls",
+    "composers": [
+      "AriahKS"
+    ],
+    "converters": [
+      "AriahKS"
+    ],
+    "lufs": "-21.53",
+    "file": "AriahKS/Dirge of Lost Souls.mmrs",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "preview": "AriahKS/Dirge of Lost Souls.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

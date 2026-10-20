@@ -103816,25 +103816,6 @@
     "lufs": "-14.73"
   },
   {
-    "uuid": "88d67e7a-da63-44e4-987c-9b2a3a000094",
-    "creationDate": "2026-09-17T23:33:51.809Z",
-    "game": "Dragon Quest III: The Seeds of Salvation",
-    "song": "Adventure",
-    "composers": [
-      "Koichi Sugiyama"
-    ],
-    "converters": [
-      "Tolin"
-    ],
-    "lufs": "-21.56",
-    "file": "Dragon Quest III The Seeds of Salvation/Adventure.mmrs",
-    "type": "bgm",
-    "categories": [
-      "0"
-    ],
-    "preview": "Dragon Quest III The Seeds of Salvation/Adventure.mp3"
-  },
-  {
     "uuid": "238a0aea-0558-48e6-a235-2c78ca987f7c",
     "creationDate": "2026-10-19T18:50:38.449Z",
     "game": "Banjo-Kazooie: Jiggies of Time",

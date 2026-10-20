@@ -103920,5 +103920,26 @@
     ],
     "preview": "Homestuck/Doctor.mp3"
   },
+  {
+    "uuid": "8242946d-0ebb-4ca4-abb4-6587e45f25be",
+    "creationDate": "2026-10-20T00:38:53.602Z",
+    "game": "Homestuck",
+    "song": "Sburban Jungle",
+    "composers": [
+      "Michael Guy Bowman"
+    ],
+    "converters": [
+      "AriahKS"
+    ],
+    "lufs": "-9.82",
+    "file": "Homestuck/Sburban Jungle.mmrs",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "preview": "Homestuck/Sburban Jungle.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

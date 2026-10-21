@@ -102881,16 +102881,17 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X Corrupted/Normal Boss Battle.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Mega Man X Corrupted/Normal Boss Battle.mp3",
     "hash": "ccf8e7faa50b3154b0ad82c57ae0cc54",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-15.83"
+    "lufs": "-15.83",
+    "lastUpdateDate": "2026-10-21T19:07:54.761Z",
+    "composers": [
+      "Dominic Ninmark"
+    ]
   },
   {
     "uuid": "54b59ace-4a51-4743-a491-8b2b1d769b78",

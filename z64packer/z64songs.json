@@ -59028,7 +59028,7 @@
     "game": "Nintendo 3DS",
     "song": "Internet Settings",
     "composers": [
-      "Unknown"
+      "Kazumi Totaka"
     ],
     "converters": [
       "Asra"
@@ -59042,12 +59042,10 @@
     ],
     "file": "Nintendo 3DS/Internet Settings.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Nintendo 3DS/Internet Settings.mp3",
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "lufs": "-17.52",
     "hash": "7e91af3dcf81fe95d4b7c54453a06b2d",
-    "isCrossGame": true
+    "isCrossGame": true,
+    "lastUpdateDate": "2026-10-21T18:28:20.153Z"
   },
   {
     "uuid": "12634e4b-0c17-4e98-a18d-bfe7d04da686",

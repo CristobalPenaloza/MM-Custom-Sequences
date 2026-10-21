@@ -103533,17 +103533,18 @@
       "5",
       "6"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Super Smash Bros. Melee/Mother.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Super Smash Bros. Melee/Mother.mp3",
     "hash": "f4a44e1fbaab1c40e6f858c431af95f0",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-16.60"
+    "lufs": "-16.60",
+    "lastUpdateDate": "2026-10-21T19:55:40.127Z",
+    "composers": [
+      "Keiichi Suzuki",
+      "Hirokazu Tanaka"
+    ]
   },
   {
     "uuid": "67566b49-ef30-4ee9-a2e5-58f2e7b58c75",

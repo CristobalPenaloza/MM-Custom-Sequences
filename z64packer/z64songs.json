@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -103834,7 +103834,11 @@
       "6"
     ],
     "usesCustomBank": true,
-    "preview": "Star Trek Voyager/Main Theme.mp3"
+    "preview": "Star Trek Voyager/Main Theme.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "dc4425c8536a05ec1a9bf5023f03fcfa"
   },
   {
     "uuid": "3485b582-0b12-4a18-985e-ecbc76c9f71a",

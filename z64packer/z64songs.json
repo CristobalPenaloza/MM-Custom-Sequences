@@ -103507,16 +103507,17 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Super Smash Bros. Melee/Mother [2].mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Super Smash Bros. Melee/Mother [2].mp3",
     "hash": "fd2ee40698604882fa0eea5fd3567d89",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-16.70"
+    "lufs": "-16.70",
+    "lastUpdateDate": "2026-10-21T19:56:50.041Z",
+    "composers": [
+      "Shogo Sakai"
+    ]
   },
   {
     "uuid": "433208d9-39e6-40ac-a02f-8f3590e890a8",

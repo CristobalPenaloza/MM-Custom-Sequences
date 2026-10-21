@@ -103412,16 +103412,18 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Spider-Man & Venom Maximum Carnage/Heroic Assault [2].mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Spider-Man & Venom Maximum Carnage/Heroic Assault [2].mp3",
     "hash": "42236d1a01aa76bad1695f24edeb446c",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-16.85"
+    "lufs": "-16.85",
+    "lastUpdateDate": "2026-10-21T19:30:19.808Z",
+    "composers": [
+      "Chris Jojo",
+      "Allister Brimble"
+    ]
   },
   {
     "uuid": "d1ef1ac1-e0db-4614-a5d2-34224788ca02",

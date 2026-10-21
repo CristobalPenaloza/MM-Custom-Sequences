@@ -102859,17 +102859,17 @@
       "1",
       "2"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X Corrupted/Crystal Rafflar [2].mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Mega Man X Corrupted/Crystal Rafflar [2].mp3",
     "hash": "13b20ab9c95f35c7b077df195a2af733",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-12.82"
+    "lufs": "-12.82",
+    "lastUpdateDate": "2026-10-21T19:07:26.133Z",
+    "composers": [
+      "Dominic Ninmark"
+    ]
   },
   {
     "uuid": "be4384e3-15ea-4bef-93b3-142b8f25183d",

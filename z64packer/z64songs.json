@@ -103233,9 +103233,6 @@
       "5",
       "6"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "isCrossGame": true,
     "file": "Pocky & Rocky/Rocky's Message [Clarinet].mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Pocky & Rocky/Rocky's Message [Clarinet].mp3",
@@ -103243,7 +103240,11 @@
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-12.68"
+    "lufs": "-12.68",
+    "lastUpdateDate": "2026-10-21T19:22:58.081Z",
+    "composers": [
+      "Hiroyuki Iwatsuki"
+    ]
   },
   {
     "uuid": "f79e4c88-7cad-46d8-83ff-e235fb8979f1",

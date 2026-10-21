@@ -103030,16 +103030,20 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man Zero 4/Holy Land [2].mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Mega Man Zero 4/Holy Land [2].mp3",
     "hash": "515eb1bbcbfbf7ad3d3b5bb599bb787e",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-17.46"
+    "lufs": "-17.46",
+    "lastUpdateDate": "2026-10-21T19:16:18.762Z",
+    "composers": [
+      "Ippo Yamada",
+      "Masaki Suzuki",
+      "Luna Umegaki",
+      "Shinichi Itakura"
+    ]
   },
   {
     "uuid": "941b5c25-33f7-4ceb-8738-d1168a7ebaa1",

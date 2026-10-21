@@ -103621,16 +103621,18 @@
       "3"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "The Legend of Zelda Phantom Hourglass/Island Life.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/The Legend of Zelda Phantom Hourglass/Island Life.mp3",
     "hash": "ca4e8e3c0038a880efb06822cae142aa",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-19.23"
+    "lufs": "-19.23",
+    "lastUpdateDate": "2026-10-21T19:37:19.960Z",
+    "composers": [
+      "Toru Minegishi",
+      "Kenta Nagata"
+    ]
   },
   {
     "uuid": "3c803508-ecbb-41be-9296-1d5530067c14",

@@ -74430,11 +74430,12 @@
       "3",
       "4"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "lufs": "-21.09",
-    "isCrossGame": true
+    "isCrossGame": true,
+    "lastUpdateDate": "2026-10-21T18:32:54.267Z",
+    "composers": [
+      "Grant Kirkhope"
+    ]
   },
   {
     "game": "Donkey Kong 64",

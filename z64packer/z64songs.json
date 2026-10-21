@@ -102710,16 +102710,17 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Guilty Gear XX/Simple Life -Bridget’s Theme-.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Guilty Gear XX/Simple Life -Bridget’s Theme-.mp3",
     "hash": "c63a0184eeada3c141ab51710a8543ea",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-14.49"
+    "lufs": "-14.49",
+    "lastUpdateDate": "2026-10-21T18:38:47.652Z",
+    "composers": [
+      "Daisuke Ishiwatari"
+    ]
   },
   {
     "uuid": "6fb70e18-b2de-4b9e-9bf3-8b0b1f284068",

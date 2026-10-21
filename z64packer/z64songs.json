@@ -102975,16 +102975,17 @@
       "0"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man Zero 2/Departure.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Mega Man Zero 2/Departure.mp3",
     "hash": "2dd0f81e38589c16b595d512a22090b6",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-15.71"
+    "lufs": "-15.71",
+    "lastUpdateDate": "2026-10-21T19:14:38.850Z",
+    "composers": [
+      "Inti Creates"
+    ]
   },
   {
     "uuid": "d24c5411-1b31-47c7-8321-6e853bb49cf9",

@@ -103258,17 +103258,17 @@
       "2",
       "5"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Raiden/Fighting Thunder.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Raiden/Fighting Thunder.mp3",
     "hash": "7f2f558524229c0c165db9d6810158b8",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-17.76"
+    "lufs": "-17.76",
+    "lastUpdateDate": "2026-10-21T19:23:53.931Z",
+    "composers": [
+      "Akira Sato"
+    ]
   },
   {
     "uuid": "7fb38226-4158-405b-8c16-ceb55ec3e1b2",

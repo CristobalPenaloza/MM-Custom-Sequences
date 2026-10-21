@@ -103388,16 +103388,17 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Sonic Unleashed/Windmill Isle (Day) [2].mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Sonic Unleashed/Windmill Isle (Day) [2].mp3",
     "hash": "8a99198e92df0446023cff63076bdd71",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-14.61"
+    "lufs": "-14.61",
+    "lastUpdateDate": "2026-10-21T19:27:28.793Z",
+    "composers": [
+      "Tomoya Ohtani"
+    ]
   },
   {
     "uuid": "245bb0f7-b98a-49fc-88fa-04c1db5a4e42",

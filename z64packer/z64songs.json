@@ -102391,8 +102391,6 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "isCrossGame": true,
     "file": "Dark Cloud/King's Curse.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Dark Cloud/King's Curse.mp3",
@@ -102400,7 +102398,11 @@
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-10.95"
+    "lufs": "-10.95",
+    "lastUpdateDate": "2026-10-21T18:31:12.203Z",
+    "composers": [
+      "Tomohito Nishiura"
+    ]
   },
   {
     "uuid": "a919d291-4cc4-4592-8df3-ecc661caba80",

@@ -103361,16 +103361,17 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Sonic the Hedgehog (8-bit)/Scrap Brain Zone[Saxophone].mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Sonic the Hedgehog (8-bit)/Scrap Brain Zone[Saxophone].mp3",
     "hash": "fba32790442c5ae4bff149dcf1d9b1fb",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-16.19"
+    "lufs": "-16.19",
+    "lastUpdateDate": "2026-10-21T19:28:35.751Z",
+    "composers": [
+      "Yuzo Koshiro"
+    ]
   },
   {
     "uuid": "930358e0-f2b9-4fcc-99b2-97530ee1e6dd",

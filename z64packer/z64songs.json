@@ -103186,16 +103186,17 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Persona 4/The Fog.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Persona 4/The Fog.mp3",
     "hash": "6092028a75424682384b259c410066d0",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-13.85"
+    "lufs": "-13.85",
+    "lastUpdateDate": "2026-10-21T19:52:47.741Z",
+    "composers": [
+      "Shoji Meguro"
+    ]
   },
   {
     "uuid": "d15b36f3-32f2-4cd1-b55d-272d43def504",

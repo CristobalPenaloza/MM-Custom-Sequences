@@ -102835,16 +102835,18 @@
       "2"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man 7/Walk the Invisible.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Mega Man 7/Walk the Invisible.mp3",
     "hash": "46b6e4387f3a968dfd6b47c91a36eb89",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-18.05"
+    "lufs": "-18.05",
+    "lastUpdateDate": "2026-10-21T19:03:45.541Z",
+    "composers": [
+      "Yuko Takehara",
+      "Toshihiko Horiyama"
+    ]
   },
   {
     "uuid": "9b9028ec-11bb-48cb-b13f-80bd93d87d44",

@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -59045,7 +59045,10 @@
     "lufs": "-17.52",
     "hash": "7e91af3dcf81fe95d4b7c54453a06b2d",
     "isCrossGame": true,
-    "lastUpdateDate": "2026-10-21T18:28:20.153Z"
+    "lastUpdateDate": "2026-10-21T18:28:20.153Z",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "12634e4b-0c17-4e98-a18d-bfe7d04da686",
@@ -74435,7 +74438,10 @@
     "lastUpdateDate": "2026-10-21T18:32:54.267Z",
     "composers": [
       "Grant Kirkhope"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "game": "Donkey Kong 64",
@@ -102328,7 +102334,10 @@
     "lastUpdateDate": "2026-10-21T19:46:50.937Z",
     "composers": [
       "Yoshito Hirano"
-    ]
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "b2d7cf46-0545-42ad-9e13-71f154c566dd",
@@ -102353,7 +102362,10 @@
     "lastUpdateDate": "2026-10-21T19:47:21.779Z",
     "composers": [
       "Yoshito Hirano"
-    ]
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "9aeae576-aa86-4f01-ba50-385a74d20f20",
@@ -102379,7 +102391,10 @@
     "lastUpdateDate": "2026-10-21T18:26:42.060Z",
     "composers": [
       "Bynine"
-    ]
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "77f76457-0b6b-401f-a5e6-557cd0932af8",
@@ -102405,7 +102420,9 @@
     "lastUpdateDate": "2026-10-21T18:31:12.203Z",
     "composers": [
       "Tomohito Nishiura"
-    ]
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "a919d291-4cc4-4592-8df3-ecc661caba80",
@@ -102433,7 +102450,10 @@
     "lastUpdateDate": "2026-10-21T18:31:55.970Z",
     "composers": [
       "Tomohito Nishiura"
-    ]
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "acf121bc-dabb-40ae-9f41-9b330add263a",
@@ -102722,7 +102742,10 @@
     "lastUpdateDate": "2026-10-21T18:38:47.652Z",
     "composers": [
       "Daisuke Ishiwatari"
-    ]
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "6fb70e18-b2de-4b9e-9bf3-8b0b1f284068",
@@ -102749,7 +102772,10 @@
     "lastUpdateDate": "2026-10-21T19:49:16.072Z",
     "composers": [
       "Noriyuki Iwadare"
-    ]
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "11c5c4ba-ab1e-4dbf-aa7f-c36f8e0e037e",
@@ -102801,7 +102827,10 @@
     "lastUpdateDate": "2026-10-21T19:02:20.468Z",
     "composers": [
       "Mari Yamaguchi"
-    ]
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "fc344df1-8d6f-44b4-8b90-435e622e5eff",
@@ -102826,7 +102855,9 @@
     "lastUpdateDate": "2026-10-21T19:03:11.952Z",
     "composers": [
       "Makoto Tomozawa"
-    ]
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "2519b205-1f41-456e-afa3-b817d87f34ee",
@@ -102849,7 +102880,10 @@
     "composers": [
       "Yuko Takehara",
       "Toshihiko Horiyama"
-    ]
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "9b9028ec-11bb-48cb-b13f-80bd93d87d44",
@@ -102872,7 +102906,11 @@
     "lastUpdateDate": "2026-10-21T19:07:26.133Z",
     "composers": [
       "Dominic Ninmark"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "be4384e3-15ea-4bef-93b3-142b8f25183d",
@@ -102894,7 +102932,10 @@
     "lastUpdateDate": "2026-10-21T19:07:54.761Z",
     "composers": [
       "Dominic Ninmark"
-    ]
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "54b59ace-4a51-4743-a491-8b2b1d769b78",
@@ -102941,7 +102982,11 @@
     "lastUpdateDate": "2026-10-21T19:09:09.760Z",
     "composers": [
       "Dominic Ninmark"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "d5199692-aca7-419b-957f-69a264ae3e3f",
@@ -102966,7 +103011,10 @@
     "lastUpdateDate": "2026-10-21T19:09:58.047Z",
     "composers": [
       "Dominic Ninmark"
-    ]
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "4d283aab-3be1-4b94-b968-e806d22af3c6",
@@ -102988,7 +103036,10 @@
     "lastUpdateDate": "2026-10-21T19:14:38.850Z",
     "composers": [
       "Inti Creates"
-    ]
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "d24c5411-1b31-47c7-8321-6e853bb49cf9",
@@ -103015,7 +103066,11 @@
     "lastUpdateDate": "2026-10-21T19:15:20.221Z",
     "composers": [
       "Luna Umegaki"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "d354d685-ee62-44ac-8890-b63043ed9ec0",
@@ -103046,7 +103101,10 @@
       "Masaki Suzuki",
       "Luna Umegaki",
       "Shinichi Itakura"
-    ]
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "941b5c25-33f7-4ceb-8738-d1168a7ebaa1",
@@ -103067,7 +103125,11 @@
     "lastUpdateDate": "2026-10-21T19:50:57.450Z",
     "composers": [
       "Ippo Yamada"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "1b27d6b5-5b38-4ec1-83c9-a4977903dbfb",
@@ -103089,7 +103151,10 @@
     "lastUpdateDate": "2026-10-21T19:18:32.094Z",
     "composers": [
       "Shoji Meguro"
-    ]
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "e28ed15a-d02f-46bd-8978-83274692ee3b",
@@ -103118,7 +103183,10 @@
     "lastUpdateDate": "2026-10-21T19:51:38.219Z",
     "composers": [
       "Shoji Meguro"
-    ]
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "479a9fee-3bee-47a2-906e-b3d0667f59f7",
@@ -103145,7 +103213,11 @@
     "lastUpdateDate": "2026-10-21T19:20:12.043Z",
     "composers": [
       "Shoji Meguro"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "30daa485-67ef-45cd-925b-4c87560b9fb7",
@@ -103174,7 +103246,10 @@
     "lastUpdateDate": "2026-10-21T19:52:20.931Z",
     "composers": [
       "Shoji Meguro"
-    ]
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "8f69b570-8b34-40b1-bc15-8cb9a27257f8",
@@ -103196,7 +103271,10 @@
     "lastUpdateDate": "2026-10-21T19:52:47.741Z",
     "composers": [
       "Shoji Meguro"
-    ]
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "d15b36f3-32f2-4cd1-b55d-272d43def504",
@@ -103225,7 +103303,10 @@
     "composers": [
       "Shoji Meguro",
       "Atsushi Kitajoh"
-    ]
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "54db82e7-1cdb-4c12-b369-d43240564984",
@@ -103252,7 +103333,10 @@
     "lastUpdateDate": "2026-10-21T19:22:58.081Z",
     "composers": [
       "Hiroyuki Iwatsuki"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "f79e4c88-7cad-46d8-83ff-e235fb8979f1",
@@ -103276,7 +103360,11 @@
     "lastUpdateDate": "2026-10-21T19:23:53.931Z",
     "composers": [
       "Akira Sato"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "7fb38226-4158-405b-8c16-ceb55ec3e1b2",
@@ -103324,7 +103412,10 @@
     "lastUpdateDate": "2026-10-21T19:26:21.048Z",
     "composers": [
       "Tee Lopes"
-    ]
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "a741d405-e206-47be-8a1f-a6fa94a5792d",
@@ -103379,7 +103470,10 @@
     "lastUpdateDate": "2026-10-21T19:28:35.751Z",
     "composers": [
       "Yuzo Koshiro"
-    ]
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "930358e0-f2b9-4fcc-99b2-97530ee1e6dd",
@@ -103407,7 +103501,10 @@
     "lastUpdateDate": "2026-10-21T19:27:28.793Z",
     "composers": [
       "Tomoya Ohtani"
-    ]
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "245bb0f7-b98a-49fc-88fa-04c1db5a4e42",
@@ -103431,7 +103528,10 @@
     "composers": [
       "Chris Jojo",
       "Allister Brimble"
-    ]
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "d1ef1ac1-e0db-4614-a5d2-34224788ca02",
@@ -103460,7 +103560,10 @@
       "Shinji Hosoe",
       "Ayako Saso",
       "Takayuki Aihara"
-    ]
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "31763e93-6b02-4fd5-be6a-61803a394141",
@@ -103489,7 +103592,10 @@
       "Shinji Hosoe",
       "Ayako Saso",
       "Takayuki Aihara"
-    ]
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "c66703d4-ec9f-43fb-8305-3c5036155478",
@@ -103517,7 +103623,10 @@
     "lastUpdateDate": "2026-10-21T19:56:50.041Z",
     "composers": [
       "Shogo Sakai"
-    ]
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "433208d9-39e6-40ac-a02f-8f3590e890a8",
@@ -103544,7 +103653,11 @@
     "lastUpdateDate": "2026-10-21T19:56:16.656Z",
     "composers": [
       "Shogo Sakai"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "67566b49-ef30-4ee9-a2e5-58f2e7b58c75",
@@ -103567,7 +103680,10 @@
     "composers": [
       "Motoi Sakuraba",
       "Shinji Tamura"
-    ]
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "51227093-6b8f-4932-9d90-348b9d16d541",
@@ -103590,7 +103706,10 @@
     "composers": [
       "Motoi Sakuraba",
       "Shinji Tamura"
-    ]
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "15d08d4d-b07d-4512-9cf5-60dc30d774ed",
@@ -103617,7 +103736,10 @@
     "composers": [
       "Kazuhiko Uehara",
       "Harumi Ueko"
-    ]
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "f9bc9913-3dd4-471d-b2cb-16ba543b3847",
@@ -103641,7 +103763,10 @@
     "composers": [
       "Toru Minegishi",
       "Kenta Nagata"
-    ]
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "3c803508-ecbb-41be-9296-1d5530067c14",
@@ -103670,7 +103795,10 @@
     "lastUpdateDate": "2026-10-21T19:38:36.795Z",
     "composers": [
       "ZUN"
-    ]
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "f1982a66-cba3-4afe-bb73-d7aaea634203",
@@ -103796,7 +103924,10 @@
     "lastUpdateDate": "2026-10-21T19:41:39.774Z",
     "composers": [
       "Toby Fox"
-    ]
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "078f2dd1-7732-4d39-9c37-b699bbc504c2",
@@ -103818,7 +103949,10 @@
     "lastUpdateDate": "2026-10-21T19:43:06.758Z",
     "composers": [
       "BenLab"
-    ]
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "f8194730-a4f8-459f-9ac6-fc9b21665fa2",
@@ -103842,7 +103976,10 @@
     "composers": [
       "Mieko Ishikawa",
       "Yukihiro Jindo"
-    ]
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "f354188c-8893-4657-ace7-f86b429965ed",
@@ -103866,7 +104003,10 @@
     "composers": [
       "Mieko Ishikawa",
       "Yukihiro Jindo"
-    ]
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "238a0aea-0558-48e6-a235-2c78ca987f7c",

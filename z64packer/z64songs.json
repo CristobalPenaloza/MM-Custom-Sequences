@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -103814,6 +103814,27 @@
       "SeitanTaisen"
     ],
     "lufs": "-14.73"
+  },
+  {
+    "uuid": "cc443170-40f3-488c-bd39-1138c5baa225",
+    "creationDate": "2026-10-18T03:38:33.860Z",
+    "game": "Star Trek: Voyager",
+    "song": "Main Theme",
+    "composers": [
+      "Jerry Goldsmith"
+    ],
+    "converters": [
+      "Asticky"
+    ],
+    "lufs": "-19.02",
+    "file": "Star Trek Voyager/Main Theme.mmrs",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "preview": "Star Trek Voyager/Main Theme.mp3"
   },
   {
     "uuid": "3485b582-0b12-4a18-985e-ecbc76c9f71a",

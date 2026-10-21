@@ -102739,16 +102739,17 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Lunar Silver Star Story/Street Corner.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Lunar Silver Star Story/Street Corner.mp3",
     "hash": "cbd6d7a3d7f354376ce93a87a5ba1ef2",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-15.24"
+    "lufs": "-15.24",
+    "lastUpdateDate": "2026-10-21T19:49:16.072Z",
+    "composers": [
+      "Noriyuki Iwadare"
+    ]
   },
   {
     "uuid": "11c5c4ba-ab1e-4dbf-aa7f-c36f8e0e037e",

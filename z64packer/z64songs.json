@@ -103799,16 +103799,17 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Undertale No More Deals/Chara Battle.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Undertale No More Deals/Chara Battle.mp3",
     "hash": "e486fb14dabb0ee9ffd8970ef7c29d62",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-18.01"
+    "lufs": "-18.01",
+    "lastUpdateDate": "2026-10-21T19:43:06.758Z",
+    "composers": [
+      "BenLab"
+    ]
   },
   {
     "uuid": "f8194730-a4f8-459f-9ac6-fc9b21665fa2",

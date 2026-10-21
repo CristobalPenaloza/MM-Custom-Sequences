@@ -103164,16 +103164,17 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Persona 4/I'll Face Myself.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Persona 4/I'll Face Myself.mp3",
     "hash": "ee46328eae85f5054fca1d861aac88e8",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-14.63"
+    "lufs": "-14.63",
+    "lastUpdateDate": "2026-10-21T19:52:20.931Z",
+    "composers": [
+      "Shoji Meguro"
+    ]
   },
   {
     "uuid": "8f69b570-8b34-40b1-bc15-8cb9a27257f8",

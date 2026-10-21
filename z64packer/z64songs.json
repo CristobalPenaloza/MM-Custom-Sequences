@@ -102318,16 +102318,17 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Advance Wars 2 Black Hole Rising/Andy's Anthem.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Advance Wars 2/Andy's Anthem.mp3",
     "hash": "3c5a3e61d90f99b71e10855d594d43c3",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-15.36"
+    "lufs": "-15.36",
+    "lastUpdateDate": "2026-10-21T19:46:50.937Z",
+    "composers": [
+      "Yoshito Hirano"
+    ]
   },
   {
     "uuid": "b2d7cf46-0545-42ad-9e13-71f154c566dd",

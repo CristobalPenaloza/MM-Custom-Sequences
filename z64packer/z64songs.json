@@ -103108,16 +103108,17 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Persona 3 FES/Heartful Cry.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Persona 3 FES/Heartful Cry.mp3",
     "hash": "19bfc059ea895770c762eb4b3597b1a1",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-16.60"
+    "lufs": "-16.60",
+    "lastUpdateDate": "2026-10-21T19:51:38.219Z",
+    "composers": [
+      "Shoji Meguro"
+    ]
   },
   {
     "uuid": "479a9fee-3bee-47a2-906e-b3d0667f59f7",

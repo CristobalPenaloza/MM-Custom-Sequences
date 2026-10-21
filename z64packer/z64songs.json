@@ -103831,16 +103831,18 @@
       "2"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Ys The Oath in Felghana/Valestein Castle [Guitar].mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Ys The Oath in Felghana/Valestein Castle [Guitar].mp3",
     "hash": "c0d787b196baeecbe24acc381ae519ba",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-14.86"
+    "lufs": "-14.86",
+    "lastUpdateDate": "2026-10-21T19:59:37.451Z",
+    "composers": [
+      "Mieko Ishikawa",
+      "Yukihiro Jindo"
+    ]
   },
   {
     "uuid": "f354188c-8893-4657-ace7-f86b429965ed",

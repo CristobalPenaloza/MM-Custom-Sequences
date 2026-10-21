@@ -103002,17 +103002,17 @@
       "5",
       "6"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man Zero 4/Esperanto [2].mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Mega Man Zero 4/Esperanto [2].mp3",
     "hash": "20a1cadbfc29d3e477ecd88dc726a11f",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-14.02"
+    "lufs": "-14.02",
+    "lastUpdateDate": "2026-10-21T19:15:20.221Z",
+    "composers": [
+      "Luna Umegaki"
+    ]
   },
   {
     "uuid": "d354d685-ee62-44ac-8890-b63043ed9ec0",

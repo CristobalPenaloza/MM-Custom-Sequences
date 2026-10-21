@@ -103131,17 +103131,17 @@
       "5",
       "6"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Persona 4/Heaven [2].mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Persona 4/Heaven [2].mp3",
     "hash": "0dae2b0d010c63b93a9c46310b1aa80c",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-14.19"
+    "lufs": "-14.19",
+    "lastUpdateDate": "2026-10-21T19:20:12.043Z",
+    "composers": [
+      "Shoji Meguro"
+    ]
   },
   {
     "uuid": "30daa485-67ef-45cd-925b-4c87560b9fb7",

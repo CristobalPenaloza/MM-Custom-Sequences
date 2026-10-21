@@ -103855,16 +103855,18 @@
       "2"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Ys The Oath in Felghana/Valestein Castle [Trumpet].mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Ys The Oath in Felghana/Valestein Castle [Trumpet].mp3",
     "hash": "3e02d0d8de0f9f9403a99b24fa1aed6c",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-14.73"
+    "lufs": "-14.73",
+    "lastUpdateDate": "2026-10-21T20:00:03.185Z",
+    "composers": [
+      "Mieko Ishikawa",
+      "Yukihiro Jindo"
+    ]
   },
   {
     "uuid": "238a0aea-0558-48e6-a235-2c78ca987f7c",

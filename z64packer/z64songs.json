@@ -102343,16 +102343,17 @@
       "3"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Advance Wars 2 Black Hole Rising/Eagle's Theme.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Advance Wars 2/Eagle's Theme.mp3",
     "hash": "3f33562af226be7af2bcd62b70bd6827",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-18.21"
+    "lufs": "-18.21",
+    "lastUpdateDate": "2026-10-21T19:47:21.779Z",
+    "composers": [
+      "Yoshito Hirano"
+    ]
   },
   {
     "uuid": "9aeae576-aa86-4f01-ba50-385a74d20f20",

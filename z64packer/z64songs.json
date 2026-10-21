@@ -103570,16 +103570,18 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Tales of Rebirth/Scutum Fang.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Tales of Rebirth/Scutum Fang.mp3",
     "hash": "241c99233311b5bfc208e9806354f92f",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-15.85"
+    "lufs": "-15.85",
+    "lastUpdateDate": "2026-10-21T19:36:24.754Z",
+    "composers": [
+      "Motoi Sakuraba",
+      "Shinji Tamura"
+    ]
   },
   {
     "uuid": "15d08d4d-b07d-4512-9cf5-60dc30d774ed",

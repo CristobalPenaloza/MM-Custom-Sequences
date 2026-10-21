@@ -103440,16 +103440,19 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Street Fighter EX Plus Alpha/Amusementive Crime [2].mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Street Fighter EX Plus Alpha/Amusementive Crime [2].mp3",
     "hash": "0fdc20c9129ba5a1b44681baac99fcd6",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-13.27"
+    "lufs": "-13.27",
+    "lastUpdateDate": "2026-10-21T19:32:28.889Z",
+    "composers": [
+      "Shinji Hosoe",
+      "Ayako Saso",
+      "Takayuki Aihara"
+    ]
   },
   {
     "uuid": "31763e93-6b02-4fd5-be6a-61803a394141",

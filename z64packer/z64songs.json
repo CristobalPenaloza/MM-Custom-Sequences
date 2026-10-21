@@ -102420,16 +102420,17 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Dark Cloud/Main Theme (Bossa Nova Version) [Guitar].mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Dark Cloud/Main Theme (Bossa Nova Version) [Guitar].mp3",
     "hash": "0e502f39d4fa574c8b268904a32ec9d3",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-16.37"
+    "lufs": "-16.37",
+    "lastUpdateDate": "2026-10-21T18:31:55.970Z",
+    "composers": [
+      "Tomohito Nishiura"
+    ]
   },
   {
     "uuid": "acf121bc-dabb-40ae-9f41-9b330add263a",

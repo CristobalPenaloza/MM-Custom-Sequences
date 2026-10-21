@@ -102812,8 +102812,6 @@
       "3"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "isCrossGame": true,
     "file": "Mega Man 7/Intro Stage.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Mega Man 7/Intro Stage.mp3",
@@ -102821,7 +102819,11 @@
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-15.99"
+    "lufs": "-15.99",
+    "lastUpdateDate": "2026-10-21T19:03:11.952Z",
+    "composers": [
+      "Makoto Tomozawa"
+    ]
   },
   {
     "uuid": "2519b205-1f41-456e-afa3-b817d87f34ee",

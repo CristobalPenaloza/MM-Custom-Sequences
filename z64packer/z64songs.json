@@ -103306,16 +103306,17 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Sonic Mania/Egg Reverie Zone.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Sonic Mania/Egg Reverie Zone.mp3",
     "hash": "f805bb4542100dd92ed1760980b68bb5",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-14.11"
+    "lufs": "-14.11",
+    "lastUpdateDate": "2026-10-21T19:26:21.048Z",
+    "composers": [
+      "Tee Lopes"
+    ]
   },
   {
     "uuid": "a741d405-e206-47be-8a1f-a6fa94a5792d",

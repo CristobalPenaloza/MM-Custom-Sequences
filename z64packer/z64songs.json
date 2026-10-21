@@ -103777,16 +103777,17 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Undertale/Stronger Monsters.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Undertale/Stronger Monsters.mp3",
     "hash": "f3df95c4338a7e976e69707e74e800ba",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-15.04"
+    "lufs": "-15.04",
+    "lastUpdateDate": "2026-10-21T19:41:39.774Z",
+    "composers": [
+      "Toby Fox"
+    ]
   },
   {
     "uuid": "078f2dd1-7732-4d39-9c37-b699bbc504c2",

@@ -103057,17 +103057,17 @@
     "categories": [
       "7"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man ZX/Cannon Ball -Hard Revenge-.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Mega Man ZX/Cannon Ball -Hard Revenge-.mp3",
     "hash": "33c2d6bf8d99342afc5b3f53f6597c62",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-16.72"
+    "lufs": "-16.72",
+    "lastUpdateDate": "2026-10-21T19:50:57.450Z",
+    "composers": [
+      "Ippo Yamada"
+    ]
   },
   {
     "uuid": "1b27d6b5-5b38-4ec1-83c9-a4977903dbfb",

@@ -102953,16 +102953,17 @@
       "3"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X Corrupted/Underwater Cavern.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Mega Man X Corrupted/Underwater Cavern.mp3",
     "hash": "9d5aac07900e86155d892672d69ee6e6",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-19.23"
+    "lufs": "-19.23",
+    "lastUpdateDate": "2026-10-21T19:09:58.047Z",
+    "composers": [
+      "Dominic Ninmark"
+    ]
   },
   {
     "uuid": "4d283aab-3be1-4b94-b968-e806d22af3c6",

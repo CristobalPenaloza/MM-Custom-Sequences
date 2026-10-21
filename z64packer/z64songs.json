@@ -103076,16 +103076,17 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Persona 3/Unavoidable Battle.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Persona 3/Unavoidable Battle.mp3",
     "hash": "b641c61cc65b0368db7b610b8f054a46",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-18.86"
+    "lufs": "-18.86",
+    "lastUpdateDate": "2026-10-21T19:18:32.094Z",
+    "composers": [
+      "Shoji Meguro"
+    ]
   },
   {
     "uuid": "e28ed15a-d02f-46bd-8978-83274692ee3b",

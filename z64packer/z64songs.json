@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -103837,7 +103837,11 @@
       "2"
     ],
     "usesCustomBank": true,
-    "preview": "Banjo-Kazooie Jiggies of Time/Lon Lon Park.mp3"
+    "preview": "Banjo-Kazooie Jiggies of Time/Lon Lon Park.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "7f1a4a7753ed8beef9ad0410f41e6b1c"
   },
   {
     "uuid": "691eb84d-a133-4e09-9000-2ae2c051c537",
@@ -103858,7 +103862,11 @@
       "2"
     ],
     "usesCustomBank": true,
-    "preview": "Donkey Kong 64/Angry Aztec (Temple) [2].mp3"
+    "preview": "Donkey Kong 64/Angry Aztec (Temple) [2].mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "42648a40695860984979f69a1f978ecb"
   },
   {
     "uuid": "2eaafcc1-be23-424e-8aa7-464fddb991a8",
@@ -103878,7 +103886,12 @@
       "0",
       "2"
     ],
-    "preview": "AriahKS/Dirge of Lost Souls.mp3"
+    "preview": "AriahKS/Dirge of Lost Souls.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "839322e3a279e871f62d8c30543414a1"
   },
   {
     "uuid": "d7ead720-1845-4df5-b77e-aed0ad159ab3",
@@ -103899,7 +103912,12 @@
       "3",
       "6"
     ],
-    "preview": "Homestuck/Doctor.mp3"
+    "preview": "Homestuck/Doctor.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "74183fc7bc560620fa7e1a54f1f89cbb"
   },
   {
     "uuid": "8242946d-0ebb-4ca4-abb4-6587e45f25be",
@@ -103920,7 +103938,12 @@
       "1",
       "2"
     ],
-    "preview": "Homestuck/Sburban Jungle.mp3"
+    "preview": "Homestuck/Sburban Jungle.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "b5011c675559e92cec0c306b5d50a613"
   },
   {
     "uuid": "cc443170-40f3-488c-bd39-1138c5baa225",

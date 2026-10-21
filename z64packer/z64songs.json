@@ -103469,16 +103469,19 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Street Fighter EX Plus Alpha/Stronger.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Street Fighter EX Plus Alpha/Stronger.mp3",
     "hash": "de89220dfd23b2c54bc6852a5e2888e1",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-14.22"
+    "lufs": "-14.22",
+    "lastUpdateDate": "2026-10-21T19:33:02.776Z",
+    "composers": [
+      "Shinji Hosoe",
+      "Ayako Saso",
+      "Takayuki Aihara"
+    ]
   },
   {
     "uuid": "c66703d4-ec9f-43fb-8305-3c5036155478",

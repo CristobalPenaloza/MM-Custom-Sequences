@@ -102788,16 +102788,17 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man 5/Dark Man's Castle.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Mega Man 5/Dark Man's Castle.mp3",
     "hash": "baa488d76a747869a7df32cec1d39019",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-16.97"
+    "lufs": "-16.97",
+    "lastUpdateDate": "2026-10-21T19:02:20.468Z",
+    "composers": [
+      "Mari Yamaguchi"
+    ]
   },
   {
     "uuid": "fc344df1-8d6f-44b4-8b90-435e622e5eff",

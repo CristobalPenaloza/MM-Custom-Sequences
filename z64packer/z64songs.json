@@ -103651,16 +103651,17 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Touhou 10.5 Scarlet Weather Rhapsody/Flowering Night.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Touhou 10.5 Scarlet Weather Rhapsody/Flowering Night.mp3",
     "hash": "b05938a46e0f172787650a1309832e0f",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-17.80"
+    "lufs": "-17.80",
+    "lastUpdateDate": "2026-10-21T19:38:36.795Z",
+    "composers": [
+      "ZUN"
+    ]
   },
   {
     "uuid": "f1982a66-cba3-4afe-bb73-d7aaea634203",

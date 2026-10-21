@@ -103547,16 +103547,18 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Tales of Rebirth/Desperate Battle.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Tales of Rebirth/Desperate Battle.mp3",
     "hash": "283ac95a717ffa616cb5d75583f5dc19",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-16.37"
+    "lufs": "-16.37",
+    "lastUpdateDate": "2026-10-21T19:35:42.561Z",
+    "composers": [
+      "Motoi Sakuraba",
+      "Shinji Tamura"
+    ]
   },
   {
     "uuid": "51227093-6b8f-4932-9d90-348b9d16d541",

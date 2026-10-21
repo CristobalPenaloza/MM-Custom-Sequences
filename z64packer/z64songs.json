@@ -103214,16 +103214,18 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Persona 4 Golden/I'll Face Myself -Reincarnation-.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Persona 4 Golden/I'll Face Myself -Reincarnation-.mp3",
     "hash": "bfe97a1ee125f19524073153ae9fa0dc",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-14.34"
+    "lufs": "-14.34",
+    "lastUpdateDate": "2026-10-21T19:53:21.193Z",
+    "composers": [
+      "Shoji Meguro",
+      "Atsushi Kitajoh"
+    ]
   },
   {
     "uuid": "54db82e7-1cdb-4c12-b369-d43240564984",

@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -102471,16 +102471,17 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Flying Dragon/Bokuchin.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Flying Dragon/Bokuchin.mp3",
     "hash": "124eec89e965c6972d2b89b7887f813a",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-19.47"
+    "lufs": "-19.47",
+    "lastUpdateDate": "2026-10-22T03:17:00.315Z",
+    "composers": [
+      "Akinori Sawa"
+    ]
   },
   {
     "uuid": "67616da0-3eb2-4f41-8d7d-56f20aab00d8",
@@ -102496,16 +102497,17 @@
       "4"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Flying Dragon/SD Hayato.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Flying Dragon/SD Hayato.mp3",
     "hash": "e41d63f45ea5f334613bc03f8c7892cc",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-14.94"
+    "lufs": "-14.94",
+    "lastUpdateDate": "2026-10-22T03:17:24.631Z",
+    "composers": [
+      "Akinori Sawa"
+    ]
   },
   {
     "uuid": "0ac967b3-2afe-4d9b-92e7-c2741364914e",
@@ -102523,16 +102525,17 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Flying Dragon/SD Powers.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Flying Dragon/SD Powers.mp3",
     "hash": "135c6ad16f82d28e0f62ea7d2a4c5607",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-15.48"
+    "lufs": "-15.48",
+    "lastUpdateDate": "2026-10-22T03:17:55.116Z",
+    "composers": [
+      "Akinori Sawa"
+    ]
   },
   {
     "uuid": "ef1731ca-e3a9-4c00-9c81-d70bcd9cb2bf",
@@ -102550,16 +102553,17 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Flying Dragon/SD Robo No Hana.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Flying Dragon/SD Robo No Hana.mp3",
     "hash": "482ab5e40db223498aa7678b105e351d",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-18.24"
+    "lufs": "-18.24",
+    "lastUpdateDate": "2026-10-22T03:18:26.436Z",
+    "composers": [
+      "Akinori Sawa"
+    ]
   },
   {
     "uuid": "ba6054a7-88ed-469c-a9ae-f469e57efcb0",
@@ -102575,8 +102579,6 @@
       "4"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "isCrossGame": true,
     "file": "Flying Dragon/SD Ryuhi.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Flying Dragon/SD Ryuhi.mp3",
@@ -102584,7 +102586,11 @@
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-15.69"
+    "lufs": "-15.69",
+    "lastUpdateDate": "2026-10-22T03:18:53.944Z",
+    "composers": [
+      "Akinori Sawa"
+    ]
   },
   {
     "uuid": "888f2087-0bd2-4052-a36d-3224a14cd791",
@@ -102598,16 +102604,17 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Flying Dragon/SD Ryumaou.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Flying Dragon/SD Ryumaou.mp3",
     "hash": "98696c063db9bd79ceb3ccdce139a8b2",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-13.41"
+    "lufs": "-13.41",
+    "lastUpdateDate": "2026-10-22T03:19:22.303Z",
+    "composers": [
+      "Akinori Sawa"
+    ]
   },
   {
     "uuid": "08af694a-a036-4c9d-bb97-b6ad2a8de0ef",
@@ -102626,16 +102633,17 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Flying Dragon/SD Shouryu.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Flying Dragon/SD Shouryu.mp3",
     "hash": "ef8edcffcec48b6410ac790fb1b57bc9",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-18.04"
+    "lufs": "-18.04",
+    "lastUpdateDate": "2026-10-22T03:19:49.201Z",
+    "composers": [
+      "Akinori Sawa"
+    ]
   },
   {
     "uuid": "e777c664-fc38-4c0c-a767-ad69d6826162",
@@ -102651,16 +102659,17 @@
       "4"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Flying Dragon/SD Suzaku.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Flying Dragon/SD Suzaku.mp3",
     "hash": "3b9affb6e9eee743e351b631ce4765f1",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-17.49"
+    "lufs": "-17.49",
+    "lastUpdateDate": "2026-10-22T03:20:21.799Z",
+    "composers": [
+      "Akinori Sawa"
+    ]
   },
   {
     "uuid": "98d039f8-af7a-4d90-8c50-b31d586302a3",
@@ -102678,16 +102687,17 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Flying Dragon/SD Willer.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Flying Dragon/SD Willer.mp3",
     "hash": "cf0928a23175fae9930ecedfaaaafcc5",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-14.22"
+    "lufs": "-14.22",
+    "lastUpdateDate": "2026-10-22T03:20:47.013Z",
+    "composers": [
+      "Akinori Sawa"
+    ]
   },
   {
     "uuid": "44e38e98-c86a-40ec-bab2-0f899cc348d1",
@@ -102706,16 +102716,17 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Flying Dragon/SD Yuka.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Flying Dragon/SD Yuka.mp3",
     "hash": "9b3f8aad241d6e2ac8f37cffb6b66224",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-16.34"
+    "lufs": "-16.34",
+    "lastUpdateDate": "2026-10-22T03:21:19.299Z",
+    "composers": [
+      "Akinori Sawa"
+    ]
   },
   {
     "uuid": "0f449843-21ab-486a-abe1-1210c95bca53",

@@ -102687,16 +102687,17 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Flying Dragon/SD Willer.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Flying Dragon/SD Willer.mp3",
     "hash": "cf0928a23175fae9930ecedfaaaafcc5",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-14.22"
+    "lufs": "-14.22",
+    "lastUpdateDate": "2026-10-22T03:20:47.013Z",
+    "composers": [
+      "Akinori Sawa"
+    ]
   },
   {
     "uuid": "44e38e98-c86a-40ec-bab2-0f899cc348d1",

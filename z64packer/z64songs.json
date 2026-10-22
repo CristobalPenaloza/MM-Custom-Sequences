@@ -65320,28 +65320,26 @@
     "uuid": "9c969cea-ff4c-46e5-9109-27c8c4ca1304",
     "creationDate": "2026-05-16T01:29:37.624Z",
     "game": "Tales of Vesperia",
-    "song": "World Map",
+    "song": "The Cold Morning Star Passes By",
     "composers": [
       "Motoi Sakuraba"
     ],
     "converters": [
       "Asra"
     ],
-    "notes": "TODO: Am I crazy or this song doesn't sound anything like any of the world maps of ToV? I think this may be a different song...",
+    "notes": "World Map theme.",
     "type": "bgm",
     "categories": [
       "0",
       "1",
       "16"
     ],
-    "file": "Tales of Vesperia/World Map.mmrs",
+    "file": "Tales of Vesperia/The Cold Morning Star Passes By.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Tales of Vesperia/World Map.mp3",
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "lufs": "-15.47",
     "hash": "f072651790915c9632963492489e36e1",
-    "isCrossGame": true
+    "isCrossGame": true,
+    "lastUpdateDate": "2026-10-22T17:14:28.407Z"
   },
   {
     "uuid": "358b5c28-5151-4000-96fc-77bff3fd1366",

@@ -102986,28 +102986,24 @@
     "uuid": "1a5e94ef-e3fe-47f5-9c26-de8ceee07e7a",
     "creationDate": "2026-10-15T03:55:55.287Z",
     "game": "Mega Man X: Corrupted",
-    "song": "Sparkling Scorpion",
+    "song": "Sparkling Scorpio",
     "type": "bgm",
     "categories": [
       "0",
       "1",
       "2"
     ],
-    "file": "Mega Man X Corrupted/Sparkling Scorpion.mmrs",
+    "file": "Mega Man X Corrupted/Sparkling Scorpio.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Mega Man X Corrupted/Sparkling Scorpion.mp3",
     "hash": "c034d32a7413fbc62bed8436cbf61f27",
     "converters": [
       "SeitanTaisen"
     ],
     "lufs": "-11.59",
-    "lastUpdateDate": "2026-10-21T19:09:09.760Z",
+    "lastUpdateDate": "2026-10-22T17:51:49.163Z",
     "composers": [
       "Dominic Ninmark"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false
+    ]
   },
   {
     "uuid": "d5199692-aca7-419b-957f-69a264ae3e3f",

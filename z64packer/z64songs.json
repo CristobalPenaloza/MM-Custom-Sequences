@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -102481,7 +102481,10 @@
     "lastUpdateDate": "2026-10-22T03:17:00.315Z",
     "composers": [
       "Akinori Sawa"
-    ]
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "67616da0-3eb2-4f41-8d7d-56f20aab00d8",
@@ -102507,7 +102510,10 @@
     "lastUpdateDate": "2026-10-22T03:17:24.631Z",
     "composers": [
       "Akinori Sawa"
-    ]
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "0ac967b3-2afe-4d9b-92e7-c2741364914e",
@@ -102535,7 +102541,10 @@
     "lastUpdateDate": "2026-10-22T03:17:55.116Z",
     "composers": [
       "Akinori Sawa"
-    ]
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "ef1731ca-e3a9-4c00-9c81-d70bcd9cb2bf",
@@ -102563,7 +102572,10 @@
     "lastUpdateDate": "2026-10-22T03:18:26.436Z",
     "composers": [
       "Akinori Sawa"
-    ]
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "ba6054a7-88ed-469c-a9ae-f469e57efcb0",
@@ -102590,7 +102602,9 @@
     "lastUpdateDate": "2026-10-22T03:18:53.944Z",
     "composers": [
       "Akinori Sawa"
-    ]
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "888f2087-0bd2-4052-a36d-3224a14cd791",
@@ -102614,7 +102628,10 @@
     "lastUpdateDate": "2026-10-22T03:19:22.303Z",
     "composers": [
       "Akinori Sawa"
-    ]
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "08af694a-a036-4c9d-bb97-b6ad2a8de0ef",
@@ -102643,7 +102660,10 @@
     "lastUpdateDate": "2026-10-22T03:19:49.201Z",
     "composers": [
       "Akinori Sawa"
-    ]
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "e777c664-fc38-4c0c-a767-ad69d6826162",
@@ -102669,7 +102689,10 @@
     "lastUpdateDate": "2026-10-22T03:20:21.799Z",
     "composers": [
       "Akinori Sawa"
-    ]
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "98d039f8-af7a-4d90-8c50-b31d586302a3",
@@ -102697,7 +102720,10 @@
     "lastUpdateDate": "2026-10-22T03:20:47.013Z",
     "composers": [
       "Akinori Sawa"
-    ]
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "44e38e98-c86a-40ec-bab2-0f899cc348d1",
@@ -102726,7 +102752,10 @@
     "lastUpdateDate": "2026-10-22T03:21:19.299Z",
     "composers": [
       "Akinori Sawa"
-    ]
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "0f449843-21ab-486a-abe1-1210c95bca53",

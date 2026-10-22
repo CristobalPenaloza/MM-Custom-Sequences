@@ -102604,16 +102604,17 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Flying Dragon/SD Ryumaou.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Flying Dragon/SD Ryumaou.mp3",
     "hash": "98696c063db9bd79ceb3ccdce139a8b2",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-13.41"
+    "lufs": "-13.41",
+    "lastUpdateDate": "2026-10-22T03:19:22.303Z",
+    "composers": [
+      "Akinori Sawa"
+    ]
   },
   {
     "uuid": "08af694a-a036-4c9d-bb97-b6ad2a8de0ef",

@@ -102831,9 +102831,6 @@
       "6",
       "7"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "isCrossGame": true,
     "file": "Marvel vs. Capcom Clash of Super Heroes/Captain America's Theme.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Marvel vs. Capcom/Captain America's Theme.mp3",
@@ -102841,7 +102838,12 @@
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-12.54"
+    "lufs": "-12.54",
+    "lastUpdateDate": "2026-10-22T16:06:45.198Z",
+    "composers": [
+      "Takayuki Iwai",
+      "Yuko Takehara"
+    ]
   },
   {
     "uuid": "e6a0be1a-0892-4ffd-a36a-53be0da59f6d",

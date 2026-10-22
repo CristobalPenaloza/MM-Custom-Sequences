@@ -103935,17 +103935,17 @@
       "2",
       "4"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Touhou CD 5 Magical Astronomy/Welcome to the Moon Tour [2].mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Touhou CD 5 Magical Astronomy/Welcome to the Moon Tour [2].mp3",
     "hash": "4d127bc8f61b0f67e5d04f79810ee6f4",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-13.68"
+    "lufs": "-13.68",
+    "lastUpdateDate": "2026-10-22T16:05:21.714Z",
+    "composers": [
+      "ZUN"
+    ]
   },
   {
     "uuid": "902166ba-d9f1-4ef7-9eb0-6fb65797952a",

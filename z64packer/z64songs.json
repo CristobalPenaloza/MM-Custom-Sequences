@@ -102497,16 +102497,17 @@
       "4"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Flying Dragon/SD Hayato.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Flying Dragon/SD Hayato.mp3",
     "hash": "e41d63f45ea5f334613bc03f8c7892cc",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-14.94"
+    "lufs": "-14.94",
+    "lastUpdateDate": "2026-10-22T03:17:24.631Z",
+    "composers": [
+      "Akinori Sawa"
+    ]
   },
   {
     "uuid": "0ac967b3-2afe-4d9b-92e7-c2741364914e",

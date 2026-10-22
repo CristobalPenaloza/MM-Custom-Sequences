@@ -102633,16 +102633,17 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Flying Dragon/SD Shouryu.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Flying Dragon/SD Shouryu.mp3",
     "hash": "ef8edcffcec48b6410ac790fb1b57bc9",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-18.04"
+    "lufs": "-18.04",
+    "lastUpdateDate": "2026-10-22T03:19:49.201Z",
+    "composers": [
+      "Akinori Sawa"
+    ]
   },
   {
     "uuid": "e777c664-fc38-4c0c-a767-ad69d6826162",

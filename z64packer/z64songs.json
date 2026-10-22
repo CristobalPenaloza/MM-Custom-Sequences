@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -6103,7 +6103,10 @@
     "preview": "https://www.youtube.com/watch?v=Y59wWSahoxo",
     "lufs": "-19.66",
     "hash": "6bf6d199ca5b47d29a2cbac77114d9fb",
-    "lastUpdateDate": "2026-10-22T17:45:21.035Z"
+    "lastUpdateDate": "2026-10-22T17:45:21.035Z",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "a7035edb-9b99-4bd8-8b79-e17e6f39c9ff",
@@ -6698,7 +6701,11 @@
     "preview": "https://www.youtube.com/watch?v=3vbrJZg5IJ0",
     "lufs": "-20.49",
     "hash": "e5cc67592bd83aabdda79c3f4ee0759e",
-    "lastUpdateDate": "2026-10-22T17:47:16.403Z"
+    "lastUpdateDate": "2026-10-22T17:47:16.403Z",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "38c080e5-f150-4165-85ae-7a6e950da132",
@@ -24689,7 +24696,9 @@
     "lufs": "-14.72",
     "hash": "21c016a4da6ea6eefae671bd7b60ffbb",
     "isCrossGame": true,
-    "lastUpdateDate": "2026-10-22T17:22:00.371Z"
+    "lastUpdateDate": "2026-10-22T17:22:00.371Z",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "90ad2238-7e83-450f-ab8c-9b61cfc37334",
@@ -24735,7 +24744,10 @@
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Super Mario World/Victory.mp3",
     "lufs": "-11.62",
     "hash": "e1bc687f8319c89544a0c334ea468d85",
-    "lastUpdateDate": "2026-10-22T17:27:03.097Z"
+    "lastUpdateDate": "2026-10-22T17:27:03.097Z",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "8bff997d-5c4c-434e-8327-f86bb5b7fed0",
@@ -65321,7 +65333,10 @@
     "lufs": "-15.47",
     "hash": "f072651790915c9632963492489e36e1",
     "isCrossGame": true,
-    "lastUpdateDate": "2026-10-22T17:14:28.407Z"
+    "lastUpdateDate": "2026-10-22T17:14:28.407Z",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "358b5c28-5151-4000-96fc-77bff3fd1366",
@@ -76637,7 +76652,9 @@
     "lastUpdateDate": "2026-10-22T17:49:36.337Z",
     "composers": [
       "Takashi Tateishi"
-    ]
+    ],
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "game": "Touhou 14: Double Dealing Character",
@@ -76687,7 +76704,9 @@
     "lastUpdateDate": "2026-10-22T17:54:54.856Z",
     "composers": [
       "Nobuo Uematsu"
-    ]
+    ],
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "game": "Touhou 6: The Embodiment of Scarlet Devil",
@@ -78726,7 +78745,11 @@
       "9"
     ],
     "lufs": "-16.63",
-    "lastUpdateDate": "2026-10-22T17:28:57.590Z"
+    "lastUpdateDate": "2026-10-22T17:28:57.590Z",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "game": "Pokémon Diamond, Pearl & Platinum",
@@ -102824,7 +102847,10 @@
     "composers": [
       "Takayuki Iwai",
       "Yuko Takehara"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "e6a0be1a-0892-4ffd-a36a-53be0da59f6d",
@@ -102982,7 +103008,11 @@
     "lastUpdateDate": "2026-10-22T17:51:09.707Z",
     "composers": [
       "Dominic Ninmark"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "1a5e94ef-e3fe-47f5-9c26-de8ceee07e7a",
@@ -103005,7 +103035,11 @@
     "lastUpdateDate": "2026-10-22T17:51:49.163Z",
     "composers": [
       "Dominic Ninmark"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "d5199692-aca7-419b-957f-69a264ae3e3f",
@@ -103407,7 +103441,10 @@
     "lastUpdateDate": "2026-10-22T17:36:44.505Z",
     "composers": [
       "ZUN"
-    ]
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "6f4e89b8-047c-4704-87d6-eaf5400d1b4b",
@@ -103463,7 +103500,10 @@
     "lastUpdateDate": "2026-10-22T17:35:44.488Z",
     "composers": [
       "RedXVI"
-    ]
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "2a1a7067-21c7-4ef2-a01c-0d2ffb9b224b",
@@ -103848,7 +103888,10 @@
     "lastUpdateDate": "2026-10-22T16:02:46.248Z",
     "composers": [
       "ziki_7"
-    ]
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "fa174053-ee3c-46c1-9580-5cab53bad4cd",
@@ -103877,7 +103920,10 @@
     "lastUpdateDate": "2026-10-22T16:04:02.739Z",
     "composers": [
       "Uni Akiyama"
-    ]
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "cdb69ce3-3402-4967-8d76-a343c28d6700",
@@ -103902,7 +103948,10 @@
     "lastUpdateDate": "2026-10-22T16:04:28.459Z",
     "composers": [
       "Uni Akiyama"
-    ]
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "6cfd59c4-f8c0-4b1b-b1e5-0ed25b6b8091",
@@ -103926,7 +103975,11 @@
     "lastUpdateDate": "2026-10-22T16:05:21.714Z",
     "composers": [
       "ZUN"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "902166ba-d9f1-4ef7-9eb0-6fb65797952a",

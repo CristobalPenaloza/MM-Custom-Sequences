@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -102471,16 +102471,17 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Flying Dragon/Bokuchin.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Flying Dragon/Bokuchin.mp3",
     "hash": "124eec89e965c6972d2b89b7887f813a",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-19.47"
+    "lufs": "-19.47",
+    "lastUpdateDate": "2026-10-22T03:17:00.315Z",
+    "composers": [
+      "Akinori Sawa"
+    ]
   },
   {
     "uuid": "67616da0-3eb2-4f41-8d7d-56f20aab00d8",

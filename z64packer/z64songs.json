@@ -102525,16 +102525,17 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Flying Dragon/SD Powers.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Flying Dragon/SD Powers.mp3",
     "hash": "135c6ad16f82d28e0f62ea7d2a4c5607",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-15.48"
+    "lufs": "-15.48",
+    "lastUpdateDate": "2026-10-22T03:17:55.116Z",
+    "composers": [
+      "Akinori Sawa"
+    ]
   },
   {
     "uuid": "ef1731ca-e3a9-4c00-9c81-d70bcd9cb2bf",

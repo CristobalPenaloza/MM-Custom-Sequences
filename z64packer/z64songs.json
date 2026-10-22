@@ -76683,9 +76683,11 @@
     ],
     "usesCustomBank": true,
     "usesCustomSamples": true,
-    "usesFormmask": false,
     "lufs": "-15.78",
-    "isCrossGame": false
+    "lastUpdateDate": "2026-10-22T17:54:54.856Z",
+    "composers": [
+      "Nobuo Uematsu"
+    ]
   },
   {
     "game": "Touhou 6: The Embodiment of Scarlet Devil",

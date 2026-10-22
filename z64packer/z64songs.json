@@ -102553,16 +102553,17 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Flying Dragon/SD Robo No Hana.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Flying Dragon/SD Robo No Hana.mp3",
     "hash": "482ab5e40db223498aa7678b105e351d",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-18.24"
+    "lufs": "-18.24",
+    "lastUpdateDate": "2026-10-22T03:18:26.436Z",
+    "composers": [
+      "Akinori Sawa"
+    ]
   },
   {
     "uuid": "ba6054a7-88ed-469c-a9ae-f469e57efcb0",

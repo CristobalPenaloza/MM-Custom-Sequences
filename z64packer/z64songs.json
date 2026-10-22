@@ -103412,16 +103412,17 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Seihou 1 Shuusou Gyoku/The Witches' Ball ~ Magus [2].mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Seihou 1 Shuusou Gyoku/The Witches' Ball ~ Magus [2].mp3",
     "hash": "d65995fea435818a7ac94bb8f9fb1cf3",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-15.82"
+    "lufs": "-15.82",
+    "lastUpdateDate": "2026-10-22T17:36:44.505Z",
+    "composers": [
+      "ZUN"
+    ]
   },
   {
     "uuid": "6f4e89b8-047c-4704-87d6-eaf5400d1b4b",

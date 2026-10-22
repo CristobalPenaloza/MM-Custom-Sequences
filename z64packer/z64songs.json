@@ -24734,7 +24734,7 @@
     "uuid": "50ff35b2-5faa-4271-b57f-6c817ea98eed",
     "creationDate": "2026-03-25T23:27:32.409Z",
     "game": "Super Mario World",
-    "song": "Victory",
+    "song": "Castle Clear",
     "composers": [
       "Koji Kondo"
     ],
@@ -24746,13 +24746,11 @@
       "10"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "file": "Super Mario World/Victory.mmrs",
+    "file": "Super Mario World/Castle Clear.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Super Mario World/Victory.mp3",
     "lufs": "-11.62",
     "hash": "e1bc687f8319c89544a0c334ea468d85",
-    "isCrossGame": false
+    "lastUpdateDate": "2026-10-22T17:27:03.097Z"
   },
   {
     "uuid": "8bff997d-5c4c-434e-8327-f86bb5b7fed0",

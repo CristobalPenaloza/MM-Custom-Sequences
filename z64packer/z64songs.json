@@ -78725,22 +78725,19 @@
     "composers": [
       "Koji Kondo"
     ],
-    "song": "Lose Life",
+    "song": "Player Down",
     "uuid": "778827f2-a04c-4ecc-8d30-646bb5004ccb",
     "hash": "910b3ab25a0a1bbec2e50000c959035e",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Super Mario World/Lose Life.mmrs",
+    "file": "Super Mario World/Player Down.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Super Mario World/Lose Life.mp3",
     "type": "fanfare",
     "categories": [
       "8",
       "9"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "lufs": "-16.63",
-    "isCrossGame": false
+    "lastUpdateDate": "2026-10-22T17:28:57.590Z"
   },
   {
     "game": "Pokémon Diamond, Pearl & Platinum",

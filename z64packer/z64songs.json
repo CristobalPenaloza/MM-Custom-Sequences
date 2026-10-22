@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -103857,16 +103857,17 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Touhou 17.5 Sunken Fossil World/The Centennial Festival for Magical [2].mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Touhou 17.5 Sunken Fossil World/The Centennial Festival for Magical [2].mp3",
     "hash": "c3fc50d40e711b50dcf8d14089e59e5e",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-18.98"
+    "lufs": "-18.98",
+    "lastUpdateDate": "2026-10-22T16:02:46.248Z",
+    "composers": [
+      "ziki_7"
+    ]
   },
   {
     "uuid": "fa174053-ee3c-46c1-9580-5cab53bad4cd",

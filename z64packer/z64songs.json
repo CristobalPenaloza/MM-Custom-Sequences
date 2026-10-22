@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -6088,12 +6088,7 @@
     "game": "Mega Man 10",
     "song": "Desert Commando",
     "composers": [
-      "Ippo Yamada",
-      "Ryo Kawakami",
-      "Yu Shimoda",
-      "Hiroki Isogai",
-      "Manami Matsumae",
-      "Yasuaki Fujita"
+      "Minae Fujii"
     ],
     "converters": [
       "Dark_Evan"
@@ -6104,13 +6099,11 @@
       "1"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Mega Man 10/Desert Commando.mmrs",
     "preview": "https://www.youtube.com/watch?v=Y59wWSahoxo",
     "lufs": "-19.66",
     "hash": "6bf6d199ca5b47d29a2cbac77114d9fb",
-    "isCrossGame": false
+    "lastUpdateDate": "2026-10-22T17:45:21.035Z"
   },
   {
     "uuid": "a7035edb-9b99-4bd8-8b79-e17e6f39c9ff",
@@ -6690,13 +6683,8 @@
     "uuid": "27fffc54-b819-4a2b-88b0-44919a7c420d",
     "creationDate": "2026-03-14T01:34:23.965Z",
     "game": "Mega Man 10",
-    "song": "Solarman Stage",
+    "song": "Solar Inferno",
     "composers": [
-      "Ippo Yamada",
-      "Ryo Kawakami",
-      "Yu Shimoda",
-      "Hiroki Isogai",
-      "Manami Matsumae",
       "Yasuaki Fujita"
     ],
     "converters": [
@@ -6706,14 +6694,11 @@
     "categories": [
       "2"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "file": "Mega Man 10/Solarman Stage.mmrs",
+    "file": "Mega Man 10/Solar Inferno.mmrs",
     "preview": "https://www.youtube.com/watch?v=3vbrJZg5IJ0",
     "lufs": "-20.49",
     "hash": "e5cc67592bd83aabdda79c3f4ee0759e",
-    "isCrossGame": false
+    "lastUpdateDate": "2026-10-22T17:47:16.403Z"
   },
   {
     "uuid": "38c080e5-f150-4165-85ae-7a6e950da132",
@@ -24686,7 +24671,7 @@
     "uuid": "3ad3b1f6-d3f6-4eb7-904b-0910f62aa83d",
     "creationDate": "2026-03-25T23:26:26.601Z",
     "game": "Super Mario World",
-    "song": "Goal",
+    "song": "Course Clear",
     "composers": [
       "Koji Kondo"
     ],
@@ -24699,13 +24684,12 @@
       "10"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "file": "Super Mario World/Goal.mmrs",
+    "file": "Super Mario World/Course Clear.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Super Mario World/Goal.mp3",
     "lufs": "-14.72",
     "hash": "21c016a4da6ea6eefae671bd7b60ffbb",
-    "isCrossGame": true
+    "isCrossGame": true,
+    "lastUpdateDate": "2026-10-22T17:22:00.371Z"
   },
   {
     "uuid": "90ad2238-7e83-450f-ab8c-9b61cfc37334",
@@ -24735,7 +24719,7 @@
     "uuid": "50ff35b2-5faa-4271-b57f-6c817ea98eed",
     "creationDate": "2026-03-25T23:27:32.409Z",
     "game": "Super Mario World",
-    "song": "Victory",
+    "song": "Castle Clear",
     "composers": [
       "Koji Kondo"
     ],
@@ -24747,13 +24731,11 @@
       "10"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "file": "Super Mario World/Victory.mmrs",
+    "file": "Super Mario World/Castle Clear.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Super Mario World/Victory.mp3",
     "lufs": "-11.62",
     "hash": "e1bc687f8319c89544a0c334ea468d85",
-    "isCrossGame": false
+    "lastUpdateDate": "2026-10-22T17:27:03.097Z"
   },
   {
     "uuid": "8bff997d-5c4c-434e-8327-f86bb5b7fed0",
@@ -65320,28 +65302,26 @@
     "uuid": "9c969cea-ff4c-46e5-9109-27c8c4ca1304",
     "creationDate": "2026-05-16T01:29:37.624Z",
     "game": "Tales of Vesperia",
-    "song": "World Map",
+    "song": "The Cold Morning Star Passes By",
     "composers": [
       "Motoi Sakuraba"
     ],
     "converters": [
       "Asra"
     ],
-    "notes": "TODO: Am I crazy or this song doesn't sound anything like any of the world maps of ToV? I think this may be a different song...",
+    "notes": "World Map theme.",
     "type": "bgm",
     "categories": [
       "0",
       "1",
       "16"
     ],
-    "file": "Tales of Vesperia/World Map.mmrs",
+    "file": "Tales of Vesperia/The Cold Morning Star Passes By.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Tales of Vesperia/World Map.mp3",
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "lufs": "-15.47",
     "hash": "f072651790915c9632963492489e36e1",
-    "isCrossGame": true
+    "isCrossGame": true,
+    "lastUpdateDate": "2026-10-22T17:14:28.407Z"
   },
   {
     "uuid": "358b5c28-5151-4000-96fc-77bff3fd1366",
@@ -76653,9 +76633,11 @@
     ],
     "usesCustomBank": true,
     "usesCustomSamples": true,
-    "usesFormmask": false,
     "lufs": "-18.94",
-    "isCrossGame": false
+    "lastUpdateDate": "2026-10-22T17:49:36.337Z",
+    "composers": [
+      "Takashi Tateishi"
+    ]
   },
   {
     "game": "Touhou 14: Double Dealing Character",
@@ -76701,9 +76683,11 @@
     ],
     "usesCustomBank": true,
     "usesCustomSamples": true,
-    "usesFormmask": false,
     "lufs": "-15.78",
-    "isCrossGame": false
+    "lastUpdateDate": "2026-10-22T17:54:54.856Z",
+    "composers": [
+      "Nobuo Uematsu"
+    ]
   },
   {
     "game": "Touhou 6: The Embodiment of Scarlet Devil",
@@ -78730,22 +78714,19 @@
     "composers": [
       "Koji Kondo"
     ],
-    "song": "Lose Life",
+    "song": "Player Down",
     "uuid": "778827f2-a04c-4ecc-8d30-646bb5004ccb",
     "hash": "910b3ab25a0a1bbec2e50000c959035e",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Super Mario World/Lose Life.mmrs",
+    "file": "Super Mario World/Player Down.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Super Mario World/Lose Life.mp3",
     "type": "fanfare",
     "categories": [
       "8",
       "9"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "lufs": "-16.63",
-    "isCrossGame": false
+    "lastUpdateDate": "2026-10-22T17:28:57.590Z"
   },
   {
     "game": "Pokémon Diamond, Pearl & Platinum",
@@ -102831,9 +102812,6 @@
       "6",
       "7"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "isCrossGame": true,
     "file": "Marvel vs. Capcom Clash of Super Heroes/Captain America's Theme.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Marvel vs. Capcom/Captain America's Theme.mp3",
@@ -102841,7 +102819,12 @@
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-12.54"
+    "lufs": "-12.54",
+    "lastUpdateDate": "2026-10-22T16:06:45.198Z",
+    "composers": [
+      "Takayuki Iwai",
+      "Yuko Takehara"
+    ]
   },
   {
     "uuid": "e6a0be1a-0892-4ffd-a36a-53be0da59f6d",
@@ -102989,44 +102972,40 @@
       "2",
       "5"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X Corrupted/Pitfall Passage.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Mega Man X Corrupted/Pitfall Passage.mp3",
     "hash": "40b6fb678780394e3f10a509c277d935",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-17.78"
+    "lufs": "-17.78",
+    "lastUpdateDate": "2026-10-22T17:51:09.707Z",
+    "composers": [
+      "Dominic Ninmark"
+    ]
   },
   {
     "uuid": "1a5e94ef-e3fe-47f5-9c26-de8ceee07e7a",
     "creationDate": "2026-10-15T03:55:55.287Z",
     "game": "Mega Man X: Corrupted",
-    "song": "Sparkling Scorpion",
+    "song": "Sparkling Scorpio",
     "type": "bgm",
     "categories": [
       "0",
       "1",
       "2"
     ],
-    "file": "Mega Man X Corrupted/Sparkling Scorpion.mmrs",
+    "file": "Mega Man X Corrupted/Sparkling Scorpio.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Mega Man X Corrupted/Sparkling Scorpion.mp3",
     "hash": "c034d32a7413fbc62bed8436cbf61f27",
     "converters": [
       "SeitanTaisen"
     ],
     "lufs": "-11.59",
-    "lastUpdateDate": "2026-10-21T19:09:09.760Z",
+    "lastUpdateDate": "2026-10-22T17:51:49.163Z",
     "composers": [
       "Dominic Ninmark"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false
+    ]
   },
   {
     "uuid": "d5199692-aca7-419b-957f-69a264ae3e3f",
@@ -103418,16 +103397,17 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Seihou 1 Shuusou Gyoku/The Witches' Ball ~ Magus [2].mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Seihou 1 Shuusou Gyoku/The Witches' Ball ~ Magus [2].mp3",
     "hash": "d65995fea435818a7ac94bb8f9fb1cf3",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-15.82"
+    "lufs": "-15.82",
+    "lastUpdateDate": "2026-10-22T17:36:44.505Z",
+    "composers": [
+      "ZUN"
+    ]
   },
   {
     "uuid": "6f4e89b8-047c-4704-87d6-eaf5400d1b4b",
@@ -103473,16 +103453,17 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Sonic Robo Blast 2 The Mystic Realm/Tempest Valley Zone.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Sonic Robo Blast 2 The Mystic Realm/Tempest Valley Zone.mp3",
     "hash": "c906c37adc5a8b111850e2f379790505",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-13.54"
+    "lufs": "-13.54",
+    "lastUpdateDate": "2026-10-22T17:35:44.488Z",
+    "composers": [
+      "RedXVI"
+    ]
   },
   {
     "uuid": "2a1a7067-21c7-4ef2-a01c-0d2ffb9b224b",
@@ -103857,16 +103838,17 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Touhou 17.5 Sunken Fossil World/The Centennial Festival for Magical [2].mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Touhou 17.5 Sunken Fossil World/The Centennial Festival for Magical [2].mp3",
     "hash": "c3fc50d40e711b50dcf8d14089e59e5e",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-18.98"
+    "lufs": "-18.98",
+    "lastUpdateDate": "2026-10-22T16:02:46.248Z",
+    "composers": [
+      "ziki_7"
+    ]
   },
   {
     "uuid": "fa174053-ee3c-46c1-9580-5cab53bad4cd",
@@ -103885,16 +103867,17 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Touhou 7.5 Immaterial and Missing Power/Broken Moon.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Touhou 7.5 Immaterial and Missing Power/Broken Moon.mp3",
     "hash": "5f5853f228698978b63d2362f422a2ad",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-14.59"
+    "lufs": "-14.59",
+    "lastUpdateDate": "2026-10-22T16:04:02.739Z",
+    "composers": [
+      "Uni Akiyama"
+    ]
   },
   {
     "uuid": "cdb69ce3-3402-4967-8d76-a343c28d6700",
@@ -103909,16 +103892,17 @@
       "3"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Touhou 7.5 Immaterial and Missing Power/Eastern Forgathering Dream.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Touhou 7.5 Immaterial and Missing Power/Eastern Forgathering Dream.mp3",
     "hash": "80ce0c373a491bffb365b9896bf4d885",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-17.24"
+    "lufs": "-17.24",
+    "lastUpdateDate": "2026-10-22T16:04:28.459Z",
+    "composers": [
+      "Uni Akiyama"
+    ]
   },
   {
     "uuid": "6cfd59c4-f8c0-4b1b-b1e5-0ed25b6b8091",
@@ -103932,17 +103916,17 @@
       "2",
       "4"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Touhou CD 5 Magical Astronomy/Welcome to the Moon Tour [2].mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Touhou CD 5 Magical Astronomy/Welcome to the Moon Tour [2].mp3",
     "hash": "4d127bc8f61b0f67e5d04f79810ee6f4",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-13.68"
+    "lufs": "-13.68",
+    "lastUpdateDate": "2026-10-22T16:05:21.714Z",
+    "composers": [
+      "ZUN"
+    ]
   },
   {
     "uuid": "902166ba-d9f1-4ef7-9eb0-6fb65797952a",

@@ -103911,16 +103911,17 @@
       "3"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Touhou 7.5 Immaterial and Missing Power/Eastern Forgathering Dream.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Touhou 7.5 Immaterial and Missing Power/Eastern Forgathering Dream.mp3",
     "hash": "80ce0c373a491bffb365b9896bf4d885",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-17.24"
+    "lufs": "-17.24",
+    "lastUpdateDate": "2026-10-22T16:04:28.459Z",
+    "composers": [
+      "Uni Akiyama"
+    ]
   },
   {
     "uuid": "6cfd59c4-f8c0-4b1b-b1e5-0ed25b6b8091",

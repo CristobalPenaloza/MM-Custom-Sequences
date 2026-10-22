@@ -76633,9 +76633,11 @@
     ],
     "usesCustomBank": true,
     "usesCustomSamples": true,
-    "usesFormmask": false,
     "lufs": "-18.94",
-    "isCrossGame": false
+    "lastUpdateDate": "2026-10-22T17:49:36.337Z",
+    "composers": [
+      "Takashi Tateishi"
+    ]
   },
   {
     "game": "Touhou 14: Double Dealing Character",

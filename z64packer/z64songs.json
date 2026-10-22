@@ -102716,16 +102716,17 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Flying Dragon/SD Yuka.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Flying Dragon/SD Yuka.mp3",
     "hash": "9b3f8aad241d6e2ac8f37cffb6b66224",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-16.34"
+    "lufs": "-16.34",
+    "lastUpdateDate": "2026-10-22T03:21:19.299Z",
+    "composers": [
+      "Akinori Sawa"
+    ]
   },
   {
     "uuid": "0f449843-21ab-486a-abe1-1210c95bca53",

@@ -102659,16 +102659,17 @@
       "4"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Flying Dragon/SD Suzaku.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Flying Dragon/SD Suzaku.mp3",
     "hash": "3b9affb6e9eee743e351b631ce4765f1",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-17.49"
+    "lufs": "-17.49",
+    "lastUpdateDate": "2026-10-22T03:20:21.799Z",
+    "composers": [
+      "Akinori Sawa"
+    ]
   },
   {
     "uuid": "98d039f8-af7a-4d90-8c50-b31d586302a3",

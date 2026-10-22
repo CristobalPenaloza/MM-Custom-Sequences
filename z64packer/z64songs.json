@@ -102970,17 +102970,17 @@
       "2",
       "5"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X Corrupted/Pitfall Passage.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Mega Man X Corrupted/Pitfall Passage.mp3",
     "hash": "40b6fb678780394e3f10a509c277d935",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-17.78"
+    "lufs": "-17.78",
+    "lastUpdateDate": "2026-10-22T17:51:09.707Z",
+    "composers": [
+      "Dominic Ninmark"
+    ]
   },
   {
     "uuid": "1a5e94ef-e3fe-47f5-9c26-de8ceee07e7a",

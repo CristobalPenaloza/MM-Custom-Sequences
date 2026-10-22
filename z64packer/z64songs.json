@@ -6088,12 +6088,7 @@
     "game": "Mega Man 10",
     "song": "Desert Commando",
     "composers": [
-      "Ippo Yamada",
-      "Ryo Kawakami",
-      "Yu Shimoda",
-      "Hiroki Isogai",
-      "Manami Matsumae",
-      "Yasuaki Fujita"
+      "Minae Fujii"
     ],
     "converters": [
       "Dark_Evan"
@@ -6104,13 +6099,11 @@
       "1"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Mega Man 10/Desert Commando.mmrs",
     "preview": "https://www.youtube.com/watch?v=Y59wWSahoxo",
     "lufs": "-19.66",
     "hash": "6bf6d199ca5b47d29a2cbac77114d9fb",
-    "isCrossGame": false
+    "lastUpdateDate": "2026-10-22T17:45:21.035Z"
   },
   {
     "uuid": "a7035edb-9b99-4bd8-8b79-e17e6f39c9ff",

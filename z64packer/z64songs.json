@@ -6683,13 +6683,8 @@
     "uuid": "27fffc54-b819-4a2b-88b0-44919a7c420d",
     "creationDate": "2026-03-14T01:34:23.965Z",
     "game": "Mega Man 10",
-    "song": "Solarman Stage",
+    "song": "Solar Inferno",
     "composers": [
-      "Ippo Yamada",
-      "Ryo Kawakami",
-      "Yu Shimoda",
-      "Hiroki Isogai",
-      "Manami Matsumae",
       "Yasuaki Fujita"
     ],
     "converters": [
@@ -6699,14 +6694,11 @@
     "categories": [
       "2"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "file": "Mega Man 10/Solarman Stage.mmrs",
+    "file": "Mega Man 10/Solar Inferno.mmrs",
     "preview": "https://www.youtube.com/watch?v=3vbrJZg5IJ0",
     "lufs": "-20.49",
     "hash": "e5cc67592bd83aabdda79c3f4ee0759e",
-    "isCrossGame": false
+    "lastUpdateDate": "2026-10-22T17:47:16.403Z"
   },
   {
     "uuid": "38c080e5-f150-4165-85ae-7a6e950da132",

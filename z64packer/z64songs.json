@@ -102579,8 +102579,6 @@
       "4"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "isCrossGame": true,
     "file": "Flying Dragon/SD Ryuhi.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Flying Dragon/SD Ryuhi.mp3",
@@ -102588,7 +102586,11 @@
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-15.69"
+    "lufs": "-15.69",
+    "lastUpdateDate": "2026-10-22T03:18:53.944Z",
+    "composers": [
+      "Akinori Sawa"
+    ]
   },
   {
     "uuid": "888f2087-0bd2-4052-a36d-3224a14cd791",

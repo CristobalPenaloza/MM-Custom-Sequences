@@ -24686,7 +24686,7 @@
     "uuid": "3ad3b1f6-d3f6-4eb7-904b-0910f62aa83d",
     "creationDate": "2026-03-25T23:26:26.601Z",
     "game": "Super Mario World",
-    "song": "Goal",
+    "song": "Course Clear",
     "composers": [
       "Koji Kondo"
     ],
@@ -24699,13 +24699,12 @@
       "10"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "file": "Super Mario World/Goal.mmrs",
+    "file": "Super Mario World/Course Clear.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Super Mario World/Goal.mp3",
     "lufs": "-14.72",
     "hash": "21c016a4da6ea6eefae671bd7b60ffbb",
-    "isCrossGame": true
+    "isCrossGame": true,
+    "lastUpdateDate": "2026-10-22T17:22:00.371Z"
   },
   {
     "uuid": "90ad2238-7e83-450f-ab8c-9b61cfc37334",

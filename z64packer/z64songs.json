@@ -103467,16 +103467,17 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Sonic Robo Blast 2 The Mystic Realm/Tempest Valley Zone.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Sonic Robo Blast 2 The Mystic Realm/Tempest Valley Zone.mp3",
     "hash": "c906c37adc5a8b111850e2f379790505",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-13.54"
+    "lufs": "-13.54",
+    "lastUpdateDate": "2026-10-22T17:35:44.488Z",
+    "composers": [
+      "RedXVI"
+    ]
   },
   {
     "uuid": "2a1a7067-21c7-4ef2-a01c-0d2ffb9b224b",

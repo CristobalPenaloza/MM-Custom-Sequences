@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -104409,6 +104409,26 @@
     "usesFormmask": false,
     "isCrossGame": true,
     "hash": "ff0095c01d4c5c9c293ac29ddf0f09b5"
+  },
+  {
+    "uuid": "2071c22c-5a7c-47df-a349-d7503a86b61b",
+    "creationDate": "2026-10-23T12:20:07.895Z",
+    "game": "Xenoblade Chronicles",
+    "song": "Colony 9",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "lufs": "-19.09",
+    "file": "Xenoblade Chronicles/Colony 9.mmrs",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "preview": "Xenoblade Chronicles/Colony 9.mp3"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

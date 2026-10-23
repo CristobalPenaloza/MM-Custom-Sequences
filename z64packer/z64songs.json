@@ -104430,5 +104430,24 @@
     ],
     "preview": "Xenoblade Chronicles/Colony 9.mp3"
   },
+  {
+    "uuid": "d2e357c7-6740-4d8b-9b0f-ca52ac128d11",
+    "creationDate": "2026-10-23T12:23:08.184Z",
+    "game": "Kirby's Adventure",
+    "song": "Nightmare Battle",
+    "composers": [
+      "Jun Ishikawa"
+    ],
+    "converters": [
+      "Unknown"
+    ],
+    "lufs": "-15.91",
+    "file": "Kirby's Adventure/Nightmare Battle.mmrs",
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "preview": "Kirby's Adventure/Nightmare Battle.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

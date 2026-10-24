@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -104409,6 +104409,32 @@
     "usesFormmask": false,
     "isCrossGame": true,
     "hash": "ff0095c01d4c5c9c293ac29ddf0f09b5"
+  },
+  {
+    "uuid": "4c5643a3-82bc-4d85-a4b7-8b2ec45639ca",
+    "creationDate": "2026-10-24T13:34:38.056Z",
+    "game": "Final Fantasy XIV",
+    "song": "Weight of the World (Prelude)",
+    "composers": [
+      "Masayoshi Soken",
+      "Keiichi Okabe"
+    ],
+    "converters": [
+      "MaxPlaysGamesBadly"
+    ],
+    "lufs": "-17.39",
+    "file": "Final Fantasy XIV/Weight of the World (Prelude).mmrs",
+    "type": "bgm",
+    "categories": [
+      "2",
+      "5",
+      "7",
+      "117",
+      "118",
+      "157"
+    ],
+    "usesCustomBank": true,
+    "preview": "Final Fantasy XIV/Weight of the World (Prelude).mp3"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
